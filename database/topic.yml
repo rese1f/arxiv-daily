@@ -1,4 +1,15 @@
-"Embodied Agent": '"Embodied Agent"'
-"Large Language Model": '"Large Language Model"'
-"Video Understanding": '"Video Understanding"'
-"Diffusion Model": '"Diffusion Model"'
+"AI":
+  "Embodied Agent": '"Embodied Agent"'
+  "Large Language Model": '"Large Language Model"'
+  "Autonomous Driving": '"Autonomous Driving"'
+  "Benchmark": '"Benchmark"'
+  "Survey": '"Survey"'
+"CV":
+  "Video Understanding": '"Video Understanding"'
+  "Diffusion Model": '"Diffusion Model"'
+  "Evaluation for Generative Model": '"Evaluation for Generative Model"'
+"ML":
+  "Transformer": '"Transformer"'
+  "Data-centric": '"Data-centric"'
+"CG":
+  "Gaussian Splatting": '"Gaussian Splatting"'
