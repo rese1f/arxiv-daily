@@ -165,7 +165,7 @@ def json_to_md(filename, to_web=False):
             f.write("## Updated on " + DateNow + "\n\n")
 
             f.write(
-                "> Welcome to contribute! Add your topics and keywords in `topic.yml`\n\n")
+                "> I'm trying to power this site with GPTs. \n\n")
 
             for topic in data.keys():
                 f.write("## " + topic + "\n\n")
