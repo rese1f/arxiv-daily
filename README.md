@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-01 21:10:01 Asia/Shanghai
+ Automated deployment @ 2023-12-02 08:58:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,6 +48,74 @@
 |**2023-11-30**|**Bottom-up computation using trees of sublists (Functional Pearl)**|Shin-Cheng Mu et.al.|[2311.18528v1](http://arxiv.org/abs/2311.18528v1)|null|
 
 ## AI
+
+### Benchmark
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
+|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827v1](http://arxiv.org/abs/2311.18827v1)|null|
+|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
+|**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
+|**2023-11-30**|**BIOCLIP: A Vision Foundation Model for the Tree of Life**|Samuel Stevens et.al.|[2311.18803v1](http://arxiv.org/abs/2311.18803v1)|null|
+|**2023-11-30**|**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains**|Rohan Myer Krishnan et.al.|[2311.18773v1](http://arxiv.org/abs/2311.18773v1)|null|
+|**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763v1](http://arxiv.org/abs/2311.18763v1)|null|
+|**2023-11-30**|**TaskBench: Benchmarking Large Language Models for Task Automation**|Yongliang Shen et.al.|[2311.18760v1](http://arxiv.org/abs/2311.18760v1)|[link](https://github.com/microsoft/JARVIS)|
+|**2023-11-30**|**Semi-supervised Semantic Segmentation via Boosting Uncertainty on Unlabeled Data**|Daoan Zhang et.al.|[2311.18758v1](http://arxiv.org/abs/2311.18758v1)|null|
+|**2023-11-30**|**Language Model Agents Suffer from Compositional Generalization in Web Automation**|Hiroki Furuta et.al.|[2311.18751v1](http://arxiv.org/abs/2311.18751v1)|[link](https://github.com/google-research/google-research)|
+|**2023-11-30**|**$\mathbb{Z}_2\times \mathbb{Z}_2$ Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks**|Zhongtian Dong et.al.|[2311.18744v1](http://arxiv.org/abs/2311.18744v1)|[link](https://github.com/zhongtiand/eqnn)|
+|**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v1](http://arxiv.org/abs/2311.18743v1)|[link](https://github.com/thudm/alignbench)|
+|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741v1](http://arxiv.org/abs/2311.18741v1)|null|
+|**2023-11-30**|**Controlgym: Large-Scale Safety-Critical Control Environments for Benchmarking Reinforcement Learning Algorithms**|Xiangyuan Zhang et.al.|[2311.18736v1](http://arxiv.org/abs/2311.18736v1)|[link](https://github.com/xiangyuan-zhang/controlgym)|
+|**2023-11-30**|**Quantum Simulation of an Open System: A Dissipative 1+1D Ising Model**|Erik Gustafson et.al.|[2311.18728v1](http://arxiv.org/abs/2311.18728v1)|null|
+|**2023-11-30**|**Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction**|Cheng Sun et.al.|[2311.18695v1](http://arxiv.org/abs/2311.18695v1)|null|
+|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)|
+|**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664v1](http://arxiv.org/abs/2311.18664v1)|null|
+|**2023-11-30**|**Learning Part Segmentation from Synthetic Animals**|Jiawei Peng et.al.|[2311.18661v1](http://arxiv.org/abs/2311.18661v1)|null|
+|**2023-11-30**|**ArcMMLU: A Library and Information Science Benchmark for Large Language Models**|Shitou Zhang et.al.|[2311.18658v1](http://arxiv.org/abs/2311.18658v1)|[link](https://github.com/stzhang-patrick/arcmmlu)|
+|**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
+|**2023-11-30**|**Quantum dynamics of a fully-blockaded Rydberg atom ensemble**|Dominik S. Wild et.al.|[2311.18616v1](http://arxiv.org/abs/2311.18616v1)|null|
+|**2023-11-30**|**FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity**|Shiyao Cui et.al.|[2311.18580v1](http://arxiv.org/abs/2311.18580v1)|null|
+|**2023-11-30**|**Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**|Yurui Chen et.al.|[2311.18561v1](http://arxiv.org/abs/2311.18561v1)|null|
+|**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553v1](http://arxiv.org/abs/2311.18553v1)|null|
+|**2023-11-30**|**Decentralized Deepfake Detection Network using Blockchain Technology**|Dipankar Sarkar et.al.|[2311.18545v1](http://arxiv.org/abs/2311.18545v1)|null|
+|**2023-11-30**|**RIS-Assisted Generalized Receive Quadrature Spatial Modulation**|Mohamad H. Dinan et.al.|[2311.18542v1](http://arxiv.org/abs/2311.18542v1)|null|
+|**2023-11-30**|**Match me if you can: Semantic Correspondence Learning with Unpaired Images**|Jiwon Kim et.al.|[2311.18540v1](http://arxiv.org/abs/2311.18540v1)|null|
+|**2023-11-30**|**MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation**|Ju He et.al.|[2311.18537v1](http://arxiv.org/abs/2311.18537v1)|null|
+|**2023-11-30**|**Dataset Distillation via the Wasserstein Metric**|Haoyang Liu et.al.|[2311.18531v1](http://arxiv.org/abs/2311.18531v1)|null|
+
+### Large Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**On the maximum black hole mass at solar metallicity**|Amedeo Romagnolo et.al.|[2311.18841v1](http://arxiv.org/abs/2311.18841v1)|null|
+|**2023-11-30**|**Dataset Distillation in Large Data Era**|Zeyuan Yin et.al.|[2311.18838v1](http://arxiv.org/abs/2311.18838v1)|[link](https://github.com/VILA-Lab/SRe2L)|
+|**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
+|**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
+|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|[link](https://github.com/rongyaofang/instructseq)|
+|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
+|**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833v1](http://arxiv.org/abs/2311.18833v1)|null|
+|**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|[link](https://github.com/shinying/dmp)|
+|**2023-11-30**|**Schwinger-Dyson equation on the complex plane -- A four-fermion interaction model at finite temperature**|Hidekazu Tanaka et.al.|[2311.18831v1](http://arxiv.org/abs/2311.18831v1)|null|
+|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|[link](https://github.com/Francis-Rings/MotionEditor)|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
+|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
+|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
+|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
+|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|[link](https://github.com/oscarxzq/weight-selection)|
+|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|[link](https://github.com/moayedhajiali/elasticdiffusion-official)|
+|**2023-11-30**|**Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking**|Kaifeng Lyu et.al.|[2311.18817v1](http://arxiv.org/abs/2311.18817v1)|[link](https://github.com/vfleaking/grokking-dichotomy)|
+|**2023-11-30**|**IMMA: Immunizing text-to-image Models against Malicious Adaptation**|Yijia Zheng et.al.|[2311.18815v1](http://arxiv.org/abs/2311.18815v1)|[link](https://github.com/zhengyjzoe/imma)|
+|**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814v1](http://arxiv.org/abs/2311.18814v1)|[link](https://github.com/bigwangyudong/lqit)|
+|**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812v1](http://arxiv.org/abs/2311.18812v1)|[link](https://github.com/castorini/biasprobe)|
+|**2023-11-30**|**Glauber Phases in Non-Global LHC Observables: Resummation for Gluon-Initiated Processes**|Philipp Böer et.al.|[2311.18811v1](http://arxiv.org/abs/2311.18811v1)|null|
+|**2023-11-30**|**Convergence of Nonconvex PnP-ADMM with MMSE Denoisers**|Chicago Park et.al.|[2311.18810v1](http://arxiv.org/abs/2311.18810v1)|null|
+|**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
+|**2023-11-30**|**Prismatic decompositions and rational $G$-spectra**|Scott Balchin et.al.|[2311.18808v1](http://arxiv.org/abs/2311.18808v1)|null|
+|**2023-11-30**|**Pre-registration for Predictive Modeling**|Jake M. Hofman et.al.|[2311.18807v1](http://arxiv.org/abs/2311.18807v1)|null|
+|**2023-11-30**|**Efficient Baseline for Quantitative Precipitation Forecasting in Weather4cast 2023**|Akshay Punjabi et.al.|[2311.18806v1](http://arxiv.org/abs/2311.18806v1)|null|
+|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
+|**2023-11-30**|**BIOCLIP: A Vision Foundation Model for the Tree of Life**|Samuel Stevens et.al.|[2311.18803v1](http://arxiv.org/abs/2311.18803v1)|null|
 
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
@@ -117,40 +185,6 @@
 |**2023-11-29**|**From Ingham to Nazarov's inequality: a survey on some trigonometric inequalities**|Philippe Jaming et.al.|[2311.17714v1](http://arxiv.org/abs/2311.17714v1)|null|
 |**2023-11-29**|**The ALMA-CRISTAL survey: Widespread dust-obscured star formation in typical star-forming galaxies at z=4-6**|Ikki Mitsuhashi et.al.|[2311.17671v1](http://arxiv.org/abs/2311.17671v1)|null|
 
-### Benchmark
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
-|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827v1](http://arxiv.org/abs/2311.18827v1)|null|
-|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
-|**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
-|**2023-11-30**|**BIOCLIP: A Vision Foundation Model for the Tree of Life**|Samuel Stevens et.al.|[2311.18803v1](http://arxiv.org/abs/2311.18803v1)|null|
-|**2023-11-30**|**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains**|Rohan Myer Krishnan et.al.|[2311.18773v1](http://arxiv.org/abs/2311.18773v1)|null|
-|**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763v1](http://arxiv.org/abs/2311.18763v1)|null|
-|**2023-11-30**|**TaskBench: Benchmarking Large Language Models for Task Automation**|Yongliang Shen et.al.|[2311.18760v1](http://arxiv.org/abs/2311.18760v1)|[link](https://github.com/microsoft/JARVIS)|
-|**2023-11-30**|**Semi-supervised Semantic Segmentation via Boosting Uncertainty on Unlabeled Data**|Daoan Zhang et.al.|[2311.18758v1](http://arxiv.org/abs/2311.18758v1)|null|
-|**2023-11-30**|**Language Model Agents Suffer from Compositional Generalization in Web Automation**|Hiroki Furuta et.al.|[2311.18751v1](http://arxiv.org/abs/2311.18751v1)|[link](https://github.com/google-research/google-research)|
-|**2023-11-30**|**$\mathbb{Z}_2\times \mathbb{Z}_2$ Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks**|Zhongtian Dong et.al.|[2311.18744v1](http://arxiv.org/abs/2311.18744v1)|null|
-|**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v1](http://arxiv.org/abs/2311.18743v1)|[link](https://github.com/thudm/alignbench)|
-|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741v1](http://arxiv.org/abs/2311.18741v1)|null|
-|**2023-11-30**|**Controlgym: Large-Scale Safety-Critical Control Environments for Benchmarking Reinforcement Learning Algorithms**|Xiangyuan Zhang et.al.|[2311.18736v1](http://arxiv.org/abs/2311.18736v1)|[link](https://github.com/xiangyuan-zhang/controlgym)|
-|**2023-11-30**|**Quantum Simulation of an Open System: A Dissipative 1+1D Ising Model**|Erik Gustafson et.al.|[2311.18728v1](http://arxiv.org/abs/2311.18728v1)|null|
-|**2023-11-30**|**Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction**|Cheng Sun et.al.|[2311.18695v1](http://arxiv.org/abs/2311.18695v1)|null|
-|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|null|
-|**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664v1](http://arxiv.org/abs/2311.18664v1)|null|
-|**2023-11-30**|**Learning Part Segmentation from Synthetic Animals**|Jiawei Peng et.al.|[2311.18661v1](http://arxiv.org/abs/2311.18661v1)|null|
-|**2023-11-30**|**ArcMMLU: A Library and Information Science Benchmark for Large Language Models**|Shitou Zhang et.al.|[2311.18658v1](http://arxiv.org/abs/2311.18658v1)|null|
-|**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
-|**2023-11-30**|**Quantum dynamics of a fully-blockaded Rydberg atom ensemble**|Dominik S. Wild et.al.|[2311.18616v1](http://arxiv.org/abs/2311.18616v1)|null|
-|**2023-11-30**|**FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity**|Shiyao Cui et.al.|[2311.18580v1](http://arxiv.org/abs/2311.18580v1)|null|
-|**2023-11-30**|**Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**|Yurui Chen et.al.|[2311.18561v1](http://arxiv.org/abs/2311.18561v1)|null|
-|**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553v1](http://arxiv.org/abs/2311.18553v1)|null|
-|**2023-11-30**|**Decentralized Deepfake Detection Network using Blockchain Technology**|Dipankar Sarkar et.al.|[2311.18545v1](http://arxiv.org/abs/2311.18545v1)|null|
-|**2023-11-30**|**RIS-Assisted Generalized Receive Quadrature Spatial Modulation**|Mohamad H. Dinan et.al.|[2311.18542v1](http://arxiv.org/abs/2311.18542v1)|null|
-|**2023-11-30**|**Match me if you can: Semantic Correspondence Learning with Unpaired Images**|Jiwon Kim et.al.|[2311.18540v1](http://arxiv.org/abs/2311.18540v1)|null|
-|**2023-11-30**|**MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation**|Ju He et.al.|[2311.18537v1](http://arxiv.org/abs/2311.18537v1)|null|
-|**2023-11-30**|**Dataset Distillation via the Wasserstein Metric**|Haoyang Liu et.al.|[2311.18531v1](http://arxiv.org/abs/2311.18531v1)|null|
-
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -185,109 +219,7 @@
 |**2023-11-29**|**Toward a Surgeon-in-the-Loop Ophthalmic Robotic Apprentice using Reinforcement and Imitation Learning**|Amr Gomaa et.al.|[2311.17693v1](http://arxiv.org/abs/2311.17693v1)|null|
 |**2023-11-29**|**mango: A Modular Python-Based Agent Simulation Framework**|Rico Schrage et.al.|[2311.17688v1](http://arxiv.org/abs/2311.17688v1)|null|
 
-### Large Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-30**|**On the maximum black hole mass at solar metallicity**|Amedeo Romagnolo et.al.|[2311.18841v1](http://arxiv.org/abs/2311.18841v1)|null|
-|**2023-11-30**|**Dataset Distillation in Large Data Era**|Zeyuan Yin et.al.|[2311.18838v1](http://arxiv.org/abs/2311.18838v1)|[link](https://github.com/VILA-Lab/SRe2L)|
-|**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
-|**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
-|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
-|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
-|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|[link](https://github.com/rongyaofang/instructseq)|
-|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
-|**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833v1](http://arxiv.org/abs/2311.18833v1)|null|
-|**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|[link](https://github.com/shinying/dmp)|
-|**2023-11-30**|**Schwinger-Dyson equation on the complex plane -- A four-fermion interaction model at finite temperature**|Hidekazu Tanaka et.al.|[2311.18831v1](http://arxiv.org/abs/2311.18831v1)|null|
-|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|[link](https://github.com/Francis-Rings/MotionEditor)|
-|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
-|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
-|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
-|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|[link](https://github.com/oscarxzq/weight-selection)|
-|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|[link](https://github.com/moayedhajiali/elasticdiffusion-official)|
-|**2023-11-30**|**Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking**|Kaifeng Lyu et.al.|[2311.18817v1](http://arxiv.org/abs/2311.18817v1)|[link](https://github.com/vfleaking/grokking-dichotomy)|
-|**2023-11-30**|**IMMA: Immunizing text-to-image Models against Malicious Adaptation**|Yijia Zheng et.al.|[2311.18815v1](http://arxiv.org/abs/2311.18815v1)|[link](https://github.com/zhengyjzoe/imma)|
-|**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814v1](http://arxiv.org/abs/2311.18814v1)|[link](https://github.com/bigwangyudong/lqit)|
-|**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812v1](http://arxiv.org/abs/2311.18812v1)|[link](https://github.com/castorini/biasprobe)|
-|**2023-11-30**|**Glauber Phases in Non-Global LHC Observables: Resummation for Gluon-Initiated Processes**|Philipp Böer et.al.|[2311.18811v1](http://arxiv.org/abs/2311.18811v1)|null|
-|**2023-11-30**|**Convergence of Nonconvex PnP-ADMM with MMSE Denoisers**|Chicago Park et.al.|[2311.18810v1](http://arxiv.org/abs/2311.18810v1)|null|
-|**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
-|**2023-11-30**|**Prismatic decompositions and rational $G$-spectra**|Scott Balchin et.al.|[2311.18808v1](http://arxiv.org/abs/2311.18808v1)|null|
-|**2023-11-30**|**Pre-registration for Predictive Modeling**|Jake M. Hofman et.al.|[2311.18807v1](http://arxiv.org/abs/2311.18807v1)|null|
-|**2023-11-30**|**Efficient Baseline for Quantitative Precipitation Forecasting in Weather4cast 2023**|Akshay Punjabi et.al.|[2311.18806v1](http://arxiv.org/abs/2311.18806v1)|null|
-|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
-|**2023-11-30**|**BIOCLIP: A Vision Foundation Model for the Tree of Life**|Samuel Stevens et.al.|[2311.18803v1](http://arxiv.org/abs/2311.18803v1)|null|
-
 ## CV
-
-### Video Understanding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
-|**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
-|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
-|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
-|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
-|**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833v1](http://arxiv.org/abs/2311.18833v1)|null|
-|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|[link](https://github.com/Francis-Rings/MotionEditor)|
-|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827v1](http://arxiv.org/abs/2311.18827v1)|null|
-|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
-|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
-|**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|[link](https://github.com/artemisp/lavis-xinstructblip)|
-|**2023-11-30**|**Automated interpretation of congenital heart disease from multi-view echocardiograms**|Jing Wang et.al.|[2311.18788v1](http://arxiv.org/abs/2311.18788v1)|null|
-|**2023-11-30**|**Non-equilibrium dynamics of electron emission from cold and hot graphene under proton irradiation**|Yifan Yao et.al.|[2311.18784v1](http://arxiv.org/abs/2311.18784v1)|null|
-|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
-|**2023-11-30**|**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains**|Rohan Myer Krishnan et.al.|[2311.18773v1](http://arxiv.org/abs/2311.18773v1)|null|
-|**2023-11-30**|**Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data**|Yu Deng et.al.|[2311.18729v1](http://arxiv.org/abs/2311.18729v1)|null|
-|**2023-11-30**|**Quantifying metadata-structure relationships in networks using description length**|Lena Mangold et.al.|[2311.18705v1](http://arxiv.org/abs/2311.18705v1)|null|
-|**2023-11-30**|**UV-complete Gauged Anomaly-free U(1) Froggatt-Nielsen Model**|Johan Rathsman et.al.|[2311.18692v1](http://arxiv.org/abs/2311.18692v1)|null|
-|**2023-11-30**|**Facilitating Atom Probe Tomography of 2D MXene Films by In Situ Sputtering**|Mathias Krämer et.al.|[2311.18688v1](http://arxiv.org/abs/2311.18688v1)|null|
-|**2023-11-30**|**Highly efficient and transferable interatomic potentials for α-iron and α-iron/hydrogen binary systems using deep neural networks**|Shihao Zhang et.al.|[2311.18686v1](http://arxiv.org/abs/2311.18686v1)|null|
-|**2023-11-30**|**Mourre theory and asymptotic observables in local relativistic quantum field theory**|Janik Kruse et.al.|[2311.18680v1](http://arxiv.org/abs/2311.18680v1)|null|
-|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|null|
-|**2023-11-30**|**Local Geometry Determines Global Landscape in Low-rank Factorization for Synchronization**|Shuyang Ling et.al.|[2311.18670v1](http://arxiv.org/abs/2311.18670v1)|null|
-|**2023-11-30**|**Action Recognition in Video Recordings from Gynecologic Laparoscopy**|Sahar Nasirihaghighi et.al.|[2311.18666v1](http://arxiv.org/abs/2311.18666v1)|null|
-|**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664v1](http://arxiv.org/abs/2311.18664v1)|null|
-|**2023-11-30**|**Learning Part Segmentation from Synthetic Animals**|Jiawei Peng et.al.|[2311.18661v1](http://arxiv.org/abs/2311.18661v1)|null|
-|**2023-11-30**|**Nanoscale confinement and control of excitonic complexes in a monolayer WSe2**|Hyowon Moon et.al.|[2311.18660v1](http://arxiv.org/abs/2311.18660v1)|null|
-|**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651v1](http://arxiv.org/abs/2311.18651v1)|[link](https://github.com/open3da/ll3da)|
-|**2023-11-30**|**DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars**|Tobias Kirschstein et.al.|[2311.18635v1](http://arxiv.org/abs/2311.18635v1)|null|
-
-### Diffusion Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-30**|**On the maximum black hole mass at solar metallicity**|Amedeo Romagnolo et.al.|[2311.18841v1](http://arxiv.org/abs/2311.18841v1)|null|
-|**2023-11-30**|**Dataset Distillation in Large Data Era**|Zeyuan Yin et.al.|[2311.18838v1](http://arxiv.org/abs/2311.18838v1)|[link](https://github.com/VILA-Lab/SRe2L)|
-|**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
-|**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
-|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
-|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
-|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|[link](https://github.com/rongyaofang/instructseq)|
-|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
-|**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|[link](https://github.com/shinying/dmp)|
-|**2023-11-30**|**Schwinger-Dyson equation on the complex plane -- A four-fermion interaction model at finite temperature**|Hidekazu Tanaka et.al.|[2311.18831v1](http://arxiv.org/abs/2311.18831v1)|null|
-|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|[link](https://github.com/Francis-Rings/MotionEditor)|
-|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
-|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
-|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
-|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|[link](https://github.com/oscarxzq/weight-selection)|
-|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|[link](https://github.com/moayedhajiali/elasticdiffusion-official)|
-|**2023-11-30**|**IMMA: Immunizing text-to-image Models against Malicious Adaptation**|Yijia Zheng et.al.|[2311.18815v1](http://arxiv.org/abs/2311.18815v1)|[link](https://github.com/zhengyjzoe/imma)|
-|**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814v1](http://arxiv.org/abs/2311.18814v1)|[link](https://github.com/bigwangyudong/lqit)|
-|**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812v1](http://arxiv.org/abs/2311.18812v1)|[link](https://github.com/castorini/biasprobe)|
-|**2023-11-30**|**Convergence of Nonconvex PnP-ADMM with MMSE Denoisers**|Chicago Park et.al.|[2311.18810v1](http://arxiv.org/abs/2311.18810v1)|null|
-|**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
-|**2023-11-30**|**Prismatic decompositions and rational $G$-spectra**|Scott Balchin et.al.|[2311.18808v1](http://arxiv.org/abs/2311.18808v1)|null|
-|**2023-11-30**|**Pre-registration for Predictive Modeling**|Jake M. Hofman et.al.|[2311.18807v1](http://arxiv.org/abs/2311.18807v1)|null|
-|**2023-11-30**|**Efficient Baseline for Quantitative Precipitation Forecasting in Weather4cast 2023**|Akshay Punjabi et.al.|[2311.18806v1](http://arxiv.org/abs/2311.18806v1)|null|
-|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
-|**2023-11-30**|**BIOCLIP: A Vision Foundation Model for the Tree of Life**|Samuel Stevens et.al.|[2311.18803v1](http://arxiv.org/abs/2311.18803v1)|null|
-|**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801v1](http://arxiv.org/abs/2311.18801v1)|null|
-|**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|[link](https://github.com/artemisp/lavis-xinstructblip)|
-|**2023-11-30**|**Electrobaryonic axion: hair of neutron stars**|Yang Bai et.al.|[2311.18794v1](http://arxiv.org/abs/2311.18794v1)|null|
 
 ### Evaluation for Generative Model
 |Publish Date|Title|Authors|PDF|Code|
@@ -322,6 +254,74 @@
 |**2023-11-30**|**Optimal switching strategies for navigation in stochastic settings**|F. Mori et.al.|[2311.18813v1](http://arxiv.org/abs/2311.18813v1)|null|
 |**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812v1](http://arxiv.org/abs/2311.18812v1)|[link](https://github.com/castorini/biasprobe)|
 |**2023-11-30**|**Glauber Phases in Non-Global LHC Observables: Resummation for Gluon-Initiated Processes**|Philipp Böer et.al.|[2311.18811v1](http://arxiv.org/abs/2311.18811v1)|null|
+
+### Diffusion Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**On the maximum black hole mass at solar metallicity**|Amedeo Romagnolo et.al.|[2311.18841v1](http://arxiv.org/abs/2311.18841v1)|null|
+|**2023-11-30**|**Dataset Distillation in Large Data Era**|Zeyuan Yin et.al.|[2311.18838v1](http://arxiv.org/abs/2311.18838v1)|[link](https://github.com/VILA-Lab/SRe2L)|
+|**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
+|**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
+|**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|[link](https://github.com/rongyaofang/instructseq)|
+|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
+|**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|[link](https://github.com/shinying/dmp)|
+|**2023-11-30**|**Schwinger-Dyson equation on the complex plane -- A four-fermion interaction model at finite temperature**|Hidekazu Tanaka et.al.|[2311.18831v1](http://arxiv.org/abs/2311.18831v1)|null|
+|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|[link](https://github.com/Francis-Rings/MotionEditor)|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
+|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
+|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
+|**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
+|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|[link](https://github.com/oscarxzq/weight-selection)|
+|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|[link](https://github.com/moayedhajiali/elasticdiffusion-official)|
+|**2023-11-30**|**IMMA: Immunizing text-to-image Models against Malicious Adaptation**|Yijia Zheng et.al.|[2311.18815v1](http://arxiv.org/abs/2311.18815v1)|[link](https://github.com/zhengyjzoe/imma)|
+|**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814v1](http://arxiv.org/abs/2311.18814v1)|[link](https://github.com/bigwangyudong/lqit)|
+|**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812v1](http://arxiv.org/abs/2311.18812v1)|[link](https://github.com/castorini/biasprobe)|
+|**2023-11-30**|**Convergence of Nonconvex PnP-ADMM with MMSE Denoisers**|Chicago Park et.al.|[2311.18810v1](http://arxiv.org/abs/2311.18810v1)|null|
+|**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
+|**2023-11-30**|**Prismatic decompositions and rational $G$-spectra**|Scott Balchin et.al.|[2311.18808v1](http://arxiv.org/abs/2311.18808v1)|null|
+|**2023-11-30**|**Pre-registration for Predictive Modeling**|Jake M. Hofman et.al.|[2311.18807v1](http://arxiv.org/abs/2311.18807v1)|null|
+|**2023-11-30**|**Efficient Baseline for Quantitative Precipitation Forecasting in Weather4cast 2023**|Akshay Punjabi et.al.|[2311.18806v1](http://arxiv.org/abs/2311.18806v1)|null|
+|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
+|**2023-11-30**|**BIOCLIP: A Vision Foundation Model for the Tree of Life**|Samuel Stevens et.al.|[2311.18803v1](http://arxiv.org/abs/2311.18803v1)|null|
+|**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801v1](http://arxiv.org/abs/2311.18801v1)|[link](https://github.com/borglab/gtsfm)|
+|**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|[link](https://github.com/artemisp/lavis-xinstructblip)|
+|**2023-11-30**|**Electrobaryonic axion: hair of neutron stars**|Yang Bai et.al.|[2311.18794v1](http://arxiv.org/abs/2311.18794v1)|null|
+
+### Video Understanding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
+|**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
+|**2023-11-30**|**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
+|**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833v1](http://arxiv.org/abs/2311.18833v1)|null|
+|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|[link](https://github.com/Francis-Rings/MotionEditor)|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
+|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827v1](http://arxiv.org/abs/2311.18827v1)|null|
+|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|[link](https://github.com/khu-vll/cast)|
+|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
+|**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|[link](https://github.com/artemisp/lavis-xinstructblip)|
+|**2023-11-30**|**Automated interpretation of congenital heart disease from multi-view echocardiograms**|Jing Wang et.al.|[2311.18788v1](http://arxiv.org/abs/2311.18788v1)|null|
+|**2023-11-30**|**Non-equilibrium dynamics of electron emission from cold and hot graphene under proton irradiation**|Yifan Yao et.al.|[2311.18784v1](http://arxiv.org/abs/2311.18784v1)|null|
+|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
+|**2023-11-30**|**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains**|Rohan Myer Krishnan et.al.|[2311.18773v1](http://arxiv.org/abs/2311.18773v1)|null|
+|**2023-11-30**|**Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data**|Yu Deng et.al.|[2311.18729v1](http://arxiv.org/abs/2311.18729v1)|null|
+|**2023-11-30**|**Quantifying metadata-structure relationships in networks using description length**|Lena Mangold et.al.|[2311.18705v1](http://arxiv.org/abs/2311.18705v1)|null|
+|**2023-11-30**|**UV-complete Gauged Anomaly-free U(1) Froggatt-Nielsen Model**|Johan Rathsman et.al.|[2311.18692v1](http://arxiv.org/abs/2311.18692v1)|null|
+|**2023-11-30**|**Facilitating Atom Probe Tomography of 2D MXene Films by In Situ Sputtering**|Mathias Krämer et.al.|[2311.18688v1](http://arxiv.org/abs/2311.18688v1)|null|
+|**2023-11-30**|**Highly efficient and transferable interatomic potentials for α-iron and α-iron/hydrogen binary systems using deep neural networks**|Shihao Zhang et.al.|[2311.18686v1](http://arxiv.org/abs/2311.18686v1)|null|
+|**2023-11-30**|**Mourre theory and asymptotic observables in local relativistic quantum field theory**|Janik Kruse et.al.|[2311.18680v1](http://arxiv.org/abs/2311.18680v1)|null|
+|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672v1](http://arxiv.org/abs/2311.18672v1)|[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)|
+|**2023-11-30**|**Local Geometry Determines Global Landscape in Low-rank Factorization for Synchronization**|Shuyang Ling et.al.|[2311.18670v1](http://arxiv.org/abs/2311.18670v1)|null|
+|**2023-11-30**|**Action Recognition in Video Recordings from Gynecologic Laparoscopy**|Sahar Nasirihaghighi et.al.|[2311.18666v1](http://arxiv.org/abs/2311.18666v1)|null|
+|**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664v1](http://arxiv.org/abs/2311.18664v1)|null|
+|**2023-11-30**|**Learning Part Segmentation from Synthetic Animals**|Jiawei Peng et.al.|[2311.18661v1](http://arxiv.org/abs/2311.18661v1)|null|
+|**2023-11-30**|**Nanoscale confinement and control of excitonic complexes in a monolayer WSe2**|Hyowon Moon et.al.|[2311.18660v1](http://arxiv.org/abs/2311.18660v1)|null|
+|**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651v1](http://arxiv.org/abs/2311.18651v1)|[link](https://github.com/open3da/ll3da)|
+|**2023-11-30**|**DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars**|Tobias Kirschstein et.al.|[2311.18635v1](http://arxiv.org/abs/2311.18635v1)|null|
 
 ## CG
 
