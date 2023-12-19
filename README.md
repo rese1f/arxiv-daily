@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-19 20:25:54 Asia/Shanghai
+ Automated deployment @ 2023-12-19 20:50:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -117,6 +117,40 @@
 |**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561v1](http://arxiv.org/abs/2312.10561v1)|null|
 |**2023-12-16**|**Deep Similarity Learning Loss Functions in Data Transformation for Class Imbalance**|Damian Horna et.al.|[2312.10556v1](http://arxiv.org/abs/2312.10556v1)|null|
 
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-18**|**From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape**|Timothy R. McIntosh et.al.|[2312.10868v1](http://arxiv.org/abs/2312.10868v1)|null|
+|**2023-12-17**|**Weighted Automata and Logics Meet Computational Complexity**|Peter Kostolányi et.al.|[2312.10810v1](http://arxiv.org/abs/2312.10810v1)|null|
+|**2023-12-17**|**Language-conditioned Learning for Robotic Manipulation: A Survey**|Hongkuan Zhou et.al.|[2312.10807v1](http://arxiv.org/abs/2312.10807v1)|null|
+|**2023-12-17**|**Probing the galactic and extragalactic gravitational wave backgrounds with space-based interferometers**|Giorgio Mentasti et.al.|[2312.10792v1](http://arxiv.org/abs/2312.10792v1)|null|
+|**2023-12-17**|**Visualization and Assessment of Copula Symmetry**|Cristian F. Jimenez-Varon et.al.|[2312.10675v1](http://arxiv.org/abs/2312.10675v1)|null|
+|**2023-12-17**|**Flat bands, strange metals, and the Kondo effect**|Joseph G. Checkelsky et.al.|[2312.10659v1](http://arxiv.org/abs/2312.10659v1)|null|
+|**2023-12-17**|**A multiwavelength study of spiral structure in galaxies. II. Spiral arms in deep optical observations**|Aleksandr V. Mosenkov et.al.|[2312.10630v1](http://arxiv.org/abs/2312.10630v1)|null|
+|**2023-12-17**|**A Survey on Query-based API Recommendation**|Moshi Wei et.al.|[2312.10623v1](http://arxiv.org/abs/2312.10623v1)|null|
+|**2023-12-17**|**Evaluating AI Vocational Skills Through Professional Testing**|David Noever et.al.|[2312.10603v1](http://arxiv.org/abs/2312.10603v1)|null|
+|**2023-12-17**|**Galaxy cluster optical mass proxies from probabilistic memberships**|Lia Doubrawa et.al.|[2312.10564v1](http://arxiv.org/abs/2312.10564v1)|null|
+|**2023-12-16**|**Catastrophic Forgetting in Deep Learning: A Comprehensive Taxonomy**|Everton L. Aleixo et.al.|[2312.10549v1](http://arxiv.org/abs/2312.10549v1)|null|
+|**2023-12-16**|**fkPT: Constraining scale-dependent modified gravity with the full-shape galaxy power spectrum**|Mario A. Rodriguez-Meza et.al.|[2312.10510v1](http://arxiv.org/abs/2312.10510v1)|null|
+|**2023-12-16**|**The Evolution of Keylogger Technologies: A Survey from Historical Origins to Emerging Opportunities**|Marco Salas-Nino et.al.|[2312.10445v1](http://arxiv.org/abs/2312.10445v1)|null|
+|**2023-12-16**|**A Survey on Post-Quantum Cryptography: State-of-the-Art and Challenges**|Marel Alvarado et.al.|[2312.10430v1](http://arxiv.org/abs/2312.10430v1)|null|
+|**2023-12-16**|**A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers**|Feida Gu et.al.|[2312.10419v1](http://arxiv.org/abs/2312.10419v1)|null|
+|**2023-12-16**|**On simplicity of Cuntz algebra and its generalizations**|Massoud Amini et.al.|[2312.10362v1](http://arxiv.org/abs/2312.10362v1)|null|
+|**2023-12-15**|**Multi-agent Reinforcement Learning: A Comprehensive Survey**|Dom Huh et.al.|[2312.10256v1](http://arxiv.org/abs/2312.10256v1)|null|
+|**2023-12-15**|**A Survey of Classical And Quantum Sequence Models**|I-Chi Chen et.al.|[2312.10242v1](http://arxiv.org/abs/2312.10242v1)|[link](https://github.com/qampspring2023/qgpt-issue-31)|
+|**2023-12-15**|**Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey**|Xu Liu et.al.|[2312.10163v1](http://arxiv.org/abs/2312.10163v1)|null|
+|**2023-12-15**|**CEERS: Increasing Scatter along the Star-Forming Main Sequence Indicates Early Galaxies Form in Bursts**|Justin W. Cole et.al.|[2312.10152v1](http://arxiv.org/abs/2312.10152v1)|null|
+|**2023-12-15**|**Star Formation and Dust in the Cosmic Web**|Massimiliano Parente et.al.|[2312.10146v1](http://arxiv.org/abs/2312.10146v1)|null|
+|**2023-12-15**|**Charting Circumstellar Chemistry of Carbon-rich AGB Stars: I. ALMA 3 mm spectral surveys**|R. Unnikrishnan et.al.|[2312.10014v1](http://arxiv.org/abs/2312.10014v1)|null|
+|**2023-12-15**|**The Next Generation Deep Extragalactic Exploratory Public Near-Infrared Slitless Survey Epoch 1 (NGDEEP-NISS1): Extra-Galactic Star-formation and Active Galactic Nuclei at 0.5 < z < 3.6**|Nor Pirzkal et.al.|[2312.09972v1](http://arxiv.org/abs/2312.09972v1)|null|
+|**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948v1](http://arxiv.org/abs/2312.09948v1)|null|
+|**2023-12-15**|**ChemTime: Rapid and Early Classification for Multivariate Time Series Classification of Chemical Sensors**|Alexander M. Moore et.al.|[2312.09871v1](http://arxiv.org/abs/2312.09871v1)|null|
+|**2023-12-15**|**The algebra of splines: duality, group actions and homology**|Martina Lanini et.al.|[2312.09829v1](http://arxiv.org/abs/2312.09829v1)|null|
+|**2023-12-15**|**Surveying the Whirlpool at Arcseconds with NOEMA (SWAN)- I. Mapping the HCN and N$_2$H$^+$ 3mm lines**|Sophia K. Stuber et.al.|[2312.09810v1](http://arxiv.org/abs/2312.09810v1)|null|
+|**2023-12-15**|**The VISCACHA survey -- IX. The SMC Southern Bridge in 8D**|M. C. Parisi et.al.|[2312.09756v1](http://arxiv.org/abs/2312.09756v1)|null|
+|**2023-12-15**|**Dark Energy Survey Deep Field photometric redshift performance and training incompleteness assessment**|L. Toribio San Cipriano et.al.|[2312.09721v1](http://arxiv.org/abs/2312.09721v1)|null|
+|**2023-12-15**|**Improved models for near-Earth asteroids (2100) Ra-Shalom, (3103) Eger, (12711) Tukmit & (161989) Cacus**|Javier Rodríguez Rodríguez et.al.|[2312.09696v1](http://arxiv.org/abs/2312.09696v1)|null|
+
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -184,40 +218,6 @@
 |**2023-12-17**|**Validation of Rigorous Requirements Specifications and Document Automation with the ITLingo RSL Language**|Andre Rodrigues et.al.|[2312.10822v1](http://arxiv.org/abs/2312.10822v1)|null|
 |**2023-12-17**|**A mechanistic model of gossip, reputations, and cooperation**|Mari Kawakatsu et.al.|[2312.10821v1](http://arxiv.org/abs/2312.10821v1)|null|
 |**2023-12-17**|**Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War**|Hannah Kerner et.al.|[2312.10819v1](http://arxiv.org/abs/2312.10819v1)|null|
-
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-18**|**From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape**|Timothy R. McIntosh et.al.|[2312.10868v1](http://arxiv.org/abs/2312.10868v1)|null|
-|**2023-12-17**|**Weighted Automata and Logics Meet Computational Complexity**|Peter Kostolányi et.al.|[2312.10810v1](http://arxiv.org/abs/2312.10810v1)|null|
-|**2023-12-17**|**Language-conditioned Learning for Robotic Manipulation: A Survey**|Hongkuan Zhou et.al.|[2312.10807v1](http://arxiv.org/abs/2312.10807v1)|null|
-|**2023-12-17**|**Probing the galactic and extragalactic gravitational wave backgrounds with space-based interferometers**|Giorgio Mentasti et.al.|[2312.10792v1](http://arxiv.org/abs/2312.10792v1)|null|
-|**2023-12-17**|**Visualization and Assessment of Copula Symmetry**|Cristian F. Jimenez-Varon et.al.|[2312.10675v1](http://arxiv.org/abs/2312.10675v1)|null|
-|**2023-12-17**|**Flat bands, strange metals, and the Kondo effect**|Joseph G. Checkelsky et.al.|[2312.10659v1](http://arxiv.org/abs/2312.10659v1)|null|
-|**2023-12-17**|**A multiwavelength study of spiral structure in galaxies. II. Spiral arms in deep optical observations**|Aleksandr V. Mosenkov et.al.|[2312.10630v1](http://arxiv.org/abs/2312.10630v1)|null|
-|**2023-12-17**|**A Survey on Query-based API Recommendation**|Moshi Wei et.al.|[2312.10623v1](http://arxiv.org/abs/2312.10623v1)|null|
-|**2023-12-17**|**Evaluating AI Vocational Skills Through Professional Testing**|David Noever et.al.|[2312.10603v1](http://arxiv.org/abs/2312.10603v1)|null|
-|**2023-12-17**|**Galaxy cluster optical mass proxies from probabilistic memberships**|Lia Doubrawa et.al.|[2312.10564v1](http://arxiv.org/abs/2312.10564v1)|null|
-|**2023-12-16**|**Catastrophic Forgetting in Deep Learning: A Comprehensive Taxonomy**|Everton L. Aleixo et.al.|[2312.10549v1](http://arxiv.org/abs/2312.10549v1)|null|
-|**2023-12-16**|**fkPT: Constraining scale-dependent modified gravity with the full-shape galaxy power spectrum**|Mario A. Rodriguez-Meza et.al.|[2312.10510v1](http://arxiv.org/abs/2312.10510v1)|null|
-|**2023-12-16**|**The Evolution of Keylogger Technologies: A Survey from Historical Origins to Emerging Opportunities**|Marco Salas-Nino et.al.|[2312.10445v1](http://arxiv.org/abs/2312.10445v1)|null|
-|**2023-12-16**|**A Survey on Post-Quantum Cryptography: State-of-the-Art and Challenges**|Marel Alvarado et.al.|[2312.10430v1](http://arxiv.org/abs/2312.10430v1)|null|
-|**2023-12-16**|**A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers**|Feida Gu et.al.|[2312.10419v1](http://arxiv.org/abs/2312.10419v1)|null|
-|**2023-12-16**|**On simplicity of Cuntz algebra and its generalizations**|Massoud Amini et.al.|[2312.10362v1](http://arxiv.org/abs/2312.10362v1)|null|
-|**2023-12-15**|**Multi-agent Reinforcement Learning: A Comprehensive Survey**|Dom Huh et.al.|[2312.10256v1](http://arxiv.org/abs/2312.10256v1)|null|
-|**2023-12-15**|**A Survey of Classical And Quantum Sequence Models**|I-Chi Chen et.al.|[2312.10242v1](http://arxiv.org/abs/2312.10242v1)|[link](https://github.com/qampspring2023/qgpt-issue-31)|
-|**2023-12-15**|**Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey**|Xu Liu et.al.|[2312.10163v1](http://arxiv.org/abs/2312.10163v1)|null|
-|**2023-12-15**|**CEERS: Increasing Scatter along the Star-Forming Main Sequence Indicates Early Galaxies Form in Bursts**|Justin W. Cole et.al.|[2312.10152v1](http://arxiv.org/abs/2312.10152v1)|null|
-|**2023-12-15**|**Star Formation and Dust in the Cosmic Web**|Massimiliano Parente et.al.|[2312.10146v1](http://arxiv.org/abs/2312.10146v1)|null|
-|**2023-12-15**|**Charting Circumstellar Chemistry of Carbon-rich AGB Stars: I. ALMA 3 mm spectral surveys**|R. Unnikrishnan et.al.|[2312.10014v1](http://arxiv.org/abs/2312.10014v1)|null|
-|**2023-12-15**|**The Next Generation Deep Extragalactic Exploratory Public Near-Infrared Slitless Survey Epoch 1 (NGDEEP-NISS1): Extra-Galactic Star-formation and Active Galactic Nuclei at 0.5 < z < 3.6**|Nor Pirzkal et.al.|[2312.09972v1](http://arxiv.org/abs/2312.09972v1)|null|
-|**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948v1](http://arxiv.org/abs/2312.09948v1)|null|
-|**2023-12-15**|**ChemTime: Rapid and Early Classification for Multivariate Time Series Classification of Chemical Sensors**|Alexander M. Moore et.al.|[2312.09871v1](http://arxiv.org/abs/2312.09871v1)|null|
-|**2023-12-15**|**The algebra of splines: duality, group actions and homology**|Martina Lanini et.al.|[2312.09829v1](http://arxiv.org/abs/2312.09829v1)|null|
-|**2023-12-15**|**Surveying the Whirlpool at Arcseconds with NOEMA (SWAN)- I. Mapping the HCN and N$_2$H$^+$ 3mm lines**|Sophia K. Stuber et.al.|[2312.09810v1](http://arxiv.org/abs/2312.09810v1)|null|
-|**2023-12-15**|**The VISCACHA survey -- IX. The SMC Southern Bridge in 8D**|M. C. Parisi et.al.|[2312.09756v1](http://arxiv.org/abs/2312.09756v1)|null|
-|**2023-12-15**|**Dark Energy Survey Deep Field photometric redshift performance and training incompleteness assessment**|L. Toribio San Cipriano et.al.|[2312.09721v1](http://arxiv.org/abs/2312.09721v1)|null|
-|**2023-12-15**|**Improved models for near-Earth asteroids (2100) Ra-Shalom, (3103) Eger, (12711) Tukmit & (161989) Cacus**|Javier Rodríguez Rodríguez et.al.|[2312.09696v1](http://arxiv.org/abs/2312.09696v1)|null|
 
 ## CG
 
