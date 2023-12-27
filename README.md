@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-27 20:24:15 Asia/Shanghai
+ Automated deployment @ 2023-12-27 20:47:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -82,6 +82,40 @@
 |**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665v1](http://arxiv.org/abs/2312.15665v1)|[link](https://github.com/wyky481l/mmcd)|
 |**2023-12-25**|**Context-aware Communication for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2312.15600v1](http://arxiv.org/abs/2312.15600v1)|null|
 |**2023-12-24**|**ConcaveQ: Non-Monotonic Value Function Factorization via Concave Representations in Deep Multi-Agent Reinforcement Learning**|Huiqun Li et.al.|[2312.15555v1](http://arxiv.org/abs/2312.15555v1)|null|
+
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-26**|**Quantum squeezing in a nonlinear mechanical oscillator**|Stefano Marti et.al.|[2312.16169v1](http://arxiv.org/abs/2312.16169v1)|null|
+|**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|[link](https://github.com/vita-epfl/social-transmotion)|
+|**2023-12-26**|**Far-field Petahertz Sampling of Plasmonic Fields**|Kai-Fu Wong et.al.|[2312.16121v1](http://arxiv.org/abs/2312.16121v1)|null|
+|**2023-12-26**|**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**|Tianyu Li et.al.|[2312.16108v1](http://arxiv.org/abs/2312.16108v1)|[link](https://github.com/OpenDriveLab/LaneSegNet)|
+|**2023-12-26**|**V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation**|Sanghun Jung et.al.|[2312.16016v1](http://arxiv.org/abs/2312.16016v1)|null|
+|**2023-12-26**|**Four-dimensional Floquet topological insulator with an emergent second Chern number**|Zheng-Rong Liu et.al.|[2312.16013v1](http://arxiv.org/abs/2312.16013v1)|null|
+|**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[2312.15993v1](http://arxiv.org/abs/2312.15993v1)|null|
+|**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v1](http://arxiv.org/abs/2312.15977v1)|null|
+|**2023-12-26**|**Discovery of acousto-drag photovoltaic effect**|Jiaming Gu et.al.|[2312.15939v1](http://arxiv.org/abs/2312.15939v1)|null|
+|**2023-12-26**|**Control in finite and infinite dimension**|Emmanuel Trélat et.al.|[2312.15925v1](http://arxiv.org/abs/2312.15925v1)|null|
+|**2023-12-26**|**Improving One-Shot Transmission in NR Sidelink Resource Allocation for V2X Communication**|Hojeong Lee et.al.|[2312.15914v1](http://arxiv.org/abs/2312.15914v1)|null|
+|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906v1](http://arxiv.org/abs/2312.15906v1)|null|
+|**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[2312.15881v1](http://arxiv.org/abs/2312.15881v1)|null|
+|**2023-12-26**|**PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**|Hangyu Mao et.al.|[2312.15863v1](http://arxiv.org/abs/2312.15863v1)|[link](https://github.com/maohangyu/pdit)|
+|**2023-12-26**|**Hairpin Motors for Electromobility: Twists and Bends of a Technological Breakthrough that Initially Arrived A Century Too Soon**|Stefan M. Goetz et.al.|[2312.15830v1](http://arxiv.org/abs/2312.15830v1)|null|
+|**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817v1](http://arxiv.org/abs/2312.15817v1)|[link](https://github.com/hamedhaghighi/cls2r)|
+|**2023-12-25**|**Universal Control in Bosonic Systems with Weak Kerr Nonlinearities**|Ming Yuan et.al.|[2312.15783v1](http://arxiv.org/abs/2312.15783v1)|null|
+|**2023-12-25**|**Electro-optic frequency comb-enabled precise distance measurement with megahertz acquisition rate**|Yifan Qi et.al.|[2312.15743v1](http://arxiv.org/abs/2312.15743v1)|null|
+|**2023-12-25**|**Deep Reinforcement Learning for Quantitative Trading**|Maochun Xu et.al.|[2312.15730v1](http://arxiv.org/abs/2312.15730v1)|null|
+|**2023-12-25**|**UAV Trajectory Tracking via RNN-enhanced IMM-KF with ADS-B Data**|Yian Zhu et.al.|[2312.15721v1](http://arxiv.org/abs/2312.15721v1)|null|
+|**2023-12-25**|**Tailoring coherent microwave emission from a solid-state hybrid system for room-temperature microwave quantum electronics**|Kaipu Wang et.al.|[2312.15620v1](http://arxiv.org/abs/2312.15620v1)|null|
+|**2023-12-25**|**Context-aware Communication for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2312.15600v1](http://arxiv.org/abs/2312.15600v1)|null|
+|**2023-12-25**|**A Survey on Open-Set Image Recognition**|Jiayin Sun et.al.|[2312.15571v1](http://arxiv.org/abs/2312.15571v1)|null|
+|**2023-12-25**|**Entangling two Dicke states in a periodic modulated quantum system**|Wuji Zhang et.al.|[2312.15568v1](http://arxiv.org/abs/2312.15568v1)|null|
+|**2023-12-24**|**Inverse Measurements in Active Nematics**|Aleix Boquet-Pujadas et.al.|[2312.15553v1](http://arxiv.org/abs/2312.15553v1)|null|
+|**2023-12-24**|**DPA-2: Towards a universal large atomic model for molecular and material simulation**|Duo Zhang et.al.|[2312.15492v1](http://arxiv.org/abs/2312.15492v1)|null|
+|**2023-12-24**|**Optimizing the low-latency localization of gravitational waves**|Pierre-Alexandre Duverne et.al.|[2312.15457v1](http://arxiv.org/abs/2312.15457v1)|null|
+|**2023-12-24**|**Internal dissipation in the tennis racket effect**|J. A. de la Torre et.al.|[2312.15448v1](http://arxiv.org/abs/2312.15448v1)|null|
+|**2023-12-24**|**A resolution study on corrugation mode wavelengths of vertical shear instability**|Yixuan Dang et.al.|[2312.15414v1](http://arxiv.org/abs/2312.15414v1)|null|
+|**2023-12-24**|**End-to-End 3D Object Detection using LiDAR Point Cloud**|Gaurav Raut et.al.|[2312.15377v1](http://arxiv.org/abs/2312.15377v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
@@ -184,40 +218,6 @@
 |**2023-12-25**|**A Sequential Detection and Tracking of Very Low SNR Objects**|Reza Rezaie et.al.|[2312.15823v1](http://arxiv.org/abs/2312.15823v1)|null|
 |**2023-12-25**|**Audiobox: Unified Audio Generation with Natural Language Prompts**|Apoorv Vyas et.al.|[2312.15821v1](http://arxiv.org/abs/2312.15821v1)|null|
 |**2023-12-25**|**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**|Siheng Xiong et.al.|[2312.15816v1](http://arxiv.org/abs/2312.15816v1)|null|
-
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-26**|**Quantum squeezing in a nonlinear mechanical oscillator**|Stefano Marti et.al.|[2312.16169v1](http://arxiv.org/abs/2312.16169v1)|null|
-|**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|[link](https://github.com/vita-epfl/social-transmotion)|
-|**2023-12-26**|**Far-field Petahertz Sampling of Plasmonic Fields**|Kai-Fu Wong et.al.|[2312.16121v1](http://arxiv.org/abs/2312.16121v1)|null|
-|**2023-12-26**|**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**|Tianyu Li et.al.|[2312.16108v1](http://arxiv.org/abs/2312.16108v1)|[link](https://github.com/OpenDriveLab/LaneSegNet)|
-|**2023-12-26**|**V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation**|Sanghun Jung et.al.|[2312.16016v1](http://arxiv.org/abs/2312.16016v1)|null|
-|**2023-12-26**|**Four-dimensional Floquet topological insulator with an emergent second Chern number**|Zheng-Rong Liu et.al.|[2312.16013v1](http://arxiv.org/abs/2312.16013v1)|null|
-|**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[2312.15993v1](http://arxiv.org/abs/2312.15993v1)|null|
-|**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v1](http://arxiv.org/abs/2312.15977v1)|null|
-|**2023-12-26**|**Discovery of acousto-drag photovoltaic effect**|Jiaming Gu et.al.|[2312.15939v1](http://arxiv.org/abs/2312.15939v1)|null|
-|**2023-12-26**|**Control in finite and infinite dimension**|Emmanuel Trélat et.al.|[2312.15925v1](http://arxiv.org/abs/2312.15925v1)|null|
-|**2023-12-26**|**Improving One-Shot Transmission in NR Sidelink Resource Allocation for V2X Communication**|Hojeong Lee et.al.|[2312.15914v1](http://arxiv.org/abs/2312.15914v1)|null|
-|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906v1](http://arxiv.org/abs/2312.15906v1)|null|
-|**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[2312.15881v1](http://arxiv.org/abs/2312.15881v1)|null|
-|**2023-12-26**|**PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**|Hangyu Mao et.al.|[2312.15863v1](http://arxiv.org/abs/2312.15863v1)|[link](https://github.com/maohangyu/pdit)|
-|**2023-12-26**|**Hairpin Motors for Electromobility: Twists and Bends of a Technological Breakthrough that Initially Arrived A Century Too Soon**|Stefan M. Goetz et.al.|[2312.15830v1](http://arxiv.org/abs/2312.15830v1)|null|
-|**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817v1](http://arxiv.org/abs/2312.15817v1)|[link](https://github.com/hamedhaghighi/cls2r)|
-|**2023-12-25**|**Universal Control in Bosonic Systems with Weak Kerr Nonlinearities**|Ming Yuan et.al.|[2312.15783v1](http://arxiv.org/abs/2312.15783v1)|null|
-|**2023-12-25**|**Electro-optic frequency comb-enabled precise distance measurement with megahertz acquisition rate**|Yifan Qi et.al.|[2312.15743v1](http://arxiv.org/abs/2312.15743v1)|null|
-|**2023-12-25**|**Deep Reinforcement Learning for Quantitative Trading**|Maochun Xu et.al.|[2312.15730v1](http://arxiv.org/abs/2312.15730v1)|null|
-|**2023-12-25**|**UAV Trajectory Tracking via RNN-enhanced IMM-KF with ADS-B Data**|Yian Zhu et.al.|[2312.15721v1](http://arxiv.org/abs/2312.15721v1)|null|
-|**2023-12-25**|**Tailoring coherent microwave emission from a solid-state hybrid system for room-temperature microwave quantum electronics**|Kaipu Wang et.al.|[2312.15620v1](http://arxiv.org/abs/2312.15620v1)|null|
-|**2023-12-25**|**Context-aware Communication for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2312.15600v1](http://arxiv.org/abs/2312.15600v1)|null|
-|**2023-12-25**|**A Survey on Open-Set Image Recognition**|Jiayin Sun et.al.|[2312.15571v1](http://arxiv.org/abs/2312.15571v1)|null|
-|**2023-12-25**|**Entangling two Dicke states in a periodic modulated quantum system**|Wuji Zhang et.al.|[2312.15568v1](http://arxiv.org/abs/2312.15568v1)|null|
-|**2023-12-24**|**Inverse Measurements in Active Nematics**|Aleix Boquet-Pujadas et.al.|[2312.15553v1](http://arxiv.org/abs/2312.15553v1)|null|
-|**2023-12-24**|**DPA-2: Towards a universal large atomic model for molecular and material simulation**|Duo Zhang et.al.|[2312.15492v1](http://arxiv.org/abs/2312.15492v1)|null|
-|**2023-12-24**|**Optimizing the low-latency localization of gravitational waves**|Pierre-Alexandre Duverne et.al.|[2312.15457v1](http://arxiv.org/abs/2312.15457v1)|null|
-|**2023-12-24**|**Internal dissipation in the tennis racket effect**|J. A. de la Torre et.al.|[2312.15448v1](http://arxiv.org/abs/2312.15448v1)|null|
-|**2023-12-24**|**A resolution study on corrugation mode wavelengths of vertical shear instability**|Yixuan Dang et.al.|[2312.15414v1](http://arxiv.org/abs/2312.15414v1)|null|
-|**2023-12-24**|**End-to-End 3D Object Detection using LiDAR Point Cloud**|Gaurav Raut et.al.|[2312.15377v1](http://arxiv.org/abs/2312.15377v1)|null|
 
 ## CV
 
