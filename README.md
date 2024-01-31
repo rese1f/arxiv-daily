@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-31 20:57:05 Asia/Shanghai
+ Automated deployment @ 2024-01-31 21:16:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -46,42 +46,6 @@
 |**2024-01-30**|**Localizing uniformly moving mono-frequent sources using an inverse 2.5D approach**|Christian H. Kasess et.al.|[2401.16819v1](http://arxiv.org/abs/2401.16819v1)|null|
 |**2024-01-30**|**An Embeddable Implicit IUVD Representation for Part-based 3D Human Surface Reconstruction**|Baoxing Li et.al.|[2401.16810v1](http://arxiv.org/abs/2401.16810v1)|null|
 |**2024-01-30**|**Enhancing Compiler Transformation Robustness with Large Language Models**|Yanzhao Wang et.al.|[2401.16797v1](http://arxiv.org/abs/2401.16797v1)|null|
-
-## CG
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-30**|**First Study of the Supernova Remnant Population in the Large Magellanic Cloud with eROSITA**|Federico Zangrandi et.al.|[2401.17307v1](http://arxiv.org/abs/2401.17307v1)|null|
-|**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
-|**2024-01-30**|**Towards Quantum Simulation of Non-Markovian Open Quantum Dynamics: A Universal and Compact Theory**|Xiang Li et.al.|[2401.17255v1](http://arxiv.org/abs/2401.17255v1)|null|
-|**2024-01-30**|**Average turbulence dynamics from a one-parameter kinetic theory**|Hudong Chen et.al.|[2401.17229v1](http://arxiv.org/abs/2401.17229v1)|null|
-|**2024-01-30**|**On $2 \times 2$ MIMO Gaussian Channels with a Small Discrete-Time Peak-Power Constraint**|Alex Dytso et.al.|[2401.17084v1](http://arxiv.org/abs/2401.17084v1)|null|
-|**2024-01-30**|**Forecasting VIX using Bayesian Deep Learning**|Héctor J. Hortúa et.al.|[2401.17042v1](http://arxiv.org/abs/2401.17042v1)|null|
-|**2024-01-30**|**Robust Kernel Sparse Subspace Clustering**|Ivica Kopriva et.al.|[2401.17035v1](http://arxiv.org/abs/2401.17035v1)|null|
-|**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013v1](http://arxiv.org/abs/2401.17013v1)|null|
-|**2024-01-30**|**Two-Dimensional Phase-Fluctuating Superconductivity in Bulk-Crystalline NdO$_{0.5}$F$_{0.5}$BiS$_2$**|C. S. Chen et.al.|[2401.16980v1](http://arxiv.org/abs/2401.16980v1)|null|
-|**2024-01-30**|**Spherical maximal functions and Hardy spaces for Fourier integral operators**|Abhishek Ghosh et.al.|[2401.16955v1](http://arxiv.org/abs/2401.16955v1)|null|
-|**2024-01-30**|**Search for the non-linearities of gravitational wave background in NANOGrav 15-year data set**|Jun-Qian Jiang et.al.|[2401.16950v1](http://arxiv.org/abs/2401.16950v1)|null|
-|**2024-01-30**|**Dynamical System Identification, Model Selection and Model Uncertainty Quantification by Bayesian Inference**|Robert K. Niven et.al.|[2401.16943v1](http://arxiv.org/abs/2401.16943v1)|null|
-|**2024-01-30**|**Guessing What, Noise or Codeword?**|Xiao Ma et.al.|[2401.16804v1](http://arxiv.org/abs/2401.16804v1)|null|
-|**2024-01-30**|**Analysis of Time-Evolution of Gaussian Wavepackets in Non-Hermitian Systems**|Amartya Bose et.al.|[2401.16789v1](http://arxiv.org/abs/2401.16789v1)|null|
-|**2024-01-30**|**Simultaneous Computation and Communication over MAC**|Matthias Frey et.al.|[2401.16751v1](http://arxiv.org/abs/2401.16751v1)|null|
-|**2024-01-30**|**Variable-Length Feedback Codes over Known and Unknown Channels with Non-vanishing Error Probabilities**|Recep Can Yavas et.al.|[2401.16726v1](http://arxiv.org/abs/2401.16726v1)|null|
-|**2024-01-30**|**Multivariate Priors and the Linearity of Optimal Bayesian Estimators under Gaussian Noise**|Leighton P. Barnes et.al.|[2401.16701v1](http://arxiv.org/abs/2401.16701v1)|null|
-|**2024-01-30**|**VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality**|Ying Jiang et.al.|[2401.16663v1](http://arxiv.org/abs/2401.16663v1)|null|
-|**2024-01-30**|**A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information**|Linke Li et.al.|[2401.16660v1](http://arxiv.org/abs/2401.16660v1)|null|
-|**2024-01-29**|**Learning a Gaussian Mixture for Sparsity Regularization in Inverse Problems**|Giovanni S. Alberti et.al.|[2401.16612v1](http://arxiv.org/abs/2401.16612v1)|null|
-|**2024-01-29**|**On Channel Simulation with Causal Rejection Samplers**|Daniel Goc et.al.|[2401.16579v1](http://arxiv.org/abs/2401.16579v1)|null|
-|**2024-01-29**|**Stochastic Kimura Equations**|Roland Riachi et.al.|[2401.16570v1](http://arxiv.org/abs/2401.16570v1)|null|
-|**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543v1](http://arxiv.org/abs/2401.16543v1)|null|
-|**2024-01-29**|**Extending the kinematic theory of rapid movements with new primitives**|Miguel A. Ferrer et.al.|[2401.16519v1](http://arxiv.org/abs/2401.16519v1)|null|
-|**2024-01-29**|**A Discriminative Bayesian Gaussian Process Latent Variable Model for High-Dimensional Data**|Navid Ziaei et.al.|[2401.16497v1](http://arxiv.org/abs/2401.16497v1)|null|
-|**2024-01-29**|**Beamfit: Algorithmic Wavefront Reconstruction of Laser Beams Using Multiple Intensity Images and Laguerre- or Hermite-Gaussian Basis**|Kevin Weber et.al.|[2401.16486v1](http://arxiv.org/abs/2401.16486v1)|null|
-|**2024-01-29**|**Semi-parametric Expert Bayesian Network Learning with Gaussian Processes and Horseshoe Priors**|Yidou Weng et.al.|[2401.16419v1](http://arxiv.org/abs/2401.16419v1)|null|
-|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
-|**2024-01-29**|**Localisation of Gamma Ray Bursts using AstroSat Mass Model**|Divita Saraogi et.al.|[2401.16404v1](http://arxiv.org/abs/2401.16404v1)|null|
-|**2024-01-29**|**Large time behaviour for the heat equation on $\Z,$ moments and decay rates**|Luciano Abadias et.al.|[2401.16377v1](http://arxiv.org/abs/2401.16377v1)|null|
 
 ## AI
 
@@ -187,40 +151,6 @@
 |**2024-01-30**|**Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models**|Yewen Fan et.al.|[2401.16692v1](http://arxiv.org/abs/2401.16692v1)|null|
 |**2024-01-30**|**A Detailed Historical and Statistical Analysis of the Influence of Hardware Artifacts on SPEC Integer Benchmark Performance**|Yueyao Wang et.al.|[2401.16690v1](http://arxiv.org/abs/2401.16690v1)|null|
 
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
-|**2024-01-30**|**eROSITA narrowband maps at the energies of soft X-ray emission lines**|Xueying Zheng et.al.|[2401.17310v1](http://arxiv.org/abs/2401.17310v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
-|**2024-01-30**|**First Study of the Supernova Remnant Population in the Large Magellanic Cloud with eROSITA**|Federico Zangrandi et.al.|[2401.17307v1](http://arxiv.org/abs/2401.17307v1)|null|
-|**2024-01-30**|**The SRG/eROSITA all-sky survey: Hard X-ray selected Active Galactic Nuclei**|Sophia G. H. Waddell et.al.|[2401.17306v1](http://arxiv.org/abs/2401.17306v1)|null|
-|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
-|**2024-01-30**|**Compact white-dwarf binaries in the combined SRG/eROSITA/SDSS eFEDS survey**|A. Schwope et.al.|[2401.17304v1](http://arxiv.org/abs/2401.17304v1)|null|
-|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
-|**2024-01-30**|**Using SRG/eROSITA to estimate soft proton fluxes at the ATHENA detectors**|E. Perinati et.al.|[2401.17301v1](http://arxiv.org/abs/2401.17301v1)|null|
-|**2024-01-30**|**The eROSITA Final Equatorial Depth Survey (eFEDS): the hard X-ray selected sample**|K. Nandra et.al.|[2401.17300v1](http://arxiv.org/abs/2401.17300v1)|null|
-|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
-|**2024-01-30**|**The SRG/eROSITA All-Sky Survey: SRG/eROSITA cross-calibration with Chandra and XMM-Newton using galaxy cluster gas temperatures**|K. Migkas et.al.|[2401.17297v1](http://arxiv.org/abs/2401.17297v1)|null|
-|**2024-01-30**|**The SRG/eROSITA All-Sky Survey: View of the Virgo Cluster**|Hannah McCall et.al.|[2401.17296v1](http://arxiv.org/abs/2401.17296v1)|null|
-|**2024-01-30**|**Searching for X-ray counterparts of unassociated Fermi-LAT sources and rotation-powered pulsars with SRG/eROSITA**|Martin G. F. Mayer et.al.|[2401.17295v1](http://arxiv.org/abs/2401.17295v1)|null|
-|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
-|**2024-01-30**|**eRASSUJ060839.5-704014: A double degenerate ultra-compact binary in the direction of the LMC**|C. Maitra et.al.|[2401.17293v1](http://arxiv.org/abs/2401.17293v1)|null|
-|**2024-01-30**|**Transitions in magnetic behavior at the substellar boundary**|E. Magaudda et.al.|[2401.17292v1](http://arxiv.org/abs/2401.17292v1)|null|
-|**2024-01-30**|**Massive black holes in nuclear star clusters: Investigation with SRG/eROSITA X-ray data**|Nils Hoyer et.al.|[2401.17288v1](http://arxiv.org/abs/2401.17288v1)|null|
-|**2024-01-30**|**Simultaneous X-ray and optical variability of M dwarfs observed with eROSITA and TESS**|W. M. Joseph et.al.|[2401.17287v1](http://arxiv.org/abs/2401.17287v1)|null|
-|**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
-|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
-|**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
-|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
-|**2024-01-30**|**The SRG/eROSITA all-sky survey -- Identifying the coronal content with HamStar**|S. Freund et.al.|[2401.17282v1](http://arxiv.org/abs/2401.17282v1)|null|
-|**2024-01-30**|**Discovery of a >13 Mpc long X-ray filament between two galaxy clusters beyond three times their virial radii**|J. Dietl et.al.|[2401.17281v1](http://arxiv.org/abs/2401.17281v1)|null|
-|**2024-01-30**|**The eROSITA DR1 variability catalogue**|Th. Boller et.al.|[2401.17280v1](http://arxiv.org/abs/2401.17280v1)|null|
-|**2024-01-30**|**Characterisation of the X-ray point source variability in the eROSITA south ecliptic pole field**|David Bogensberger et.al.|[2401.17279v1](http://arxiv.org/abs/2401.17279v1)|null|
-|**2024-01-30**|**Characterising X-ray variability in light curves with complex sampling patterns: application to the eROSITA south ecliptic pole survey**|David Bogensberger et.al.|[2401.17278v1](http://arxiv.org/abs/2401.17278v1)|null|
-|**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
-
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -255,7 +185,75 @@
 |**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
 |**2024-01-30**|**Partially Law-Invariant Risk Measures**|Yi Shen et.al.|[2401.17265v1](http://arxiv.org/abs/2401.17265v1)|null|
 
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
+|**2024-01-30**|**eROSITA narrowband maps at the energies of soft X-ray emission lines**|Xueying Zheng et.al.|[2401.17310v1](http://arxiv.org/abs/2401.17310v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
+|**2024-01-30**|**First Study of the Supernova Remnant Population in the Large Magellanic Cloud with eROSITA**|Federico Zangrandi et.al.|[2401.17307v1](http://arxiv.org/abs/2401.17307v1)|null|
+|**2024-01-30**|**The SRG/eROSITA all-sky survey: Hard X-ray selected Active Galactic Nuclei**|Sophia G. H. Waddell et.al.|[2401.17306v1](http://arxiv.org/abs/2401.17306v1)|null|
+|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
+|**2024-01-30**|**Compact white-dwarf binaries in the combined SRG/eROSITA/SDSS eFEDS survey**|A. Schwope et.al.|[2401.17304v1](http://arxiv.org/abs/2401.17304v1)|null|
+|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
+|**2024-01-30**|**Using SRG/eROSITA to estimate soft proton fluxes at the ATHENA detectors**|E. Perinati et.al.|[2401.17301v1](http://arxiv.org/abs/2401.17301v1)|null|
+|**2024-01-30**|**The eROSITA Final Equatorial Depth Survey (eFEDS): the hard X-ray selected sample**|K. Nandra et.al.|[2401.17300v1](http://arxiv.org/abs/2401.17300v1)|null|
+|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
+|**2024-01-30**|**The SRG/eROSITA All-Sky Survey: SRG/eROSITA cross-calibration with Chandra and XMM-Newton using galaxy cluster gas temperatures**|K. Migkas et.al.|[2401.17297v1](http://arxiv.org/abs/2401.17297v1)|null|
+|**2024-01-30**|**The SRG/eROSITA All-Sky Survey: View of the Virgo Cluster**|Hannah McCall et.al.|[2401.17296v1](http://arxiv.org/abs/2401.17296v1)|null|
+|**2024-01-30**|**Searching for X-ray counterparts of unassociated Fermi-LAT sources and rotation-powered pulsars with SRG/eROSITA**|Martin G. F. Mayer et.al.|[2401.17295v1](http://arxiv.org/abs/2401.17295v1)|null|
+|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
+|**2024-01-30**|**eRASSUJ060839.5-704014: A double degenerate ultra-compact binary in the direction of the LMC**|C. Maitra et.al.|[2401.17293v1](http://arxiv.org/abs/2401.17293v1)|null|
+|**2024-01-30**|**Transitions in magnetic behavior at the substellar boundary**|E. Magaudda et.al.|[2401.17292v1](http://arxiv.org/abs/2401.17292v1)|null|
+|**2024-01-30**|**Massive black holes in nuclear star clusters: Investigation with SRG/eROSITA X-ray data**|Nils Hoyer et.al.|[2401.17288v1](http://arxiv.org/abs/2401.17288v1)|null|
+|**2024-01-30**|**Simultaneous X-ray and optical variability of M dwarfs observed with eROSITA and TESS**|W. M. Joseph et.al.|[2401.17287v1](http://arxiv.org/abs/2401.17287v1)|null|
+|**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
+|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
+|**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
+|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
+|**2024-01-30**|**The SRG/eROSITA all-sky survey -- Identifying the coronal content with HamStar**|S. Freund et.al.|[2401.17282v1](http://arxiv.org/abs/2401.17282v1)|null|
+|**2024-01-30**|**Discovery of a >13 Mpc long X-ray filament between two galaxy clusters beyond three times their virial radii**|J. Dietl et.al.|[2401.17281v1](http://arxiv.org/abs/2401.17281v1)|null|
+|**2024-01-30**|**The eROSITA DR1 variability catalogue**|Th. Boller et.al.|[2401.17280v1](http://arxiv.org/abs/2401.17280v1)|null|
+|**2024-01-30**|**Characterisation of the X-ray point source variability in the eROSITA south ecliptic pole field**|David Bogensberger et.al.|[2401.17279v1](http://arxiv.org/abs/2401.17279v1)|null|
+|**2024-01-30**|**Characterising X-ray variability in light curves with complex sampling patterns: application to the eROSITA south ecliptic pole survey**|David Bogensberger et.al.|[2401.17278v1](http://arxiv.org/abs/2401.17278v1)|null|
+|**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
+
 ## CV
+
+### Diffusion Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
+|**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
+|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
+|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
+|**2024-01-30**|**The high-energy environment of the heavy sub-Earth GJ 367 b indicates likely complete evaporation of its atmosphere**|K. Poppenhaeger et.al.|[2401.17302v1](http://arxiv.org/abs/2401.17302v1)|null|
+|**2024-01-30**|**Ionised AGN outflows in the Goldfish galaxy -- The illuminating and interacting red quasar eFEDSJ091157.4+014327 at z ~ 0.6**|Blessing Musiimenta et.al.|[2401.17299v1](http://arxiv.org/abs/2401.17299v1)|null|
+|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
+|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
+|**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291v1](http://arxiv.org/abs/2401.17291v1)|null|
+|**2024-01-30**|**Detection of pulsed X-ray emission from the isolated neutron star candidate eRASSU J131716.9-402647**|J. Kurpas et.al.|[2401.17290v1](http://arxiv.org/abs/2401.17290v1)|null|
+|**2024-01-30**|**A new understanding of the Gemini-Monoceros X-ray enhancement from discoveries with eROSITA**|Jonathan R. Knies et.al.|[2401.17289v1](http://arxiv.org/abs/2401.17289v1)|null|
+|**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
+|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
+|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
+|**2024-01-30**|**The more the merrier: SRG/eROSITA discovers two further galaxies showing X-ray quasi-periodic eruptions**|R. Arcodia et.al.|[2401.17275v1](http://arxiv.org/abs/2401.17275v1)|null|
+|**2024-01-30**|**Signs of magnetic star-planet interactions in HD 118203. TESS detects stellar variability that matches the orbital period of a close-in eccentric Jupiter-sized companion**|A. Castro-González et.al.|[2401.17272v1](http://arxiv.org/abs/2401.17272v1)|null|
+|**2024-01-30**|**A simple, strong baseline for building damage detection on the xBD dataset**|Sebastian Gerard et.al.|[2401.17271v1](http://arxiv.org/abs/2401.17271v1)|[link](https://github.com/paulbornep/xview2_strong_baseline)|
+|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270v1](http://arxiv.org/abs/2401.17270v1)|[link](https://github.com/ailab-cvc/yolo-world)|
+|**2024-01-30**|**Effect of Weight Quantization on Learning Models by Typical Case Analysis**|Shuhei Kashiwamura et.al.|[2401.17269v1](http://arxiv.org/abs/2401.17269v1)|null|
+|**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
+|**2024-01-30**|**ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models**|Aline Hartgers et.al.|[2401.17267v1](http://arxiv.org/abs/2401.17267v1)|null|
+|**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
+|**2024-01-30**|**Partially Law-Invariant Risk Measures**|Yi Shen et.al.|[2401.17265v1](http://arxiv.org/abs/2401.17265v1)|null|
+|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|null|
+|**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[link](https://github.com/andyz245/rpo)|
+|**2024-01-30**|**Dark Matter Searches on a Photonic Chip**|Nikita Blinov et.al.|[2401.17260v1](http://arxiv.org/abs/2401.17260v1)|null|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
+|**2024-01-30**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256v1](http://arxiv.org/abs/2401.17256v1)|[link](https://github.com/xuandongzhao/weak-to-strong)|
 
 ### Video Understanding
 |Publish Date|Title|Authors|PDF|Code|
@@ -325,36 +323,38 @@
 |**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
 |**2024-01-30**|**The SRG/eROSITA all-sky survey -- Identifying the coronal content with HamStar**|S. Freund et.al.|[2401.17282v1](http://arxiv.org/abs/2401.17282v1)|null|
 
-### Diffusion Model
+## CG
+
+### Gaussian Splatting
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
-|**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
-|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
-|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
-|**2024-01-30**|**The high-energy environment of the heavy sub-Earth GJ 367 b indicates likely complete evaporation of its atmosphere**|K. Poppenhaeger et.al.|[2401.17302v1](http://arxiv.org/abs/2401.17302v1)|null|
-|**2024-01-30**|**Ionised AGN outflows in the Goldfish galaxy -- The illuminating and interacting red quasar eFEDSJ091157.4+014327 at z ~ 0.6**|Blessing Musiimenta et.al.|[2401.17299v1](http://arxiv.org/abs/2401.17299v1)|null|
-|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
-|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
-|**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291v1](http://arxiv.org/abs/2401.17291v1)|null|
-|**2024-01-30**|**Detection of pulsed X-ray emission from the isolated neutron star candidate eRASSU J131716.9-402647**|J. Kurpas et.al.|[2401.17290v1](http://arxiv.org/abs/2401.17290v1)|null|
-|**2024-01-30**|**A new understanding of the Gemini-Monoceros X-ray enhancement from discoveries with eROSITA**|Jonathan R. Knies et.al.|[2401.17289v1](http://arxiv.org/abs/2401.17289v1)|null|
-|**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
-|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
-|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
-|**2024-01-30**|**The more the merrier: SRG/eROSITA discovers two further galaxies showing X-ray quasi-periodic eruptions**|R. Arcodia et.al.|[2401.17275v1](http://arxiv.org/abs/2401.17275v1)|null|
-|**2024-01-30**|**Signs of magnetic star-planet interactions in HD 118203. TESS detects stellar variability that matches the orbital period of a close-in eccentric Jupiter-sized companion**|A. Castro-González et.al.|[2401.17272v1](http://arxiv.org/abs/2401.17272v1)|null|
-|**2024-01-30**|**A simple, strong baseline for building damage detection on the xBD dataset**|Sebastian Gerard et.al.|[2401.17271v1](http://arxiv.org/abs/2401.17271v1)|[link](https://github.com/paulbornep/xview2_strong_baseline)|
-|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270v1](http://arxiv.org/abs/2401.17270v1)|[link](https://github.com/ailab-cvc/yolo-world)|
-|**2024-01-30**|**Effect of Weight Quantization on Learning Models by Typical Case Analysis**|Shuhei Kashiwamura et.al.|[2401.17269v1](http://arxiv.org/abs/2401.17269v1)|null|
-|**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
-|**2024-01-30**|**ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models**|Aline Hartgers et.al.|[2401.17267v1](http://arxiv.org/abs/2401.17267v1)|null|
-|**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
-|**2024-01-30**|**Partially Law-Invariant Risk Measures**|Yi Shen et.al.|[2401.17265v1](http://arxiv.org/abs/2401.17265v1)|null|
-|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|null|
-|**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[link](https://github.com/andyz245/rpo)|
-|**2024-01-30**|**Dark Matter Searches on a Photonic Chip**|Nikita Blinov et.al.|[2401.17260v1](http://arxiv.org/abs/2401.17260v1)|null|
-|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
-|**2024-01-30**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256v1](http://arxiv.org/abs/2401.17256v1)|[link](https://github.com/xuandongzhao/weak-to-strong)|
+|**2024-01-30**|**First Study of the Supernova Remnant Population in the Large Magellanic Cloud with eROSITA**|Federico Zangrandi et.al.|[2401.17307v1](http://arxiv.org/abs/2401.17307v1)|null|
+|**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
+|**2024-01-30**|**Towards Quantum Simulation of Non-Markovian Open Quantum Dynamics: A Universal and Compact Theory**|Xiang Li et.al.|[2401.17255v1](http://arxiv.org/abs/2401.17255v1)|null|
+|**2024-01-30**|**Average turbulence dynamics from a one-parameter kinetic theory**|Hudong Chen et.al.|[2401.17229v1](http://arxiv.org/abs/2401.17229v1)|null|
+|**2024-01-30**|**On $2 \times 2$ MIMO Gaussian Channels with a Small Discrete-Time Peak-Power Constraint**|Alex Dytso et.al.|[2401.17084v1](http://arxiv.org/abs/2401.17084v1)|null|
+|**2024-01-30**|**Forecasting VIX using Bayesian Deep Learning**|Héctor J. Hortúa et.al.|[2401.17042v1](http://arxiv.org/abs/2401.17042v1)|null|
+|**2024-01-30**|**Robust Kernel Sparse Subspace Clustering**|Ivica Kopriva et.al.|[2401.17035v1](http://arxiv.org/abs/2401.17035v1)|null|
+|**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013v1](http://arxiv.org/abs/2401.17013v1)|null|
+|**2024-01-30**|**Two-Dimensional Phase-Fluctuating Superconductivity in Bulk-Crystalline NdO$_{0.5}$F$_{0.5}$BiS$_2$**|C. S. Chen et.al.|[2401.16980v1](http://arxiv.org/abs/2401.16980v1)|null|
+|**2024-01-30**|**Spherical maximal functions and Hardy spaces for Fourier integral operators**|Abhishek Ghosh et.al.|[2401.16955v1](http://arxiv.org/abs/2401.16955v1)|null|
+|**2024-01-30**|**Search for the non-linearities of gravitational wave background in NANOGrav 15-year data set**|Jun-Qian Jiang et.al.|[2401.16950v1](http://arxiv.org/abs/2401.16950v1)|null|
+|**2024-01-30**|**Dynamical System Identification, Model Selection and Model Uncertainty Quantification by Bayesian Inference**|Robert K. Niven et.al.|[2401.16943v1](http://arxiv.org/abs/2401.16943v1)|null|
+|**2024-01-30**|**Guessing What, Noise or Codeword?**|Xiao Ma et.al.|[2401.16804v1](http://arxiv.org/abs/2401.16804v1)|null|
+|**2024-01-30**|**Analysis of Time-Evolution of Gaussian Wavepackets in Non-Hermitian Systems**|Amartya Bose et.al.|[2401.16789v1](http://arxiv.org/abs/2401.16789v1)|null|
+|**2024-01-30**|**Simultaneous Computation and Communication over MAC**|Matthias Frey et.al.|[2401.16751v1](http://arxiv.org/abs/2401.16751v1)|null|
+|**2024-01-30**|**Variable-Length Feedback Codes over Known and Unknown Channels with Non-vanishing Error Probabilities**|Recep Can Yavas et.al.|[2401.16726v1](http://arxiv.org/abs/2401.16726v1)|null|
+|**2024-01-30**|**Multivariate Priors and the Linearity of Optimal Bayesian Estimators under Gaussian Noise**|Leighton P. Barnes et.al.|[2401.16701v1](http://arxiv.org/abs/2401.16701v1)|null|
+|**2024-01-30**|**VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality**|Ying Jiang et.al.|[2401.16663v1](http://arxiv.org/abs/2401.16663v1)|null|
+|**2024-01-30**|**A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information**|Linke Li et.al.|[2401.16660v1](http://arxiv.org/abs/2401.16660v1)|null|
+|**2024-01-29**|**Learning a Gaussian Mixture for Sparsity Regularization in Inverse Problems**|Giovanni S. Alberti et.al.|[2401.16612v1](http://arxiv.org/abs/2401.16612v1)|null|
+|**2024-01-29**|**On Channel Simulation with Causal Rejection Samplers**|Daniel Goc et.al.|[2401.16579v1](http://arxiv.org/abs/2401.16579v1)|null|
+|**2024-01-29**|**Stochastic Kimura Equations**|Roland Riachi et.al.|[2401.16570v1](http://arxiv.org/abs/2401.16570v1)|null|
+|**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543v1](http://arxiv.org/abs/2401.16543v1)|null|
+|**2024-01-29**|**Extending the kinematic theory of rapid movements with new primitives**|Miguel A. Ferrer et.al.|[2401.16519v1](http://arxiv.org/abs/2401.16519v1)|null|
+|**2024-01-29**|**A Discriminative Bayesian Gaussian Process Latent Variable Model for High-Dimensional Data**|Navid Ziaei et.al.|[2401.16497v1](http://arxiv.org/abs/2401.16497v1)|null|
+|**2024-01-29**|**Beamfit: Algorithmic Wavefront Reconstruction of Laser Beams Using Multiple Intensity Images and Laguerre- or Hermite-Gaussian Basis**|Kevin Weber et.al.|[2401.16486v1](http://arxiv.org/abs/2401.16486v1)|null|
+|**2024-01-29**|**Semi-parametric Expert Bayesian Network Learning with Gaussian Processes and Horseshoe Priors**|Yidou Weng et.al.|[2401.16419v1](http://arxiv.org/abs/2401.16419v1)|null|
+|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
+|**2024-01-29**|**Localisation of Gamma Ray Bursts using AstroSat Mass Model**|Divita Saraogi et.al.|[2401.16404v1](http://arxiv.org/abs/2401.16404v1)|null|
+|**2024-01-29**|**Large time behaviour for the heat equation on $\Z,$ moments and decay rates**|Luciano Abadias et.al.|[2401.16377v1](http://arxiv.org/abs/2401.16377v1)|null|
