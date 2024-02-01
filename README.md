@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-31 21:16:49 Asia/Shanghai
+ Automated deployment @ 2024-02-01 08:59:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2024-01-30**|**A Hamilton-Jacobi approach to nonlocal kinetic equations**|Nadia Loy et.al.|[2401.17176v1](http://arxiv.org/abs/2401.17176v1)|null|
 |**2024-01-30**|**Estimating the strong coupling from $τ$ decay using accelerating series convergence**|K. Schilcher et.al.|[2401.17131v1](http://arxiv.org/abs/2401.17131v1)|null|
 |**2024-01-30**|**PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering**|Rong Huang et.al.|[2401.17120v1](http://arxiv.org/abs/2401.17120v1)|null|
-|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|null|
+|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|[link](https://github.com/hugothimonier/making-parametric-anomaly-detection-on-tabular-data-non-parametric-again)|
 |**2024-01-30**|**ViTree: Single-path Neural Tree for Step-wise Interpretable Fine-grained Visual Categorization**|Danning Lao et.al.|[2401.17050v1](http://arxiv.org/abs/2401.17050v1)|null|
 |**2024-01-30**|**Forecasting VIX using Bayesian Deep Learning**|Héctor J. Hortúa et.al.|[2401.17042v1](http://arxiv.org/abs/2401.17042v1)|null|
 |**2024-01-30**|**Taking Action Towards Graceful Interaction: The Effects of Performing Actions on Modelling Policies for Instruction Clarification Requests**|Brielen Madureira et.al.|[2401.17039v1](http://arxiv.org/abs/2401.17039v1)|[link](https://github.com/briemadu/icr-actions)|
@@ -36,7 +36,7 @@
 |**2024-01-30**|**Method for determining the acceleration of a parallel specialised computer system based on Amdahl's law**|Aleksandr S. Filipchenko et.al.|[2401.16975v1](http://arxiv.org/abs/2401.16975v1)|null|
 |**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972v1](http://arxiv.org/abs/2401.16972v1)|null|
 |**2024-01-30**|**A Rank-Constrained Coordinate Ascent Approach to Hybrid Precoding for the Downlink of Wideband Massive (MIMO) Systems**|José P. González-Coma et.al.|[2401.16908v1](http://arxiv.org/abs/2401.16908v1)|null|
-|**2024-01-30**|**Parallelly Sliced Optimal Transport on Spheres and on the Rotation Group**|Michael Quellmalz et.al.|[2401.16896v1](http://arxiv.org/abs/2401.16896v1)|null|
+|**2024-01-30**|**Parallelly Sliced Optimal Transport on Spheres and on the Rotation Group**|Michael Quellmalz et.al.|[2401.16896v1](http://arxiv.org/abs/2401.16896v1)|[link](https://github.com/leo-buecher/sliced-ot-sphere)|
 |**2024-01-30**|**Black Hole Firewalls and Quantum Mechanics**|Gerard t Hooft et.al.|[2401.16890v1](http://arxiv.org/abs/2401.16890v1)|null|
 |**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886v1](http://arxiv.org/abs/2401.16886v1)|null|
 |**2024-01-30**|**Robust Error Accumulation Suppression**|Tatsuki Odake et.al.|[2401.16884v1](http://arxiv.org/abs/2401.16884v1)|null|
@@ -49,39 +49,39 @@
 
 ## AI
 
-### Embodied Agent
+### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
-|**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244v1](http://arxiv.org/abs/2401.17244v1)|null|
-|**2024-01-30**|**Evolvable Agents, a Fine Grained Approach for Distributed Evolutionary Computing: Walking towards the Peer-to-Peer Computing Frontiers**|Juan Luis Jiménez Laredo et.al.|[2401.17224v1](http://arxiv.org/abs/2401.17224v1)|null|
-|**2024-01-30**|**The effect of surface topography on benthic boundary layer flow: implications for marine larval transport and settlement**|Daniel Gysbers et.al.|[2401.17216v1](http://arxiv.org/abs/2401.17216v1)|null|
-|**2024-01-30**|**Zero-Shot Reinforcement Learning via Function Encoders**|Tyler Ingebrand et.al.|[2401.17173v1](http://arxiv.org/abs/2401.17173v1)|[link](https://github.com/anonymousresearcher5642/functionencoderrl)|
-|**2024-01-30**|**Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios**|Shijue Huang et.al.|[2401.17167v1](http://arxiv.org/abs/2401.17167v1)|null|
-|**2024-01-30**|**Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat**|John Chen et.al.|[2401.17163v1](http://arxiv.org/abs/2401.17163v1)|null|
-|**2024-01-30**|**Flocking by turning away**|Suchismita Das et.al.|[2401.17153v1](http://arxiv.org/abs/2401.17153v1)|null|
-|**2024-01-30**|**Scalable Mechanism Design for Multi-Agent Path Finding**|Paul Friedrich et.al.|[2401.17044v1](http://arxiv.org/abs/2401.17044v1)|null|
-|**2024-01-30**|**CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement Learning**|Andreas W. M. Sauter et.al.|[2401.16974v1](http://arxiv.org/abs/2401.16974v1)|[link](https://github.com/sa-and/core)|
-|**2024-01-30**|**BAR Nash Equilibrium and Application to Blockchain Design**|Maxime Reynouard et.al.|[2401.16856v1](http://arxiv.org/abs/2401.16856v1)|null|
+|**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
+|**2024-01-30**|**Joint model with latent disease age: overcoming the need for reference time**|Juliette Ortholand et.al.|[2401.17249v1](http://arxiv.org/abs/2401.17249v1)|null|
+|**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186v1](http://arxiv.org/abs/2401.17186v1)|null|
+|**2024-01-30**|**A large dataset curation and benchmark for drug target interaction**|Alex Golts et.al.|[2401.17174v1](http://arxiv.org/abs/2401.17174v1)|null|
+|**2024-01-30**|**Stale Profile Matching**|Amir Ayupov et.al.|[2401.17168v1](http://arxiv.org/abs/2401.17168v1)|null|
+|**2024-01-30**|**Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios**|Shijue Huang et.al.|[2401.17167v1](http://arxiv.org/abs/2401.17167v1)|[link](https://github.com/joeying1019/ultratool)|
+|**2024-01-30**|**Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis**|Zhengyang Lu et.al.|[2401.17159v1](http://arxiv.org/abs/2401.17159v1)|[link](https://github.com/johnlyu2/z3alpha)|
+|**2024-01-30**|**MT-Ranker: Reference-free machine translation evaluation by inter-system ranking**|Ibraheem Muhammad Moosa et.al.|[2401.17099v1](http://arxiv.org/abs/2401.17099v1)|[link](https://github.com/ibraheem-moosa/mt-ranker)|
+|**2024-01-30**|**Traffic estimation in unobserved network locations using data-driven macroscopic models**|Pablo Guarda et.al.|[2401.17095v1](http://arxiv.org/abs/2401.17095v1)|[link](https://github.com/pabloguarda/mate)|
+|**2024-01-30**|**NNOSE: Nearest Neighbor Occupational Skill Extraction**|Mike Zhang et.al.|[2401.17092v1](http://arxiv.org/abs/2401.17092v1)|[link](https://github.com/mainlp/nnose)|
+|**2024-01-30**|**Learning Approximation Sets for Exploratory Queries**|Susan B. Davidson et.al.|[2401.17059v1](http://arxiv.org/abs/2401.17059v1)|null|
+|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|[link](https://github.com/hugothimonier/making-parametric-anomaly-detection-on-tabular-data-non-parametric-again)|
+|**2024-01-30**|**CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models**|Yuanjie Lyu et.al.|[2401.17043v1](http://arxiv.org/abs/2401.17043v1)|[link](https://github.com/iaar-shanghai/crud_rag)|
+|**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991v1](http://arxiv.org/abs/2401.16991v1)|[link](https://github.com/maxium0526/category-wise-fine-tuning)|
+|**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886v1](http://arxiv.org/abs/2401.16886v1)|null|
+|**2024-01-30**|**Depends-Kotlin: A Cross-Language Kotlin Dependency Extractor**|Qiong Feng et.al.|[2401.16865v1](http://arxiv.org/abs/2401.16865v1)|[link](https://github.com/xyzboom/depends-kotlin)|
+|**2024-01-30**|**Analysis of Knowledge Tracing performance on synthesised student data**|Panagiotis Pagonis et.al.|[2401.16832v1](http://arxiv.org/abs/2401.16832v1)|null|
+|**2024-01-30**|**Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code**|Wenjie Qu et.al.|[2401.16820v1](http://arxiv.org/abs/2401.16820v1)|null|
+|**2024-01-30**|**H2O-Danube-1.8B Technical Report**|Philipp Singer et.al.|[2401.16818v1](http://arxiv.org/abs/2401.16818v1)|null|
+|**2024-01-30**|**Reviving Undersampling for Long-Tailed Learning**|Hao Yu et.al.|[2401.16811v1](http://arxiv.org/abs/2401.16811v1)|[link](https://github.com/yuhao318/btm)|
+|**2024-01-30**|**Quantum entanglement transfer assisted via Duffing nonlinearity**|D. R. Kenigoule Massembele et.al.|[2401.16809v1](http://arxiv.org/abs/2401.16809v1)|null|
 |**2024-01-30**|**Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**|Steffi Chern et.al.|[2401.16788v1](http://arxiv.org/abs/2401.16788v1)|null|
-|**2024-01-30**|**Extrinsicaly Rewarded Soft Q Imitation Learning with Discriminator**|Ryoma Furuyama et.al.|[2401.16772v1](http://arxiv.org/abs/2401.16772v1)|null|
-|**2024-01-30**|**Augmenting Replay in World Models for Continual Reinforcement Learning**|Luke Yang et.al.|[2401.16650v1](http://arxiv.org/abs/2401.16650v1)|null|
-|**2024-01-29**|**A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking**|Faraz Lotfi et.al.|[2401.16618v1](http://arxiv.org/abs/2401.16618v1)|[link](https://github.com/farazlotfi/underwater-object-tracking)|
-|**2024-01-29**|**ReLoki: Infrastructure-free Distributed Relative Localization using On-board UWB Antenna Arrays**|Joseph Prince Mathew et.al.|[2401.16599v1](http://arxiv.org/abs/2401.16599v1)|null|
-|**2024-01-29**|**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**|Abhinav Chakraborty et.al.|[2401.16596v1](http://arxiv.org/abs/2401.16596v1)|null|
-|**2024-01-29**|**A Fault-Tolerant Distributed Termination Method for Distributed Optimization Algorithms**|Mohannad Alkhraijah et.al.|[2401.16595v1](http://arxiv.org/abs/2401.16595v1)|null|
-|**2024-01-29**|**Strong Convergence of a Random Actions Model in Opinion Dynamics**|Olle Abrahamsson et.al.|[2401.16574v1](http://arxiv.org/abs/2401.16574v1)|null|
-|**2024-01-29**|**Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance**|Burak Aksoy et.al.|[2401.16560v1](http://arxiv.org/abs/2401.16560v1)|null|
-|**2024-01-29**|**Frustrated with MPI+Threads? Try MPIxThreads!**|Hui Zhou et.al.|[2401.16551v1](http://arxiv.org/abs/2401.16551v1)|null|
-|**2024-01-29**|**Robust Performance Evaluation of Independent and Identical Agents**|Ashwin Kambhampati et.al.|[2401.16542v1](http://arxiv.org/abs/2401.16542v1)|null|
-|**2024-01-29**|**Zero-shot Imitation Policy via Search in Demonstration Dataset**|Federco Malato et.al.|[2401.16398v1](http://arxiv.org/abs/2401.16398v1)|null|
-|**2024-01-29**|**Prepare Non-classical Collective Spin State by Reinforcement Learning**|X. L. Zhao et.al.|[2401.16320v1](http://arxiv.org/abs/2401.16320v1)|null|
-|**2024-01-29**|**Collaboration Petri Nets: Verification, Equivalence, and Discovery (Extended Version)**|Janik-Vasily Benzin et.al.|[2401.16263v2](http://arxiv.org/abs/2401.16263v2)|null|
-|**2024-01-29**|**Effective Communication with Dynamic Feature Compression**|Pietro Talli et.al.|[2401.16236v1](http://arxiv.org/abs/2401.16236v1)|null|
-|**2024-01-29**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216v1](http://arxiv.org/abs/2401.16216v1)|null|
-|**2024-01-29**|**Contracting with a Learning Agent**|Guru Guruganesh et.al.|[2401.16198v1](http://arxiv.org/abs/2401.16198v1)|null|
-|**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189v1](http://arxiv.org/abs/2401.16189v1)|null|
-|**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183v1](http://arxiv.org/abs/2401.16183v1)|null|
+|**2024-01-30**|**One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training**|Lianbo Ma et.al.|[2401.16760v1](http://arxiv.org/abs/2401.16760v1)|[link](https://github.com/paperProof24/Appendix_BLAQ)|
+|**2024-01-30**|**MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2401.16745v1](http://arxiv.org/abs/2401.16745v1)|[link](https://github.com/kwanwaichung/mt-eval)|
+|**2024-01-30**|**Towards Unified Interactive Visual Grounding in The Wild**|Jie Xu et.al.|[2401.16699v1](http://arxiv.org/abs/2401.16699v1)|null|
+|**2024-01-30**|**Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models**|Yewen Fan et.al.|[2401.16692v1](http://arxiv.org/abs/2401.16692v1)|null|
+|**2024-01-30**|**A Detailed Historical and Statistical Analysis of the Influence of Hardware Artifacts on SPEC Integer Benchmark Performance**|Yueyao Wang et.al.|[2401.16690v1](http://arxiv.org/abs/2401.16690v1)|null|
 
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
@@ -117,40 +117,6 @@
 |**2024-01-30**|**Persistent Homology analysis for solar magnetograms**|Pablo Santamarina Guerrero et.al.|[2401.16829v1](http://arxiv.org/abs/2401.16829v1)|null|
 |**2024-01-30**|**3D-Printed Hydraulic Fluidic Logic Circuitry for Soft Robots**|Yuxin Lin et.al.|[2401.16827v1](http://arxiv.org/abs/2401.16827v1)|null|
 
-### Benchmark
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
-|**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
-|**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
-|**2024-01-30**|**Joint model with latent disease age: overcoming the need for reference time**|Juliette Ortholand et.al.|[2401.17249v1](http://arxiv.org/abs/2401.17249v1)|null|
-|**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186v1](http://arxiv.org/abs/2401.17186v1)|null|
-|**2024-01-30**|**A large dataset curation and benchmark for drug target interaction**|Alex Golts et.al.|[2401.17174v1](http://arxiv.org/abs/2401.17174v1)|null|
-|**2024-01-30**|**Stale Profile Matching**|Amir Ayupov et.al.|[2401.17168v1](http://arxiv.org/abs/2401.17168v1)|null|
-|**2024-01-30**|**Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios**|Shijue Huang et.al.|[2401.17167v1](http://arxiv.org/abs/2401.17167v1)|null|
-|**2024-01-30**|**Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis**|Zhengyang Lu et.al.|[2401.17159v1](http://arxiv.org/abs/2401.17159v1)|null|
-|**2024-01-30**|**MT-Ranker: Reference-free machine translation evaluation by inter-system ranking**|Ibraheem Muhammad Moosa et.al.|[2401.17099v1](http://arxiv.org/abs/2401.17099v1)|[link](https://github.com/ibraheem-moosa/mt-ranker)|
-|**2024-01-30**|**Traffic estimation in unobserved network locations using data-driven macroscopic models**|Pablo Guarda et.al.|[2401.17095v1](http://arxiv.org/abs/2401.17095v1)|[link](https://github.com/pabloguarda/mate)|
-|**2024-01-30**|**NNOSE: Nearest Neighbor Occupational Skill Extraction**|Mike Zhang et.al.|[2401.17092v1](http://arxiv.org/abs/2401.17092v1)|[link](https://github.com/mainlp/nnose)|
-|**2024-01-30**|**Learning Approximation Sets for Exploratory Queries**|Susan B. Davidson et.al.|[2401.17059v1](http://arxiv.org/abs/2401.17059v1)|null|
-|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052v1](http://arxiv.org/abs/2401.17052v1)|null|
-|**2024-01-30**|**CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models**|Yuanjie Lyu et.al.|[2401.17043v1](http://arxiv.org/abs/2401.17043v1)|null|
-|**2024-01-30**|**Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels**|Chak Fong Chong et.al.|[2401.16991v1](http://arxiv.org/abs/2401.16991v1)|null|
-|**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886v1](http://arxiv.org/abs/2401.16886v1)|null|
-|**2024-01-30**|**Depends-Kotlin: A Cross-Language Kotlin Dependency Extractor**|Qiong Feng et.al.|[2401.16865v1](http://arxiv.org/abs/2401.16865v1)|null|
-|**2024-01-30**|**Analysis of Knowledge Tracing performance on synthesised student data**|Panagiotis Pagonis et.al.|[2401.16832v1](http://arxiv.org/abs/2401.16832v1)|null|
-|**2024-01-30**|**Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code**|Wenjie Qu et.al.|[2401.16820v1](http://arxiv.org/abs/2401.16820v1)|null|
-|**2024-01-30**|**H2O-Danube-1.8B Technical Report**|Philipp Singer et.al.|[2401.16818v1](http://arxiv.org/abs/2401.16818v1)|null|
-|**2024-01-30**|**Reviving Undersampling for Long-Tailed Learning**|Hao Yu et.al.|[2401.16811v1](http://arxiv.org/abs/2401.16811v1)|[link](https://github.com/yuhao318/btm)|
-|**2024-01-30**|**Quantum entanglement transfer assisted via Duffing nonlinearity**|D. R. Kenigoule Massembele et.al.|[2401.16809v1](http://arxiv.org/abs/2401.16809v1)|null|
-|**2024-01-30**|**Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**|Steffi Chern et.al.|[2401.16788v1](http://arxiv.org/abs/2401.16788v1)|null|
-|**2024-01-30**|**One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training**|Lianbo Ma et.al.|[2401.16760v1](http://arxiv.org/abs/2401.16760v1)|null|
-|**2024-01-30**|**MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2401.16745v1](http://arxiv.org/abs/2401.16745v1)|[link](https://github.com/kwanwaichung/mt-eval)|
-|**2024-01-30**|**Towards Unified Interactive Visual Grounding in The Wild**|Jie Xu et.al.|[2401.16699v1](http://arxiv.org/abs/2401.16699v1)|null|
-|**2024-01-30**|**Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models**|Yewen Fan et.al.|[2401.16692v1](http://arxiv.org/abs/2401.16692v1)|null|
-|**2024-01-30**|**A Detailed Historical and Statistical Analysis of the Influence of Hardware Artifacts on SPEC Integer Benchmark Performance**|Yueyao Wang et.al.|[2401.16690v1](http://arxiv.org/abs/2401.16690v1)|null|
-
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -172,7 +138,7 @@
 |**2024-01-30**|**Detection of pulsed X-ray emission from the isolated neutron star candidate eRASSU J131716.9-402647**|J. Kurpas et.al.|[2401.17290v1](http://arxiv.org/abs/2401.17290v1)|null|
 |**2024-01-30**|**A new understanding of the Gemini-Monoceros X-ray enhancement from discoveries with eROSITA**|Jonathan R. Knies et.al.|[2401.17289v1](http://arxiv.org/abs/2401.17289v1)|null|
 |**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
-|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
+|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|[link](https://github.com/ageorgakakis/structurefunction)|
 |**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
 |**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
 |**2024-01-30**|**The more the merrier: SRG/eROSITA discovers two further galaxies showing X-ray quasi-periodic eruptions**|R. Arcodia et.al.|[2401.17275v1](http://arxiv.org/abs/2401.17275v1)|null|
@@ -209,7 +175,7 @@
 |**2024-01-30**|**Massive black holes in nuclear star clusters: Investigation with SRG/eROSITA X-ray data**|Nils Hoyer et.al.|[2401.17288v1](http://arxiv.org/abs/2401.17288v1)|null|
 |**2024-01-30**|**Simultaneous X-ray and optical variability of M dwarfs observed with eROSITA and TESS**|W. M. Joseph et.al.|[2401.17287v1](http://arxiv.org/abs/2401.17287v1)|null|
 |**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
-|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
+|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|[link](https://github.com/ageorgakakis/structurefunction)|
 |**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
 |**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
 |**2024-01-30**|**The SRG/eROSITA all-sky survey -- Identifying the coronal content with HamStar**|S. Freund et.al.|[2401.17282v1](http://arxiv.org/abs/2401.17282v1)|null|
@@ -219,41 +185,41 @@
 |**2024-01-30**|**Characterising X-ray variability in light curves with complex sampling patterns: application to the eROSITA south ecliptic pole survey**|David Bogensberger et.al.|[2401.17278v1](http://arxiv.org/abs/2401.17278v1)|null|
 |**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
 
-## CV
-
-### Diffusion Model
+### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
-|**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
-|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
-|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
-|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
-|**2024-01-30**|**The high-energy environment of the heavy sub-Earth GJ 367 b indicates likely complete evaporation of its atmosphere**|K. Poppenhaeger et.al.|[2401.17302v1](http://arxiv.org/abs/2401.17302v1)|null|
-|**2024-01-30**|**Ionised AGN outflows in the Goldfish galaxy -- The illuminating and interacting red quasar eFEDSJ091157.4+014327 at z ~ 0.6**|Blessing Musiimenta et.al.|[2401.17299v1](http://arxiv.org/abs/2401.17299v1)|null|
-|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
-|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
-|**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291v1](http://arxiv.org/abs/2401.17291v1)|null|
-|**2024-01-30**|**Detection of pulsed X-ray emission from the isolated neutron star candidate eRASSU J131716.9-402647**|J. Kurpas et.al.|[2401.17290v1](http://arxiv.org/abs/2401.17290v1)|null|
-|**2024-01-30**|**A new understanding of the Gemini-Monoceros X-ray enhancement from discoveries with eROSITA**|Jonathan R. Knies et.al.|[2401.17289v1](http://arxiv.org/abs/2401.17289v1)|null|
-|**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
-|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
-|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
-|**2024-01-30**|**The more the merrier: SRG/eROSITA discovers two further galaxies showing X-ray quasi-periodic eruptions**|R. Arcodia et.al.|[2401.17275v1](http://arxiv.org/abs/2401.17275v1)|null|
-|**2024-01-30**|**Signs of magnetic star-planet interactions in HD 118203. TESS detects stellar variability that matches the orbital period of a close-in eccentric Jupiter-sized companion**|A. Castro-González et.al.|[2401.17272v1](http://arxiv.org/abs/2401.17272v1)|null|
-|**2024-01-30**|**A simple, strong baseline for building damage detection on the xBD dataset**|Sebastian Gerard et.al.|[2401.17271v1](http://arxiv.org/abs/2401.17271v1)|[link](https://github.com/paulbornep/xview2_strong_baseline)|
-|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270v1](http://arxiv.org/abs/2401.17270v1)|[link](https://github.com/ailab-cvc/yolo-world)|
-|**2024-01-30**|**Effect of Weight Quantization on Learning Models by Typical Case Analysis**|Shuhei Kashiwamura et.al.|[2401.17269v1](http://arxiv.org/abs/2401.17269v1)|null|
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
-|**2024-01-30**|**ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models**|Aline Hartgers et.al.|[2401.17267v1](http://arxiv.org/abs/2401.17267v1)|null|
-|**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
-|**2024-01-30**|**Partially Law-Invariant Risk Measures**|Yi Shen et.al.|[2401.17265v1](http://arxiv.org/abs/2401.17265v1)|null|
-|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|null|
-|**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[link](https://github.com/andyz245/rpo)|
-|**2024-01-30**|**Dark Matter Searches on a Photonic Chip**|Nikita Blinov et.al.|[2401.17260v1](http://arxiv.org/abs/2401.17260v1)|null|
-|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
-|**2024-01-30**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256v1](http://arxiv.org/abs/2401.17256v1)|[link](https://github.com/xuandongzhao/weak-to-strong)|
+|**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244v1](http://arxiv.org/abs/2401.17244v1)|null|
+|**2024-01-30**|**Evolvable Agents, a Fine Grained Approach for Distributed Evolutionary Computing: Walking towards the Peer-to-Peer Computing Frontiers**|Juan Luis Jiménez Laredo et.al.|[2401.17224v1](http://arxiv.org/abs/2401.17224v1)|null|
+|**2024-01-30**|**The effect of surface topography on benthic boundary layer flow: implications for marine larval transport and settlement**|Daniel Gysbers et.al.|[2401.17216v1](http://arxiv.org/abs/2401.17216v1)|null|
+|**2024-01-30**|**Zero-Shot Reinforcement Learning via Function Encoders**|Tyler Ingebrand et.al.|[2401.17173v1](http://arxiv.org/abs/2401.17173v1)|[link](https://github.com/anonymousresearcher5642/functionencoderrl)|
+|**2024-01-30**|**Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios**|Shijue Huang et.al.|[2401.17167v1](http://arxiv.org/abs/2401.17167v1)|[link](https://github.com/joeying1019/ultratool)|
+|**2024-01-30**|**Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat**|John Chen et.al.|[2401.17163v1](http://arxiv.org/abs/2401.17163v1)|null|
+|**2024-01-30**|**Flocking by turning away**|Suchismita Das et.al.|[2401.17153v1](http://arxiv.org/abs/2401.17153v1)|null|
+|**2024-01-30**|**Scalable Mechanism Design for Multi-Agent Path Finding**|Paul Friedrich et.al.|[2401.17044v1](http://arxiv.org/abs/2401.17044v1)|null|
+|**2024-01-30**|**CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement Learning**|Andreas W. M. Sauter et.al.|[2401.16974v1](http://arxiv.org/abs/2401.16974v1)|[link](https://github.com/sa-and/core)|
+|**2024-01-30**|**BAR Nash Equilibrium and Application to Blockchain Design**|Maxime Reynouard et.al.|[2401.16856v1](http://arxiv.org/abs/2401.16856v1)|null|
+|**2024-01-30**|**Can Large Language Models be Trusted for Evaluation? Scalable Meta-Evaluation of LLMs as Evaluators via Agent Debate**|Steffi Chern et.al.|[2401.16788v1](http://arxiv.org/abs/2401.16788v1)|null|
+|**2024-01-30**|**Extrinsicaly Rewarded Soft Q Imitation Learning with Discriminator**|Ryoma Furuyama et.al.|[2401.16772v1](http://arxiv.org/abs/2401.16772v1)|null|
+|**2024-01-30**|**Augmenting Replay in World Models for Continual Reinforcement Learning**|Luke Yang et.al.|[2401.16650v1](http://arxiv.org/abs/2401.16650v1)|[link](https://github.com/cerenaut/wmar)|
+|**2024-01-29**|**A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking**|Faraz Lotfi et.al.|[2401.16618v1](http://arxiv.org/abs/2401.16618v1)|[link](https://github.com/farazlotfi/underwater-object-tracking)|
+|**2024-01-29**|**ReLoki: Infrastructure-free Distributed Relative Localization using On-board UWB Antenna Arrays**|Joseph Prince Mathew et.al.|[2401.16599v1](http://arxiv.org/abs/2401.16599v1)|null|
+|**2024-01-29**|**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**|Abhinav Chakraborty et.al.|[2401.16596v1](http://arxiv.org/abs/2401.16596v1)|null|
+|**2024-01-29**|**A Fault-Tolerant Distributed Termination Method for Distributed Optimization Algorithms**|Mohannad Alkhraijah et.al.|[2401.16595v1](http://arxiv.org/abs/2401.16595v1)|null|
+|**2024-01-29**|**Strong Convergence of a Random Actions Model in Opinion Dynamics**|Olle Abrahamsson et.al.|[2401.16574v1](http://arxiv.org/abs/2401.16574v1)|null|
+|**2024-01-29**|**Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance**|Burak Aksoy et.al.|[2401.16560v1](http://arxiv.org/abs/2401.16560v1)|[link](https://github.com/burakaksoy/deformable_manipulations)|
+|**2024-01-29**|**Frustrated with MPI+Threads? Try MPIxThreads!**|Hui Zhou et.al.|[2401.16551v1](http://arxiv.org/abs/2401.16551v1)|null|
+|**2024-01-29**|**Robust Performance Evaluation of Independent and Identical Agents**|Ashwin Kambhampati et.al.|[2401.16542v1](http://arxiv.org/abs/2401.16542v1)|null|
+|**2024-01-29**|**Zero-shot Imitation Policy via Search in Demonstration Dataset**|Federco Malato et.al.|[2401.16398v1](http://arxiv.org/abs/2401.16398v1)|null|
+|**2024-01-29**|**Prepare Non-classical Collective Spin State by Reinforcement Learning**|X. L. Zhao et.al.|[2401.16320v1](http://arxiv.org/abs/2401.16320v1)|null|
+|**2024-01-29**|**Collaboration Petri Nets: Verification, Equivalence, and Discovery (Extended Version)**|Janik-Vasily Benzin et.al.|[2401.16263v2](http://arxiv.org/abs/2401.16263v2)|null|
+|**2024-01-29**|**Effective Communication with Dynamic Feature Compression**|Pietro Talli et.al.|[2401.16236v1](http://arxiv.org/abs/2401.16236v1)|[link](https://github.com/pietro-talli/tmlcn_code)|
+|**2024-01-29**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216v1](http://arxiv.org/abs/2401.16216v1)|null|
+|**2024-01-29**|**Contracting with a Learning Agent**|Guru Guruganesh et.al.|[2401.16198v1](http://arxiv.org/abs/2401.16198v1)|null|
+|**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189v1](http://arxiv.org/abs/2401.16189v1)|null|
+|**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183v1](http://arxiv.org/abs/2401.16183v1)|null|
+
+## CV
 
 ### Video Understanding
 |Publish Date|Title|Authors|PDF|Code|
@@ -272,7 +238,7 @@
 |**2024-01-30**|**Photon-triggered jets as probes of multi-stage jet modification**|C. Sirimanna et.al.|[2401.17259v1](http://arxiv.org/abs/2401.17259v1)|null|
 |**2024-01-30**|**Spectrum of global string networks and the axion dark matter mass**|Ken'ichi Saikawa et.al.|[2401.17253v1](http://arxiv.org/abs/2401.17253v1)|null|
 |**2024-01-30**|**Joint model with latent disease age: overcoming the need for reference time**|Juliette Ortholand et.al.|[2401.17249v1](http://arxiv.org/abs/2401.17249v1)|null|
-|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246v1](http://arxiv.org/abs/2401.17246v1)|null|
+|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246v1](http://arxiv.org/abs/2401.17246v1)|[link](https://github.com/InterDigitalInc/CompressAI)|
 |**2024-01-30**|**Revealing Callisto's carbon-rich surface and CO2 atmosphere with JWST**|Richard J. Cartwright et.al.|[2401.17236v1](http://arxiv.org/abs/2401.17236v1)|null|
 |**2024-01-30**|**ReAlnet: Achieving More Human Brain-Like Vision via Human Neural Representational Alignment**|Zitong Lu et.al.|[2401.17231v1](http://arxiv.org/abs/2401.17231v1)|null|
 |**2024-01-30**|**Stress and Alignment Response to Curved Obstacles in Growing Bacterial Monolayers**|Blake Langeslay et.al.|[2401.17222v1](http://arxiv.org/abs/2401.17222v1)|null|
@@ -285,7 +251,7 @@
 |**2024-01-30**|**Biophotons: A Hard Problem**|L. De Paolis et.al.|[2401.17166v1](http://arxiv.org/abs/2401.17166v1)|null|
 |**2024-01-30**|**An analytic approach for understanding mechanisms driving breakthrough infections**|Amanda Brucker et.al.|[2401.17164v1](http://arxiv.org/abs/2401.17164v1)|null|
 |**2024-01-30**|**Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat**|John Chen et.al.|[2401.17163v1](http://arxiv.org/abs/2401.17163v1)|null|
-|**2024-01-30**|**An Open Software Suite for Event-Based Video**|Andrew C. Freeman et.al.|[2401.17151v1](http://arxiv.org/abs/2401.17151v1)|null|
+|**2024-01-30**|**An Open Software Suite for Event-Based Video**|Andrew C. Freeman et.al.|[2401.17151v1](http://arxiv.org/abs/2401.17151v1)|[link](https://github.com/ac-freeman/adder-codec-rs)|
 |**2024-01-30**|**Moment-Tensor-Based Constant-Potential Modeling of Electrical Double Layers**|Zhenxiang Wang et.al.|[2401.17145v1](http://arxiv.org/abs/2401.17145v1)|null|
 |**2024-01-30**|**The topological structure of isolated points in the space of $\mathbb{Z}^d$-shifts**|Silvère Gangloff et.al.|[2401.17119v1](http://arxiv.org/abs/2401.17119v1)|null|
 
@@ -319,9 +285,43 @@
 |**2024-01-30**|**Massive black holes in nuclear star clusters: Investigation with SRG/eROSITA X-ray data**|Nils Hoyer et.al.|[2401.17288v1](http://arxiv.org/abs/2401.17288v1)|null|
 |**2024-01-30**|**Simultaneous X-ray and optical variability of M dwarfs observed with eROSITA and TESS**|W. M. Joseph et.al.|[2401.17287v1](http://arxiv.org/abs/2401.17287v1)|null|
 |**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
-|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|null|
+|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|[link](https://github.com/ageorgakakis/structurefunction)|
 |**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
 |**2024-01-30**|**The SRG/eROSITA all-sky survey -- Identifying the coronal content with HamStar**|S. Freund et.al.|[2401.17282v1](http://arxiv.org/abs/2401.17282v1)|null|
+
+### Diffusion Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312v1](http://arxiv.org/abs/2401.17312v1)|null|
+|**2024-01-30**|**X-ray counterpart detection and gamma-ray analysis of the SNR G279.0+01.1 with eROSITA and Fermi-LAT**|Miltiadis Michailidis et.al.|[2401.17311v1](http://arxiv.org/abs/2401.17311v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey II. Scaling Relations between X-ray Luminosity and Galaxies' Mass**|Yi Zhang et.al.|[2401.17309v1](http://arxiv.org/abs/2401.17309v1)|null|
+|**2024-01-30**|**The Hot Circum-Galactic Medium in the eROSITA All Sky Survey I. X-ray Surface Brightness Profiles**|Yi Zhang et.al.|[2401.17308v1](http://arxiv.org/abs/2401.17308v1)|null|
+|**2024-01-30**|**The eROSITA Upper Limits: Description and access to the data**|D. Tubín-Arenas et.al.|[2401.17305v1](http://arxiv.org/abs/2401.17305v1)|null|
+|**2024-01-30**|**Unraveling Variability and Estimating Mass Loss of Exoplanets in the Triplet Star System LTT 1445**|S. Rukdee et.al.|[2401.17303v1](http://arxiv.org/abs/2401.17303v1)|null|
+|**2024-01-30**|**The high-energy environment of the heavy sub-Earth GJ 367 b indicates likely complete evaporation of its atmosphere**|K. Poppenhaeger et.al.|[2401.17302v1](http://arxiv.org/abs/2401.17302v1)|null|
+|**2024-01-30**|**Ionised AGN outflows in the Goldfish galaxy -- The illuminating and interacting red quasar eFEDSJ091157.4+014327 at z ~ 0.6**|Blessing Musiimenta et.al.|[2401.17299v1](http://arxiv.org/abs/2401.17299v1)|null|
+|**2024-01-30**|**Cataclysmic variables around the period-bounce: An eROSITA-enhanced multi-wavelength catalog**|Daniela Muñoz-Giraldo et.al.|[2401.17298v1](http://arxiv.org/abs/2401.17298v1)|null|
+|**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294v1](http://arxiv.org/abs/2401.17294v1)|null|
+|**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291v1](http://arxiv.org/abs/2401.17291v1)|null|
+|**2024-01-30**|**Detection of pulsed X-ray emission from the isolated neutron star candidate eRASSU J131716.9-402647**|J. Kurpas et.al.|[2401.17290v1](http://arxiv.org/abs/2401.17290v1)|null|
+|**2024-01-30**|**A new understanding of the Gemini-Monoceros X-ray enhancement from discoveries with eROSITA**|Jonathan R. Knies et.al.|[2401.17289v1](http://arxiv.org/abs/2401.17289v1)|null|
+|**2024-01-30**|**A radio flare associated with the nuclear transient eRASSt J234403-352640: an outflow launched by a potential tidal disruption event**|A. J. Goodwin et.al.|[2401.17286v1](http://arxiv.org/abs/2401.17286v1)|null|
+|**2024-01-30**|**Ensemble X-ray variability of optically selected QSOs: dependence on black hole mass and Eddington ratio**|A. Georgakakis et.al.|[2401.17285v1](http://arxiv.org/abs/2401.17285v1)|[link](https://github.com/ageorgakakis/structurefunction)|
+|**2024-01-30**|**Probing the physical properties of the IGM using SRG/eROSITA spectra from blazars**|E. Gatuzz et.al.|[2401.17283v1](http://arxiv.org/abs/2401.17283v1)|null|
+|**2024-01-30**|**The more the merrier: SRG/eROSITA discovers two further galaxies showing X-ray quasi-periodic eruptions**|R. Arcodia et.al.|[2401.17275v1](http://arxiv.org/abs/2401.17275v1)|null|
+|**2024-01-30**|**Signs of magnetic star-planet interactions in HD 118203. TESS detects stellar variability that matches the orbital period of a close-in eccentric Jupiter-sized companion**|A. Castro-González et.al.|[2401.17272v1](http://arxiv.org/abs/2401.17272v1)|null|
+|**2024-01-30**|**A simple, strong baseline for building damage detection on the xBD dataset**|Sebastian Gerard et.al.|[2401.17271v1](http://arxiv.org/abs/2401.17271v1)|[link](https://github.com/paulbornep/xview2_strong_baseline)|
+|**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270v1](http://arxiv.org/abs/2401.17270v1)|[link](https://github.com/ailab-cvc/yolo-world)|
+|**2024-01-30**|**Effect of Weight Quantization on Learning Models by Typical Case Analysis**|Shuhei Kashiwamura et.al.|[2401.17269v1](http://arxiv.org/abs/2401.17269v1)|null|
+|**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
+|**2024-01-30**|**ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models**|Aline Hartgers et.al.|[2401.17267v1](http://arxiv.org/abs/2401.17267v1)|null|
+|**2024-01-30**|**Exploring Two-dimensional Coherent Spectroscopy with Exact Diagonalization: Spinons and Confinement in 1D Quantum Magnets**|Yoshito Watanabe et.al.|[2401.17266v1](http://arxiv.org/abs/2401.17266v1)|null|
+|**2024-01-30**|**Partially Law-Invariant Risk Measures**|Yi Shen et.al.|[2401.17265v1](http://arxiv.org/abs/2401.17265v1)|null|
+|**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|[link](https://github.com/facebookresearch/audioseal)|
+|**2024-01-30**|**Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks**|Andy Zhou et.al.|[2401.17263v1](http://arxiv.org/abs/2401.17263v1)|[link](https://github.com/andyz245/rpo)|
+|**2024-01-30**|**Dark Matter Searches on a Photonic Chip**|Nikita Blinov et.al.|[2401.17260v1](http://arxiv.org/abs/2401.17260v1)|null|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
+|**2024-01-30**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256v1](http://arxiv.org/abs/2401.17256v1)|[link](https://github.com/xuandongzhao/weak-to-strong)|
 
 ## CG
 
