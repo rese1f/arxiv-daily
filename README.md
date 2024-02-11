@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-11 20:21:18 Asia/Shanghai
+ Automated deployment @ 2024-02-11 20:41:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -153,40 +153,6 @@
 
 ## AI
 
-### Benchmark
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935v1](http://arxiv.org/abs/2402.05935v1)|[link](https://github.com/alpha-vllm/llama2-accessory)|
-|**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|[link](https://github.com/dani3lwinter/cohop)|
-|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|null|
-|**2024-02-08**|**Point-VOS: Pointing Up Video Object Segmentation**|Idil Esen Zulfikar et.al.|[2402.05917v1](http://arxiv.org/abs/2402.05917v1)|null|
-|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
-|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|null|
-|**2024-02-08**|**EUGENE: Explainable Unsupervised Approximation of Graph Edit Distance**|Aditya Bommakanti et.al.|[2402.05885v1](http://arxiv.org/abs/2402.05885v1)|null|
-|**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862v1](http://arxiv.org/abs/2402.05862v1)|null|
-|**2024-02-08**|**Learning to Route Among Specialized Experts for Zero-Shot Generalization**|Mohammed Muqeeth et.al.|[2402.05859v1](http://arxiv.org/abs/2402.05859v1)|[link](https://github.com/r-three/phatgoose)|
-|**2024-02-08**|**Sparse-VQ Transformer: An FFN-Free Framework with Vector Quantization for Enhanced Time Series Forecasting**|Yanjun Zhao et.al.|[2402.05830v1](http://arxiv.org/abs/2402.05830v1)|null|
-|**2024-02-08**|**Integrating Self-supervised Speech Model with Pseudo Word-level Targets from Visually-grounded Speech Model**|Hung-Chieh Fang et.al.|[2402.05819v1](http://arxiv.org/abs/2402.05819v1)|null|
-|**2024-02-08**|**Using YOLO v7 to Detect Kidney in Magnetic Resonance Imaging: A Supervised Contrastive Learning**|Pouria Yazdian Anari et.al.|[2402.05817v1](http://arxiv.org/abs/2402.05817v1)|null|
-|**2024-02-08**|**UAV-Rain1k: A Benchmark for Raindrop Removal from UAV Aerial Imagery**|Wenhui Chang et.al.|[2402.05773v1](http://arxiv.org/abs/2402.05773v1)|[link](https://github.com/cschenxiang/uav-rain1k)|
-|**2024-02-08**|**Off-policy Distributional Q($λ$): Distributional RL without Importance Sampling**|Yunhao Tang et.al.|[2402.05766v1](http://arxiv.org/abs/2402.05766v1)|null|
-|**2024-02-08**|**Interpretations of the ATLAS measurements of Higgs boson production and decay rates and differential cross-sections in $pp$ collisions at $\sqrt{s}=13$ TeV**|ATLAS Collaboration et.al.|[2402.05742v1](http://arxiv.org/abs/2402.05742v1)|null|
-|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712v1](http://arxiv.org/abs/2402.05712v1)|[link](https://github.com/theericma/diffspeaker)|
-|**2024-02-08**|**Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation**|Xianghe Pang et.al.|[2402.05699v1](http://arxiv.org/abs/2402.05699v1)|null|
-|**2024-02-08**|**Comprehensive Assessment of Jailbreak Attacks Against LLMs**|Junjie Chu et.al.|[2402.05668v1](http://arxiv.org/abs/2402.05668v1)|null|
-|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643v1](http://arxiv.org/abs/2402.05643v1)|[link](https://github.com/leor-c/rem)|
-|**2024-02-08**|**DAPlankton: Benchmark Dataset for Multi-instrument Plankton Recognition via Fine-grained Domain Adaptation**|Daniel Batrakhanov et.al.|[2402.05615v1](http://arxiv.org/abs/2402.05615v1)|null|
-|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608v1](http://arxiv.org/abs/2402.05608v1)|[link](https://github.com/feizc/dis)|
-|**2024-02-08**|**Internal Model Control design for systems learned by Control Affine Neural Nonlinear Autoregressive Exogenous Models**|Jing Xie et.al.|[2402.05607v1](http://arxiv.org/abs/2402.05607v1)|null|
-|**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
-|**2024-02-08**|**Flashback: Understanding and Mitigating Forgetting in Federated Learning**|Mohammed Aljahdali et.al.|[2402.05558v1](http://arxiv.org/abs/2402.05558v1)|null|
-|**2024-02-08**|**Efficient Expression Neutrality Estimation with Application to Face Recognition Utility Prediction**|Marcel Grimmer et.al.|[2402.05548v1](http://arxiv.org/abs/2402.05548v1)|null|
-|**2024-02-08**|**Benchmarking Large Language Models on Communicative Medical Coaching: a Novel System and Dataset**|Hengguan Huang et.al.|[2402.05547v1](http://arxiv.org/abs/2402.05547v1)|null|
-|**2024-02-08**|**Machine Learning Augmented Branch and Bound for Mixed Integer Linear Programming**|Lara Scavuzzo et.al.|[2402.05501v1](http://arxiv.org/abs/2402.05501v1)|null|
-|**2024-02-08**|**Reconsidering the performance of DEVS modeling and simulation environments using the DEVStone benchmark**|José L. Risco-Martín et.al.|[2402.05483v1](http://arxiv.org/abs/2402.05483v1)|null|
-|**2024-02-08**|**Refined TSSOS**|Daria Shaydurova et.al.|[2402.05444v1](http://arxiv.org/abs/2402.05444v1)|null|
-|**2024-02-08**|**Bivariate Bernstein Fractal Interpolation and Numerical Integration on Triangular Domains**|Aparna M. P. et.al.|[2402.05434v1](http://arxiv.org/abs/2402.05434v1)|null|
-
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -288,6 +254,40 @@
 |**2024-02-08**|**High-precision atmospheric characterization of a Y dwarf with JWST NIRSpec G395H spectroscopy: isotopologue, C/O ratio, metallicity, and the abundances of six molecular species**|Ben W. P. Lew et.al.|[2402.05900v1](http://arxiv.org/abs/2402.05900v1)|null|
 |**2024-02-08**|**Dielectric and refractive index measurements for the systems 1-pentanol + octane, or + dibutyl ether or for dibutyl ether + octane at different temperatures**|Víctor Alonso et.al.|[2402.05899v1](http://arxiv.org/abs/2402.05899v1)|null|
 |**2024-02-08**|**Scalar Radiation with a Quartic Galileon**|Claudia de Rham et.al.|[2402.05898v1](http://arxiv.org/abs/2402.05898v1)|null|
+
+### Benchmark
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935v1](http://arxiv.org/abs/2402.05935v1)|[link](https://github.com/alpha-vllm/llama2-accessory)|
+|**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|[link](https://github.com/dani3lwinter/cohop)|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|null|
+|**2024-02-08**|**Point-VOS: Pointing Up Video Object Segmentation**|Idil Esen Zulfikar et.al.|[2402.05917v1](http://arxiv.org/abs/2402.05917v1)|null|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
+|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|null|
+|**2024-02-08**|**EUGENE: Explainable Unsupervised Approximation of Graph Edit Distance**|Aditya Bommakanti et.al.|[2402.05885v1](http://arxiv.org/abs/2402.05885v1)|null|
+|**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862v1](http://arxiv.org/abs/2402.05862v1)|null|
+|**2024-02-08**|**Learning to Route Among Specialized Experts for Zero-Shot Generalization**|Mohammed Muqeeth et.al.|[2402.05859v1](http://arxiv.org/abs/2402.05859v1)|[link](https://github.com/r-three/phatgoose)|
+|**2024-02-08**|**Sparse-VQ Transformer: An FFN-Free Framework with Vector Quantization for Enhanced Time Series Forecasting**|Yanjun Zhao et.al.|[2402.05830v1](http://arxiv.org/abs/2402.05830v1)|null|
+|**2024-02-08**|**Integrating Self-supervised Speech Model with Pseudo Word-level Targets from Visually-grounded Speech Model**|Hung-Chieh Fang et.al.|[2402.05819v1](http://arxiv.org/abs/2402.05819v1)|null|
+|**2024-02-08**|**Using YOLO v7 to Detect Kidney in Magnetic Resonance Imaging: A Supervised Contrastive Learning**|Pouria Yazdian Anari et.al.|[2402.05817v1](http://arxiv.org/abs/2402.05817v1)|null|
+|**2024-02-08**|**UAV-Rain1k: A Benchmark for Raindrop Removal from UAV Aerial Imagery**|Wenhui Chang et.al.|[2402.05773v1](http://arxiv.org/abs/2402.05773v1)|[link](https://github.com/cschenxiang/uav-rain1k)|
+|**2024-02-08**|**Off-policy Distributional Q($λ$): Distributional RL without Importance Sampling**|Yunhao Tang et.al.|[2402.05766v1](http://arxiv.org/abs/2402.05766v1)|null|
+|**2024-02-08**|**Interpretations of the ATLAS measurements of Higgs boson production and decay rates and differential cross-sections in $pp$ collisions at $\sqrt{s}=13$ TeV**|ATLAS Collaboration et.al.|[2402.05742v1](http://arxiv.org/abs/2402.05742v1)|null|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712v1](http://arxiv.org/abs/2402.05712v1)|[link](https://github.com/theericma/diffspeaker)|
+|**2024-02-08**|**Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation**|Xianghe Pang et.al.|[2402.05699v1](http://arxiv.org/abs/2402.05699v1)|null|
+|**2024-02-08**|**Comprehensive Assessment of Jailbreak Attacks Against LLMs**|Junjie Chu et.al.|[2402.05668v1](http://arxiv.org/abs/2402.05668v1)|null|
+|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643v1](http://arxiv.org/abs/2402.05643v1)|[link](https://github.com/leor-c/rem)|
+|**2024-02-08**|**DAPlankton: Benchmark Dataset for Multi-instrument Plankton Recognition via Fine-grained Domain Adaptation**|Daniel Batrakhanov et.al.|[2402.05615v1](http://arxiv.org/abs/2402.05615v1)|null|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608v1](http://arxiv.org/abs/2402.05608v1)|[link](https://github.com/feizc/dis)|
+|**2024-02-08**|**Internal Model Control design for systems learned by Control Affine Neural Nonlinear Autoregressive Exogenous Models**|Jing Xie et.al.|[2402.05607v1](http://arxiv.org/abs/2402.05607v1)|null|
+|**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
+|**2024-02-08**|**Flashback: Understanding and Mitigating Forgetting in Federated Learning**|Mohammed Aljahdali et.al.|[2402.05558v1](http://arxiv.org/abs/2402.05558v1)|null|
+|**2024-02-08**|**Efficient Expression Neutrality Estimation with Application to Face Recognition Utility Prediction**|Marcel Grimmer et.al.|[2402.05548v1](http://arxiv.org/abs/2402.05548v1)|null|
+|**2024-02-08**|**Benchmarking Large Language Models on Communicative Medical Coaching: a Novel System and Dataset**|Hengguan Huang et.al.|[2402.05547v1](http://arxiv.org/abs/2402.05547v1)|null|
+|**2024-02-08**|**Machine Learning Augmented Branch and Bound for Mixed Integer Linear Programming**|Lara Scavuzzo et.al.|[2402.05501v1](http://arxiv.org/abs/2402.05501v1)|null|
+|**2024-02-08**|**Reconsidering the performance of DEVS modeling and simulation environments using the DEVStone benchmark**|José L. Risco-Martín et.al.|[2402.05483v1](http://arxiv.org/abs/2402.05483v1)|null|
+|**2024-02-08**|**Refined TSSOS**|Daria Shaydurova et.al.|[2402.05444v1](http://arxiv.org/abs/2402.05444v1)|null|
+|**2024-02-08**|**Bivariate Bernstein Fractal Interpolation and Numerical Integration on Triangular Domains**|Aparna M. P. et.al.|[2402.05434v1](http://arxiv.org/abs/2402.05434v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
