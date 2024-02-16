@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-16 20:57:13 Asia/Shanghai
+ Automated deployment @ 2024-02-16 21:16:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -153,39 +153,39 @@
 
 ## AI
 
-### Embodied Agent
+### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
+|**2024-02-15**|**Good models of Hilbert schemes of points over semistable degenerations**|Calla Tschanz et.al.|[2402.10209v1](http://arxiv.org/abs/2402.10209v1)|null|
+|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208v1](http://arxiv.org/abs/2402.10208v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)|
+|**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202v1](http://arxiv.org/abs/2402.10202v1)|null|
+|**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201v1](http://arxiv.org/abs/2402.10201v1)|null|
+|**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200v1](http://arxiv.org/abs/2402.10200v1)|null|
+|**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|[link](https://github.com/romilbert/samformer)|
 |**2024-02-15**|**A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents**|Lingbo Mo et.al.|[2402.10196v1](http://arxiv.org/abs/2402.10196v1)|[link](https://github.com/osu-nlp-group/agentattack)|
+|**2024-02-15**|**BitDelta: Your Fine-Tune May Only Be Worth One Bit**|James Liu et.al.|[2402.10193v1](http://arxiv.org/abs/2402.10193v1)|[link](https://github.com/FasterDecoding/BitDelta)|
 |**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|null|
+|**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191v1](http://arxiv.org/abs/2402.10191v1)|null|
+|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v1](http://arxiv.org/abs/2402.10189v1)|[link](https://github.com/lingchen0331/uq_icl)|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187v1](http://arxiv.org/abs/2402.10187v1)|null|
+|**2024-02-15**|**Self-consistent Validation for Machine Learning Electronic Structure**|Gengyuan Hu et.al.|[2402.10186v1](http://arxiv.org/abs/2402.10186v1)|null|
+|**2024-02-15**|**A coupled VOF/embedded boundary method to model two-phase flows on arbitrary solid surfaces**|Mathilde Tavares et.al.|[2402.10185v1](http://arxiv.org/abs/2402.10185v1)|null|
+|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184v1](http://arxiv.org/abs/2402.10184v1)|null|
 |**2024-02-15**|**Intent Demonstration in General-Sum Dynamic Games via Iterative Linear-Quadratic Approximations**|Jingqi Li et.al.|[2402.10182v1](http://arxiv.org/abs/2402.10182v1)|null|
 |**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178v1](http://arxiv.org/abs/2402.10178v1)|null|
 |**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177v1](http://arxiv.org/abs/2402.10177v1)|null|
+|**2024-02-15**|**OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset**|Shubham Toshniwal et.al.|[2402.10176v1](http://arxiv.org/abs/2402.10176v1)|[link](https://github.com/kipok/nemo-skills)|
+|**2024-02-15**|**Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence**|Yinhong Liu et.al.|[2402.10175v1](http://arxiv.org/abs/2402.10175v1)|[link](https://github.com/williamlyh/pos_div_metric)|
 |**2024-02-15**|**OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models**|Ali AhmadiTeshnizi et.al.|[2402.10172v1](http://arxiv.org/abs/2402.10172v1)|null|
+|**2024-02-15**|**Data Engineering for Scaling Language Models to 128K Context**|Yao Fu et.al.|[2402.10171v1](http://arxiv.org/abs/2402.10171v1)|[link](https://github.com/franxyao/long-context-data-engineering)|
+|**2024-02-15**|**Curves of growth for transiting exocomets: Application to Fe II lines in the Beta Pictoris system**|T. Vrignaud et.al.|[2402.10169v1](http://arxiv.org/abs/2402.10169v1)|null|
+|**2024-02-15**|**A geometrical interpretation of critical exponents**|Henrique A. Lima et.al.|[2402.10167v1](http://arxiv.org/abs/2402.10167v1)|null|
 |**2024-02-15**|**Accuracy of discrete- and continuous-time mean-field theories for epidemic processes on complex networks**|Diogo H. Silva et.al.|[2402.10166v1](http://arxiv.org/abs/2402.10166v1)|null|
-|**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153v1](http://arxiv.org/abs/2402.10153v1)|null|
-|**2024-02-15**|**SwissNYF: Tool Grounded LLM Agents for Black Box Setting**|Somnath Sendhil Kumar et.al.|[2402.10051v1](http://arxiv.org/abs/2402.10051v1)|null|
-|**2024-02-15**|**Approximating Competitive Equilibrium by Nash Welfare**|Jugal Garg et.al.|[2402.09994v1](http://arxiv.org/abs/2402.09994v1)|null|
-|**2024-02-15**|**Symmetry-Breaking Augmentations for Ad Hoc Teamwork**|Ravi Hammond et.al.|[2402.09984v1](http://arxiv.org/abs/2402.09984v1)|null|
-|**2024-02-15**|**Characterizing Role Models in Software Practitioners' Career: An Interview Study**|Mary Sánchez-Gordón et.al.|[2402.09925v1](http://arxiv.org/abs/2402.09925v1)|null|
-|**2024-02-15**|**Identifying and modelling cognitive biases in mobility choices**|Chloe Conrad et.al.|[2402.09921v1](http://arxiv.org/abs/2402.09921v1)|null|
-|**2024-02-15**|**On Computing Plans with Uniform Action Costs**|Alberto Pozanco et.al.|[2402.09877v1](http://arxiv.org/abs/2402.09877v1)|null|
-|**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844v1](http://arxiv.org/abs/2402.09844v1)|null|
-|**2024-02-15**|**Performative Reinforcement Learning in Gradually Shifting Environments**|Ben Rank et.al.|[2402.09838v1](http://arxiv.org/abs/2402.09838v1)|[link](https://github.com/bsen/performative-rl-gradually-shifting-envs)|
-|**2024-02-15**|**A cross-talk robust multichannel VAD model for multiparty agent interactions trained using synthetic re-recordings**|Hyewon Han et.al.|[2402.09797v1](http://arxiv.org/abs/2402.09797v1)|null|
-|**2024-02-15**|**Identification with Posterior-Separable Information Costs**|Martin Bustos et.al.|[2402.09789v1](http://arxiv.org/abs/2402.09789v1)|null|
-|**2024-02-15**|**Alpha-GPT 2.0: Human-in-the-Loop AI for Quantitative Investment**|Hang Yuan et.al.|[2402.09746v1](http://arxiv.org/abs/2402.09746v1)|null|
-|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|null|
-|**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742v1](http://arxiv.org/abs/2402.09742v1)|null|
-|**2024-02-15**|**Agents Need Not Know Their Purpose**|Paulo Garcia et.al.|[2402.09734v1](http://arxiv.org/abs/2402.09734v1)|null|
-|**2024-02-15**|**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**|Kuang-Huei Lee et.al.|[2402.09727v1](http://arxiv.org/abs/2402.09727v1)|null|
-|**2024-02-15**|**Persuading a Learning Agent**|Tao Lin et.al.|[2402.09721v1](http://arxiv.org/abs/2402.09721v1)|null|
-|**2024-02-15**|**An Accelerated Distributed Stochastic Gradient Method with Momentum**|Kun Huang et.al.|[2402.09714v1](http://arxiv.org/abs/2402.09714v1)|null|
-|**2024-02-15**|**Unbalanced Random Matching Markets with Partial Preferences**|Aditya Potukuchi et.al.|[2402.09667v1](http://arxiv.org/abs/2402.09667v1)|null|
-|**2024-02-14**|**Advancing Building Energy Modeling with Large Language Models: Exploration and Case Studies**|Liang Zhang et.al.|[2402.09579v1](http://arxiv.org/abs/2402.09579v1)|null|
-|**2024-02-14**|**ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents**|Kshama Dwarakanath et.al.|[2402.09563v1](http://arxiv.org/abs/2402.09563v1)|null|
-|**2024-02-14**|**Rationality Report Cards: Assessing the Economic Rationality of Large Language Models**|Narun Raman et.al.|[2402.09552v1](http://arxiv.org/abs/2402.09552v1)|null|
-|**2024-02-14**|**Persuasion, Delegation, and Private Information in Algorithm-Assisted Decisions**|Ruqing Xu et.al.|[2402.09384v1](http://arxiv.org/abs/2402.09384v1)|null|
 
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
@@ -255,39 +255,39 @@
 |**2024-02-14**|**Solid Waste Detection in Remote Sensing Images: A Survey**|Piero Fraternali et.al.|[2402.09066v1](http://arxiv.org/abs/2402.09066v1)|null|
 |**2024-02-14**|**A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation**|Yurina Nakazato et.al.|[2402.08911v1](http://arxiv.org/abs/2402.08911v1)|null|
 
-### Large Language Model
+### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
-|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
-|**2024-02-15**|**Good models of Hilbert schemes of points over semistable degenerations**|Calla Tschanz et.al.|[2402.10209v1](http://arxiv.org/abs/2402.10209v1)|null|
-|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208v1](http://arxiv.org/abs/2402.10208v1)|null|
-|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
-|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
-|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)|
-|**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202v1](http://arxiv.org/abs/2402.10202v1)|null|
-|**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201v1](http://arxiv.org/abs/2402.10201v1)|null|
-|**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200v1](http://arxiv.org/abs/2402.10200v1)|null|
-|**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|[link](https://github.com/romilbert/samformer)|
 |**2024-02-15**|**A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents**|Lingbo Mo et.al.|[2402.10196v1](http://arxiv.org/abs/2402.10196v1)|[link](https://github.com/osu-nlp-group/agentattack)|
-|**2024-02-15**|**BitDelta: Your Fine-Tune May Only Be Worth One Bit**|James Liu et.al.|[2402.10193v1](http://arxiv.org/abs/2402.10193v1)|[link](https://github.com/FasterDecoding/BitDelta)|
 |**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|null|
-|**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191v1](http://arxiv.org/abs/2402.10191v1)|null|
-|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v1](http://arxiv.org/abs/2402.10189v1)|[link](https://github.com/lingchen0331/uq_icl)|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187v1](http://arxiv.org/abs/2402.10187v1)|null|
-|**2024-02-15**|**Self-consistent Validation for Machine Learning Electronic Structure**|Gengyuan Hu et.al.|[2402.10186v1](http://arxiv.org/abs/2402.10186v1)|null|
-|**2024-02-15**|**A coupled VOF/embedded boundary method to model two-phase flows on arbitrary solid surfaces**|Mathilde Tavares et.al.|[2402.10185v1](http://arxiv.org/abs/2402.10185v1)|null|
-|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184v1](http://arxiv.org/abs/2402.10184v1)|null|
 |**2024-02-15**|**Intent Demonstration in General-Sum Dynamic Games via Iterative Linear-Quadratic Approximations**|Jingqi Li et.al.|[2402.10182v1](http://arxiv.org/abs/2402.10182v1)|null|
 |**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178v1](http://arxiv.org/abs/2402.10178v1)|null|
 |**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177v1](http://arxiv.org/abs/2402.10177v1)|null|
-|**2024-02-15**|**OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset**|Shubham Toshniwal et.al.|[2402.10176v1](http://arxiv.org/abs/2402.10176v1)|[link](https://github.com/kipok/nemo-skills)|
-|**2024-02-15**|**Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence**|Yinhong Liu et.al.|[2402.10175v1](http://arxiv.org/abs/2402.10175v1)|[link](https://github.com/williamlyh/pos_div_metric)|
 |**2024-02-15**|**OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models**|Ali AhmadiTeshnizi et.al.|[2402.10172v1](http://arxiv.org/abs/2402.10172v1)|null|
-|**2024-02-15**|**Data Engineering for Scaling Language Models to 128K Context**|Yao Fu et.al.|[2402.10171v1](http://arxiv.org/abs/2402.10171v1)|[link](https://github.com/franxyao/long-context-data-engineering)|
-|**2024-02-15**|**Curves of growth for transiting exocomets: Application to Fe II lines in the Beta Pictoris system**|T. Vrignaud et.al.|[2402.10169v1](http://arxiv.org/abs/2402.10169v1)|null|
-|**2024-02-15**|**A geometrical interpretation of critical exponents**|Henrique A. Lima et.al.|[2402.10167v1](http://arxiv.org/abs/2402.10167v1)|null|
 |**2024-02-15**|**Accuracy of discrete- and continuous-time mean-field theories for epidemic processes on complex networks**|Diogo H. Silva et.al.|[2402.10166v1](http://arxiv.org/abs/2402.10166v1)|null|
+|**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153v1](http://arxiv.org/abs/2402.10153v1)|null|
+|**2024-02-15**|**SwissNYF: Tool Grounded LLM Agents for Black Box Setting**|Somnath Sendhil Kumar et.al.|[2402.10051v1](http://arxiv.org/abs/2402.10051v1)|null|
+|**2024-02-15**|**Approximating Competitive Equilibrium by Nash Welfare**|Jugal Garg et.al.|[2402.09994v1](http://arxiv.org/abs/2402.09994v1)|null|
+|**2024-02-15**|**Symmetry-Breaking Augmentations for Ad Hoc Teamwork**|Ravi Hammond et.al.|[2402.09984v1](http://arxiv.org/abs/2402.09984v1)|null|
+|**2024-02-15**|**Characterizing Role Models in Software Practitioners' Career: An Interview Study**|Mary Sánchez-Gordón et.al.|[2402.09925v1](http://arxiv.org/abs/2402.09925v1)|null|
+|**2024-02-15**|**Identifying and modelling cognitive biases in mobility choices**|Chloe Conrad et.al.|[2402.09921v1](http://arxiv.org/abs/2402.09921v1)|null|
+|**2024-02-15**|**On Computing Plans with Uniform Action Costs**|Alberto Pozanco et.al.|[2402.09877v1](http://arxiv.org/abs/2402.09877v1)|null|
+|**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844v1](http://arxiv.org/abs/2402.09844v1)|null|
+|**2024-02-15**|**Performative Reinforcement Learning in Gradually Shifting Environments**|Ben Rank et.al.|[2402.09838v1](http://arxiv.org/abs/2402.09838v1)|[link](https://github.com/bsen/performative-rl-gradually-shifting-envs)|
+|**2024-02-15**|**A cross-talk robust multichannel VAD model for multiparty agent interactions trained using synthetic re-recordings**|Hyewon Han et.al.|[2402.09797v1](http://arxiv.org/abs/2402.09797v1)|null|
+|**2024-02-15**|**Identification with Posterior-Separable Information Costs**|Martin Bustos et.al.|[2402.09789v1](http://arxiv.org/abs/2402.09789v1)|null|
+|**2024-02-15**|**Alpha-GPT 2.0: Human-in-the-Loop AI for Quantitative Investment**|Hang Yuan et.al.|[2402.09746v1](http://arxiv.org/abs/2402.09746v1)|null|
+|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|null|
+|**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742v1](http://arxiv.org/abs/2402.09742v1)|null|
+|**2024-02-15**|**Agents Need Not Know Their Purpose**|Paulo Garcia et.al.|[2402.09734v1](http://arxiv.org/abs/2402.09734v1)|null|
+|**2024-02-15**|**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**|Kuang-Huei Lee et.al.|[2402.09727v1](http://arxiv.org/abs/2402.09727v1)|null|
+|**2024-02-15**|**Persuading a Learning Agent**|Tao Lin et.al.|[2402.09721v1](http://arxiv.org/abs/2402.09721v1)|null|
+|**2024-02-15**|**An Accelerated Distributed Stochastic Gradient Method with Momentum**|Kun Huang et.al.|[2402.09714v1](http://arxiv.org/abs/2402.09714v1)|null|
+|**2024-02-15**|**Unbalanced Random Matching Markets with Partial Preferences**|Aditya Potukuchi et.al.|[2402.09667v1](http://arxiv.org/abs/2402.09667v1)|null|
+|**2024-02-14**|**Advancing Building Energy Modeling with Large Language Models: Exploration and Case Studies**|Liang Zhang et.al.|[2402.09579v1](http://arxiv.org/abs/2402.09579v1)|null|
+|**2024-02-14**|**ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents**|Kshama Dwarakanath et.al.|[2402.09563v1](http://arxiv.org/abs/2402.09563v1)|null|
+|**2024-02-14**|**Rationality Report Cards: Assessing the Economic Rationality of Large Language Models**|Narun Raman et.al.|[2402.09552v1](http://arxiv.org/abs/2402.09552v1)|null|
+|**2024-02-14**|**Persuasion, Delegation, and Private Information in Algorithm-Assisted Decisions**|Ruqing Xu et.al.|[2402.09384v1](http://arxiv.org/abs/2402.09384v1)|null|
 
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
