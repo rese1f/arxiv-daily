@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-10 20:40:34 Asia/Shanghai
+ Automated deployment @ 2024-03-10 20:52:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,40 +48,6 @@
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444v1](http://arxiv.org/abs/2403.04444v1)|null|
 
 ## AI
-
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-07**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[2403.04745v1](http://arxiv.org/abs/2403.04745v1)|null|
-|**2024-03-07**|**Fast, robust and laser-free universal entangling gates for trapped-ion quantum computing**|Markus Nünnerich et.al.|[2403.04730v1](http://arxiv.org/abs/2403.04730v1)|null|
-|**2024-03-07**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v1](http://arxiv.org/abs/2403.04629v1)|null|
-|**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[2403.04593v1](http://arxiv.org/abs/2403.04593v1)|[link](https://github.com/opendrivelab/elm)|
-|**2024-03-07**|**Chirped pulse control over the melting of superconductors**|Maria Recasens et.al.|[2403.04538v1](http://arxiv.org/abs/2403.04538v1)|null|
-|**2024-03-07**|**Geometric Phase-Driven Scattering Evolutions**|Pengxiang Wang et.al.|[2403.04527v1](http://arxiv.org/abs/2403.04527v1)|null|
-|**2024-03-07**|**Homotopical Minimal Measures for Geodesic flows on Surfaces of Higher Genus**|Fang Wang et.al.|[2403.04452v1](http://arxiv.org/abs/2403.04452v1)|null|
-|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443v1](http://arxiv.org/abs/2403.04443v1)|null|
-|**2024-03-07**|**iTRPL: An Intelligent and Trusted RPL Protocol based on Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2403.04416v1](http://arxiv.org/abs/2403.04416v1)|null|
-|**2024-03-07**|**Non-negative solutions of a sublinear elliptic problem**|Julián López-Gómez et.al.|[2403.04396v1](http://arxiv.org/abs/2403.04396v1)|null|
-|**2024-03-07**|**Video-Driven Animation of Neural Head Avatars**|Wolfgang Paier et.al.|[2403.04380v1](http://arxiv.org/abs/2403.04380v1)|null|
-|**2024-03-07**|**Cooperative Task Execution in Multi-Agent Systems**|Karishma et.al.|[2403.04370v1](http://arxiv.org/abs/2403.04370v1)|null|
-|**2024-03-07**|**A Logarithmic Mean Divisia Index Decomposition of CO$_2$ Emissions from Energy Use in Romania**|Mariana Carmelia Balanica-Dragomir et.al.|[2403.04354v1](http://arxiv.org/abs/2403.04354v1)|null|
-|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
-|**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299v1](http://arxiv.org/abs/2403.04299v1)|null|
-|**2024-03-07**|**A challenge in A(G)I, cybernetics revived in the Ouroboros Model as one algorithm for all thinking**|Knud Thomsen et.al.|[2403.04292v1](http://arxiv.org/abs/2403.04292v1)|null|
-|**2024-03-07**|**Monochromatic high-harmonic generation by Bessel-Gauss beam in periodically modulated media**|Ondřej Finke et.al.|[2403.04288v1](http://arxiv.org/abs/2403.04288v1)|[link](https://github.com/ofinke/monochromatic-hhg-with-bg-beams)|
-|**2024-03-07**|**The small mass limit for a McKean-Vlasov equation with state-dependent friction**|Chungang Shi et.al.|[2403.04275v1](http://arxiv.org/abs/2403.04275v1)|null|
-|**2024-03-07**|**Control Barrier Functions for Linear Continuous-Time Input-Delay Systems with Limited-Horizon Previewable Disturbances**|Tarun Pati et.al.|[2403.04243v1](http://arxiv.org/abs/2403.04243v1)|null|
-|**2024-03-07**|**DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning**|Xingwei Qu et.al.|[2403.04233v1](http://arxiv.org/abs/2403.04233v1)|null|
-|**2024-03-07**|**Generalizing Cooperative Eco-driving via Multi-residual Task Learning**|Vindula Jayawardana et.al.|[2403.04232v1](http://arxiv.org/abs/2403.04232v1)|null|
-|**2024-03-07**|**Incremental Bayesian Learning for Fail-Operational Control in Autonomous Driving**|Lei Zheng et.al.|[2403.04143v1](http://arxiv.org/abs/2403.04143v1)|null|
-|**2024-03-07**|**Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving**|Napat Karnchanachari et.al.|[2403.04133v1](http://arxiv.org/abs/2403.04133v1)|null|
-|**2024-03-06**|**Multi-Object Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Riccardo Pieroni et.al.|[2403.04112v1](http://arxiv.org/abs/2403.04112v1)|null|
-|**2024-03-06**|**Heimdallr, Baldr and Solarstein: designing the next generation of VLTI instruments in the Asgard suite**|Adam K. Taras et.al.|[2403.04091v1](http://arxiv.org/abs/2403.04091v1)|null|
-|**2024-03-06**|**Assigning Entities to Teams as a Hypergraph Discovery Problem**|Guilherme Ferraz de Arruda et.al.|[2403.04063v1](http://arxiv.org/abs/2403.04063v1)|null|
-|**2024-03-06**|**Chance-Constrained Control for Safe Spacecraft Autonomy: Convex Programming Approach**|Kenshiro Oguri et.al.|[2403.04062v1](http://arxiv.org/abs/2403.04062v1)|null|
-|**2024-03-06**|**Multi-Robot Autonomous Exploration and Mapping Under Localization Uncertainty with Expectation-Maximization**|Yewei Huang et.al.|[2403.04021v1](http://arxiv.org/abs/2403.04021v1)|null|
-|**2024-03-06**|**Bidirectional Progressive Neural Networks with Episodic Return Progress for Emergent Task Sequencing and Robotic Skill Transfer**|Suzan Ece Ada et.al.|[2403.04001v1](http://arxiv.org/abs/2403.04001v1)|null|
-|**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949v1](http://arxiv.org/abs/2403.03949v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
@@ -151,6 +117,40 @@
 |**2024-03-07**|**On the Topology Awareness and Generalization Performance of Graph Neural Networks**|Junwei Su et.al.|[2403.04482v1](http://arxiv.org/abs/2403.04482v1)|null|
 |**2024-03-07**|**Do Large Language Model Understand Multi-Intent Spoken Language ?**|Shangjian Yin et.al.|[2403.04481v1](http://arxiv.org/abs/2403.04481v1)|[link](https://github.com/SJY8460/SLM)|
 
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-07**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[2403.04745v1](http://arxiv.org/abs/2403.04745v1)|null|
+|**2024-03-07**|**Fast, robust and laser-free universal entangling gates for trapped-ion quantum computing**|Markus Nünnerich et.al.|[2403.04730v1](http://arxiv.org/abs/2403.04730v1)|null|
+|**2024-03-07**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v1](http://arxiv.org/abs/2403.04629v1)|null|
+|**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[2403.04593v1](http://arxiv.org/abs/2403.04593v1)|[link](https://github.com/opendrivelab/elm)|
+|**2024-03-07**|**Chirped pulse control over the melting of superconductors**|Maria Recasens et.al.|[2403.04538v1](http://arxiv.org/abs/2403.04538v1)|null|
+|**2024-03-07**|**Geometric Phase-Driven Scattering Evolutions**|Pengxiang Wang et.al.|[2403.04527v1](http://arxiv.org/abs/2403.04527v1)|null|
+|**2024-03-07**|**Homotopical Minimal Measures for Geodesic flows on Surfaces of Higher Genus**|Fang Wang et.al.|[2403.04452v1](http://arxiv.org/abs/2403.04452v1)|null|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443v1](http://arxiv.org/abs/2403.04443v1)|null|
+|**2024-03-07**|**iTRPL: An Intelligent and Trusted RPL Protocol based on Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2403.04416v1](http://arxiv.org/abs/2403.04416v1)|null|
+|**2024-03-07**|**Non-negative solutions of a sublinear elliptic problem**|Julián López-Gómez et.al.|[2403.04396v1](http://arxiv.org/abs/2403.04396v1)|null|
+|**2024-03-07**|**Video-Driven Animation of Neural Head Avatars**|Wolfgang Paier et.al.|[2403.04380v1](http://arxiv.org/abs/2403.04380v1)|null|
+|**2024-03-07**|**Cooperative Task Execution in Multi-Agent Systems**|Karishma et.al.|[2403.04370v1](http://arxiv.org/abs/2403.04370v1)|null|
+|**2024-03-07**|**A Logarithmic Mean Divisia Index Decomposition of CO$_2$ Emissions from Energy Use in Romania**|Mariana Carmelia Balanica-Dragomir et.al.|[2403.04354v1](http://arxiv.org/abs/2403.04354v1)|null|
+|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
+|**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299v1](http://arxiv.org/abs/2403.04299v1)|null|
+|**2024-03-07**|**A challenge in A(G)I, cybernetics revived in the Ouroboros Model as one algorithm for all thinking**|Knud Thomsen et.al.|[2403.04292v1](http://arxiv.org/abs/2403.04292v1)|null|
+|**2024-03-07**|**Monochromatic high-harmonic generation by Bessel-Gauss beam in periodically modulated media**|Ondřej Finke et.al.|[2403.04288v1](http://arxiv.org/abs/2403.04288v1)|[link](https://github.com/ofinke/monochromatic-hhg-with-bg-beams)|
+|**2024-03-07**|**The small mass limit for a McKean-Vlasov equation with state-dependent friction**|Chungang Shi et.al.|[2403.04275v1](http://arxiv.org/abs/2403.04275v1)|null|
+|**2024-03-07**|**Control Barrier Functions for Linear Continuous-Time Input-Delay Systems with Limited-Horizon Previewable Disturbances**|Tarun Pati et.al.|[2403.04243v1](http://arxiv.org/abs/2403.04243v1)|null|
+|**2024-03-07**|**DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning**|Xingwei Qu et.al.|[2403.04233v1](http://arxiv.org/abs/2403.04233v1)|null|
+|**2024-03-07**|**Generalizing Cooperative Eco-driving via Multi-residual Task Learning**|Vindula Jayawardana et.al.|[2403.04232v1](http://arxiv.org/abs/2403.04232v1)|null|
+|**2024-03-07**|**Incremental Bayesian Learning for Fail-Operational Control in Autonomous Driving**|Lei Zheng et.al.|[2403.04143v1](http://arxiv.org/abs/2403.04143v1)|null|
+|**2024-03-07**|**Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving**|Napat Karnchanachari et.al.|[2403.04133v1](http://arxiv.org/abs/2403.04133v1)|null|
+|**2024-03-06**|**Multi-Object Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Riccardo Pieroni et.al.|[2403.04112v1](http://arxiv.org/abs/2403.04112v1)|null|
+|**2024-03-06**|**Heimdallr, Baldr and Solarstein: designing the next generation of VLTI instruments in the Asgard suite**|Adam K. Taras et.al.|[2403.04091v1](http://arxiv.org/abs/2403.04091v1)|null|
+|**2024-03-06**|**Assigning Entities to Teams as a Hypergraph Discovery Problem**|Guilherme Ferraz de Arruda et.al.|[2403.04063v1](http://arxiv.org/abs/2403.04063v1)|null|
+|**2024-03-06**|**Chance-Constrained Control for Safe Spacecraft Autonomy: Convex Programming Approach**|Kenshiro Oguri et.al.|[2403.04062v1](http://arxiv.org/abs/2403.04062v1)|null|
+|**2024-03-06**|**Multi-Robot Autonomous Exploration and Mapping Under Localization Uncertainty with Expectation-Maximization**|Yewei Huang et.al.|[2403.04021v1](http://arxiv.org/abs/2403.04021v1)|null|
+|**2024-03-06**|**Bidirectional Progressive Neural Networks with Episodic Return Progress for Emergent Task Sequencing and Robotic Skill Transfer**|Suzan Ece Ada et.al.|[2403.04001v1](http://arxiv.org/abs/2403.04001v1)|null|
+|**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949v1](http://arxiv.org/abs/2403.03949v1)|null|
+
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -218,6 +218,42 @@
 |**2024-03-07**|**Literature Review of Current Sustainability Assessment Frameworks and Approaches for Organizations**|Sarah Farahdel et.al.|[2403.04717v1](http://arxiv.org/abs/2403.04717v1)|null|
 |**2024-03-07**|**QRtree -- Decision Tree dialect specification of QRscript**|Stefano Scanzio et.al.|[2403.04716v1](http://arxiv.org/abs/2403.04716v1)|null|
 |**2024-03-07**|**Molecular Gas Tracers in Young and Old Protoplanetary Disks**|Dana E. Anderson et.al.|[2403.04715v1](http://arxiv.org/abs/2403.04715v1)|null|
+
+## CG
+
+### Gaussian Splatting
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-07**|**SQ Lower Bounds for Non-Gaussian Component Analysis with Weaker Assumptions**|Ilias Diakonikolas et.al.|[2403.04744v1](http://arxiv.org/abs/2403.04744v1)|null|
+|**2024-03-07**|**Bayesian Inference of Time-Varying Origin-Destination Matrices from Boarding/Alighting Counts for Transit Services**|Xiaoxu Chen et.al.|[2403.04742v1](http://arxiv.org/abs/2403.04742v1)|null|
+|**2024-03-07**|**GMKF: Generalized Moment Kalman Filter for Polynomial Systems with Arbitrary Noise**|Sangli Teng et.al.|[2403.04712v1](http://arxiv.org/abs/2403.04712v1)|null|
+|**2024-03-07**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v1](http://arxiv.org/abs/2403.04629v1)|null|
+|**2024-03-07**|**Rectangular Rotational Invariant Estimator for High-Rank Matrix Estimation**|Farzad Pourkamali et.al.|[2403.04615v1](http://arxiv.org/abs/2403.04615v1)|null|
+|**2024-03-07**|**Einstein-Podolsky-Rosen correlations in spontaneous parametric down-conversion: Beyond the Gaussian approximation**|A. G. da Costa Moura et.al.|[2403.04561v1](http://arxiv.org/abs/2403.04561v1)|null|
+|**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
+|**2024-03-07**|**PCH-EM: A solution to information loss in the photon transfer method**|Aaron J. Hendrickson et.al.|[2403.04498v1](http://arxiv.org/abs/2403.04498v1)|null|
+|**2024-03-07**|**Characterization of Besov spaces with dominating mixed smoothness by differences**|Paul Nikolaev et.al.|[2403.04469v1](http://arxiv.org/abs/2403.04469v1)|null|
+|**2024-03-07**|**Wavepacket interference of two photons: from temporal entanglement to wavepacket shaping**|Zhaohua Tian et.al.|[2403.04432v1](http://arxiv.org/abs/2403.04432v1)|null|
+|**2024-03-07**|**Fast fitting of spectral lines with Gaussian and hyperfine structure models**|Mika Juvela et.al.|[2403.04352v1](http://arxiv.org/abs/2403.04352v1)|null|
+|**2024-03-07**|**Extract non-Gaussian Features in Gravitational Wave Observation Data Using Self-Supervised Learning**|Yu-Chiung Lin et.al.|[2403.04350v1](http://arxiv.org/abs/2403.04350v1)|null|
+|**2024-03-07**|**A Novel Theoretical Framework for Exponential Smoothing**|Enrico Bernardi et.al.|[2403.04345v1](http://arxiv.org/abs/2403.04345v1)|null|
+|**2024-03-07**|**Efficient CNN-LSTM based Parameter Estimation of Levy Driven Stochastic Differential Equations**|Shuaiyu Li et.al.|[2403.04246v1](http://arxiv.org/abs/2403.04246v1)|null|
+|**2024-03-07**|**A Gaussian integral that counts regular graphs**|Oleg Evnin et.al.|[2403.04242v1](http://arxiv.org/abs/2403.04242v1)|null|
+|**2024-03-07**|**Fundamental limits of Non-Linear Low-Rank Matrix Estimation**|Pierre Mergny et.al.|[2403.04234v1](http://arxiv.org/abs/2403.04234v1)|null|
+|**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|[link](https://github.com/caiyuanhao1998/x-gaussian)|
+|**2024-03-06**|**Inference via Interpolation: Contrastive Representations Provably Enable Planning and Inference**|Benjamin Eysenbach et.al.|[2403.04082v1](http://arxiv.org/abs/2403.04082v1)|[link](https://github.com/vivekmyers/contrastive_planning)|
+|**2024-03-06**|**An Identity of Hankel Matrices Generated from the Moments of Gaussian Distribution**|Sha Hu et.al.|[2403.04052v1](http://arxiv.org/abs/2403.04052v1)|null|
+|**2024-03-06**|**Anomalous Second Harmonic Generation of Twisted Gaussian Schell Model Beams**|M. Gil de Oliveira et.al.|[2403.04040v1](http://arxiv.org/abs/2403.04040v1)|null|
+|**2024-03-06**|**Diffusive entanglement growth in a monitored harmonic chain**|Thomas Young et.al.|[2403.04022v1](http://arxiv.org/abs/2403.04022v1)|null|
+|**2024-03-06**|**AGN feedback in the Local Universe: multiphase outflow of the Seyfert galaxy NGC 5506**|Federico Esposito et.al.|[2403.03981v1](http://arxiv.org/abs/2403.03981v1)|null|
+|**2024-03-06**|**A Categorical Treatment of Open Linear Systems**|Dario Stein et.al.|[2403.03934v1](http://arxiv.org/abs/2403.03934v1)|null|
+|**2024-03-06**|**Multi-parameter quantum estimation of single- and two-mode pure Gaussian states**|Gabriele Bressanini et.al.|[2403.03919v1](http://arxiv.org/abs/2403.03919v1)|null|
+|**2024-03-06**|**Risk-Sensitive Mean Field Games with Common Noise: A Theoretical Study with Applications to Interbank Markets**|Xin Yue Ren et.al.|[2403.03915v1](http://arxiv.org/abs/2403.03915v1)|null|
+|**2024-03-06**|**On Outer Bi-Lipschitz Extensions of Linear Johnson-Lindenstrauss Embeddings of Subsets of $\mathbb{R}^N$**|Rafael Chiclana et.al.|[2403.03969v1](http://arxiv.org/abs/2403.03969v1)|null|
+|**2024-03-06**|**Targeted Variance Reduction: Robust Bayesian Optimization of Black-Box Simulators with Noise Parameters**|John Joshua Miller et.al.|[2403.03816v1](http://arxiv.org/abs/2403.03816v1)|null|
+|**2024-03-06**|**Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics**|Daniela Grandón et.al.|[2403.03807v1](http://arxiv.org/abs/2403.03807v1)|null|
+|**2024-03-06**|**Cosmological measurements from the CMB and BAO are insensitive to the tail probability in the assumed likelihood**|Jordan Krywonos et.al.|[2403.03799v1](http://arxiv.org/abs/2403.03799v1)|null|
+|**2024-03-06**|**Quantum phase transition between topologically distinct quantum critical points**|Xue-Jia Yu et.al.|[2403.03716v1](http://arxiv.org/abs/2403.03716v1)|null|
 
 ## CV
 
@@ -322,39 +358,3 @@
 |**2024-03-07**|**I Can't Believe It's Not Scene Flow!**|Ishan Khatri et.al.|[2403.04739v1](http://arxiv.org/abs/2403.04739v1)|[link](https://github.com/kylevedder/bucketedscenefloweval)|
 |**2024-03-07**|**Control Theorems for Hilbert Modular Varieties**|Arshay Sheth et.al.|[2403.04738v1](http://arxiv.org/abs/2403.04738v1)|null|
 |**2024-03-07**|**Symmetry-aware spectral bounds for the electronic structure Hamiltonian**|Cristian L. Cortes et.al.|[2403.04737v1](http://arxiv.org/abs/2403.04737v1)|null|
-
-## CG
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-07**|**SQ Lower Bounds for Non-Gaussian Component Analysis with Weaker Assumptions**|Ilias Diakonikolas et.al.|[2403.04744v1](http://arxiv.org/abs/2403.04744v1)|null|
-|**2024-03-07**|**Bayesian Inference of Time-Varying Origin-Destination Matrices from Boarding/Alighting Counts for Transit Services**|Xiaoxu Chen et.al.|[2403.04742v1](http://arxiv.org/abs/2403.04742v1)|null|
-|**2024-03-07**|**GMKF: Generalized Moment Kalman Filter for Polynomial Systems with Arbitrary Noise**|Sangli Teng et.al.|[2403.04712v1](http://arxiv.org/abs/2403.04712v1)|null|
-|**2024-03-07**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v1](http://arxiv.org/abs/2403.04629v1)|null|
-|**2024-03-07**|**Rectangular Rotational Invariant Estimator for High-Rank Matrix Estimation**|Farzad Pourkamali et.al.|[2403.04615v1](http://arxiv.org/abs/2403.04615v1)|null|
-|**2024-03-07**|**Einstein-Podolsky-Rosen correlations in spontaneous parametric down-conversion: Beyond the Gaussian approximation**|A. G. da Costa Moura et.al.|[2403.04561v1](http://arxiv.org/abs/2403.04561v1)|null|
-|**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521v1](http://arxiv.org/abs/2403.04521v1)|null|
-|**2024-03-07**|**PCH-EM: A solution to information loss in the photon transfer method**|Aaron J. Hendrickson et.al.|[2403.04498v1](http://arxiv.org/abs/2403.04498v1)|null|
-|**2024-03-07**|**Characterization of Besov spaces with dominating mixed smoothness by differences**|Paul Nikolaev et.al.|[2403.04469v1](http://arxiv.org/abs/2403.04469v1)|null|
-|**2024-03-07**|**Wavepacket interference of two photons: from temporal entanglement to wavepacket shaping**|Zhaohua Tian et.al.|[2403.04432v1](http://arxiv.org/abs/2403.04432v1)|null|
-|**2024-03-07**|**Fast fitting of spectral lines with Gaussian and hyperfine structure models**|Mika Juvela et.al.|[2403.04352v1](http://arxiv.org/abs/2403.04352v1)|null|
-|**2024-03-07**|**Extract non-Gaussian Features in Gravitational Wave Observation Data Using Self-Supervised Learning**|Yu-Chiung Lin et.al.|[2403.04350v1](http://arxiv.org/abs/2403.04350v1)|null|
-|**2024-03-07**|**A Novel Theoretical Framework for Exponential Smoothing**|Enrico Bernardi et.al.|[2403.04345v1](http://arxiv.org/abs/2403.04345v1)|null|
-|**2024-03-07**|**Efficient CNN-LSTM based Parameter Estimation of Levy Driven Stochastic Differential Equations**|Shuaiyu Li et.al.|[2403.04246v1](http://arxiv.org/abs/2403.04246v1)|null|
-|**2024-03-07**|**A Gaussian integral that counts regular graphs**|Oleg Evnin et.al.|[2403.04242v1](http://arxiv.org/abs/2403.04242v1)|null|
-|**2024-03-07**|**Fundamental limits of Non-Linear Low-Rank Matrix Estimation**|Pierre Mergny et.al.|[2403.04234v1](http://arxiv.org/abs/2403.04234v1)|null|
-|**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|[link](https://github.com/caiyuanhao1998/x-gaussian)|
-|**2024-03-06**|**Inference via Interpolation: Contrastive Representations Provably Enable Planning and Inference**|Benjamin Eysenbach et.al.|[2403.04082v1](http://arxiv.org/abs/2403.04082v1)|[link](https://github.com/vivekmyers/contrastive_planning)|
-|**2024-03-06**|**An Identity of Hankel Matrices Generated from the Moments of Gaussian Distribution**|Sha Hu et.al.|[2403.04052v1](http://arxiv.org/abs/2403.04052v1)|null|
-|**2024-03-06**|**Anomalous Second Harmonic Generation of Twisted Gaussian Schell Model Beams**|M. Gil de Oliveira et.al.|[2403.04040v1](http://arxiv.org/abs/2403.04040v1)|null|
-|**2024-03-06**|**Diffusive entanglement growth in a monitored harmonic chain**|Thomas Young et.al.|[2403.04022v1](http://arxiv.org/abs/2403.04022v1)|null|
-|**2024-03-06**|**AGN feedback in the Local Universe: multiphase outflow of the Seyfert galaxy NGC 5506**|Federico Esposito et.al.|[2403.03981v1](http://arxiv.org/abs/2403.03981v1)|null|
-|**2024-03-06**|**A Categorical Treatment of Open Linear Systems**|Dario Stein et.al.|[2403.03934v1](http://arxiv.org/abs/2403.03934v1)|null|
-|**2024-03-06**|**Multi-parameter quantum estimation of single- and two-mode pure Gaussian states**|Gabriele Bressanini et.al.|[2403.03919v1](http://arxiv.org/abs/2403.03919v1)|null|
-|**2024-03-06**|**Risk-Sensitive Mean Field Games with Common Noise: A Theoretical Study with Applications to Interbank Markets**|Xin Yue Ren et.al.|[2403.03915v1](http://arxiv.org/abs/2403.03915v1)|null|
-|**2024-03-06**|**On Outer Bi-Lipschitz Extensions of Linear Johnson-Lindenstrauss Embeddings of Subsets of $\mathbb{R}^N$**|Rafael Chiclana et.al.|[2403.03969v1](http://arxiv.org/abs/2403.03969v1)|null|
-|**2024-03-06**|**Targeted Variance Reduction: Robust Bayesian Optimization of Black-Box Simulators with Noise Parameters**|John Joshua Miller et.al.|[2403.03816v1](http://arxiv.org/abs/2403.03816v1)|null|
-|**2024-03-06**|**Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics**|Daniela Grandón et.al.|[2403.03807v1](http://arxiv.org/abs/2403.03807v1)|null|
-|**2024-03-06**|**Cosmological measurements from the CMB and BAO are insensitive to the tail probability in the assumed likelihood**|Jordan Krywonos et.al.|[2403.03799v1](http://arxiv.org/abs/2403.03799v1)|null|
-|**2024-03-06**|**Quantum phase transition between topologically distinct quantum critical points**|Xue-Jia Yu et.al.|[2403.03716v1](http://arxiv.org/abs/2403.03716v1)|null|
