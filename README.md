@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-21 20:46:09 Asia/Shanghai
+ Automated deployment @ 2024-03-21 20:59:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -83,39 +83,39 @@
 |**2024-03-20**|**KunquDB: An Attempt for Speaker Verification in the Chinese Opera Scenario**|Huali Zhou et.al.|[2403.13356v1](http://arxiv.org/abs/2403.13356v1)|null|
 |**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v1](http://arxiv.org/abs/2403.13352v1)|null|
 
-### Large Language Model
+### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
-|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
-|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|null|
-|**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806v1](http://arxiv.org/abs/2403.13806v1)|null|
-|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
-|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
 |**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[link](https://github.com/shure-dev/NLaP)|
-|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
-|**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799v1](http://arxiv.org/abs/2403.13799v1)|null|
-|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
-|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
-|**2024-03-20**|**Cosmic shear with small scales: DES-Y3, KiDS-1000 and HSC-DR1**|Carlos García-García et.al.|[2403.13794v1](http://arxiv.org/abs/2403.13794v1)|null|
-|**2024-03-20**|**Evaluating Frontier Models for Dangerous Capabilities**|Mary Phuong et.al.|[2403.13793v1](http://arxiv.org/abs/2403.13793v1)|null|
-|**2024-03-20**|**Probing Hilbert Space Fragmentation with Strongly Interacting Rydberg Atoms**|Fan Yang et.al.|[2403.13790v1](http://arxiv.org/abs/2403.13790v1)|null|
-|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788v1](http://arxiv.org/abs/2403.13788v1)|null|
-|**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787v1](http://arxiv.org/abs/2403.13787v1)|[link](https://github.com/allenai/reward-bench)|
-|**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786v1](http://arxiv.org/abs/2403.13786v1)|null|
-|**2024-03-20**|**Towards an extension of Fault Trees in the Predictive Maintenance Scenario**|Roberta De Fazio et.al.|[2403.13785v1](http://arxiv.org/abs/2403.13785v1)|null|
-|**2024-03-20**|**The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency and Usability in AI**|Matt White et.al.|[2403.13784v1](http://arxiv.org/abs/2403.13784v1)|null|
-|**2024-03-20**|**A Convex Formulation of Frictional Contact for the Material Point Method and Rigid Bodies**|Zeshun Zong et.al.|[2403.13783v1](http://arxiv.org/abs/2403.13783v1)|null|
-|**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|null|
-|**2024-03-20**|**Multi-scale Traffic Flow Modeling: A Renormalization Group Approach**|Zhaohui Yang et.al.|[2403.13779v1](http://arxiv.org/abs/2403.13779v1)|null|
-|**2024-03-20**|**Certified Human Trajectory Prediction**|Mohammadhossein Bahari et.al.|[2403.13778v1](http://arxiv.org/abs/2403.13778v1)|null|
-|**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777v1](http://arxiv.org/abs/2403.13777v1)|null|
-|**2024-03-20**|**Accurate heat currents via reorganised master equation**|Jonas Glatthard et.al.|[2403.13776v1](http://arxiv.org/abs/2403.13776v1)|null|
-|**2024-03-20**|**The Limits of Identification in Discrete Choice**|Christopher P. Chambers et.al.|[2403.13773v1](http://arxiv.org/abs/2403.13773v1)|null|
-|**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772v1](http://arxiv.org/abs/2403.13772v1)|null|
-|**2024-03-20**|**Describe-and-Dissect: Interpreting Neurons in Vision Networks with Language Models**|Nicholas Bai et.al.|[2403.13771v1](http://arxiv.org/abs/2403.13771v1)|null|
-|**2024-03-20**|**High-dimensional inference of radio interferometer beam patterns I: Parametric model of the HERA beams**|Michael J. Wilensky et.al.|[2403.13769v1](http://arxiv.org/abs/2403.13769v1)|null|
-|**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768v1](http://arxiv.org/abs/2403.13768v1)|null|
+|**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765v1](http://arxiv.org/abs/2403.13765v1)|null|
+|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
+|**2024-03-20**|**Hyper Strategy Logic**|Raven Beutner et.al.|[2403.13741v1](http://arxiv.org/abs/2403.13741v1)|null|
+|**2024-03-20**|**Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**|Luca Giamattei et.al.|[2403.13729v1](http://arxiv.org/abs/2403.13729v1)|null|
+|**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721v1](http://arxiv.org/abs/2403.13721v1)|null|
+|**2024-03-20**|**Agent-based MST Construction**|Ajay D. Kshemkalyani et.al.|[2403.13716v1](http://arxiv.org/abs/2403.13716v1)|null|
+|**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679v1](http://arxiv.org/abs/2403.13679v1)|null|
+|**2024-03-20**|**Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections**|Zengqi Peng et.al.|[2403.13674v1](http://arxiv.org/abs/2403.13674v1)|null|
+|**2024-03-20**|**Network bottlenecks and task structure control the evolution of interpretable learning rules in a foraging agent**|Emmanouil Giannakakis et.al.|[2403.13649v1](http://arxiv.org/abs/2403.13649v1)|null|
+|**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639v1](http://arxiv.org/abs/2403.13639v1)|null|
+|**2024-03-20**|**Mitigating Disinformation in Social Networks through Noise**|Diana Riazi et.al.|[2403.13630v1](http://arxiv.org/abs/2403.13630v1)|null|
+|**2024-03-20**|**Densify & Conquer: Densified, smaller base-stations can conquer the increasing carbon footprint problem in nextG wireless**|Agrim Gupta et.al.|[2403.13611v1](http://arxiv.org/abs/2403.13611v1)|null|
+|**2024-03-20**|**3D Directed Formation Control with Global Shape Convergence using Bispherical Coordinates**|Omid Mirzaeedodangeh et.al.|[2403.13609v1](http://arxiv.org/abs/2403.13609v1)|null|
+|**2024-03-20**|**VCounselor: A Psychological Intervention Chat Agent Based on a Knowledge-Enhanced Large Language Model**|H. Zhang et.al.|[2403.13553v1](http://arxiv.org/abs/2403.13553v1)|null|
+|**2024-03-20**|**Distributed Cooperative Formation Control of Nonlinear Multi-Agent System (UGV) Using Neural Network**|Si Kheang Moeurn et.al.|[2403.13473v1](http://arxiv.org/abs/2403.13473v1)|null|
+|**2024-03-20**|**An Extended Kuramoto Model for Frequency and Phase Synchronization in Delay-Free Networks with Finite Number of Agents**|Andreas Bathelt et.al.|[2403.13440v1](http://arxiv.org/abs/2403.13440v1)|null|
+|**2024-03-20**|**Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**|Zhouhong Gu et.al.|[2403.13433v1](http://arxiv.org/abs/2403.13433v1)|null|
+|**2024-03-20**|**Detecting and Triaging Spoofing using Temporal Convolutional Networks**|Kaushalya Kularatnam et.al.|[2403.13429v1](http://arxiv.org/abs/2403.13429v1)|null|
+|**2024-03-20**|**Caching-Augmented Lifelong Multi-Agent Path Finding**|Yimin Tang et.al.|[2403.13421v1](http://arxiv.org/abs/2403.13421v1)|null|
+|**2024-03-20**|**Optimizing Ride-Pooling Revenue: Pricing Strategies and Driver-Traveller Dynamics**|Usman Akhtar et.al.|[2403.13384v1](http://arxiv.org/abs/2403.13384v1)|null|
+|**2024-03-20**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331v1](http://arxiv.org/abs/2403.13331v1)|null|
+|**2024-03-20**|**Robotics meets Fluid Dynamics: A Characterization of the Induced Airflow around a Quadrotor**|Leonard Bauersfeld et.al.|[2403.13321v1](http://arxiv.org/abs/2403.13321v1)|null|
+|**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313v1](http://arxiv.org/abs/2403.13313v1)|null|
+|**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309v1](http://arxiv.org/abs/2403.13309v1)|null|
+|**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248v1](http://arxiv.org/abs/2403.13248v1)|[link](https://github.com/lichao-sun/mora)|
+|**2024-03-19**|**3D Semantic MapNet: Building Maps for Multi-Object Re-Identification in 3D**|Vincent Cartillier et.al.|[2403.13190v1](http://arxiv.org/abs/2403.13190v1)|null|
+|**2024-03-19**|**Fast Value Tracking for Deep Reinforcement Learning**|Frank Shih et.al.|[2403.13178v1](http://arxiv.org/abs/2403.13178v1)|null|
+|**2024-03-19**|**Cooperative Modular Manipulation with Numerous Cable-Driven Robots for Assistive Construction and Gap Crossing**|Kevin Murphy et.al.|[2403.13124v1](http://arxiv.org/abs/2403.13124v1)|null|
+|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093v1](http://arxiv.org/abs/2403.13093v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
@@ -185,39 +185,39 @@
 |**2024-03-19**|**Interactive Robot-Environment Self-Calibration via Compliant Exploratory Actions**|Podshara Chanrungmaneekul et.al.|[2403.13144v1](http://arxiv.org/abs/2403.13144v1)|null|
 |**2024-03-19**|**Interspecific dispersal constraints suppress pattern formation in metacommunities**|Patrick Lawton et.al.|[2403.13098v1](http://arxiv.org/abs/2403.13098v1)|null|
 
-### Embodied Agent
+### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
+|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|null|
+|**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806v1](http://arxiv.org/abs/2403.13806v1)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
 |**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[link](https://github.com/shure-dev/NLaP)|
-|**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765v1](http://arxiv.org/abs/2403.13765v1)|null|
-|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
-|**2024-03-20**|**Hyper Strategy Logic**|Raven Beutner et.al.|[2403.13741v1](http://arxiv.org/abs/2403.13741v1)|null|
-|**2024-03-20**|**Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**|Luca Giamattei et.al.|[2403.13729v1](http://arxiv.org/abs/2403.13729v1)|null|
-|**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721v1](http://arxiv.org/abs/2403.13721v1)|null|
-|**2024-03-20**|**Agent-based MST Construction**|Ajay D. Kshemkalyani et.al.|[2403.13716v1](http://arxiv.org/abs/2403.13716v1)|null|
-|**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679v1](http://arxiv.org/abs/2403.13679v1)|null|
-|**2024-03-20**|**Reward-Driven Automated Curriculum Learning for Interaction-Aware Self-Driving at Unsignalized Intersections**|Zengqi Peng et.al.|[2403.13674v1](http://arxiv.org/abs/2403.13674v1)|null|
-|**2024-03-20**|**Network bottlenecks and task structure control the evolution of interpretable learning rules in a foraging agent**|Emmanouil Giannakakis et.al.|[2403.13649v1](http://arxiv.org/abs/2403.13649v1)|null|
-|**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639v1](http://arxiv.org/abs/2403.13639v1)|null|
-|**2024-03-20**|**Mitigating Disinformation in Social Networks through Noise**|Diana Riazi et.al.|[2403.13630v1](http://arxiv.org/abs/2403.13630v1)|null|
-|**2024-03-20**|**Densify & Conquer: Densified, smaller base-stations can conquer the increasing carbon footprint problem in nextG wireless**|Agrim Gupta et.al.|[2403.13611v1](http://arxiv.org/abs/2403.13611v1)|null|
-|**2024-03-20**|**3D Directed Formation Control with Global Shape Convergence using Bispherical Coordinates**|Omid Mirzaeedodangeh et.al.|[2403.13609v1](http://arxiv.org/abs/2403.13609v1)|null|
-|**2024-03-20**|**VCounselor: A Psychological Intervention Chat Agent Based on a Knowledge-Enhanced Large Language Model**|H. Zhang et.al.|[2403.13553v1](http://arxiv.org/abs/2403.13553v1)|null|
-|**2024-03-20**|**Distributed Cooperative Formation Control of Nonlinear Multi-Agent System (UGV) Using Neural Network**|Si Kheang Moeurn et.al.|[2403.13473v1](http://arxiv.org/abs/2403.13473v1)|null|
-|**2024-03-20**|**An Extended Kuramoto Model for Frequency and Phase Synchronization in Delay-Free Networks with Finite Number of Agents**|Andreas Bathelt et.al.|[2403.13440v1](http://arxiv.org/abs/2403.13440v1)|null|
-|**2024-03-20**|**Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**|Zhouhong Gu et.al.|[2403.13433v1](http://arxiv.org/abs/2403.13433v1)|null|
-|**2024-03-20**|**Detecting and Triaging Spoofing using Temporal Convolutional Networks**|Kaushalya Kularatnam et.al.|[2403.13429v1](http://arxiv.org/abs/2403.13429v1)|null|
-|**2024-03-20**|**Caching-Augmented Lifelong Multi-Agent Path Finding**|Yimin Tang et.al.|[2403.13421v1](http://arxiv.org/abs/2403.13421v1)|null|
-|**2024-03-20**|**Optimizing Ride-Pooling Revenue: Pricing Strategies and Driver-Traveller Dynamics**|Usman Akhtar et.al.|[2403.13384v1](http://arxiv.org/abs/2403.13384v1)|null|
-|**2024-03-20**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331v1](http://arxiv.org/abs/2403.13331v1)|null|
-|**2024-03-20**|**Robotics meets Fluid Dynamics: A Characterization of the Induced Airflow around a Quadrotor**|Leonard Bauersfeld et.al.|[2403.13321v1](http://arxiv.org/abs/2403.13321v1)|null|
-|**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313v1](http://arxiv.org/abs/2403.13313v1)|null|
-|**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309v1](http://arxiv.org/abs/2403.13309v1)|null|
-|**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248v1](http://arxiv.org/abs/2403.13248v1)|[link](https://github.com/lichao-sun/mora)|
-|**2024-03-19**|**3D Semantic MapNet: Building Maps for Multi-Object Re-Identification in 3D**|Vincent Cartillier et.al.|[2403.13190v1](http://arxiv.org/abs/2403.13190v1)|null|
-|**2024-03-19**|**Fast Value Tracking for Deep Reinforcement Learning**|Frank Shih et.al.|[2403.13178v1](http://arxiv.org/abs/2403.13178v1)|null|
-|**2024-03-19**|**Cooperative Modular Manipulation with Numerous Cable-Driven Robots for Assistive Construction and Gap Crossing**|Kevin Murphy et.al.|[2403.13124v1](http://arxiv.org/abs/2403.13124v1)|null|
-|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093v1](http://arxiv.org/abs/2403.13093v1)|null|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799v1](http://arxiv.org/abs/2403.13799v1)|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
+|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
+|**2024-03-20**|**Cosmic shear with small scales: DES-Y3, KiDS-1000 and HSC-DR1**|Carlos García-García et.al.|[2403.13794v1](http://arxiv.org/abs/2403.13794v1)|null|
+|**2024-03-20**|**Evaluating Frontier Models for Dangerous Capabilities**|Mary Phuong et.al.|[2403.13793v1](http://arxiv.org/abs/2403.13793v1)|null|
+|**2024-03-20**|**Probing Hilbert Space Fragmentation with Strongly Interacting Rydberg Atoms**|Fan Yang et.al.|[2403.13790v1](http://arxiv.org/abs/2403.13790v1)|null|
+|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788v1](http://arxiv.org/abs/2403.13788v1)|null|
+|**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787v1](http://arxiv.org/abs/2403.13787v1)|[link](https://github.com/allenai/reward-bench)|
+|**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786v1](http://arxiv.org/abs/2403.13786v1)|null|
+|**2024-03-20**|**Towards an extension of Fault Trees in the Predictive Maintenance Scenario**|Roberta De Fazio et.al.|[2403.13785v1](http://arxiv.org/abs/2403.13785v1)|null|
+|**2024-03-20**|**The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency and Usability in AI**|Matt White et.al.|[2403.13784v1](http://arxiv.org/abs/2403.13784v1)|null|
+|**2024-03-20**|**A Convex Formulation of Frictional Contact for the Material Point Method and Rigid Bodies**|Zeshun Zong et.al.|[2403.13783v1](http://arxiv.org/abs/2403.13783v1)|null|
+|**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|null|
+|**2024-03-20**|**Multi-scale Traffic Flow Modeling: A Renormalization Group Approach**|Zhaohui Yang et.al.|[2403.13779v1](http://arxiv.org/abs/2403.13779v1)|null|
+|**2024-03-20**|**Certified Human Trajectory Prediction**|Mohammadhossein Bahari et.al.|[2403.13778v1](http://arxiv.org/abs/2403.13778v1)|null|
+|**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777v1](http://arxiv.org/abs/2403.13777v1)|null|
+|**2024-03-20**|**Accurate heat currents via reorganised master equation**|Jonas Glatthard et.al.|[2403.13776v1](http://arxiv.org/abs/2403.13776v1)|null|
+|**2024-03-20**|**The Limits of Identification in Discrete Choice**|Christopher P. Chambers et.al.|[2403.13773v1](http://arxiv.org/abs/2403.13773v1)|null|
+|**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772v1](http://arxiv.org/abs/2403.13772v1)|null|
+|**2024-03-20**|**Describe-and-Dissect: Interpreting Neurons in Vision Networks with Language Models**|Nicholas Bai et.al.|[2403.13771v1](http://arxiv.org/abs/2403.13771v1)|null|
+|**2024-03-20**|**High-dimensional inference of radio interferometer beam patterns I: Parametric model of the HERA beams**|Michael J. Wilensky et.al.|[2403.13769v1](http://arxiv.org/abs/2403.13769v1)|null|
+|**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768v1](http://arxiv.org/abs/2403.13768v1)|null|
 
 ## CG
 
