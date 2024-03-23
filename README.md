@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-23 20:45:14 Asia/Shanghai
+ Automated deployment @ 2024-03-23 20:57:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -153,40 +153,6 @@
 
 ## AI
 
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v1](http://arxiv.org/abs/2403.14589v1)|null|
-|**2024-03-21**|**Co-Optimization of Environment and Policies for Decentralized Multi-Agent Navigation**|Zhan Gao et.al.|[2403.14583v1](http://arxiv.org/abs/2403.14583v1)|null|
-|**2024-03-21**|**Changing human's impression of empathy from agent by verbalizing agent's position**|Takahiro Tsumura et.al.|[2403.14557v1](http://arxiv.org/abs/2403.14557v1)|null|
-|**2024-03-21**|**Learning Hierarchical Control For Constrained Dynamic Task Assignment**|Charlott Vallon et.al.|[2403.14545v1](http://arxiv.org/abs/2403.14545v1)|null|
-|**2024-03-21**|**$^{13}$C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v1](http://arxiv.org/abs/2403.14521v1)|null|
-|**2024-03-21**|**Language Models Can Reduce Asymmetry in Information Markets**|Nasim Rahaman et.al.|[2403.14443v1](http://arxiv.org/abs/2403.14443v1)|null|
-|**2024-03-21**|**On the continuity and smoothness of the value function in reinforcement learning and optimal control**|Hans Harder et.al.|[2403.14432v1](http://arxiv.org/abs/2403.14432v1)|null|
-|**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
-|**2024-03-21**|**Emergent communication and learning pressures in language models: a language evolution perspective**|Lukas Galke et.al.|[2403.14427v1](http://arxiv.org/abs/2403.14427v1)|null|
-|**2024-03-21**|**Exploiting Over-The-Air Consensus for Collision Avoidance and Formation Control in Multi-Agent Systems**|Michael Epp et.al.|[2403.14386v1](http://arxiv.org/abs/2403.14386v1)|null|
-|**2024-03-21**|**A Control Barrier Function Composition Approach for Multi-Agent Systems in Marine Applications**|Yujia Yang et.al.|[2403.14369v1](http://arxiv.org/abs/2403.14369v1)|null|
-|**2024-03-21**|**Adversary-Augmented Simulation to evaluate client-fairness on HyperLedger Fabric**|Erwan Mahe et.al.|[2403.14342v1](http://arxiv.org/abs/2403.14342v1)|null|
-|**2024-03-21**|**FFT-based Selection and Optimization of Statistics for Robust Recognition of Severely Corrupted Images**|Elena Camuffo et.al.|[2403.14335v1](http://arxiv.org/abs/2403.14335v1)|null|
-|**2024-03-21**|**ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification**|Sehee Lim et.al.|[2403.14255v1](http://arxiv.org/abs/2403.14255v1)|null|
-|**2024-03-21**|**PeerGPT: Probing the Roles of LLM-based Peer Agents as Team Moderators and Participants in Children's Collaborative Learning**|Jiawen Liu et.al.|[2403.14227v1](http://arxiv.org/abs/2403.14227v1)|null|
-|**2024-03-21**|**Debiasing surgeon: fantastic weights and how to find them**|Rémi Nahon et.al.|[2403.14200v1](http://arxiv.org/abs/2403.14200v1)|null|
-|**2024-03-21**|**Conservative Linear Envelopes for High-Dimensional, Hamilton-Jacobi Reachability for Nonlinear Systems via the Hopf Formula**|Will Sharpless et.al.|[2403.14184v1](http://arxiv.org/abs/2403.14184v1)|null|
-|**2024-03-21**|**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**|Leyuan Sun et.al.|[2403.14163v1](http://arxiv.org/abs/2403.14163v1)|null|
-|**2024-03-21**|**Volumetric Environment Representation for Vision-Language Navigation**|Rui Liu et.al.|[2403.14158v1](http://arxiv.org/abs/2403.14158v1)|null|
-|**2024-03-21**|**Heuristic Algorithm-based Action Masking Reinforcement Learning (HAAM-RL) with Ensemble Inference Method**|Kyuwon Choi et.al.|[2403.14110v1](http://arxiv.org/abs/2403.14110v1)|null|
-|**2024-03-21**|**DouRN: Improving DouZero by Residual Neural Networks**|Yiquan Chen et.al.|[2403.14102v1](http://arxiv.org/abs/2403.14102v1)|null|
-|**2024-03-21**|**Carbon Footprint Reduction for Sustainable Data Centers in Real-Time**|Soumyendu Sarkar et.al.|[2403.14092v1](http://arxiv.org/abs/2403.14092v1)|null|
-|**2024-03-21**|**A Roadmap Towards Automated and Regulated Robotic Systems**|Yihao Liu et.al.|[2403.14049v1](http://arxiv.org/abs/2403.14049v1)|null|
-|**2024-03-20**|**Performance-Guaranteed Solutions for Multi-Agent Optimal Coverage Problems using Submodularity, Curvature, and Greedy Algorithms**|Shirantha Welikala et.al.|[2403.14028v1](http://arxiv.org/abs/2403.14028v1)|null|
-|**2024-03-20**|**Motion Prediction of Multi-agent systems with Multi-view clustering**|Anegi James et.al.|[2403.13905v1](http://arxiv.org/abs/2403.13905v1)|null|
-|**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890v1](http://arxiv.org/abs/2403.13890v1)|[link](https://github.com/richardobi/ccnet)|
-|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[link](https://github.com/shure-dev/NLaP)|
-|**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765v1](http://arxiv.org/abs/2403.13765v1)|null|
-|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
-|**2024-03-20**|**Hyper Strategy Logic**|Raven Beutner et.al.|[2403.13741v1](http://arxiv.org/abs/2403.13741v1)|null|
-
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -288,6 +254,40 @@
 |**2024-03-20**|**Graphs of large girth**|Christian Reiher et.al.|[2403.13571v1](http://arxiv.org/abs/2403.13571v1)|null|
 |**2024-03-20**|**Accurate Power Spectrum Estimation toward Nyquist limit**|Yipeng Wang et.al.|[2403.13561v1](http://arxiv.org/abs/2403.13561v1)|null|
 |**2024-03-20**|**eRST: A Signaled Graph Theory of Discourse Relations and Organization**|Amir Zeldes et.al.|[2403.13560v1](http://arxiv.org/abs/2403.13560v1)|null|
+
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589v1](http://arxiv.org/abs/2403.14589v1)|null|
+|**2024-03-21**|**Co-Optimization of Environment and Policies for Decentralized Multi-Agent Navigation**|Zhan Gao et.al.|[2403.14583v1](http://arxiv.org/abs/2403.14583v1)|null|
+|**2024-03-21**|**Changing human's impression of empathy from agent by verbalizing agent's position**|Takahiro Tsumura et.al.|[2403.14557v1](http://arxiv.org/abs/2403.14557v1)|null|
+|**2024-03-21**|**Learning Hierarchical Control For Constrained Dynamic Task Assignment**|Charlott Vallon et.al.|[2403.14545v1](http://arxiv.org/abs/2403.14545v1)|null|
+|**2024-03-21**|**$^{13}$C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v1](http://arxiv.org/abs/2403.14521v1)|null|
+|**2024-03-21**|**Language Models Can Reduce Asymmetry in Information Markets**|Nasim Rahaman et.al.|[2403.14443v1](http://arxiv.org/abs/2403.14443v1)|null|
+|**2024-03-21**|**On the continuity and smoothness of the value function in reinforcement learning and optimal control**|Hans Harder et.al.|[2403.14432v1](http://arxiv.org/abs/2403.14432v1)|null|
+|**2024-03-21**|**Breaking consensus in kinetic opinion formation models on graphons**|Bertram Düring et.al.|[2403.14431v1](http://arxiv.org/abs/2403.14431v1)|null|
+|**2024-03-21**|**Emergent communication and learning pressures in language models: a language evolution perspective**|Lukas Galke et.al.|[2403.14427v1](http://arxiv.org/abs/2403.14427v1)|null|
+|**2024-03-21**|**Exploiting Over-The-Air Consensus for Collision Avoidance and Formation Control in Multi-Agent Systems**|Michael Epp et.al.|[2403.14386v1](http://arxiv.org/abs/2403.14386v1)|null|
+|**2024-03-21**|**A Control Barrier Function Composition Approach for Multi-Agent Systems in Marine Applications**|Yujia Yang et.al.|[2403.14369v1](http://arxiv.org/abs/2403.14369v1)|null|
+|**2024-03-21**|**Adversary-Augmented Simulation to evaluate client-fairness on HyperLedger Fabric**|Erwan Mahe et.al.|[2403.14342v1](http://arxiv.org/abs/2403.14342v1)|null|
+|**2024-03-21**|**FFT-based Selection and Optimization of Statistics for Robust Recognition of Severely Corrupted Images**|Elena Camuffo et.al.|[2403.14335v1](http://arxiv.org/abs/2403.14335v1)|null|
+|**2024-03-21**|**ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification**|Sehee Lim et.al.|[2403.14255v1](http://arxiv.org/abs/2403.14255v1)|null|
+|**2024-03-21**|**PeerGPT: Probing the Roles of LLM-based Peer Agents as Team Moderators and Participants in Children's Collaborative Learning**|Jiawen Liu et.al.|[2403.14227v1](http://arxiv.org/abs/2403.14227v1)|null|
+|**2024-03-21**|**Debiasing surgeon: fantastic weights and how to find them**|Rémi Nahon et.al.|[2403.14200v1](http://arxiv.org/abs/2403.14200v1)|null|
+|**2024-03-21**|**Conservative Linear Envelopes for High-Dimensional, Hamilton-Jacobi Reachability for Nonlinear Systems via the Hopf Formula**|Will Sharpless et.al.|[2403.14184v1](http://arxiv.org/abs/2403.14184v1)|null|
+|**2024-03-21**|**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**|Leyuan Sun et.al.|[2403.14163v1](http://arxiv.org/abs/2403.14163v1)|null|
+|**2024-03-21**|**Volumetric Environment Representation for Vision-Language Navigation**|Rui Liu et.al.|[2403.14158v1](http://arxiv.org/abs/2403.14158v1)|null|
+|**2024-03-21**|**Heuristic Algorithm-based Action Masking Reinforcement Learning (HAAM-RL) with Ensemble Inference Method**|Kyuwon Choi et.al.|[2403.14110v1](http://arxiv.org/abs/2403.14110v1)|null|
+|**2024-03-21**|**DouRN: Improving DouZero by Residual Neural Networks**|Yiquan Chen et.al.|[2403.14102v1](http://arxiv.org/abs/2403.14102v1)|null|
+|**2024-03-21**|**Carbon Footprint Reduction for Sustainable Data Centers in Real-Time**|Soumyendu Sarkar et.al.|[2403.14092v1](http://arxiv.org/abs/2403.14092v1)|null|
+|**2024-03-21**|**A Roadmap Towards Automated and Regulated Robotic Systems**|Yihao Liu et.al.|[2403.14049v1](http://arxiv.org/abs/2403.14049v1)|null|
+|**2024-03-20**|**Performance-Guaranteed Solutions for Multi-Agent Optimal Coverage Problems using Submodularity, Curvature, and Greedy Algorithms**|Shirantha Welikala et.al.|[2403.14028v1](http://arxiv.org/abs/2403.14028v1)|null|
+|**2024-03-20**|**Motion Prediction of Multi-agent systems with Multi-view clustering**|Anegi James et.al.|[2403.13905v1](http://arxiv.org/abs/2403.13905v1)|null|
+|**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890v1](http://arxiv.org/abs/2403.13890v1)|[link](https://github.com/richardobi/ccnet)|
+|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|[link](https://github.com/shure-dev/NLaP)|
+|**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765v1](http://arxiv.org/abs/2403.13765v1)|null|
+|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762v1](http://arxiv.org/abs/2403.13762v1)|null|
+|**2024-03-20**|**Hyper Strategy Logic**|Raven Beutner et.al.|[2403.13741v1](http://arxiv.org/abs/2403.13741v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
