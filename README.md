@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-05 20:57:24 Asia/Shanghai
+ Automated deployment @ 2024-04-05 21:18:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,40 +48,6 @@
 |**2024-04-04**|**Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation**|Izumi Fujimori et.al.|[2404.03394v1](http://arxiv.org/abs/2404.03394v1)|null|
 
 ## AI
-
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**ROBUST: 221 Bugs in the Robot Operating System**|Christopher S. Timperley et.al.|[2404.03629v1](http://arxiv.org/abs/2404.03629v1)|null|
-|**2024-04-04**|**Collective coupling of driven multilevel atoms and its effect on four-wave mixing**|P. Yanes-Thomas et.al.|[2404.03615v1](http://arxiv.org/abs/2404.03615v1)|null|
-|**2024-04-04**|**Consumer Behavior under Benevolent Price Discrimination**|Alexander Erlei et.al.|[2404.03581v1](http://arxiv.org/abs/2404.03581v1)|null|
-|**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558v1](http://arxiv.org/abs/2404.03558v1)|[link](https://github.com/harmonbhasin/curriculum_learning_icl)|
-|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|[link](https://github.com/lorebianchi98/fg-clip)|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|[link](https://github.com/azminewasi/banglaautokg)|
-|**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510v1](http://arxiv.org/abs/2404.03510v1)|null|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
-|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|null|
-|**2024-04-04**|**Class-E, Active Electrically-Small Antenna for High-Power Wideband Transmission at the High-Frequency (HF) Band**|Nathan Strachen et.al.|[2404.03468v1](http://arxiv.org/abs/2404.03468v1)|null|
-|**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412v1](http://arxiv.org/abs/2404.03412v1)|null|
-|**2024-04-04**|**Significantly Enhanced Vacancy Diffusion in Mn-containing Alloys**|Huaqing Guan et.al.|[2404.03339v1](http://arxiv.org/abs/2404.03339v1)|null|
-|**2024-04-04**|**Formal Verification of Linear Temporal Logic Specifications Using Hybrid Zonotope-Based Reachability Analysis**|Loizos Hadjiloizou et.al.|[2404.03308v1](http://arxiv.org/abs/2404.03308v1)|null|
-|**2024-04-04**|**Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**|Se-Wook Yoo et.al.|[2404.03274v1](http://arxiv.org/abs/2404.03274v1)|null|
-|**2024-04-04**|**Real-time Noise Source Estimation of a Camera System from an Image and Metadata**|Maik Wischow et.al.|[2404.03251v1](http://arxiv.org/abs/2404.03251v1)|[link](https://github.com/maikwischow/noise-source-estimation)|
-|**2024-04-04**|**Relation between the keV-MeV and TeV emission of GRB 221009A and its implications**|Yan-Qiu Zhang et.al.|[2404.03229v1](http://arxiv.org/abs/2404.03229v1)|null|
-|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191v1](http://arxiv.org/abs/2404.03191v1)|null|
-|**2024-04-04**|**RAnGE: Reachability Analysis for Guaranteed Ergodicity**|Henry Berger et.al.|[2404.03186v1](http://arxiv.org/abs/2404.03186v1)|null|
-|**2024-04-04**|**Multi-modal Learning for WebAssembly Reverse Engineering**|Hanxian Huang et.al.|[2404.03171v1](http://arxiv.org/abs/2404.03171v1)|null|
-|**2024-04-04**|**TEGRA -- Scaling Up Terascale Graph Processing with Disaggregated Computing**|William Shaddix et.al.|[2404.03155v1](http://arxiv.org/abs/2404.03155v1)|null|
-|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110v1](http://arxiv.org/abs/2404.03110v1)|[link](https://github.com/noyzzz/emap)|
-|**2024-04-03**|**Full-Scale Readout Electronics for the ECHo-100k Experiment**|T. Muscheid et.al.|[2404.03096v1](http://arxiv.org/abs/2404.03096v1)|null|
-|**2024-04-03**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095v1](http://arxiv.org/abs/2404.03095v1)|null|
-|**2024-04-03**|**Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot**|Catherine Henry et.al.|[2404.03092v1](http://arxiv.org/abs/2404.03092v1)|null|
-|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
-|**2024-04-03**|**Autonomous Vehicle Networks for More Reliable Truck Tracking in Challenged High Mountain Roads, Tunnels and Bridges Environments**|Junhao Chen et.al.|[2404.03033v1](http://arxiv.org/abs/2404.03033v1)|null|
-|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015v1](http://arxiv.org/abs/2404.03015v1)|null|
-|**2024-04-03**|**How complex are galaxies? A non-parametric estimation of the intrinsic dimensionality of wide-band photometric data**|Corentin Cadiou et.al.|[2404.02962v1](http://arxiv.org/abs/2404.02962v1)|null|
-|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
-|**2024-04-03**|**AI-augmented Automation for Real Driving Prediction: an Industrial Use Case**|Romina Eramo et.al.|[2404.02841v1](http://arxiv.org/abs/2404.02841v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
@@ -150,6 +116,40 @@
 |**2024-04-04**|**Towards Pareto Optimal Throughput in Small Language Model Serving**|Pol G. Recasens et.al.|[2404.03353v1](http://arxiv.org/abs/2404.03353v1)|null|
 |**2024-04-04**|**Schroedinger's Threshold: When the AUC doesn't predict Accuracy**|Juri Opitz et.al.|[2404.03344v1](http://arxiv.org/abs/2404.03344v1)|[link](https://github.com/flipz357/schroedingersevaluation)|
 |**2024-04-04**|**Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks**|Lei Zhang et.al.|[2404.03340v1](http://arxiv.org/abs/2404.03340v1)|null|
+
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**ROBUST: 221 Bugs in the Robot Operating System**|Christopher S. Timperley et.al.|[2404.03629v1](http://arxiv.org/abs/2404.03629v1)|null|
+|**2024-04-04**|**Collective coupling of driven multilevel atoms and its effect on four-wave mixing**|P. Yanes-Thomas et.al.|[2404.03615v1](http://arxiv.org/abs/2404.03615v1)|null|
+|**2024-04-04**|**Consumer Behavior under Benevolent Price Discrimination**|Alexander Erlei et.al.|[2404.03581v1](http://arxiv.org/abs/2404.03581v1)|null|
+|**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558v1](http://arxiv.org/abs/2404.03558v1)|[link](https://github.com/harmonbhasin/curriculum_learning_icl)|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|[link](https://github.com/lorebianchi98/fg-clip)|
+|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|[link](https://github.com/azminewasi/banglaautokg)|
+|**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510v1](http://arxiv.org/abs/2404.03510v1)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|null|
+|**2024-04-04**|**Class-E, Active Electrically-Small Antenna for High-Power Wideband Transmission at the High-Frequency (HF) Band**|Nathan Strachen et.al.|[2404.03468v1](http://arxiv.org/abs/2404.03468v1)|null|
+|**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412v1](http://arxiv.org/abs/2404.03412v1)|null|
+|**2024-04-04**|**Significantly Enhanced Vacancy Diffusion in Mn-containing Alloys**|Huaqing Guan et.al.|[2404.03339v1](http://arxiv.org/abs/2404.03339v1)|null|
+|**2024-04-04**|**Formal Verification of Linear Temporal Logic Specifications Using Hybrid Zonotope-Based Reachability Analysis**|Loizos Hadjiloizou et.al.|[2404.03308v1](http://arxiv.org/abs/2404.03308v1)|null|
+|**2024-04-04**|**Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**|Se-Wook Yoo et.al.|[2404.03274v1](http://arxiv.org/abs/2404.03274v1)|null|
+|**2024-04-04**|**Real-time Noise Source Estimation of a Camera System from an Image and Metadata**|Maik Wischow et.al.|[2404.03251v1](http://arxiv.org/abs/2404.03251v1)|[link](https://github.com/maikwischow/noise-source-estimation)|
+|**2024-04-04**|**Relation between the keV-MeV and TeV emission of GRB 221009A and its implications**|Yan-Qiu Zhang et.al.|[2404.03229v1](http://arxiv.org/abs/2404.03229v1)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191v1](http://arxiv.org/abs/2404.03191v1)|null|
+|**2024-04-04**|**RAnGE: Reachability Analysis for Guaranteed Ergodicity**|Henry Berger et.al.|[2404.03186v1](http://arxiv.org/abs/2404.03186v1)|null|
+|**2024-04-04**|**Multi-modal Learning for WebAssembly Reverse Engineering**|Hanxian Huang et.al.|[2404.03171v1](http://arxiv.org/abs/2404.03171v1)|null|
+|**2024-04-04**|**TEGRA -- Scaling Up Terascale Graph Processing with Disaggregated Computing**|William Shaddix et.al.|[2404.03155v1](http://arxiv.org/abs/2404.03155v1)|null|
+|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110v1](http://arxiv.org/abs/2404.03110v1)|[link](https://github.com/noyzzz/emap)|
+|**2024-04-03**|**Full-Scale Readout Electronics for the ECHo-100k Experiment**|T. Muscheid et.al.|[2404.03096v1](http://arxiv.org/abs/2404.03096v1)|null|
+|**2024-04-03**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095v1](http://arxiv.org/abs/2404.03095v1)|null|
+|**2024-04-03**|**Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot**|Catherine Henry et.al.|[2404.03092v1](http://arxiv.org/abs/2404.03092v1)|null|
+|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
+|**2024-04-03**|**Autonomous Vehicle Networks for More Reliable Truck Tracking in Challenged High Mountain Roads, Tunnels and Bridges Environments**|Junhao Chen et.al.|[2404.03033v1](http://arxiv.org/abs/2404.03033v1)|null|
+|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015v1](http://arxiv.org/abs/2404.03015v1)|null|
+|**2024-04-03**|**How complex are galaxies? A non-parametric estimation of the intrinsic dimensionality of wide-band photometric data**|Corentin Cadiou et.al.|[2404.02962v1](http://arxiv.org/abs/2404.02962v1)|null|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
+|**2024-04-03**|**AI-augmented Automation for Real Driving Prediction: an Industrial Use Case**|Romina Eramo et.al.|[2404.02841v1](http://arxiv.org/abs/2404.02841v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
