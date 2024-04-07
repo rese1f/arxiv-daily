@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-06 21:12:57 Asia/Shanghai
+ Automated deployment @ 2024-04-07 09:03:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -83,74 +83,6 @@
 |**2024-04-04**|**Schroedinger's Threshold: When the AUC doesn't predict Accuracy**|Juri Opitz et.al.|[2404.03344v1](http://arxiv.org/abs/2404.03344v1)|[link](https://github.com/flipz357/schroedingersevaluation)|
 |**2024-04-04**|**Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks**|Lei Zhang et.al.|[2404.03340v1](http://arxiv.org/abs/2404.03340v1)|null|
 
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**ROBUST: 221 Bugs in the Robot Operating System**|Christopher S. Timperley et.al.|[2404.03629v1](http://arxiv.org/abs/2404.03629v1)|null|
-|**2024-04-04**|**Collective coupling of driven multilevel atoms and its effect on four-wave mixing**|P. Yanes-Thomas et.al.|[2404.03615v1](http://arxiv.org/abs/2404.03615v1)|null|
-|**2024-04-04**|**Consumer Behavior under Benevolent Price Discrimination**|Alexander Erlei et.al.|[2404.03581v1](http://arxiv.org/abs/2404.03581v1)|null|
-|**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558v1](http://arxiv.org/abs/2404.03558v1)|[link](https://github.com/harmonbhasin/curriculum_learning_icl)|
-|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|[link](https://github.com/lorebianchi98/fg-clip)|
-|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|[link](https://github.com/azminewasi/banglaautokg)|
-|**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510v1](http://arxiv.org/abs/2404.03510v1)|null|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
-|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|[link](https://github.com/wvu-robotics/Stickbug_2024)|
-|**2024-04-04**|**Class-E, Active Electrically-Small Antenna for High-Power Wideband Transmission at the High-Frequency (HF) Band**|Nathan Strachen et.al.|[2404.03468v1](http://arxiv.org/abs/2404.03468v1)|null|
-|**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412v1](http://arxiv.org/abs/2404.03412v1)|null|
-|**2024-04-04**|**Significantly Enhanced Vacancy Diffusion in Mn-containing Alloys**|Huaqing Guan et.al.|[2404.03339v1](http://arxiv.org/abs/2404.03339v1)|null|
-|**2024-04-04**|**Formal Verification of Linear Temporal Logic Specifications Using Hybrid Zonotope-Based Reachability Analysis**|Loizos Hadjiloizou et.al.|[2404.03308v1](http://arxiv.org/abs/2404.03308v1)|null|
-|**2024-04-04**|**Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**|Se-Wook Yoo et.al.|[2404.03274v1](http://arxiv.org/abs/2404.03274v1)|null|
-|**2024-04-04**|**Real-time Noise Source Estimation of a Camera System from an Image and Metadata**|Maik Wischow et.al.|[2404.03251v1](http://arxiv.org/abs/2404.03251v1)|[link](https://github.com/maikwischow/noise-source-estimation)|
-|**2024-04-04**|**Relation between the keV-MeV and TeV emission of GRB 221009A and its implications**|Yan-Qiu Zhang et.al.|[2404.03229v1](http://arxiv.org/abs/2404.03229v1)|null|
-|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191v1](http://arxiv.org/abs/2404.03191v1)|null|
-|**2024-04-04**|**RAnGE: Reachability Analysis for Guaranteed Ergodicity**|Henry Berger et.al.|[2404.03186v1](http://arxiv.org/abs/2404.03186v1)|null|
-|**2024-04-04**|**Multi-modal Learning for WebAssembly Reverse Engineering**|Hanxian Huang et.al.|[2404.03171v1](http://arxiv.org/abs/2404.03171v1)|null|
-|**2024-04-04**|**TEGRA -- Scaling Up Terascale Graph Processing with Disaggregated Computing**|William Shaddix et.al.|[2404.03155v1](http://arxiv.org/abs/2404.03155v1)|null|
-|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110v1](http://arxiv.org/abs/2404.03110v1)|[link](https://github.com/noyzzz/emap)|
-|**2024-04-03**|**Full-Scale Readout Electronics for the ECHo-100k Experiment**|T. Muscheid et.al.|[2404.03096v1](http://arxiv.org/abs/2404.03096v1)|null|
-|**2024-04-03**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095v1](http://arxiv.org/abs/2404.03095v1)|null|
-|**2024-04-03**|**Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot**|Catherine Henry et.al.|[2404.03092v1](http://arxiv.org/abs/2404.03092v1)|null|
-|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
-|**2024-04-03**|**Autonomous Vehicle Networks for More Reliable Truck Tracking in Challenged High Mountain Roads, Tunnels and Bridges Environments**|Junhao Chen et.al.|[2404.03033v1](http://arxiv.org/abs/2404.03033v1)|null|
-|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015v1](http://arxiv.org/abs/2404.03015v1)|null|
-|**2024-04-03**|**How complex are galaxies? A non-parametric estimation of the intrinsic dimensionality of wide-band photometric data**|Corentin Cadiou et.al.|[2404.02962v1](http://arxiv.org/abs/2404.02962v1)|null|
-|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
-|**2024-04-03**|**AI-augmented Automation for Real Driving Prediction: an Industrial Use Case**|Romina Eramo et.al.|[2404.02841v1](http://arxiv.org/abs/2404.02841v1)|null|
-
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-04**|**Identifying Quasars from the DESI Bright Galaxy Survey**|S. Juneau et.al.|[2404.03621v1](http://arxiv.org/abs/2404.03621v1)|null|
-|**2024-04-04**|**The Rise of Faint, Red AGN at $z>4$: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields**|Dale D. Kocevski et.al.|[2404.03576v1](http://arxiv.org/abs/2404.03576v1)|null|
-|**2024-04-04**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569v1](http://arxiv.org/abs/2404.03569v1)|null|
-|**2024-04-04**|**Quantum Science and Technologies in K-12: Supporting Teachers to Integrate Quantum in STEM Classrooms**|Nancy Holincheck et.al.|[2404.03538v1](http://arxiv.org/abs/2404.03538v1)|null|
-|**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499v1](http://arxiv.org/abs/2404.03499v1)|null|
-|**2024-04-04**|**Generative AI and Teachers -- For Us or Against Us? A Case Study**|Jenny Pettersson et.al.|[2404.03486v1](http://arxiv.org/abs/2404.03486v1)|null|
-|**2024-04-04**|**Shell-type Tidal Features Are More Frequently Detected in Slowly Rotating Early-type Galaxies than Stream- and Tail-type Features**|Yongmin Yoon et.al.|[2404.03459v1](http://arxiv.org/abs/2404.03459v1)|null|
-|**2024-04-04**|**Integrating AI in NDE: Techniques, Trends, and Further Directions**|Eduardo Pérez et.al.|[2404.03449v1](http://arxiv.org/abs/2404.03449v1)|null|
-|**2024-04-04**|**Science, Technology, Engineering, and Mathematics Undergraduates' Knowledge and Interest in Quantum Careers: Barriers and Opportunities to Building a Diverse Quantum Workforce**|Jessica L. Rosenberg et.al.|[2404.03439v1](http://arxiv.org/abs/2404.03439v1)|null|
-|**2024-04-04**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354v1](http://arxiv.org/abs/2404.03354v1)|[link](https://github.com/hkuds/awesome-sslrec-papers)|
-|**2024-04-04**|**The complexity of non-stationary ideals**|Philipp Lücke et.al.|[2404.03315v1](http://arxiv.org/abs/2404.03315v1)|null|
-|**2024-04-04**|**MusE GAs FLOw and Wind (MEGAFLOW) XI. Scaling relations between outflows and host galaxy properties**|Ilane Schroetter et.al.|[2404.03300v1](http://arxiv.org/abs/2404.03300v1)|null|
-|**2024-04-04**|**A complex node of the cosmic web associated with the massive galaxy cluster MACS J0600.1-2008**|Lukas J. Furtak et.al.|[2404.03286v1](http://arxiv.org/abs/2404.03286v1)|null|
-|**2024-04-04**|**Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions**|Yuting He et.al.|[2404.03264v1](http://arxiv.org/abs/2404.03264v1)|[link](https://github.com/yutinghe-list/awesome-foundation-models-for-advancing-healthcare)|
-|**2024-04-04**|**Order structure of P-point ultrafilters and their relatives**|Borisa Kuzeljevic et.al.|[2404.03238v1](http://arxiv.org/abs/2404.03238v1)|null|
-|**2024-04-04**|**A model for galaxy-galaxy strong lensing statistics in surveys**|Giovanni Ferrami et.al.|[2404.03143v1](http://arxiv.org/abs/2404.03143v1)|null|
-|**2024-04-04**|**Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks**|Arjun Subramonian et.al.|[2404.03139v1](http://arxiv.org/abs/2404.03139v1)|[link](https://github.com/arjunsubramonian/degree-bias-exploration)|
-|**2024-04-03**|**Enhancing Student Engagement in Large-Scale Capstone Courses: An Experience Report**|Asma Shakil et.al.|[2404.03120v1](http://arxiv.org/abs/2404.03120v1)|null|
-|**2024-04-03**|**Suppressing the sample variance of DESI-like galaxy clustering with fast simulations**|Z. Ding et.al.|[2404.03117v1](http://arxiv.org/abs/2404.03117v1)|null|
-|**2024-04-03**|**Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference**|Fred Hohman et.al.|[2404.03085v1](http://arxiv.org/abs/2404.03085v1)|null|
-|**2024-04-03**|**Machine Learning and Data Analysis Using Posets: A Survey**|Arnauld Mesinga Mwafise et.al.|[2404.03082v1](http://arxiv.org/abs/2404.03082v1)|null|
-|**2024-04-03**|**Emission Line Predictions for Mock Galaxy Catalogues: a New Differentiable and Empirical Mapping from DESI**|Ashod Khederlarian et.al.|[2404.03055v1](http://arxiv.org/abs/2404.03055v1)|null|
-|**2024-04-03**|**Have any LISA verification binaries been found?**|Tyson B. Littenberg et.al.|[2404.03046v1](http://arxiv.org/abs/2404.03046v1)|null|
-|**2024-04-03**|**Blessing or curse? A survey on the Impact of Generative AI on Fake News**|Alexander Loth et.al.|[2404.03021v1](http://arxiv.org/abs/2404.03021v1)|null|
-|**2024-04-03**|**HOD-Dependent Systematics in Emission Line Galaxies for the DESI 2024 BAO analysis**|C. Garcia-Quintero et.al.|[2404.03009v1](http://arxiv.org/abs/2404.03009v1)|null|
-|**2024-04-03**|**Semi-analytical covariance matrices for two-point correlation function for DESI 2024 data**|M. Rashkovetskyi et.al.|[2404.03007v1](http://arxiv.org/abs/2404.03007v1)|null|
-|**2024-04-03**|**Production of Alternate Realizations of DESI Fiber Assignment for Unbiased Clustering Measurement in Data and Simulations**|J. Lasker et.al.|[2404.03006v1](http://arxiv.org/abs/2404.03006v1)|null|
-|**2024-04-03**|**Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI**|J. Guy et.al.|[2404.03003v1](http://arxiv.org/abs/2404.03003v1)|null|
-|**2024-04-03**|**DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**|DESI Collaboration et.al.|[2404.03000v1](http://arxiv.org/abs/2404.03000v1)|null|
-|**2024-04-03**|**Detecting New Visual Binaries in Gaia DR3 with Gaia and Two Micron All Sky Survey (2MASS) Photometry II. Speckle Observations of 16 Low-Separation Systems**|Ilija Medan et.al.|[2404.02976v1](http://arxiv.org/abs/2404.02976v1)|null|
-
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -218,6 +150,74 @@
 |**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618v1](http://arxiv.org/abs/2404.03618v1)|null|
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617v1](http://arxiv.org/abs/2404.03617v1)|null|
 |**2024-04-04**|**Collective coupling of driven multilevel atoms and its effect on four-wave mixing**|P. Yanes-Thomas et.al.|[2404.03615v1](http://arxiv.org/abs/2404.03615v1)|null|
+
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**ROBUST: 221 Bugs in the Robot Operating System**|Christopher S. Timperley et.al.|[2404.03629v1](http://arxiv.org/abs/2404.03629v1)|null|
+|**2024-04-04**|**Collective coupling of driven multilevel atoms and its effect on four-wave mixing**|P. Yanes-Thomas et.al.|[2404.03615v1](http://arxiv.org/abs/2404.03615v1)|null|
+|**2024-04-04**|**Consumer Behavior under Benevolent Price Discrimination**|Alexander Erlei et.al.|[2404.03581v1](http://arxiv.org/abs/2404.03581v1)|null|
+|**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558v1](http://arxiv.org/abs/2404.03558v1)|[link](https://github.com/harmonbhasin/curriculum_learning_icl)|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|[link](https://github.com/lorebianchi98/fg-clip)|
+|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528v1](http://arxiv.org/abs/2404.03528v1)|[link](https://github.com/azminewasi/banglaautokg)|
+|**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510v1](http://arxiv.org/abs/2404.03510v1)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|[link](https://github.com/wvu-robotics/Stickbug_2024)|
+|**2024-04-04**|**Class-E, Active Electrically-Small Antenna for High-Power Wideband Transmission at the High-Frequency (HF) Band**|Nathan Strachen et.al.|[2404.03468v1](http://arxiv.org/abs/2404.03468v1)|null|
+|**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412v1](http://arxiv.org/abs/2404.03412v1)|null|
+|**2024-04-04**|**Significantly Enhanced Vacancy Diffusion in Mn-containing Alloys**|Huaqing Guan et.al.|[2404.03339v1](http://arxiv.org/abs/2404.03339v1)|null|
+|**2024-04-04**|**Formal Verification of Linear Temporal Logic Specifications Using Hybrid Zonotope-Based Reachability Analysis**|Loizos Hadjiloizou et.al.|[2404.03308v1](http://arxiv.org/abs/2404.03308v1)|null|
+|**2024-04-04**|**Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**|Se-Wook Yoo et.al.|[2404.03274v1](http://arxiv.org/abs/2404.03274v1)|null|
+|**2024-04-04**|**Real-time Noise Source Estimation of a Camera System from an Image and Metadata**|Maik Wischow et.al.|[2404.03251v1](http://arxiv.org/abs/2404.03251v1)|[link](https://github.com/maikwischow/noise-source-estimation)|
+|**2024-04-04**|**Relation between the keV-MeV and TeV emission of GRB 221009A and its implications**|Yan-Qiu Zhang et.al.|[2404.03229v1](http://arxiv.org/abs/2404.03229v1)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191v1](http://arxiv.org/abs/2404.03191v1)|null|
+|**2024-04-04**|**RAnGE: Reachability Analysis for Guaranteed Ergodicity**|Henry Berger et.al.|[2404.03186v1](http://arxiv.org/abs/2404.03186v1)|null|
+|**2024-04-04**|**Multi-modal Learning for WebAssembly Reverse Engineering**|Hanxian Huang et.al.|[2404.03171v1](http://arxiv.org/abs/2404.03171v1)|null|
+|**2024-04-04**|**TEGRA -- Scaling Up Terascale Graph Processing with Disaggregated Computing**|William Shaddix et.al.|[2404.03155v1](http://arxiv.org/abs/2404.03155v1)|null|
+|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110v1](http://arxiv.org/abs/2404.03110v1)|[link](https://github.com/noyzzz/emap)|
+|**2024-04-03**|**Full-Scale Readout Electronics for the ECHo-100k Experiment**|T. Muscheid et.al.|[2404.03096v1](http://arxiv.org/abs/2404.03096v1)|null|
+|**2024-04-03**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095v1](http://arxiv.org/abs/2404.03095v1)|null|
+|**2024-04-03**|**Unsupervised, Bottom-up Category Discovery for Symbol Grounding with a Curious Robot**|Catherine Henry et.al.|[2404.03092v1](http://arxiv.org/abs/2404.03092v1)|null|
+|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
+|**2024-04-03**|**Autonomous Vehicle Networks for More Reliable Truck Tracking in Challenged High Mountain Roads, Tunnels and Bridges Environments**|Junhao Chen et.al.|[2404.03033v1](http://arxiv.org/abs/2404.03033v1)|null|
+|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015v1](http://arxiv.org/abs/2404.03015v1)|null|
+|**2024-04-03**|**How complex are galaxies? A non-parametric estimation of the intrinsic dimensionality of wide-band photometric data**|Corentin Cadiou et.al.|[2404.02962v1](http://arxiv.org/abs/2404.02962v1)|null|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
+|**2024-04-03**|**AI-augmented Automation for Real Driving Prediction: an Industrial Use Case**|Romina Eramo et.al.|[2404.02841v1](http://arxiv.org/abs/2404.02841v1)|null|
+
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**Identifying Quasars from the DESI Bright Galaxy Survey**|S. Juneau et.al.|[2404.03621v1](http://arxiv.org/abs/2404.03621v1)|null|
+|**2024-04-04**|**The Rise of Faint, Red AGN at $z>4$: A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields**|Dale D. Kocevski et.al.|[2404.03576v1](http://arxiv.org/abs/2404.03576v1)|null|
+|**2024-04-04**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569v1](http://arxiv.org/abs/2404.03569v1)|null|
+|**2024-04-04**|**Quantum Science and Technologies in K-12: Supporting Teachers to Integrate Quantum in STEM Classrooms**|Nancy Holincheck et.al.|[2404.03538v1](http://arxiv.org/abs/2404.03538v1)|null|
+|**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499v1](http://arxiv.org/abs/2404.03499v1)|null|
+|**2024-04-04**|**Generative AI and Teachers -- For Us or Against Us? A Case Study**|Jenny Pettersson et.al.|[2404.03486v1](http://arxiv.org/abs/2404.03486v1)|null|
+|**2024-04-04**|**Shell-type Tidal Features Are More Frequently Detected in Slowly Rotating Early-type Galaxies than Stream- and Tail-type Features**|Yongmin Yoon et.al.|[2404.03459v1](http://arxiv.org/abs/2404.03459v1)|null|
+|**2024-04-04**|**Integrating AI in NDE: Techniques, Trends, and Further Directions**|Eduardo Pérez et.al.|[2404.03449v1](http://arxiv.org/abs/2404.03449v1)|null|
+|**2024-04-04**|**Science, Technology, Engineering, and Mathematics Undergraduates' Knowledge and Interest in Quantum Careers: Barriers and Opportunities to Building a Diverse Quantum Workforce**|Jessica L. Rosenberg et.al.|[2404.03439v1](http://arxiv.org/abs/2404.03439v1)|null|
+|**2024-04-04**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354v1](http://arxiv.org/abs/2404.03354v1)|[link](https://github.com/hkuds/awesome-sslrec-papers)|
+|**2024-04-04**|**The complexity of non-stationary ideals**|Philipp Lücke et.al.|[2404.03315v1](http://arxiv.org/abs/2404.03315v1)|null|
+|**2024-04-04**|**MusE GAs FLOw and Wind (MEGAFLOW) XI. Scaling relations between outflows and host galaxy properties**|Ilane Schroetter et.al.|[2404.03300v1](http://arxiv.org/abs/2404.03300v1)|null|
+|**2024-04-04**|**A complex node of the cosmic web associated with the massive galaxy cluster MACS J0600.1-2008**|Lukas J. Furtak et.al.|[2404.03286v1](http://arxiv.org/abs/2404.03286v1)|null|
+|**2024-04-04**|**Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions**|Yuting He et.al.|[2404.03264v1](http://arxiv.org/abs/2404.03264v1)|[link](https://github.com/yutinghe-list/awesome-foundation-models-for-advancing-healthcare)|
+|**2024-04-04**|**Order structure of P-point ultrafilters and their relatives**|Borisa Kuzeljevic et.al.|[2404.03238v1](http://arxiv.org/abs/2404.03238v1)|null|
+|**2024-04-04**|**A model for galaxy-galaxy strong lensing statistics in surveys**|Giovanni Ferrami et.al.|[2404.03143v1](http://arxiv.org/abs/2404.03143v1)|null|
+|**2024-04-04**|**Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks**|Arjun Subramonian et.al.|[2404.03139v1](http://arxiv.org/abs/2404.03139v1)|[link](https://github.com/arjunsubramonian/degree-bias-exploration)|
+|**2024-04-03**|**Enhancing Student Engagement in Large-Scale Capstone Courses: An Experience Report**|Asma Shakil et.al.|[2404.03120v1](http://arxiv.org/abs/2404.03120v1)|null|
+|**2024-04-03**|**Suppressing the sample variance of DESI-like galaxy clustering with fast simulations**|Z. Ding et.al.|[2404.03117v1](http://arxiv.org/abs/2404.03117v1)|null|
+|**2024-04-03**|**Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference**|Fred Hohman et.al.|[2404.03085v1](http://arxiv.org/abs/2404.03085v1)|null|
+|**2024-04-03**|**Machine Learning and Data Analysis Using Posets: A Survey**|Arnauld Mesinga Mwafise et.al.|[2404.03082v1](http://arxiv.org/abs/2404.03082v1)|null|
+|**2024-04-03**|**Emission Line Predictions for Mock Galaxy Catalogues: a New Differentiable and Empirical Mapping from DESI**|Ashod Khederlarian et.al.|[2404.03055v1](http://arxiv.org/abs/2404.03055v1)|null|
+|**2024-04-03**|**Have any LISA verification binaries been found?**|Tyson B. Littenberg et.al.|[2404.03046v1](http://arxiv.org/abs/2404.03046v1)|null|
+|**2024-04-03**|**Blessing or curse? A survey on the Impact of Generative AI on Fake News**|Alexander Loth et.al.|[2404.03021v1](http://arxiv.org/abs/2404.03021v1)|null|
+|**2024-04-03**|**HOD-Dependent Systematics in Emission Line Galaxies for the DESI 2024 BAO analysis**|C. Garcia-Quintero et.al.|[2404.03009v1](http://arxiv.org/abs/2404.03009v1)|null|
+|**2024-04-03**|**Semi-analytical covariance matrices for two-point correlation function for DESI 2024 data**|M. Rashkovetskyi et.al.|[2404.03007v1](http://arxiv.org/abs/2404.03007v1)|null|
+|**2024-04-03**|**Production of Alternate Realizations of DESI Fiber Assignment for Unbiased Clustering Measurement in Data and Simulations**|J. Lasker et.al.|[2404.03006v1](http://arxiv.org/abs/2404.03006v1)|null|
+|**2024-04-03**|**Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI**|J. Guy et.al.|[2404.03003v1](http://arxiv.org/abs/2404.03003v1)|null|
+|**2024-04-03**|**DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**|DESI Collaboration et.al.|[2404.03000v1](http://arxiv.org/abs/2404.03000v1)|null|
+|**2024-04-03**|**Detecting New Visual Binaries in Gaia DR3 with Gaia and Two Micron All Sky Survey (2MASS) Photometry II. Speckle Observations of 16 Low-Separation Systems**|Ilija Medan et.al.|[2404.02976v1](http://arxiv.org/abs/2404.02976v1)|null|
 
 ## CG
 
