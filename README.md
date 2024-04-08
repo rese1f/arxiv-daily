@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-08 20:24:42 Asia/Shanghai
+ Automated deployment @ 2024-04-08 20:46:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,40 +48,6 @@
 |**2024-04-04**|**SleepVST: Sleep Staging from Near-Infrared Video Signals using Pre-Trained Transformers**|Jonathan F. Carter et.al.|[2404.03831v1](http://arxiv.org/abs/2404.03831v1)|null|
 
 ## AI
-
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
-|**2024-04-05**|**Nightclub bar dynamics: statistics of serving times**|Eduardo V. Stock et.al.|[2404.04238v1](http://arxiv.org/abs/2404.04238v1)|null|
-|**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237v1](http://arxiv.org/abs/2404.04237v1)|null|
-|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
-|**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205v1](http://arxiv.org/abs/2404.04205v1)|null|
-|**2024-04-05**|**Markovian description of a wide class of feedback-controlled systems: Application to the feedback flashing ratchet**|Natalia Ruiz-Pino et.al.|[2404.04195v1](http://arxiv.org/abs/2404.04195v1)|null|
-|**2024-04-05**|**Interplay of network structure and talent configuration on wealth dynamics**|Jaeseok Hur et.al.|[2404.04175v1](http://arxiv.org/abs/2404.04175v1)|null|
-|**2024-04-05**|**Intervention-Assisted Policy Gradient Methods for Online Stochastic Queuing Network Optimization: Technical Report**|Jerrod Wigmore et.al.|[2404.04106v1](http://arxiv.org/abs/2404.04106v1)|null|
-|**2024-04-05**|**ROMA-iQSS: An Objective Alignment Approach via State-Based Value Learning and ROund-Robin Multi-Agent Scheduling**|Chi-Hui Lin et.al.|[2404.03984v1](http://arxiv.org/abs/2404.03984v1)|null|
-|**2024-04-05**|**Game-theoretic Distributed Learning Approach for Heterogeneous-cost Task Allocation with Budget Constraints**|Weiyi Yang et.al.|[2404.03974v1](http://arxiv.org/abs/2404.03974v1)|null|
-|**2024-04-05**|**Holon: a cybernetic interface for bio-semiotics**|Jon McCormack et.al.|[2404.03894v1](http://arxiv.org/abs/2404.03894v1)|null|
-|**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869v1](http://arxiv.org/abs/2404.03869v1)|null|
-|**2024-04-04**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
-|**2024-04-04**|**SLS-BRD: A system-level approach to seeking generalised feedback Nash equilibria**|Otacilio B. L. Neto et.al.|[2404.03809v1](http://arxiv.org/abs/2404.03809v1)|null|
-|**2024-04-04**|**Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture**|Juanwu Lu et.al.|[2404.03789v1](http://arxiv.org/abs/2404.03789v1)|null|
-|**2024-04-04**|**Legible and Proactive Robot Planning for Prosocial Human-Robot Interactions**|Jasper Geldenbott et.al.|[2404.03734v1](http://arxiv.org/abs/2404.03734v1)|null|
-|**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648v1](http://arxiv.org/abs/2404.03648v1)|[link](https://github.com/thudm/autowebglm)|
-|**2024-04-04**|**Standardizing Knowledge Engineering Practices with a Reference Architecture**|Bradley P. Allen et.al.|[2404.03624v1](http://arxiv.org/abs/2404.03624v1)|null|
-|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596v1](http://arxiv.org/abs/2404.03596v1)|[link](https://github.com/yamoling/lle)|
-|**2024-04-04**|**Anticipate & Collab: Data-driven Task Anticipation and Knowledge-driven Planning for Human-robot Collaboration**|Shivam Singh et.al.|[2404.03587v1](http://arxiv.org/abs/2404.03587v1)|null|
-|**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570v1](http://arxiv.org/abs/2404.03570v1)|null|
-|**2024-04-04**|**No Panacea in Planning: Algorithm Selection for Suboptimal Multi-Agent Path Finding**|Weizhe Chen et.al.|[2404.03554v1](http://arxiv.org/abs/2404.03554v1)|null|
-|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|[link](https://github.com/wvu-robotics/Stickbug_2024)|
-|**2024-04-04**|**A Reduction from Multi-Parameter to Single-Parameter Bayesian Contract Design**|Matteo Castiglioni et.al.|[2404.03476v1](http://arxiv.org/abs/2404.03476v1)|null|
-|**2024-04-04**|**Self-organized arrival system for urban air mobility**|Martin Waltz et.al.|[2404.03710v1](http://arxiv.org/abs/2404.03710v1)|null|
-|**2024-04-04**|**MEDIATE: Mutually Endorsed Distributed Incentive Acknowledgment Token Exchange**|Philipp Altmann et.al.|[2404.03431v1](http://arxiv.org/abs/2404.03431v1)|null|
-|**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418v1](http://arxiv.org/abs/2404.03418v1)|null|
-|**2024-04-04**|**SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring**|Kaichen Huang et.al.|[2404.03386v1](http://arxiv.org/abs/2404.03386v1)|null|
-|**2024-04-04**|**Scaling Population-Based Reinforcement Learning with GPU Accelerated Simulation**|Asad Ali Shahid et.al.|[2404.03336v1](http://arxiv.org/abs/2404.03336v1)|null|
-|**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325v1](http://arxiv.org/abs/2404.03325v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
@@ -185,6 +151,40 @@
 |**2024-04-05**|**Approximate UMAP allows for high-rate online visualization of high-dimensional data streams**|Peter Wassenaar et.al.|[2404.04001v1](http://arxiv.org/abs/2404.04001v1)|null|
 |**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998v1](http://arxiv.org/abs/2404.03998v1)|null|
 
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
+|**2024-04-05**|**Nightclub bar dynamics: statistics of serving times**|Eduardo V. Stock et.al.|[2404.04238v1](http://arxiv.org/abs/2404.04238v1)|null|
+|**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237v1](http://arxiv.org/abs/2404.04237v1)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
+|**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205v1](http://arxiv.org/abs/2404.04205v1)|null|
+|**2024-04-05**|**Markovian description of a wide class of feedback-controlled systems: Application to the feedback flashing ratchet**|Natalia Ruiz-Pino et.al.|[2404.04195v1](http://arxiv.org/abs/2404.04195v1)|null|
+|**2024-04-05**|**Interplay of network structure and talent configuration on wealth dynamics**|Jaeseok Hur et.al.|[2404.04175v1](http://arxiv.org/abs/2404.04175v1)|null|
+|**2024-04-05**|**Intervention-Assisted Policy Gradient Methods for Online Stochastic Queuing Network Optimization: Technical Report**|Jerrod Wigmore et.al.|[2404.04106v1](http://arxiv.org/abs/2404.04106v1)|null|
+|**2024-04-05**|**ROMA-iQSS: An Objective Alignment Approach via State-Based Value Learning and ROund-Robin Multi-Agent Scheduling**|Chi-Hui Lin et.al.|[2404.03984v1](http://arxiv.org/abs/2404.03984v1)|null|
+|**2024-04-05**|**Game-theoretic Distributed Learning Approach for Heterogeneous-cost Task Allocation with Budget Constraints**|Weiyi Yang et.al.|[2404.03974v1](http://arxiv.org/abs/2404.03974v1)|null|
+|**2024-04-05**|**Holon: a cybernetic interface for bio-semiotics**|Jon McCormack et.al.|[2404.03894v1](http://arxiv.org/abs/2404.03894v1)|null|
+|**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869v1](http://arxiv.org/abs/2404.03869v1)|null|
+|**2024-04-04**|**I Did Not Notice: A Comparison of Immersive Analytics with Augmented and Virtual Reality**|Xiaoyan Zhou et.al.|[2404.03814v1](http://arxiv.org/abs/2404.03814v1)|null|
+|**2024-04-04**|**SLS-BRD: A system-level approach to seeking generalised feedback Nash equilibria**|Otacilio B. L. Neto et.al.|[2404.03809v1](http://arxiv.org/abs/2404.03809v1)|null|
+|**2024-04-04**|**Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture**|Juanwu Lu et.al.|[2404.03789v1](http://arxiv.org/abs/2404.03789v1)|null|
+|**2024-04-04**|**Legible and Proactive Robot Planning for Prosocial Human-Robot Interactions**|Jasper Geldenbott et.al.|[2404.03734v1](http://arxiv.org/abs/2404.03734v1)|null|
+|**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648v1](http://arxiv.org/abs/2404.03648v1)|[link](https://github.com/thudm/autowebglm)|
+|**2024-04-04**|**Standardizing Knowledge Engineering Practices with a Reference Architecture**|Bradley P. Allen et.al.|[2404.03624v1](http://arxiv.org/abs/2404.03624v1)|null|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596v1](http://arxiv.org/abs/2404.03596v1)|[link](https://github.com/yamoling/lle)|
+|**2024-04-04**|**Anticipate & Collab: Data-driven Task Anticipation and Knowledge-driven Planning for Human-robot Collaboration**|Shivam Singh et.al.|[2404.03587v1](http://arxiv.org/abs/2404.03587v1)|null|
+|**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570v1](http://arxiv.org/abs/2404.03570v1)|null|
+|**2024-04-04**|**No Panacea in Planning: Algorithm Selection for Suboptimal Multi-Agent Path Finding**|Weizhe Chen et.al.|[2404.03554v1](http://arxiv.org/abs/2404.03554v1)|null|
+|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489v1](http://arxiv.org/abs/2404.03489v1)|[link](https://github.com/wvu-robotics/Stickbug_2024)|
+|**2024-04-04**|**A Reduction from Multi-Parameter to Single-Parameter Bayesian Contract Design**|Matteo Castiglioni et.al.|[2404.03476v1](http://arxiv.org/abs/2404.03476v1)|null|
+|**2024-04-04**|**Self-organized arrival system for urban air mobility**|Martin Waltz et.al.|[2404.03710v1](http://arxiv.org/abs/2404.03710v1)|null|
+|**2024-04-04**|**MEDIATE: Mutually Endorsed Distributed Incentive Acknowledgment Token Exchange**|Philipp Altmann et.al.|[2404.03431v1](http://arxiv.org/abs/2404.03431v1)|null|
+|**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418v1](http://arxiv.org/abs/2404.03418v1)|null|
+|**2024-04-04**|**SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring**|Kaichen Huang et.al.|[2404.03386v1](http://arxiv.org/abs/2404.03386v1)|null|
+|**2024-04-04**|**Scaling Population-Based Reinforcement Learning with GPU Accelerated Simulation**|Asad Ali Shahid et.al.|[2404.03336v1](http://arxiv.org/abs/2404.03336v1)|null|
+|**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325v1](http://arxiv.org/abs/2404.03325v1)|null|
+
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -255,40 +255,6 @@
 |**2024-04-05**|**Dynamic Risk Assessment Methodology with an LDM-based System for Parking Scenarios**|Paola Natalia Cañas et.al.|[2404.04040v1](http://arxiv.org/abs/2404.04040v1)|null|
 |**2024-04-05**|**Habitability constraints by nutrient availability in atmospheres of rocky exoplanets**|Oliver Herbort et.al.|[2404.04029v1](http://arxiv.org/abs/2404.04029v1)|null|
 
-### Diffusion Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-05**|**Incoherent polariton dynamics and nonlinearities in organic light-emitting diodes**|Olli Siltanen et.al.|[2404.04257v1](http://arxiv.org/abs/2404.04257v1)|null|
-|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
-|**2024-04-05**|**Bounds on galaxy stochasticity from halo occupation distribution modeling**|Dylan Britt et.al.|[2404.04252v1](http://arxiv.org/abs/2404.04252v1)|null|
-|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|null|
-|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245v1](http://arxiv.org/abs/2404.04245v1)|null|
-|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243v1](http://arxiv.org/abs/2404.04243v1)|null|
-|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242v1](http://arxiv.org/abs/2404.04242v1)|null|
-|**2024-04-05**|**Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via Mixture Density Networks**|Jordan Thompson et.al.|[2404.04241v1](http://arxiv.org/abs/2404.04241v1)|null|
-|**2024-04-05**|**Dynamic Conditional Optimal Transport through Simulation-Free Flows**|Gavin Kerrigan et.al.|[2404.04240v1](http://arxiv.org/abs/2404.04240v1)|null|
-|**2024-04-05**|**Nightclub bar dynamics: statistics of serving times**|Eduardo V. Stock et.al.|[2404.04238v1](http://arxiv.org/abs/2404.04238v1)|null|
-|**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237v1](http://arxiv.org/abs/2404.04237v1)|null|
-|**2024-04-05**|**Probing the Circumstellar Environment of highly luminous type IIn SN ASASSN-14il**|Naveen Dukiya et.al.|[2404.04235v1](http://arxiv.org/abs/2404.04235v1)|null|
-|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234v1](http://arxiv.org/abs/2404.04234v1)|null|
-|**2024-04-05**|**Train timetabling with rolling stock assignment, short-turning and skip-stop strategy for a bidirectional metro line**|Chanchal Kumar Salode et.al.|[2404.04233v1](http://arxiv.org/abs/2404.04233v1)|null|
-|**2024-04-05**|**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation**|Tianqi Zhong et.al.|[2404.04232v1](http://arxiv.org/abs/2404.04232v1)|[link](https://github.com/tqzhong/cg4mctg)|
-|**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231v1](http://arxiv.org/abs/2404.04231v1)|null|
-|**2024-04-05**|**The Standard Model Gauge Group, SMEFT, and Generalized Symmetries**|Hao-Lin Li et.al.|[2404.04229v1](http://arxiv.org/abs/2404.04229v1)|null|
-|**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228v1](http://arxiv.org/abs/2404.04228v1)|null|
-|**2024-04-05**|**Beaded metamaterials**|Lauren Dreier et.al.|[2404.04227v1](http://arxiv.org/abs/2404.04227v1)|null|
-|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224v1](http://arxiv.org/abs/2404.04224v1)|null|
-|**2024-04-05**|**Early evolution of spin direction in dark matter halos and the effect of the surrounding large-scale tidal field**|Pablo López et.al.|[2404.04223v1](http://arxiv.org/abs/2404.04223v1)|null|
-|**2024-04-05**|**The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model**|Alex Viguerie et.al.|[2404.04222v1](http://arxiv.org/abs/2404.04222v1)|null|
-|**2024-04-05**|**How Lexical is Bilingual Lexicon Induction?**|Harsh Kohli et.al.|[2404.04221v1](http://arxiv.org/abs/2404.04221v1)|null|
-|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
-|**2024-04-05**|**Particle chirality does not matter in strong turbulence**|Giulia Piumini et.al.|[2404.04217v1](http://arxiv.org/abs/2404.04217v1)|null|
-|**2024-04-05**|**Quantum-informed simulations for mechanics of materials: DFTB+MBD framework**|Zhaoxiang Shen et.al.|[2404.04216v1](http://arxiv.org/abs/2404.04216v1)|[link](https://github.com/iansosa/QC-Toolkit)|
-|**2024-04-05**|**Aging following a zero-temperature quench in the $d=3$ Ising model**|Denis Gessert et.al.|[2404.04214v1](http://arxiv.org/abs/2404.04214v1)|null|
-|**2024-04-05**|**Modelling handball outcomes using univariate and bivariate approaches**|Dimitris Karlis et.al.|[2404.04213v1](http://arxiv.org/abs/2404.04213v1)|null|
-|**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212v1](http://arxiv.org/abs/2404.04212v1)|null|
-|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
-
 ### Evaluation for Generative Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -322,6 +288,40 @@
 |**2024-04-05**|**Grand canonically optimized grain boundary phases in hexagonal close-packed titanium**|Enze Chen et.al.|[2404.04230v1](http://arxiv.org/abs/2404.04230v1)|null|
 |**2024-04-05**|**The Standard Model Gauge Group, SMEFT, and Generalized Symmetries**|Hao-Lin Li et.al.|[2404.04229v1](http://arxiv.org/abs/2404.04229v1)|null|
 |**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228v1](http://arxiv.org/abs/2404.04228v1)|null|
+
+### Diffusion Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-05**|**Incoherent polariton dynamics and nonlinearities in organic light-emitting diodes**|Olli Siltanen et.al.|[2404.04257v1](http://arxiv.org/abs/2404.04257v1)|null|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
+|**2024-04-05**|**Bounds on galaxy stochasticity from halo occupation distribution modeling**|Dylan Britt et.al.|[2404.04252v1](http://arxiv.org/abs/2404.04252v1)|null|
+|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|null|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245v1](http://arxiv.org/abs/2404.04245v1)|null|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243v1](http://arxiv.org/abs/2404.04243v1)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242v1](http://arxiv.org/abs/2404.04242v1)|null|
+|**2024-04-05**|**Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via Mixture Density Networks**|Jordan Thompson et.al.|[2404.04241v1](http://arxiv.org/abs/2404.04241v1)|null|
+|**2024-04-05**|**Dynamic Conditional Optimal Transport through Simulation-Free Flows**|Gavin Kerrigan et.al.|[2404.04240v1](http://arxiv.org/abs/2404.04240v1)|null|
+|**2024-04-05**|**Nightclub bar dynamics: statistics of serving times**|Eduardo V. Stock et.al.|[2404.04238v1](http://arxiv.org/abs/2404.04238v1)|null|
+|**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237v1](http://arxiv.org/abs/2404.04237v1)|null|
+|**2024-04-05**|**Probing the Circumstellar Environment of highly luminous type IIn SN ASASSN-14il**|Naveen Dukiya et.al.|[2404.04235v1](http://arxiv.org/abs/2404.04235v1)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234v1](http://arxiv.org/abs/2404.04234v1)|null|
+|**2024-04-05**|**Train timetabling with rolling stock assignment, short-turning and skip-stop strategy for a bidirectional metro line**|Chanchal Kumar Salode et.al.|[2404.04233v1](http://arxiv.org/abs/2404.04233v1)|null|
+|**2024-04-05**|**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation**|Tianqi Zhong et.al.|[2404.04232v1](http://arxiv.org/abs/2404.04232v1)|[link](https://github.com/tqzhong/cg4mctg)|
+|**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231v1](http://arxiv.org/abs/2404.04231v1)|null|
+|**2024-04-05**|**The Standard Model Gauge Group, SMEFT, and Generalized Symmetries**|Hao-Lin Li et.al.|[2404.04229v1](http://arxiv.org/abs/2404.04229v1)|null|
+|**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228v1](http://arxiv.org/abs/2404.04228v1)|null|
+|**2024-04-05**|**Beaded metamaterials**|Lauren Dreier et.al.|[2404.04227v1](http://arxiv.org/abs/2404.04227v1)|null|
+|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224v1](http://arxiv.org/abs/2404.04224v1)|null|
+|**2024-04-05**|**Early evolution of spin direction in dark matter halos and the effect of the surrounding large-scale tidal field**|Pablo López et.al.|[2404.04223v1](http://arxiv.org/abs/2404.04223v1)|null|
+|**2024-04-05**|**The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model**|Alex Viguerie et.al.|[2404.04222v1](http://arxiv.org/abs/2404.04222v1)|null|
+|**2024-04-05**|**How Lexical is Bilingual Lexicon Induction?**|Harsh Kohli et.al.|[2404.04221v1](http://arxiv.org/abs/2404.04221v1)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
+|**2024-04-05**|**Particle chirality does not matter in strong turbulence**|Giulia Piumini et.al.|[2404.04217v1](http://arxiv.org/abs/2404.04217v1)|null|
+|**2024-04-05**|**Quantum-informed simulations for mechanics of materials: DFTB+MBD framework**|Zhaoxiang Shen et.al.|[2404.04216v1](http://arxiv.org/abs/2404.04216v1)|[link](https://github.com/iansosa/QC-Toolkit)|
+|**2024-04-05**|**Aging following a zero-temperature quench in the $d=3$ Ising model**|Denis Gessert et.al.|[2404.04214v1](http://arxiv.org/abs/2404.04214v1)|null|
+|**2024-04-05**|**Modelling handball outcomes using univariate and bivariate approaches**|Dimitris Karlis et.al.|[2404.04213v1](http://arxiv.org/abs/2404.04213v1)|null|
+|**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212v1](http://arxiv.org/abs/2404.04212v1)|null|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
 
 ## CG
 
