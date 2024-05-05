@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-05 20:23:50 Asia/Shanghai
+ Automated deployment @ 2024-05-05 20:45:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,74 +48,6 @@
 |**2024-05-02**|**Quantum Wave Packet Transforms with compact frequency support**|Hongkang Ni et.al.|[2405.00929v1](http://arxiv.org/abs/2405.00929v1)|null|
 
 ## AI
-
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-02**|**Advancements in Streamlining Time-Domain and Multi-Messenger Astronomy Follow-Up Infrastructure at Keck Observatory**|Chien-Hsiu Lee et.al.|[2405.01500v1](http://arxiv.org/abs/2405.01500v1)|null|
-|**2024-05-02**|**Modeling of Granulation in Red Supergiants in the Magellanic Clouds with the Gaussian Process Regressions**|Zehao Zhang et.al.|[2405.01405v1](http://arxiv.org/abs/2405.01405v1)|null|
-|**2024-05-02**|**Strategies for Rare Population Detection and Sampling: A Methodological Approach in Liguria**|G. Lancia et.al.|[2405.01342v1](http://arxiv.org/abs/2405.01342v1)|null|
-|**2024-05-02**|**The rotation-tunneling spectrum of 3-hydroxypropenal and confirmation of its detection toward IRAS 16293$-$2422 B**|H. S. P. Müller et.al.|[2405.01338v1](http://arxiv.org/abs/2405.01338v1)|null|
-|**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333v1](http://arxiv.org/abs/2405.01333v1)|null|
-|**2024-05-02**|**A hypergraph model shows the carbon reduction potential of effective space use in housing**|Ramon Elias Weber et.al.|[2405.01290v1](http://arxiv.org/abs/2405.01290v1)|null|
-|**2024-05-02**|**X-Shooting ULLYSES: Massive stars at low metallicity -- V. Effect of metallicity on surface abundances of O stars**|F. Martins et.al.|[2405.01267v1](http://arxiv.org/abs/2405.01267v1)|null|
-|**2024-05-02**|**A Survey on Semantic Communication Networks: Architecture, Security, and Privacy**|Shaolong Guo et.al.|[2405.01221v1](http://arxiv.org/abs/2405.01221v1)|null|
-|**2024-05-02**|**A Survey of the Overlooked Dangers of Template Engines**|Lorenzo Pisu et.al.|[2405.01118v1](http://arxiv.org/abs/2405.01118v1)|null|
-|**2024-05-02**|**Does Financial Literacy Impact Investment Participation and Retirement Planning in Japan?**|Yi Jiang et.al.|[2405.01078v1](http://arxiv.org/abs/2405.01078v1)|null|
-|**2024-05-02**|**Euclid -- The Dark Universe detective**|L. Linke et.al.|[2405.01037v1](http://arxiv.org/abs/2405.01037v1)|null|
-|**2024-05-01**|**Evolution of Flare Activity in GKM Stars Younger than 300 Myr over Five Years of TESS Observations**|Adina D. Feinstein et.al.|[2405.00850v1](http://arxiv.org/abs/2405.00850v1)|null|
-|**2024-05-01**|**Teaching Algorithm Design: A Literature Review**|Jonathan Liu et.al.|[2405.00832v1](http://arxiv.org/abs/2405.00832v1)|null|
-|**2024-05-01**|**Kinetic Sunyaev Zel'dovich velocity reconstruction from Planck and unWISE**|Richard Bloch et.al.|[2405.00809v1](http://arxiv.org/abs/2405.00809v1)|null|
-|**2024-05-01**|**The NIRVANDELS Survey: the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5**|T. M. Stanton et.al.|[2405.00774v1](http://arxiv.org/abs/2405.00774v1)|null|
-|**2024-05-01**|**Experimental Aspects of Indefinite Causal Order in Quantum Mechanics**|Lee A. Rozema et.al.|[2405.00767v1](http://arxiv.org/abs/2405.00767v1)|null|
-|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669v1](http://arxiv.org/abs/2405.00669v1)|null|
-|**2024-05-01**|**$f(T)$ gravity after DESI Baryon Acoustic Oscillation and DES Supernovae 2024 data**|Celia Escamilla-Rivera et.al.|[2405.00608v1](http://arxiv.org/abs/2405.00608v1)|null|
-|**2024-05-01**|**How founder motivations, goals, and actions influence early trajectories of online communities**|Sanjay R. Kairam et.al.|[2405.00601v1](http://arxiv.org/abs/2405.00601v1)|null|
-|**2024-05-01**|**Survey on the Canonical Metrics on the Teichmüller Spaces and the Moduli Spaces of Riemann Surfaces**|Kin Wai Chan et.al.|[2405.00761v1](http://arxiv.org/abs/2405.00761v1)|null|
-|**2024-05-01**|**The Hobby-Eberly Telescope VIRUS Parallel Survey (HETVIPS)**|Gregory R. Zeimann et.al.|[2405.00585v1](http://arxiv.org/abs/2405.00585v1)|null|
-|**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556v1](http://arxiv.org/abs/2405.00556v1)|null|
-|**2024-05-01**|**The M33 Synoptic Stellar Survey. III. Miras and LPVs in griJHKs**|Tarini Konchady et.al.|[2405.00503v1](http://arxiv.org/abs/2405.00503v1)|null|
-|**2024-05-01**|**A study of Galactic Plane Planck Galactic Cold Clumps observed by SCOPE and the JCMT Plane Survey**|D. J. Eden et.al.|[2405.00493v1](http://arxiv.org/abs/2405.00493v1)|null|
-|**2024-05-01**|**Main sequence of star formation and colour bimodality considering galaxy environment**|Pius Privatus et.al.|[2405.00481v1](http://arxiv.org/abs/2405.00481v1)|null|
-|**2024-05-01**|**A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges**|ZhengZhao Feng et.al.|[2405.00476v1](http://arxiv.org/abs/2405.00476v1)|null|
-|**2024-05-01**|**Fuzzy Intelligent System for Student Software Project Evaluation**|Anna Ogorodova et.al.|[2405.00453v1](http://arxiv.org/abs/2405.00453v1)|null|
-|**2024-05-01**|**DEVILS/MIGHTEE/GAMA/DINGO: The Impact of SFR Timescales on the SFR-Radio Luminosity Correlation**|Robin H. W. Cook et.al.|[2405.00337v1](http://arxiv.org/abs/2405.00337v1)|null|
-|**2024-05-01**|**A Survey on Deep Active Learning: Recent Advances and New Frontiers**|Dongyuan Li et.al.|[2405.00334v1](http://arxiv.org/abs/2405.00334v1)|null|
-|**2024-05-01**|**Characterizing Information Seeking Processes with Multiple Physiological Signals**|Kaixin Ji et.al.|[2405.00322v1](http://arxiv.org/abs/2405.00322v1)|[link](https://github.com/kkkkk2017/ir-physiological-signals)|
-
-### Benchmark
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[2405.01538v1](http://arxiv.org/abs/2405.01538v1)|null|
-|**2024-05-02**|**Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models**|Seungone Kim et.al.|[2405.01535v1](http://arxiv.org/abs/2405.01535v1)|[link](https://github.com/prometheus-eval/prometheus-eval)|
-|**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534v1](http://arxiv.org/abs/2405.01534v1)|null|
-|**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531v1](http://arxiv.org/abs/2405.01531v1)|null|
-|**2024-05-02**|**Implementation of time-dependent Hartree Fock in real space**|Uday Panta et.al.|[2405.01522v1](http://arxiv.org/abs/2405.01522v1)|null|
-|**2024-05-02**|**PAM-UNet: Shifting Attention on Region of Interest in Medical Images**|Abhijit Das et.al.|[2405.01503v1](http://arxiv.org/abs/2405.01503v1)|null|
-|**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490v1](http://arxiv.org/abs/2405.01490v1)|null|
-|**2024-05-02**|**Single-layer tensor network approach for three-dimensional quantum systems**|Illia Lukin et.al.|[2405.01489v1](http://arxiv.org/abs/2405.01489v1)|null|
-|**2024-05-02**|**MANTIS: Interleaved Multi-Image Instruction Tuning**|Dongfu Jiang et.al.|[2405.01483v1](http://arxiv.org/abs/2405.01483v1)|null|
-|**2024-05-02**|**Uncertainty for Active Learning on Graphs**|Dominik Fuchsgruber et.al.|[2405.01462v1](http://arxiv.org/abs/2405.01462v1)|null|
-|**2024-05-02**|**UQA: Corpus for Urdu Question Answering**|Samee Arif et.al.|[2405.01458v1](http://arxiv.org/abs/2405.01458v1)|[link](https://github.com/sameearif/uqa)|
-|**2024-05-02**|**Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport**|Akshay Mehra et.al.|[2405.01451v1](http://arxiv.org/abs/2405.01451v1)|[link](https://github.com/akshaymehra24/TETOT)|
-|**2024-05-02**|**Scalable Ab Initio Electronic Structure Methods with Near Chemical Accuracy for Main Group Chemistry**|Yujing Wei et.al.|[2405.01400v1](http://arxiv.org/abs/2405.01400v1)|null|
-|**2024-05-02**|**Invariant Risk Minimization Is A Total Variation Model**|Zhao-Rong Lai et.al.|[2405.01389v1](http://arxiv.org/abs/2405.01389v1)|null|
-|**2024-05-02**|**Benchmarking DFT-based excited-state methods for intermolecular charge-transfer excitations**|Nicola Bogo et.al.|[2405.01382v1](http://arxiv.org/abs/2405.01382v1)|null|
-|**2024-05-02**|**Benchmarking Quantum Annealers with Near-Optimal Minor-Embedded Instances**|Valentin Gilbert et.al.|[2405.01378v1](http://arxiv.org/abs/2405.01378v1)|null|
-|**2024-05-02**|**Community-Invariant Graph Contrastive Learning**|Shiyin Tan et.al.|[2405.01350v1](http://arxiv.org/abs/2405.01350v1)|[link](https://github.com/shiyintan/ci-gcl)|
-|**2024-05-02**|**The Power of Question Translation Training in Multilingual Reasoning: Broadened Scope and Deepened Insights**|Wenhao Zhu et.al.|[2405.01345v1](http://arxiv.org/abs/2405.01345v1)|[link](https://github.com/njunlp/qalign)|
-|**2024-05-02**|**Data Scoping: Effectively Learning the Evolution of Generic Transport PDEs**|Jiangce Chen et.al.|[2405.01319v1](http://arxiv.org/abs/2405.01319v1)|null|
-|**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312v1](http://arxiv.org/abs/2405.01312v1)|null|
-|**2024-05-02**|**Koopman Data-Driven Predictive Control with Robust Stability and Recursive Feasibility Guarantees**|Thomas de Jong et.al.|[2405.01292v1](http://arxiv.org/abs/2405.01292v1)|[link](https://github.com/todejong/KDPC_RSRFG)|
-|**2024-05-02**|**MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving**|Haicheng Liao et.al.|[2405.01266v1](http://arxiv.org/abs/2405.01266v1)|null|
-|**2024-05-02**|**Avoiding Redundant Restarts in Multimodal Global Optimization**|Jacob de Nobel et.al.|[2405.01226v1](http://arxiv.org/abs/2405.01226v1)|null|
-|**2024-05-02**|**Learning-to-solve unit commitment based on few-shot physics-guided spatial-temporal graph convolution network**|Mei Yang et.al.|[2405.01200v1](http://arxiv.org/abs/2405.01200v1)|null|
-|**2024-05-02**|**Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks**|Mikkel Jordahn et.al.|[2405.01196v1](http://arxiv.org/abs/2405.01196v1)|null|
-|**2024-05-02**|**Nonperturbative study of the electroweak phase transition in the real scalar singlet extended Standard Model**|Lauri Niemi et.al.|[2405.01191v1](http://arxiv.org/abs/2405.01191v1)|null|
-|**2024-05-02**|**Third Medium Finite Element Contact Formulation for Pneumatically Actuated Systems**|Ondřej Faltus et.al.|[2405.01185v1](http://arxiv.org/abs/2405.01185v1)|null|
-|**2024-05-02**|**Localized RETE for Incremental Graph Queries**|Matthias Barkowsky et.al.|[2405.01145v1](http://arxiv.org/abs/2405.01145v1)|null|
-|**2024-05-02**|**Efficient Data Generation for Source-grounded Information-seeking Dialogs: A Use Case for Meeting Transcripts**|Lotem Golany et.al.|[2405.01121v1](http://arxiv.org/abs/2405.01121v1)|null|
-|**2024-05-02**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103v1](http://arxiv.org/abs/2405.01103v1)|null|
 
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
@@ -185,6 +117,40 @@
 |**2024-05-02**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491v1](http://arxiv.org/abs/2405.01491v1)|[link](https://github.com/thomasple/FeNNol)|
 |**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490v1](http://arxiv.org/abs/2405.01490v1)|null|
 
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-02**|**Advancements in Streamlining Time-Domain and Multi-Messenger Astronomy Follow-Up Infrastructure at Keck Observatory**|Chien-Hsiu Lee et.al.|[2405.01500v1](http://arxiv.org/abs/2405.01500v1)|null|
+|**2024-05-02**|**Modeling of Granulation in Red Supergiants in the Magellanic Clouds with the Gaussian Process Regressions**|Zehao Zhang et.al.|[2405.01405v1](http://arxiv.org/abs/2405.01405v1)|null|
+|**2024-05-02**|**Strategies for Rare Population Detection and Sampling: A Methodological Approach in Liguria**|G. Lancia et.al.|[2405.01342v1](http://arxiv.org/abs/2405.01342v1)|null|
+|**2024-05-02**|**The rotation-tunneling spectrum of 3-hydroxypropenal and confirmation of its detection toward IRAS 16293$-$2422 B**|H. S. P. Müller et.al.|[2405.01338v1](http://arxiv.org/abs/2405.01338v1)|null|
+|**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333v1](http://arxiv.org/abs/2405.01333v1)|null|
+|**2024-05-02**|**A hypergraph model shows the carbon reduction potential of effective space use in housing**|Ramon Elias Weber et.al.|[2405.01290v1](http://arxiv.org/abs/2405.01290v1)|null|
+|**2024-05-02**|**X-Shooting ULLYSES: Massive stars at low metallicity -- V. Effect of metallicity on surface abundances of O stars**|F. Martins et.al.|[2405.01267v1](http://arxiv.org/abs/2405.01267v1)|null|
+|**2024-05-02**|**A Survey on Semantic Communication Networks: Architecture, Security, and Privacy**|Shaolong Guo et.al.|[2405.01221v1](http://arxiv.org/abs/2405.01221v1)|null|
+|**2024-05-02**|**A Survey of the Overlooked Dangers of Template Engines**|Lorenzo Pisu et.al.|[2405.01118v1](http://arxiv.org/abs/2405.01118v1)|null|
+|**2024-05-02**|**Does Financial Literacy Impact Investment Participation and Retirement Planning in Japan?**|Yi Jiang et.al.|[2405.01078v1](http://arxiv.org/abs/2405.01078v1)|null|
+|**2024-05-02**|**Euclid -- The Dark Universe detective**|L. Linke et.al.|[2405.01037v1](http://arxiv.org/abs/2405.01037v1)|null|
+|**2024-05-01**|**Evolution of Flare Activity in GKM Stars Younger than 300 Myr over Five Years of TESS Observations**|Adina D. Feinstein et.al.|[2405.00850v1](http://arxiv.org/abs/2405.00850v1)|null|
+|**2024-05-01**|**Teaching Algorithm Design: A Literature Review**|Jonathan Liu et.al.|[2405.00832v1](http://arxiv.org/abs/2405.00832v1)|null|
+|**2024-05-01**|**Kinetic Sunyaev Zel'dovich velocity reconstruction from Planck and unWISE**|Richard Bloch et.al.|[2405.00809v1](http://arxiv.org/abs/2405.00809v1)|null|
+|**2024-05-01**|**The NIRVANDELS Survey: the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5**|T. M. Stanton et.al.|[2405.00774v1](http://arxiv.org/abs/2405.00774v1)|null|
+|**2024-05-01**|**Experimental Aspects of Indefinite Causal Order in Quantum Mechanics**|Lee A. Rozema et.al.|[2405.00767v1](http://arxiv.org/abs/2405.00767v1)|null|
+|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669v1](http://arxiv.org/abs/2405.00669v1)|null|
+|**2024-05-01**|**$f(T)$ gravity after DESI Baryon Acoustic Oscillation and DES Supernovae 2024 data**|Celia Escamilla-Rivera et.al.|[2405.00608v1](http://arxiv.org/abs/2405.00608v1)|null|
+|**2024-05-01**|**How founder motivations, goals, and actions influence early trajectories of online communities**|Sanjay R. Kairam et.al.|[2405.00601v1](http://arxiv.org/abs/2405.00601v1)|null|
+|**2024-05-01**|**Survey on the Canonical Metrics on the Teichmüller Spaces and the Moduli Spaces of Riemann Surfaces**|Kin Wai Chan et.al.|[2405.00761v1](http://arxiv.org/abs/2405.00761v1)|null|
+|**2024-05-01**|**The Hobby-Eberly Telescope VIRUS Parallel Survey (HETVIPS)**|Gregory R. Zeimann et.al.|[2405.00585v1](http://arxiv.org/abs/2405.00585v1)|null|
+|**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556v1](http://arxiv.org/abs/2405.00556v1)|null|
+|**2024-05-01**|**The M33 Synoptic Stellar Survey. III. Miras and LPVs in griJHKs**|Tarini Konchady et.al.|[2405.00503v1](http://arxiv.org/abs/2405.00503v1)|null|
+|**2024-05-01**|**A study of Galactic Plane Planck Galactic Cold Clumps observed by SCOPE and the JCMT Plane Survey**|D. J. Eden et.al.|[2405.00493v1](http://arxiv.org/abs/2405.00493v1)|null|
+|**2024-05-01**|**Main sequence of star formation and colour bimodality considering galaxy environment**|Pius Privatus et.al.|[2405.00481v1](http://arxiv.org/abs/2405.00481v1)|null|
+|**2024-05-01**|**A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges**|ZhengZhao Feng et.al.|[2405.00476v1](http://arxiv.org/abs/2405.00476v1)|null|
+|**2024-05-01**|**Fuzzy Intelligent System for Student Software Project Evaluation**|Anna Ogorodova et.al.|[2405.00453v1](http://arxiv.org/abs/2405.00453v1)|null|
+|**2024-05-01**|**DEVILS/MIGHTEE/GAMA/DINGO: The Impact of SFR Timescales on the SFR-Radio Luminosity Correlation**|Robin H. W. Cook et.al.|[2405.00337v1](http://arxiv.org/abs/2405.00337v1)|null|
+|**2024-05-01**|**A Survey on Deep Active Learning: Recent Advances and New Frontiers**|Dongyuan Li et.al.|[2405.00334v1](http://arxiv.org/abs/2405.00334v1)|null|
+|**2024-05-01**|**Characterizing Information Seeking Processes with Multiple Physiological Signals**|Kaixin Ji et.al.|[2405.00322v1](http://arxiv.org/abs/2405.00322v1)|[link](https://github.com/kkkkk2017/ir-physiological-signals)|
+
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -218,6 +184,40 @@
 |**2024-05-01**|**WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting**|Olly Styles et.al.|[2405.00823v1](http://arxiv.org/abs/2405.00823v1)|[link](https://github.com/olly-styles/workbench)|
 |**2024-05-01**|**"Ask Me Anything": How Comcast Uses LLMs to Assist Agents in Real Time**|Scott Rome et.al.|[2405.00801v1](http://arxiv.org/abs/2405.00801v1)|null|
 |**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797v1](http://arxiv.org/abs/2405.00797v1)|null|
+
+### Benchmark
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[2405.01538v1](http://arxiv.org/abs/2405.01538v1)|null|
+|**2024-05-02**|**Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models**|Seungone Kim et.al.|[2405.01535v1](http://arxiv.org/abs/2405.01535v1)|[link](https://github.com/prometheus-eval/prometheus-eval)|
+|**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534v1](http://arxiv.org/abs/2405.01534v1)|null|
+|**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531v1](http://arxiv.org/abs/2405.01531v1)|null|
+|**2024-05-02**|**Implementation of time-dependent Hartree Fock in real space**|Uday Panta et.al.|[2405.01522v1](http://arxiv.org/abs/2405.01522v1)|null|
+|**2024-05-02**|**PAM-UNet: Shifting Attention on Region of Interest in Medical Images**|Abhijit Das et.al.|[2405.01503v1](http://arxiv.org/abs/2405.01503v1)|null|
+|**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490v1](http://arxiv.org/abs/2405.01490v1)|null|
+|**2024-05-02**|**Single-layer tensor network approach for three-dimensional quantum systems**|Illia Lukin et.al.|[2405.01489v1](http://arxiv.org/abs/2405.01489v1)|null|
+|**2024-05-02**|**MANTIS: Interleaved Multi-Image Instruction Tuning**|Dongfu Jiang et.al.|[2405.01483v1](http://arxiv.org/abs/2405.01483v1)|null|
+|**2024-05-02**|**Uncertainty for Active Learning on Graphs**|Dominik Fuchsgruber et.al.|[2405.01462v1](http://arxiv.org/abs/2405.01462v1)|null|
+|**2024-05-02**|**UQA: Corpus for Urdu Question Answering**|Samee Arif et.al.|[2405.01458v1](http://arxiv.org/abs/2405.01458v1)|[link](https://github.com/sameearif/uqa)|
+|**2024-05-02**|**Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport**|Akshay Mehra et.al.|[2405.01451v1](http://arxiv.org/abs/2405.01451v1)|[link](https://github.com/akshaymehra24/TETOT)|
+|**2024-05-02**|**Scalable Ab Initio Electronic Structure Methods with Near Chemical Accuracy for Main Group Chemistry**|Yujing Wei et.al.|[2405.01400v1](http://arxiv.org/abs/2405.01400v1)|null|
+|**2024-05-02**|**Invariant Risk Minimization Is A Total Variation Model**|Zhao-Rong Lai et.al.|[2405.01389v1](http://arxiv.org/abs/2405.01389v1)|null|
+|**2024-05-02**|**Benchmarking DFT-based excited-state methods for intermolecular charge-transfer excitations**|Nicola Bogo et.al.|[2405.01382v1](http://arxiv.org/abs/2405.01382v1)|null|
+|**2024-05-02**|**Benchmarking Quantum Annealers with Near-Optimal Minor-Embedded Instances**|Valentin Gilbert et.al.|[2405.01378v1](http://arxiv.org/abs/2405.01378v1)|null|
+|**2024-05-02**|**Community-Invariant Graph Contrastive Learning**|Shiyin Tan et.al.|[2405.01350v1](http://arxiv.org/abs/2405.01350v1)|[link](https://github.com/shiyintan/ci-gcl)|
+|**2024-05-02**|**The Power of Question Translation Training in Multilingual Reasoning: Broadened Scope and Deepened Insights**|Wenhao Zhu et.al.|[2405.01345v1](http://arxiv.org/abs/2405.01345v1)|[link](https://github.com/njunlp/qalign)|
+|**2024-05-02**|**Data Scoping: Effectively Learning the Evolution of Generic Transport PDEs**|Jiangce Chen et.al.|[2405.01319v1](http://arxiv.org/abs/2405.01319v1)|null|
+|**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312v1](http://arxiv.org/abs/2405.01312v1)|null|
+|**2024-05-02**|**Koopman Data-Driven Predictive Control with Robust Stability and Recursive Feasibility Guarantees**|Thomas de Jong et.al.|[2405.01292v1](http://arxiv.org/abs/2405.01292v1)|[link](https://github.com/todejong/KDPC_RSRFG)|
+|**2024-05-02**|**MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving**|Haicheng Liao et.al.|[2405.01266v1](http://arxiv.org/abs/2405.01266v1)|null|
+|**2024-05-02**|**Avoiding Redundant Restarts in Multimodal Global Optimization**|Jacob de Nobel et.al.|[2405.01226v1](http://arxiv.org/abs/2405.01226v1)|null|
+|**2024-05-02**|**Learning-to-solve unit commitment based on few-shot physics-guided spatial-temporal graph convolution network**|Mei Yang et.al.|[2405.01200v1](http://arxiv.org/abs/2405.01200v1)|null|
+|**2024-05-02**|**Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks**|Mikkel Jordahn et.al.|[2405.01196v1](http://arxiv.org/abs/2405.01196v1)|null|
+|**2024-05-02**|**Nonperturbative study of the electroweak phase transition in the real scalar singlet extended Standard Model**|Lauri Niemi et.al.|[2405.01191v1](http://arxiv.org/abs/2405.01191v1)|null|
+|**2024-05-02**|**Third Medium Finite Element Contact Formulation for Pneumatically Actuated Systems**|Ondřej Faltus et.al.|[2405.01185v1](http://arxiv.org/abs/2405.01185v1)|null|
+|**2024-05-02**|**Localized RETE for Incremental Graph Queries**|Matthias Barkowsky et.al.|[2405.01145v1](http://arxiv.org/abs/2405.01145v1)|null|
+|**2024-05-02**|**Efficient Data Generation for Source-grounded Information-seeking Dialogs: A Use Case for Meeting Transcripts**|Lotem Golany et.al.|[2405.01121v1](http://arxiv.org/abs/2405.01121v1)|null|
+|**2024-05-02**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103v1](http://arxiv.org/abs/2405.01103v1)|null|
 
 ## CV
 
