@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-11 20:45:44 Asia/Shanghai
+ Automated deployment @ 2024-05-11 20:58:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,40 +48,6 @@
 |**2024-05-09**|**Automatic question generation for propositional logical equivalences**|Yicheng Yang et.al.|[2405.05513v1](http://arxiv.org/abs/2405.05513v1)|null|
 
 ## AI
-
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955v1](http://arxiv.org/abs/2405.05955v1)|null|
-|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
-|**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911v1](http://arxiv.org/abs/2405.05911v1)|null|
-|**2024-05-09**|**Truthful Aggregation of LLMs with an Application to Online Advertising**|Ermis Soumalias et.al.|[2405.05905v1](http://arxiv.org/abs/2405.05905v1)|null|
-|**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889v1](http://arxiv.org/abs/2405.05889v1)|null|
-|**2024-05-09**|**supDQN: Supervised Rewarding Strategy Driven Deep Q-Network for sEMG Signal Decontamination**|Ashutosh Jena et.al.|[2405.05883v1](http://arxiv.org/abs/2405.05883v1)|null|
-|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852v1](http://arxiv.org/abs/2405.05852v1)|[link](https://github.com/ykarmesh/stable-control-representations)|
-|**2024-05-09**|**Distributed Estimation for a 3-D Moving Target in Quaternion Space with Unknown Correlation**|Yizhi Zhou et.al.|[2405.05848v1](http://arxiv.org/abs/2405.05848v1)|null|
-|**2024-05-09**|**Can large language models understand uncommon meanings of common words?**|Jinyang Wu et.al.|[2405.05741v1](http://arxiv.org/abs/2405.05741v1)|null|
-|**2024-05-09**|**Imprecise Multi-Armed Bandits**|Vanessa Kosoy et.al.|[2405.05673v1](http://arxiv.org/abs/2405.05673v1)|null|
-|**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662v1](http://arxiv.org/abs/2405.05662v1)|null|
-|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542v1](http://arxiv.org/abs/2405.05542v1)|null|
-|**2024-05-09**|**Topological bifurcations in a mean-field game**|Ali Akbar Rezaei Lori et.al.|[2405.05473v1](http://arxiv.org/abs/2405.05473v1)|null|
-|**2024-05-08**|**Markowitz Meets Bellman: Knowledge-distilled Reinforcement Learning for Portfolio Management**|Gang Hu et.al.|[2405.05449v1](http://arxiv.org/abs/2405.05449v1)|null|
-|**2024-05-08**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433v1](http://arxiv.org/abs/2405.05433v1)|null|
-|**2024-05-08**|**Searching for Programmatic Policies in Semantic Spaces**|Rubens O. Moraes et.al.|[2405.05431v1](http://arxiv.org/abs/2405.05431v1)|[link](https://github.com/rubensolv/library-induced-semantic-spaces)|
-|**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372v1](http://arxiv.org/abs/2405.05372v1)|null|
-|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v2](http://arxiv.org/abs/2405.05248v2)|null|
-|**2024-05-08**|**Agent-Constrained Truthful Two-Facility Location Games**|Argyrios Deligkas et.al.|[2405.05197v1](http://arxiv.org/abs/2405.05197v1)|null|
-|**2024-05-08**|**Air Gap: Protecting Privacy-Conscious Conversational Agents**|Eugene Bagdasaryan et.al.|[2405.05175v1](http://arxiv.org/abs/2405.05175v1)|null|
-|**2024-05-08**|**Dynamic Size Counting in the Population Protocol Model**|Dominik Kaaser et.al.|[2405.05137v1](http://arxiv.org/abs/2405.05137v1)|null|
-|**2024-05-08**|**Designing Skill-Compatible AI: Methodologies and Frameworks in Chess**|Karim Hamade et.al.|[2405.05066v1](http://arxiv.org/abs/2405.05066v1)|null|
-|**2024-05-08**|**Communication-Efficient Collaborative Perception via Information Filling with Codebook**|Yue Hu et.al.|[2405.04966v1](http://arxiv.org/abs/2405.04966v1)|[link](https://github.com/phyllish/codefilling)|
-|**2024-05-08**|**VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context**|Yunxin Li et.al.|[2405.04950v1](http://arxiv.org/abs/2405.04950v1)|[link](https://github.com/hitsz-tmg/visiongraph)|
-|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909v1](http://arxiv.org/abs/2405.04909v1)|null|
-|**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890v1](http://arxiv.org/abs/2405.04890v1)|null|
-|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)|
-|**2024-05-08**|**From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control**|Yide Shentu et.al.|[2405.04798v1](http://arxiv.org/abs/2405.04798v1)|null|
-|**2024-05-08**|**Mass media competition and alternative ordering in social dynamics**|O. Alvarez-Llamoza et.al.|[2405.04792v1](http://arxiv.org/abs/2405.04792v1)|null|
-|**2024-05-08**|**Empathy Through Multimodality in Conversational Interfaces**|Mahyar Abbasian et.al.|[2405.04777v1](http://arxiv.org/abs/2405.04777v1)|null|
 
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
@@ -150,6 +116,40 @@
 |**2024-05-08**|**Excluded volume effects on tangentially driven active ring polymers**|A. Lamura et.al.|[2405.05380v1](http://arxiv.org/abs/2405.05380v1)|null|
 |**2024-05-08**|**Transfer-LMR: Heavy-Tail Driving Behavior Recognition in Diverse Traffic Scenarios**|Chirag Parikh et.al.|[2405.05354v1](http://arxiv.org/abs/2405.05354v1)|null|
 |**2024-05-08**|**Eco-driving Accounting for Interactive Cut-in Vehicles**|Chaozhe R. He et.al.|[2405.05353v1](http://arxiv.org/abs/2405.05353v1)|null|
+
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955v1](http://arxiv.org/abs/2405.05955v1)|null|
+|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
+|**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911v1](http://arxiv.org/abs/2405.05911v1)|null|
+|**2024-05-09**|**Truthful Aggregation of LLMs with an Application to Online Advertising**|Ermis Soumalias et.al.|[2405.05905v1](http://arxiv.org/abs/2405.05905v1)|null|
+|**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889v1](http://arxiv.org/abs/2405.05889v1)|null|
+|**2024-05-09**|**supDQN: Supervised Rewarding Strategy Driven Deep Q-Network for sEMG Signal Decontamination**|Ashutosh Jena et.al.|[2405.05883v1](http://arxiv.org/abs/2405.05883v1)|null|
+|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852v1](http://arxiv.org/abs/2405.05852v1)|[link](https://github.com/ykarmesh/stable-control-representations)|
+|**2024-05-09**|**Distributed Estimation for a 3-D Moving Target in Quaternion Space with Unknown Correlation**|Yizhi Zhou et.al.|[2405.05848v1](http://arxiv.org/abs/2405.05848v1)|null|
+|**2024-05-09**|**Can large language models understand uncommon meanings of common words?**|Jinyang Wu et.al.|[2405.05741v1](http://arxiv.org/abs/2405.05741v1)|null|
+|**2024-05-09**|**Imprecise Multi-Armed Bandits**|Vanessa Kosoy et.al.|[2405.05673v1](http://arxiv.org/abs/2405.05673v1)|null|
+|**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662v1](http://arxiv.org/abs/2405.05662v1)|null|
+|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542v1](http://arxiv.org/abs/2405.05542v1)|null|
+|**2024-05-09**|**Topological bifurcations in a mean-field game**|Ali Akbar Rezaei Lori et.al.|[2405.05473v1](http://arxiv.org/abs/2405.05473v1)|null|
+|**2024-05-08**|**Markowitz Meets Bellman: Knowledge-distilled Reinforcement Learning for Portfolio Management**|Gang Hu et.al.|[2405.05449v1](http://arxiv.org/abs/2405.05449v1)|null|
+|**2024-05-08**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433v1](http://arxiv.org/abs/2405.05433v1)|null|
+|**2024-05-08**|**Searching for Programmatic Policies in Semantic Spaces**|Rubens O. Moraes et.al.|[2405.05431v1](http://arxiv.org/abs/2405.05431v1)|[link](https://github.com/rubensolv/library-induced-semantic-spaces)|
+|**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372v1](http://arxiv.org/abs/2405.05372v1)|null|
+|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248v2](http://arxiv.org/abs/2405.05248v2)|null|
+|**2024-05-08**|**Agent-Constrained Truthful Two-Facility Location Games**|Argyrios Deligkas et.al.|[2405.05197v1](http://arxiv.org/abs/2405.05197v1)|null|
+|**2024-05-08**|**Air Gap: Protecting Privacy-Conscious Conversational Agents**|Eugene Bagdasaryan et.al.|[2405.05175v1](http://arxiv.org/abs/2405.05175v1)|null|
+|**2024-05-08**|**Dynamic Size Counting in the Population Protocol Model**|Dominik Kaaser et.al.|[2405.05137v1](http://arxiv.org/abs/2405.05137v1)|null|
+|**2024-05-08**|**Designing Skill-Compatible AI: Methodologies and Frameworks in Chess**|Karim Hamade et.al.|[2405.05066v1](http://arxiv.org/abs/2405.05066v1)|null|
+|**2024-05-08**|**Communication-Efficient Collaborative Perception via Information Filling with Codebook**|Yue Hu et.al.|[2405.04966v1](http://arxiv.org/abs/2405.04966v1)|[link](https://github.com/phyllish/codefilling)|
+|**2024-05-08**|**VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context**|Yunxin Li et.al.|[2405.04950v1](http://arxiv.org/abs/2405.04950v1)|[link](https://github.com/hitsz-tmg/visiongraph)|
+|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909v1](http://arxiv.org/abs/2405.04909v1)|null|
+|**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890v1](http://arxiv.org/abs/2405.04890v1)|null|
+|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)|
+|**2024-05-08**|**From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control**|Yide Shentu et.al.|[2405.04798v1](http://arxiv.org/abs/2405.04798v1)|null|
+|**2024-05-08**|**Mass media competition and alternative ordering in social dynamics**|O. Alvarez-Llamoza et.al.|[2405.04792v1](http://arxiv.org/abs/2405.04792v1)|null|
+|**2024-05-08**|**Empathy Through Multimodality in Conversational Interfaces**|Mahyar Abbasian et.al.|[2405.04777v1](http://arxiv.org/abs/2405.04777v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
