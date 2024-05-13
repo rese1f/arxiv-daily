@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-13 20:51:02 Asia/Shanghai
+ Automated deployment @ 2024-05-13 21:07:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,40 +48,6 @@
 |**2024-05-10**|**A Multi-Channel Spatial-Temporal Transformer Model for Traffic Flow Forecasting**|Jianli Xiao et.al.|[2405.06266v1](http://arxiv.org/abs/2405.06266v1)|null|
 
 ## AI
-
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627v1](http://arxiv.org/abs/2405.06627v1)|[link](https://github.com/drewprinster/conformal-mfcs)|
-|**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626v1](http://arxiv.org/abs/2405.06626v1)|null|
-|**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536v1](http://arxiv.org/abs/2405.06536v1)|null|
-|**2024-05-10**|**Incentive-compatible Bandits: Importance Weighting No More**|Julian Zimmert et.al.|[2405.06480v1](http://arxiv.org/abs/2405.06480v1)|null|
-|**2024-05-10**|**Attention is all they need: Cognitive science and the (techno)political economy of attention in humans and machines**|Pablo González de la Torre et.al.|[2405.06478v1](http://arxiv.org/abs/2405.06478v1)|null|
-|**2024-05-10**|**Contextual Affordances for Safe Exploration in Robotic Scenarios**|William Z. Ye et.al.|[2405.06422v1](http://arxiv.org/abs/2405.06422v1)|null|
-|**2024-05-10**|**CRATOR: a Dark Web Crawler**|Daniel De Pascale et.al.|[2405.06356v1](http://arxiv.org/abs/2405.06356v1)|null|
-|**2024-05-10**|**Switched Vector Field-based Guidance for General Reference Path Following in Planar Environment**|Subham Basak et.al.|[2405.06355v1](http://arxiv.org/abs/2405.06355v1)|null|
-|**2024-05-10**|**Learning Latent Dynamic Robust Representations for World Models**|Ruixiang Sun et.al.|[2405.06263v1](http://arxiv.org/abs/2405.06263v1)|[link](https://github.com/bit1029public/hrssm)|
-|**2024-05-10**|**Creating cyclo-N$_5$$^{+}$ cation and assembling N$_5$$^{+}$N$_5$$^{-}$ salt via electronegativity co-matching in tailored ionic compounds**|Bi Zhang et.al.|[2405.06262v1](http://arxiv.org/abs/2405.06262v1)|null|
-|**2024-05-10**|**A First Step in Using Machine Learning Methods to Enhance Interaction Analysis for Embodied Learning Environments**|Joyce Fonteles et.al.|[2405.06203v1](http://arxiv.org/abs/2405.06203v1)|null|
-|**2024-05-10**|**Sensing-Assisted Adaptive Channel Contention for Mobile Delay-Sensitive Communications**|Bojie Lv et.al.|[2405.06186v1](http://arxiv.org/abs/2405.06186v1)|null|
-|**2024-05-10**|**(A Partial Survey of) Decentralized, Cooperative Multi-Agent Reinforcement Learning**|Christopher Amato et.al.|[2405.06161v1](http://arxiv.org/abs/2405.06161v1)|null|
-|**2024-05-09**|**Supporting Physical Activity Behavior Change with LLM-Based Conversational Agents**|Matthew Jörke et.al.|[2405.06061v1](http://arxiv.org/abs/2405.06061v1)|null|
-|**2024-05-09**|**A Mixture-of-Experts Approach to Few-Shot Task Transfer in Open-Ended Text Worlds**|Christopher Z. Cui et.al.|[2405.06059v1](http://arxiv.org/abs/2405.06059v1)|null|
-|**2024-05-09**|**Power-law entanglement and Hilbert space fragmentation in non-reciprocal quantum circuits**|Kai Klocke et.al.|[2405.06021v1](http://arxiv.org/abs/2405.06021v1)|null|
-|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955v1](http://arxiv.org/abs/2405.05955v1)|null|
-|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
-|**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911v1](http://arxiv.org/abs/2405.05911v1)|null|
-|**2024-05-09**|**Truthful Aggregation of LLMs with an Application to Online Advertising**|Ermis Soumalias et.al.|[2405.05905v1](http://arxiv.org/abs/2405.05905v1)|null|
-|**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889v1](http://arxiv.org/abs/2405.05889v1)|null|
-|**2024-05-09**|**supDQN: Supervised Rewarding Strategy Driven Deep Q-Network for sEMG Signal Decontamination**|Ashutosh Jena et.al.|[2405.05883v1](http://arxiv.org/abs/2405.05883v1)|null|
-|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852v1](http://arxiv.org/abs/2405.05852v1)|[link](https://github.com/ykarmesh/stable-control-representations)|
-|**2024-05-09**|**Distributed Estimation for a 3-D Moving Target in Quaternion Space with Unknown Correlation**|Yizhi Zhou et.al.|[2405.05848v1](http://arxiv.org/abs/2405.05848v1)|null|
-|**2024-05-09**|**Can large language models understand uncommon meanings of common words?**|Jinyang Wu et.al.|[2405.05741v1](http://arxiv.org/abs/2405.05741v1)|null|
-|**2024-05-09**|**Imprecise Multi-Armed Bandits**|Vanessa Kosoy et.al.|[2405.05673v1](http://arxiv.org/abs/2405.05673v1)|null|
-|**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662v1](http://arxiv.org/abs/2405.05662v1)|null|
-|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542v1](http://arxiv.org/abs/2405.05542v1)|[link](https://github.com/sicc-group/ddfg)|
-|**2024-05-09**|**Agent-oriented Joint Decision Support for Data Owners in Auction-based Federated Learning**|Xiaoli Tang et.al.|[2405.05991v1](http://arxiv.org/abs/2405.05991v1)|null|
-|**2024-05-09**|**Topological bifurcations in a mean-field game**|Ali Akbar Rezaei Lori et.al.|[2405.05473v1](http://arxiv.org/abs/2405.05473v1)|null|
 
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
@@ -219,6 +185,76 @@
 |**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|
 |**2024-05-09**|**The corona of a fully convective star with a near-polar flare**|Ekaterina Ilin et.al.|[2405.05580v1](http://arxiv.org/abs/2405.05580v1)|null|
 
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627v1](http://arxiv.org/abs/2405.06627v1)|[link](https://github.com/drewprinster/conformal-mfcs)|
+|**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626v1](http://arxiv.org/abs/2405.06626v1)|null|
+|**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536v1](http://arxiv.org/abs/2405.06536v1)|null|
+|**2024-05-10**|**Incentive-compatible Bandits: Importance Weighting No More**|Julian Zimmert et.al.|[2405.06480v1](http://arxiv.org/abs/2405.06480v1)|null|
+|**2024-05-10**|**Attention is all they need: Cognitive science and the (techno)political economy of attention in humans and machines**|Pablo González de la Torre et.al.|[2405.06478v1](http://arxiv.org/abs/2405.06478v1)|null|
+|**2024-05-10**|**Contextual Affordances for Safe Exploration in Robotic Scenarios**|William Z. Ye et.al.|[2405.06422v1](http://arxiv.org/abs/2405.06422v1)|null|
+|**2024-05-10**|**CRATOR: a Dark Web Crawler**|Daniel De Pascale et.al.|[2405.06356v1](http://arxiv.org/abs/2405.06356v1)|null|
+|**2024-05-10**|**Switched Vector Field-based Guidance for General Reference Path Following in Planar Environment**|Subham Basak et.al.|[2405.06355v1](http://arxiv.org/abs/2405.06355v1)|null|
+|**2024-05-10**|**Learning Latent Dynamic Robust Representations for World Models**|Ruixiang Sun et.al.|[2405.06263v1](http://arxiv.org/abs/2405.06263v1)|[link](https://github.com/bit1029public/hrssm)|
+|**2024-05-10**|**Creating cyclo-N$_5$$^{+}$ cation and assembling N$_5$$^{+}$N$_5$$^{-}$ salt via electronegativity co-matching in tailored ionic compounds**|Bi Zhang et.al.|[2405.06262v1](http://arxiv.org/abs/2405.06262v1)|null|
+|**2024-05-10**|**A First Step in Using Machine Learning Methods to Enhance Interaction Analysis for Embodied Learning Environments**|Joyce Fonteles et.al.|[2405.06203v1](http://arxiv.org/abs/2405.06203v1)|null|
+|**2024-05-10**|**Sensing-Assisted Adaptive Channel Contention for Mobile Delay-Sensitive Communications**|Bojie Lv et.al.|[2405.06186v1](http://arxiv.org/abs/2405.06186v1)|null|
+|**2024-05-10**|**(A Partial Survey of) Decentralized, Cooperative Multi-Agent Reinforcement Learning**|Christopher Amato et.al.|[2405.06161v1](http://arxiv.org/abs/2405.06161v1)|null|
+|**2024-05-09**|**Supporting Physical Activity Behavior Change with LLM-Based Conversational Agents**|Matthew Jörke et.al.|[2405.06061v1](http://arxiv.org/abs/2405.06061v1)|null|
+|**2024-05-09**|**A Mixture-of-Experts Approach to Few-Shot Task Transfer in Open-Ended Text Worlds**|Christopher Z. Cui et.al.|[2405.06059v1](http://arxiv.org/abs/2405.06059v1)|null|
+|**2024-05-09**|**Power-law entanglement and Hilbert space fragmentation in non-reciprocal quantum circuits**|Kai Klocke et.al.|[2405.06021v1](http://arxiv.org/abs/2405.06021v1)|null|
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955v1](http://arxiv.org/abs/2405.05955v1)|null|
+|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
+|**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911v1](http://arxiv.org/abs/2405.05911v1)|null|
+|**2024-05-09**|**Truthful Aggregation of LLMs with an Application to Online Advertising**|Ermis Soumalias et.al.|[2405.05905v1](http://arxiv.org/abs/2405.05905v1)|null|
+|**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889v1](http://arxiv.org/abs/2405.05889v1)|null|
+|**2024-05-09**|**supDQN: Supervised Rewarding Strategy Driven Deep Q-Network for sEMG Signal Decontamination**|Ashutosh Jena et.al.|[2405.05883v1](http://arxiv.org/abs/2405.05883v1)|null|
+|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852v1](http://arxiv.org/abs/2405.05852v1)|[link](https://github.com/ykarmesh/stable-control-representations)|
+|**2024-05-09**|**Distributed Estimation for a 3-D Moving Target in Quaternion Space with Unknown Correlation**|Yizhi Zhou et.al.|[2405.05848v1](http://arxiv.org/abs/2405.05848v1)|null|
+|**2024-05-09**|**Can large language models understand uncommon meanings of common words?**|Jinyang Wu et.al.|[2405.05741v1](http://arxiv.org/abs/2405.05741v1)|null|
+|**2024-05-09**|**Imprecise Multi-Armed Bandits**|Vanessa Kosoy et.al.|[2405.05673v1](http://arxiv.org/abs/2405.05673v1)|null|
+|**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662v1](http://arxiv.org/abs/2405.05662v1)|null|
+|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542v1](http://arxiv.org/abs/2405.05542v1)|[link](https://github.com/sicc-group/ddfg)|
+|**2024-05-09**|**Agent-oriented Joint Decision Support for Data Owners in Auction-based Federated Learning**|Xiaoli Tang et.al.|[2405.05991v1](http://arxiv.org/abs/2405.05991v1)|null|
+|**2024-05-09**|**Topological bifurcations in a mean-field game**|Ali Akbar Rezaei Lori et.al.|[2405.05473v1](http://arxiv.org/abs/2405.05473v1)|null|
+
+## CG
+
+### Gaussian Splatting
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**$RLL$-realization of two-parameter quantum affine algebra in type $D_n^{(1)}$**|Rushu Zhuang et.al.|[2405.06581v1](http://arxiv.org/abs/2405.06581v1)|null|
+|**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547v1](http://arxiv.org/abs/2405.06547v1)|[link](https://github.com/lin-jinwei/OneTo3D)|
+|**2024-05-10**|**Sharp analysis of out-of-distribution error for "importance-weighted" estimators in the overparameterized regime**|Kuo-Wei Lai et.al.|[2405.06546v1](http://arxiv.org/abs/2405.06546v1)|null|
+|**2024-05-10**|**A self-consistent current response theory of jamming and vibrational modes in low-temperature amorphous solids**|Florian Vogel et.al.|[2405.06537v1](http://arxiv.org/abs/2405.06537v1)|null|
+|**2024-05-10**|**A Distributionally Robust Approach to Shannon Limits using the Wasserstein Distance**|Vikrant Malik et.al.|[2405.06528v1](http://arxiv.org/abs/2405.06528v1)|null|
+|**2024-05-10**|**The Fyodorov-Hiary-Keating Conjecture on Mesoscopic Intervals**|Louis-Pierre Arguin et.al.|[2405.06474v1](http://arxiv.org/abs/2405.06474v1)|null|
+|**2024-05-10**|**Renormalization Flow of Nonlinear Electrodynamics**|Holger Gies et.al.|[2405.06472v1](http://arxiv.org/abs/2405.06472v1)|null|
+|**2024-05-10**|**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**|Jinwei Lin et.al.|[2405.06408v1](http://arxiv.org/abs/2405.06408v1)|null|
+|**2024-05-10**|**Long-Time Asymptotics of the Sliced-Wasserstein Flow**|Giacomo Cozzi et.al.|[2405.06313v1](http://arxiv.org/abs/2405.06313v1)|null|
+|**2024-05-10**|**Smooth Sensitivity for Geo-Privacy**|Yuting Liang et.al.|[2405.06307v1](http://arxiv.org/abs/2405.06307v1)|null|
+|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
+|**2024-05-10**|**Fire in SRRN: Next-Gen 3D Temperature Field Reconstruction Technology**|Shenxiang Feng et.al.|[2405.06230v1](http://arxiv.org/abs/2405.06230v1)|null|
+|**2024-05-10**|**On Certain Bounds for Multiset Dimensions of Zero-Divisor Graphs Associated with Rings**|Nasir Ali et.al.|[2405.06180v1](http://arxiv.org/abs/2405.06180v1)|null|
+|**2024-05-09**|**Wilsonian Renormalization of Neural Network Gaussian Processes**|Jessica N. Howard et.al.|[2405.06008v1](http://arxiv.org/abs/2405.06008v1)|null|
+|**2024-05-09**|**The Gaussian measure of a convex body controls its maximal covering radius**|Maud Szusterman et.al.|[2405.05954v1](http://arxiv.org/abs/2405.05954v1)|null|
+|**2024-05-09**|**Theoretical Guarantees of Data Augmented Last Layer Retraining Methods**|Monica Welfert et.al.|[2405.05934v1](http://arxiv.org/abs/2405.05934v1)|null|
+|**2024-05-09**|**Efficient LLM Comparative Assessment: a Product of Experts Framework for Pairwise Comparisons**|Adian Liusie et.al.|[2405.05894v1](http://arxiv.org/abs/2405.05894v1)|null|
+|**2024-05-09**|**Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning**|Michał Dereziński et.al.|[2405.05865v1](http://arxiv.org/abs/2405.05865v1)|null|
+|**2024-05-09**|**Fine-grained Analysis and Faster Algorithms for Iteratively Solving Linear Systems**|Michał Dereziński et.al.|[2405.05818v1](http://arxiv.org/abs/2405.05818v1)|null|
+|**2024-05-09**|**Non-myopic GOSPA-driven Gaussian Bernoulli Sensor Management**|George Jones et.al.|[2405.05815v1](http://arxiv.org/abs/2405.05815v1)|null|
+|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
+|**2024-05-09**|**Weak coupling limit of a Brownian particle in the curl of the 2D GFF**|Huanyu Yang et.al.|[2405.05778v1](http://arxiv.org/abs/2405.05778v1)|null|
+|**2024-05-09**|**FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting**|Yikun Ma et.al.|[2405.05768v1](http://arxiv.org/abs/2405.05768v1)|null|
+|**2024-05-09**|**Constraints on primordial black holes from LIGO-Virgo-KAGRA O3 events**|M. Andrés-Carcasona et.al.|[2405.05732v1](http://arxiv.org/abs/2405.05732v1)|null|
+|**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702v1](http://arxiv.org/abs/2405.05702v1)|null|
+|**2024-05-09**|**Maximum Correntropy Polynomial Chaos Kalman Filter for Underwater Navigation**|Rohit Kumar Singh et.al.|[2405.05676v1](http://arxiv.org/abs/2405.05676v1)|null|
+|**2024-05-09**|**An Uncertainty-aware, Mesh-free Numerical Method for Kolmogorov PDEs**|Daisuke Inoue et.al.|[2405.05626v1](http://arxiv.org/abs/2405.05626v1)|null|
+|**2024-05-09**|**Rectified Gaussian kernel multi-view k-means clustering**|Kristina P. Sinaga et.al.|[2405.05619v1](http://arxiv.org/abs/2405.05619v1)|[link](https://github.com/PatternKPS/RectifiedMVKM)|
+|**2024-05-09**|**Denoising Diffusion Delensing Delight: Reconstructing the Non-Gaussian CMB Lensing Potential with Diffusion Models**|Thomas Flöss et.al.|[2405.05598v1](http://arxiv.org/abs/2405.05598v1)|[link](https://github.com/tsfloss/cmblensingdiffusion)|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
+
 ## CV
 
 ### Diffusion Model
@@ -322,39 +358,3 @@
 |**2024-05-10**|**An explicit granular-mechanics approach to marine sediment acoustics**|Abram H. Clark et.al.|[2405.06614v1](http://arxiv.org/abs/2405.06614v1)|null|
 |**2024-05-10**|**Simultaneously detecting spatiotemporal changes with penalized Poisson regression models**|Zerui Zhang et.al.|[2405.06613v1](http://arxiv.org/abs/2405.06613v1)|null|
 |**2024-05-10**|**Non-finite type étale sites over fields**|Sujeet Dhamore et.al.|[2405.06612v1](http://arxiv.org/abs/2405.06612v1)|null|
-
-## CG
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-10**|**$RLL$-realization of two-parameter quantum affine algebra in type $D_n^{(1)}$**|Rushu Zhuang et.al.|[2405.06581v1](http://arxiv.org/abs/2405.06581v1)|null|
-|**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547v1](http://arxiv.org/abs/2405.06547v1)|[link](https://github.com/lin-jinwei/OneTo3D)|
-|**2024-05-10**|**Sharp analysis of out-of-distribution error for "importance-weighted" estimators in the overparameterized regime**|Kuo-Wei Lai et.al.|[2405.06546v1](http://arxiv.org/abs/2405.06546v1)|null|
-|**2024-05-10**|**A self-consistent current response theory of jamming and vibrational modes in low-temperature amorphous solids**|Florian Vogel et.al.|[2405.06537v1](http://arxiv.org/abs/2405.06537v1)|null|
-|**2024-05-10**|**A Distributionally Robust Approach to Shannon Limits using the Wasserstein Distance**|Vikrant Malik et.al.|[2405.06528v1](http://arxiv.org/abs/2405.06528v1)|null|
-|**2024-05-10**|**The Fyodorov-Hiary-Keating Conjecture on Mesoscopic Intervals**|Louis-Pierre Arguin et.al.|[2405.06474v1](http://arxiv.org/abs/2405.06474v1)|null|
-|**2024-05-10**|**Renormalization Flow of Nonlinear Electrodynamics**|Holger Gies et.al.|[2405.06472v1](http://arxiv.org/abs/2405.06472v1)|null|
-|**2024-05-10**|**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**|Jinwei Lin et.al.|[2405.06408v1](http://arxiv.org/abs/2405.06408v1)|null|
-|**2024-05-10**|**Long-Time Asymptotics of the Sliced-Wasserstein Flow**|Giacomo Cozzi et.al.|[2405.06313v1](http://arxiv.org/abs/2405.06313v1)|null|
-|**2024-05-10**|**Smooth Sensitivity for Geo-Privacy**|Yuting Liang et.al.|[2405.06307v1](http://arxiv.org/abs/2405.06307v1)|null|
-|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
-|**2024-05-10**|**Fire in SRRN: Next-Gen 3D Temperature Field Reconstruction Technology**|Shenxiang Feng et.al.|[2405.06230v1](http://arxiv.org/abs/2405.06230v1)|null|
-|**2024-05-10**|**On Certain Bounds for Multiset Dimensions of Zero-Divisor Graphs Associated with Rings**|Nasir Ali et.al.|[2405.06180v1](http://arxiv.org/abs/2405.06180v1)|null|
-|**2024-05-09**|**Wilsonian Renormalization of Neural Network Gaussian Processes**|Jessica N. Howard et.al.|[2405.06008v1](http://arxiv.org/abs/2405.06008v1)|null|
-|**2024-05-09**|**The Gaussian measure of a convex body controls its maximal covering radius**|Maud Szusterman et.al.|[2405.05954v1](http://arxiv.org/abs/2405.05954v1)|null|
-|**2024-05-09**|**Theoretical Guarantees of Data Augmented Last Layer Retraining Methods**|Monica Welfert et.al.|[2405.05934v1](http://arxiv.org/abs/2405.05934v1)|null|
-|**2024-05-09**|**Efficient LLM Comparative Assessment: a Product of Experts Framework for Pairwise Comparisons**|Adian Liusie et.al.|[2405.05894v1](http://arxiv.org/abs/2405.05894v1)|null|
-|**2024-05-09**|**Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning**|Michał Dereziński et.al.|[2405.05865v1](http://arxiv.org/abs/2405.05865v1)|null|
-|**2024-05-09**|**Fine-grained Analysis and Faster Algorithms for Iteratively Solving Linear Systems**|Michał Dereziński et.al.|[2405.05818v1](http://arxiv.org/abs/2405.05818v1)|null|
-|**2024-05-09**|**Non-myopic GOSPA-driven Gaussian Bernoulli Sensor Management**|George Jones et.al.|[2405.05815v1](http://arxiv.org/abs/2405.05815v1)|null|
-|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
-|**2024-05-09**|**Weak coupling limit of a Brownian particle in the curl of the 2D GFF**|Huanyu Yang et.al.|[2405.05778v1](http://arxiv.org/abs/2405.05778v1)|null|
-|**2024-05-09**|**FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting**|Yikun Ma et.al.|[2405.05768v1](http://arxiv.org/abs/2405.05768v1)|null|
-|**2024-05-09**|**Constraints on primordial black holes from LIGO-Virgo-KAGRA O3 events**|M. Andrés-Carcasona et.al.|[2405.05732v1](http://arxiv.org/abs/2405.05732v1)|null|
-|**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702v1](http://arxiv.org/abs/2405.05702v1)|null|
-|**2024-05-09**|**Maximum Correntropy Polynomial Chaos Kalman Filter for Underwater Navigation**|Rohit Kumar Singh et.al.|[2405.05676v1](http://arxiv.org/abs/2405.05676v1)|null|
-|**2024-05-09**|**An Uncertainty-aware, Mesh-free Numerical Method for Kolmogorov PDEs**|Daisuke Inoue et.al.|[2405.05626v1](http://arxiv.org/abs/2405.05626v1)|null|
-|**2024-05-09**|**Rectified Gaussian kernel multi-view k-means clustering**|Kristina P. Sinaga et.al.|[2405.05619v1](http://arxiv.org/abs/2405.05619v1)|[link](https://github.com/PatternKPS/RectifiedMVKM)|
-|**2024-05-09**|**Denoising Diffusion Delensing Delight: Reconstructing the Non-Gaussian CMB Lensing Potential with Diffusion Models**|Thomas Flöss et.al.|[2405.05598v1](http://arxiv.org/abs/2405.05598v1)|[link](https://github.com/tsfloss/cmblensingdiffusion)|
-|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
