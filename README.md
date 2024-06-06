@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-06 20:27:19 Asia/Shanghai
+ Automated deployment @ 2024-06-06 20:53:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,74 +48,6 @@
 |**2024-06-05**|**Effective short distance interaction in Calogero-Sutherland quantum fluids**|Federico L. Bottesi et.al.|[2406.03153v1](http://arxiv.org/abs/2406.03153v1)|null|
 
 ## AI
-
-### Large Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|
-|**2024-06-05**|**The Logarithmic Memristor-Based Bayesian Machine**|Clément Turck et.al.|[2406.03492v1](http://arxiv.org/abs/2406.03492v1)|null|
-|**2024-06-05**|**Simultaneous retrieval of orbital phase resolved JWST/MIRI emission spectra of the hot Jupiter WASP-43b: evidence of water, ammonia and carbon monoxide**|Jingxuan Yang et.al.|[2406.03490v1](http://arxiv.org/abs/2406.03490v1)|null|
-|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488v1](http://arxiv.org/abs/2406.03488v1)|null|
-|**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|null|
-|**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
-|**2024-06-05**|**Raman effects in Quantum Frequency Conversion using Bragg Scattering**|Mathias Linde Holst Korsgaard et.al.|[2406.03484v1](http://arxiv.org/abs/2406.03484v1)|null|
-|**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482v1](http://arxiv.org/abs/2406.03482v1)|[link](https://github.com/amirzandieh/qjl)|
-|**2024-06-05**|**Unpacking Approaches to Learning and Teaching Machine Learning in K-12 Education: Transparency, Ethics, and Design Activities**|Luis Morales-Navarro et.al.|[2406.03480v1](http://arxiv.org/abs/2406.03480v1)|null|
-|**2024-06-05**|**MODABS: Multi-Objective Learning for Dynamic Aspect-Based Summarization**|Xiaobo Guo et.al.|[2406.03479v1](http://arxiv.org/abs/2406.03479v1)|null|
-|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
-|**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477v1](http://arxiv.org/abs/2406.03477v1)|null|
-|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
-|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474v1](http://arxiv.org/abs/2406.03474v1)|null|
-|**2024-06-05**|**Mapping dynamical systems into chemical reactions**|Tomislav Plesa et.al.|[2406.03473v1](http://arxiv.org/abs/2406.03473v1)|null|
-|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472v1](http://arxiv.org/abs/2406.03472v1)|null|
-|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|null|
-|**2024-06-05**|**Parallel Quantum Computing Simulations via Quantum Accelerator Platform Virtualization**|Daniel Claudino et.al.|[2406.03466v1](http://arxiv.org/abs/2406.03466v1)|null|
-|**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
-|**2024-06-05**|**Relaxation and fluctuations of a mass- and dipole-conserving stochastic lattice gas**|Baruch Meerson et.al.|[2406.03462v1](http://arxiv.org/abs/2406.03462v1)|null|
-|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
-|**2024-06-05**|**The PESQetarian: On the Relevance of Goodhart's Law for Speech Enhancement**|Danilo de Oliveira et.al.|[2406.03460v1](http://arxiv.org/abs/2406.03460v1)|null|
-|**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459v1](http://arxiv.org/abs/2406.03459v1)|[link](https://github.com/atten4vis/lw-detr)|
-|**2024-06-05**|**Distributional Adversarial Loss**|Saba Ahmadi et.al.|[2406.03458v1](http://arxiv.org/abs/2406.03458v1)|null|
-|**2024-06-05**|**Topological disclination states and charge fractionalization in a non-Hermitian lattice**|Rimi Banerjee et.al.|[2406.03455v1](http://arxiv.org/abs/2406.03455v1)|null|
-|**2024-06-05**|**Mission Design for Unmanned Aerial Vehicles using Hybrid Probabilistic Logic Program**|Simon Kohaut et.al.|[2406.03454v1](http://arxiv.org/abs/2406.03454v1)|null|
-|**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v1](http://arxiv.org/abs/2406.03452v1)|null|
-|**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450v1](http://arxiv.org/abs/2406.03450v1)|null|
-|**2024-06-05**|**Global fermionic mode optimization via swap gates**|Gero Friesecke et.al.|[2406.03449v1](http://arxiv.org/abs/2406.03449v1)|null|
-|**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|
-
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
-|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474v1](http://arxiv.org/abs/2406.03474v1)|null|
-|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
-|**2024-06-05**|**Mission Design for Unmanned Aerial Vehicles using Hybrid Probabilistic Logic Program**|Simon Kohaut et.al.|[2406.03454v1](http://arxiv.org/abs/2406.03454v1)|null|
-|**2024-06-05**|**Analytical Survival Analysis of the Non-autonomous Ornstein-Uhlenbeck Process**|L. T. Giorgini et.al.|[2406.03436v1](http://arxiv.org/abs/2406.03436v1)|null|
-|**2024-06-05**|**HelloFresh: LLM Evaluations on Streams of Real-World Human Editorial Actions across X Community Notes and Wikipedia edits**|Tim Franzmeyer et.al.|[2406.03428v1](http://arxiv.org/abs/2406.03428v1)|null|
-|**2024-06-05**|**Dynamic properties of a class of van der Pol-Duffing oscillators**|Yelei Kuang et.al.|[2406.03420v1](http://arxiv.org/abs/2406.03420v1)|null|
-|**2024-06-05**|**Turbulent relaxation patterns in SOL plasma**|R Varennes et.al.|[2406.03277v1](http://arxiv.org/abs/2406.03277v1)|null|
-|**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han et.al.|[2406.03274v1](http://arxiv.org/abs/2406.03274v1)|null|
-|**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250v1](http://arxiv.org/abs/2406.03250v1)|null|
-|**2024-06-05**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229v1](http://arxiv.org/abs/2406.03229v1)|null|
-|**2024-06-05**|**Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need**|Martin Wistuba et.al.|[2406.03216v1](http://arxiv.org/abs/2406.03216v1)|null|
-|**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188v1](http://arxiv.org/abs/2406.03188v1)|null|
-|**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129v1](http://arxiv.org/abs/2406.03129v1)|null|
-|**2024-06-05**|**Taylor-Fourier integration**|M. P. Calvo et.al.|[2406.03124v1](http://arxiv.org/abs/2406.03124v1)|null|
-|**2024-06-05**|**MESS: Modern Electronic Structure Simulations**|Hatem Helal et.al.|[2406.03121v1](http://arxiv.org/abs/2406.03121v1)|[link](https://github.com/graphcore-research/mess)|
-|**2024-06-05**|**Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**|Han Li et.al.|[2406.03105v1](http://arxiv.org/abs/2406.03105v1)|null|
-|**2024-06-05**|**Task-Oriented Wireless Communications for Collaborative Perception in Intelligent Unmanned Systems**|Sheng Zhou et.al.|[2406.03086v1](http://arxiv.org/abs/2406.03086v1)|null|
-|**2024-06-05**|**Efficient Exploration of the Rashomon Set of Rule Set Models**|Martino Ciaperoni et.al.|[2406.03059v1](http://arxiv.org/abs/2406.03059v1)|null|
-|**2024-06-05**|**Correlation of Software-in-the-Loop Simulation with Physical Testing for Autonomous Driving**|Zhennan Fei et.al.|[2406.03040v1](http://arxiv.org/abs/2406.03040v1)|null|
-|**2024-06-05**|**Study on layout of double rotated serpentine springs for vertical-comb-driven torsional micromirror**|Biyun Ling et.al.|[2406.03038v1](http://arxiv.org/abs/2406.03038v1)|null|
-|**2024-06-05**|**DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences**|Yidong Huang et.al.|[2406.03008v1](http://arxiv.org/abs/2406.03008v1)|null|
-|**2024-06-05**|**Simplification of Risk Averse POMDPs with Performance Guarantees**|Yaacov Pariente et.al.|[2406.03000v1](http://arxiv.org/abs/2406.03000v1)|null|
-|**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989v1](http://arxiv.org/abs/2406.02989v1)|null|
-|**2024-06-05**|**FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality**|Keyu Chen et.al.|[2406.02983v1](http://arxiv.org/abs/2406.02983v1)|null|
-|**2024-06-05**|**Real-time Motion Planning for autonomous vehicles in dynamic environments**|Mohammad Dehghani Tezerjani et.al.|[2406.02916v1](http://arxiv.org/abs/2406.02916v1)|null|
-|**2024-06-05**|**Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework**|Ziyuan Yang et.al.|[2406.02865v1](http://arxiv.org/abs/2406.02865v1)|null|
-|**2024-06-05**|**Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation**|Yiru Liu et.al.|[2406.02860v1](http://arxiv.org/abs/2406.02860v1)|null|
-|**2024-06-04**|**Short-term Inland Vessel Trajectory Prediction with Encoder-Decoder Models**|Kathrin Donandt et.al.|[2406.02770v1](http://arxiv.org/abs/2406.02770v1)|null|
-|**2024-06-04**|**Spatial and social situation-aware transformer-based trajectory prediction of autonomous systems**|Kathrin Donandt et.al.|[2406.02767v1](http://arxiv.org/abs/2406.02767v1)|null|
 
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
@@ -219,9 +151,41 @@
 |**2024-06-04**|**Local versus global environment: the suppression of star formation in the vicinity of galaxy clusters**|K. de Vos et.al.|[2406.02196v1](http://arxiv.org/abs/2406.02196v1)|null|
 |**2024-06-04**|**The MAGPI Survey: Massive slow rotator population in place by $z \sim 0.3$**|Caro Derkenne et.al.|[2406.02185v1](http://arxiv.org/abs/2406.02185v1)|null|
 
-## CV
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
+|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474v1](http://arxiv.org/abs/2406.03474v1)|null|
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
+|**2024-06-05**|**Mission Design for Unmanned Aerial Vehicles using Hybrid Probabilistic Logic Program**|Simon Kohaut et.al.|[2406.03454v1](http://arxiv.org/abs/2406.03454v1)|null|
+|**2024-06-05**|**Analytical Survival Analysis of the Non-autonomous Ornstein-Uhlenbeck Process**|L. T. Giorgini et.al.|[2406.03436v1](http://arxiv.org/abs/2406.03436v1)|null|
+|**2024-06-05**|**HelloFresh: LLM Evaluations on Streams of Real-World Human Editorial Actions across X Community Notes and Wikipedia edits**|Tim Franzmeyer et.al.|[2406.03428v1](http://arxiv.org/abs/2406.03428v1)|null|
+|**2024-06-05**|**Dynamic properties of a class of van der Pol-Duffing oscillators**|Yelei Kuang et.al.|[2406.03420v1](http://arxiv.org/abs/2406.03420v1)|null|
+|**2024-06-05**|**Turbulent relaxation patterns in SOL plasma**|R Varennes et.al.|[2406.03277v1](http://arxiv.org/abs/2406.03277v1)|null|
+|**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han et.al.|[2406.03274v1](http://arxiv.org/abs/2406.03274v1)|null|
+|**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250v1](http://arxiv.org/abs/2406.03250v1)|null|
+|**2024-06-05**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229v1](http://arxiv.org/abs/2406.03229v1)|null|
+|**2024-06-05**|**Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need**|Martin Wistuba et.al.|[2406.03216v1](http://arxiv.org/abs/2406.03216v1)|null|
+|**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188v1](http://arxiv.org/abs/2406.03188v1)|null|
+|**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129v1](http://arxiv.org/abs/2406.03129v1)|null|
+|**2024-06-05**|**Taylor-Fourier integration**|M. P. Calvo et.al.|[2406.03124v1](http://arxiv.org/abs/2406.03124v1)|null|
+|**2024-06-05**|**MESS: Modern Electronic Structure Simulations**|Hatem Helal et.al.|[2406.03121v1](http://arxiv.org/abs/2406.03121v1)|[link](https://github.com/graphcore-research/mess)|
+|**2024-06-05**|**Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**|Han Li et.al.|[2406.03105v1](http://arxiv.org/abs/2406.03105v1)|null|
+|**2024-06-05**|**Task-Oriented Wireless Communications for Collaborative Perception in Intelligent Unmanned Systems**|Sheng Zhou et.al.|[2406.03086v1](http://arxiv.org/abs/2406.03086v1)|null|
+|**2024-06-05**|**Efficient Exploration of the Rashomon Set of Rule Set Models**|Martino Ciaperoni et.al.|[2406.03059v1](http://arxiv.org/abs/2406.03059v1)|null|
+|**2024-06-05**|**Correlation of Software-in-the-Loop Simulation with Physical Testing for Autonomous Driving**|Zhennan Fei et.al.|[2406.03040v1](http://arxiv.org/abs/2406.03040v1)|null|
+|**2024-06-05**|**Study on layout of double rotated serpentine springs for vertical-comb-driven torsional micromirror**|Biyun Ling et.al.|[2406.03038v1](http://arxiv.org/abs/2406.03038v1)|null|
+|**2024-06-05**|**DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences**|Yidong Huang et.al.|[2406.03008v1](http://arxiv.org/abs/2406.03008v1)|null|
+|**2024-06-05**|**Simplification of Risk Averse POMDPs with Performance Guarantees**|Yaacov Pariente et.al.|[2406.03000v1](http://arxiv.org/abs/2406.03000v1)|null|
+|**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989v1](http://arxiv.org/abs/2406.02989v1)|null|
+|**2024-06-05**|**FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality**|Keyu Chen et.al.|[2406.02983v1](http://arxiv.org/abs/2406.02983v1)|null|
+|**2024-06-05**|**Real-time Motion Planning for autonomous vehicles in dynamic environments**|Mohammad Dehghani Tezerjani et.al.|[2406.02916v1](http://arxiv.org/abs/2406.02916v1)|null|
+|**2024-06-05**|**Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework**|Ziyuan Yang et.al.|[2406.02865v1](http://arxiv.org/abs/2406.02865v1)|null|
+|**2024-06-05**|**Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation**|Yiru Liu et.al.|[2406.02860v1](http://arxiv.org/abs/2406.02860v1)|null|
+|**2024-06-04**|**Short-term Inland Vessel Trajectory Prediction with Encoder-Decoder Models**|Kathrin Donandt et.al.|[2406.02770v1](http://arxiv.org/abs/2406.02770v1)|null|
+|**2024-06-04**|**Spatial and social situation-aware transformer-based trajectory prediction of autonomous systems**|Kathrin Donandt et.al.|[2406.02767v1](http://arxiv.org/abs/2406.02767v1)|null|
 
-### Diffusion Model
+### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|
@@ -231,15 +195,20 @@
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
 |**2024-06-05**|**Raman effects in Quantum Frequency Conversion using Bragg Scattering**|Mathias Linde Holst Korsgaard et.al.|[2406.03484v1](http://arxiv.org/abs/2406.03484v1)|null|
+|**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482v1](http://arxiv.org/abs/2406.03482v1)|[link](https://github.com/amirzandieh/qjl)|
 |**2024-06-05**|**Unpacking Approaches to Learning and Teaching Machine Learning in K-12 Education: Transparency, Ethics, and Design Activities**|Luis Morales-Navarro et.al.|[2406.03480v1](http://arxiv.org/abs/2406.03480v1)|null|
+|**2024-06-05**|**MODABS: Multi-Objective Learning for Dynamic Aspect-Based Summarization**|Xiaobo Guo et.al.|[2406.03479v1](http://arxiv.org/abs/2406.03479v1)|null|
 |**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
+|**2024-06-05**|**Lagrangian filtering for wave-mean flow decomposition**|Lois E. Baker et.al.|[2406.03477v1](http://arxiv.org/abs/2406.03477v1)|null|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
 |**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474v1](http://arxiv.org/abs/2406.03474v1)|null|
 |**2024-06-05**|**Mapping dynamical systems into chemical reactions**|Tomislav Plesa et.al.|[2406.03473v1](http://arxiv.org/abs/2406.03473v1)|null|
 |**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472v1](http://arxiv.org/abs/2406.03472v1)|null|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|null|
 |**2024-06-05**|**Parallel Quantum Computing Simulations via Quantum Accelerator Platform Virtualization**|Daniel Claudino et.al.|[2406.03466v1](http://arxiv.org/abs/2406.03466v1)|null|
 |**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
 |**2024-06-05**|**Relaxation and fluctuations of a mass- and dipole-conserving stochastic lattice gas**|Baruch Meerson et.al.|[2406.03462v1](http://arxiv.org/abs/2406.03462v1)|null|
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
 |**2024-06-05**|**The PESQetarian: On the Relevance of Goodhart's Law for Speech Enhancement**|Danilo de Oliveira et.al.|[2406.03460v1](http://arxiv.org/abs/2406.03460v1)|null|
 |**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459v1](http://arxiv.org/abs/2406.03459v1)|[link](https://github.com/atten4vis/lw-detr)|
 |**2024-06-05**|**Distributional Adversarial Loss**|Saba Ahmadi et.al.|[2406.03458v1](http://arxiv.org/abs/2406.03458v1)|null|
@@ -249,11 +218,8 @@
 |**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450v1](http://arxiv.org/abs/2406.03450v1)|null|
 |**2024-06-05**|**Global fermionic mode optimization via swap gates**|Gero Friesecke et.al.|[2406.03449v1](http://arxiv.org/abs/2406.03449v1)|null|
 |**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|
-|**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445v1](http://arxiv.org/abs/2406.03445v1)|null|
-|**2024-06-05**|**Are language models rational? The case of coherence norms and belief revision**|Thomas Hofweber et.al.|[2406.03442v1](http://arxiv.org/abs/2406.03442v1)|null|
-|**2024-06-05**|**Cycles of Thought: Measuring LLM Confidence through Stable Explanations**|Evan Becker et.al.|[2406.03441v1](http://arxiv.org/abs/2406.03441v1)|null|
-|**2024-06-05**|**Analysis of experimental data on neutron decay for the possibility of the existence of a right vector boson $W_R$**|A. P. Serebrov et.al.|[2406.03440v1](http://arxiv.org/abs/2406.03440v1)|null|
-|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
+
+## CV
 
 ### Video Understanding
 |Publish Date|Title|Authors|PDF|Code|
@@ -322,6 +288,40 @@
 |**2024-06-05**|**Unifying atoms and colloids near the glass transition through bond-order topology**|Laura Stricker et.al.|[2406.03469v1](http://arxiv.org/abs/2406.03469v1)|null|
 |**2024-06-05**|**Fast randomized least-squares solvers can be just as accurate and stable as classical direct solvers**|Ethan N. Epperly et.al.|[2406.03468v1](http://arxiv.org/abs/2406.03468v1)|null|
 |**2024-06-05**|**Topological defects and tensionless holography**|Bob Knighton et.al.|[2406.03467v1](http://arxiv.org/abs/2406.03467v1)|null|
+
+### Diffusion Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|
+|**2024-06-05**|**The Logarithmic Memristor-Based Bayesian Machine**|Clément Turck et.al.|[2406.03492v1](http://arxiv.org/abs/2406.03492v1)|null|
+|**2024-06-05**|**Simultaneous retrieval of orbital phase resolved JWST/MIRI emission spectra of the hot Jupiter WASP-43b: evidence of water, ammonia and carbon monoxide**|Jingxuan Yang et.al.|[2406.03490v1](http://arxiv.org/abs/2406.03490v1)|null|
+|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488v1](http://arxiv.org/abs/2406.03488v1)|null|
+|**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|null|
+|**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
+|**2024-06-05**|**Raman effects in Quantum Frequency Conversion using Bragg Scattering**|Mathias Linde Holst Korsgaard et.al.|[2406.03484v1](http://arxiv.org/abs/2406.03484v1)|null|
+|**2024-06-05**|**Unpacking Approaches to Learning and Teaching Machine Learning in K-12 Education: Transparency, Ethics, and Design Activities**|Luis Morales-Navarro et.al.|[2406.03480v1](http://arxiv.org/abs/2406.03480v1)|null|
+|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
+|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
+|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474v1](http://arxiv.org/abs/2406.03474v1)|null|
+|**2024-06-05**|**Mapping dynamical systems into chemical reactions**|Tomislav Plesa et.al.|[2406.03473v1](http://arxiv.org/abs/2406.03473v1)|null|
+|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472v1](http://arxiv.org/abs/2406.03472v1)|null|
+|**2024-06-05**|**Parallel Quantum Computing Simulations via Quantum Accelerator Platform Virtualization**|Daniel Claudino et.al.|[2406.03466v1](http://arxiv.org/abs/2406.03466v1)|null|
+|**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
+|**2024-06-05**|**Relaxation and fluctuations of a mass- and dipole-conserving stochastic lattice gas**|Baruch Meerson et.al.|[2406.03462v1](http://arxiv.org/abs/2406.03462v1)|null|
+|**2024-06-05**|**The PESQetarian: On the Relevance of Goodhart's Law for Speech Enhancement**|Danilo de Oliveira et.al.|[2406.03460v1](http://arxiv.org/abs/2406.03460v1)|null|
+|**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459v1](http://arxiv.org/abs/2406.03459v1)|[link](https://github.com/atten4vis/lw-detr)|
+|**2024-06-05**|**Distributional Adversarial Loss**|Saba Ahmadi et.al.|[2406.03458v1](http://arxiv.org/abs/2406.03458v1)|null|
+|**2024-06-05**|**Topological disclination states and charge fractionalization in a non-Hermitian lattice**|Rimi Banerjee et.al.|[2406.03455v1](http://arxiv.org/abs/2406.03455v1)|null|
+|**2024-06-05**|**Mission Design for Unmanned Aerial Vehicles using Hybrid Probabilistic Logic Program**|Simon Kohaut et.al.|[2406.03454v1](http://arxiv.org/abs/2406.03454v1)|null|
+|**2024-06-05**|**Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types**|Pierluigi Cassotti et.al.|[2406.03452v1](http://arxiv.org/abs/2406.03452v1)|null|
+|**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450v1](http://arxiv.org/abs/2406.03450v1)|null|
+|**2024-06-05**|**Global fermionic mode optimization via swap gates**|Gero Friesecke et.al.|[2406.03449v1](http://arxiv.org/abs/2406.03449v1)|null|
+|**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|
+|**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445v1](http://arxiv.org/abs/2406.03445v1)|null|
+|**2024-06-05**|**Are language models rational? The case of coherence norms and belief revision**|Thomas Hofweber et.al.|[2406.03442v1](http://arxiv.org/abs/2406.03442v1)|null|
+|**2024-06-05**|**Cycles of Thought: Measuring LLM Confidence through Stable Explanations**|Evan Becker et.al.|[2406.03441v1](http://arxiv.org/abs/2406.03441v1)|null|
+|**2024-06-05**|**Analysis of experimental data on neutron decay for the possibility of the existence of a right vector boson $W_R$**|A. P. Serebrov et.al.|[2406.03440v1](http://arxiv.org/abs/2406.03440v1)|null|
+|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
 
 ## CG
 
