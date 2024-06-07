@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-07 20:28:28 Asia/Shanghai
+ Automated deployment @ 2024-06-07 20:54:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -46,6 +46,42 @@
 |**2024-06-06**|**On Limitation of Transformer for Learning HMMs**|Jiachen Hu et.al.|[2406.04089v1](http://arxiv.org/abs/2406.04089v1)|null|
 |**2024-06-06**|**Conic Surfaces and Transformations for X-Ray Beamline Optics Modeling**|Manuel Sanchez del Rio et.al.|[2406.04079v1](http://arxiv.org/abs/2406.04079v1)|null|
 |**2024-06-06**|**Dynamics-based halo model for large scale structure**|Edgar M. Salazar et.al.|[2406.04054v1](http://arxiv.org/abs/2406.04054v1)|null|
+
+## CG
+
+### Gaussian Splatting
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343v1](http://arxiv.org/abs/2406.04343v1)|null|
+|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
+|**2024-06-06**|**The Square Kilometer Array as a Cosmic Microwave Background Experiment**|David Zegeye et.al.|[2406.04326v1](http://arxiv.org/abs/2406.04326v1)|null|
+|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
+|**2024-06-06**|**Approximation-Aware Bayesian Optimization**|Natalie Maus et.al.|[2406.04308v1](http://arxiv.org/abs/2406.04308v1)|null|
+|**2024-06-06**|**Optimization of state parameters in displacement assisted photon subtracted measurement-device-independent quantum key distribution**|Chandan Kumar et.al.|[2406.04270v1](http://arxiv.org/abs/2406.04270v1)|null|
+|**2024-06-06**|**No real advantage of photon subtraction and displacement in continuous variable measurement device independent quantum key distribution**|Chandan Kumar et.al.|[2406.04263v1](http://arxiv.org/abs/2406.04263v1)|null|
+|**2024-06-06**|**A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation**|Ruihe Wang et.al.|[2406.04253v1](http://arxiv.org/abs/2406.04253v1)|null|
+|**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251v1](http://arxiv.org/abs/2406.04251v1)|null|
+|**2024-06-06**|**Policy Optimization in Control: Geometry and Algorithmic Implications**|Shahriar Talebi et.al.|[2406.04243v1](http://arxiv.org/abs/2406.04243v1)|null|
+|**2024-06-06**|**Strong Approximations for Empirical Processes Indexed by Lipschitz Functions**|Matias D. Cattaneo et.al.|[2406.04191v1](http://arxiv.org/abs/2406.04191v1)|null|
+|**2024-06-06**|**Copula-based models for correlated circular data**|Francesco Lagona et.al.|[2406.04085v1](http://arxiv.org/abs/2406.04085v1)|null|
+|**2024-06-06**|**Variational inference, Mixture of Gaussians, Bayesian Machine Learning**|Tom Huix et.al.|[2406.04012v1](http://arxiv.org/abs/2406.04012v1)|null|
+|**2024-06-06**|**Benign Nonconvex Landscapes in Optimal and Robust Control, Part II: Extended Convex Lifting**|Yang Zheng et.al.|[2406.04001v1](http://arxiv.org/abs/2406.04001v1)|null|
+|**2024-06-06**|**PyExoCross: a Python program for generating spectra and cross-sections from molecular line lists**|Jingxin Zhang et.al.|[2406.03977v1](http://arxiv.org/abs/2406.03977v1)|null|
+|**2024-06-06**|**Time delay of fast radio burst population with respect to the star formation history**|Hai-Nan Lin et.al.|[2406.03809v1](http://arxiv.org/abs/2406.03809v1)|null|
+|**2024-06-06**|**Enhancing Graph U-Nets for Mesh-Agnostic Spatio-Temporal Flow Prediction**|Sunwoong Yang et.al.|[2406.03789v1](http://arxiv.org/abs/2406.03789v1)|null|
+|**2024-06-06**|**Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks**|Rajarshi Saha et.al.|[2406.03766v1](http://arxiv.org/abs/2406.03766v1)|[link](https://github.com/rajarshisaha95/private-collaborative-relaying)|
+|**2024-06-06**|**Monte-Carlo Integration Based Multiple-Scattering Channel Modeling for Ultraviolet Communications in Turbulent Atmosphere**|Renzhi Yuan et.al.|[2406.03743v1](http://arxiv.org/abs/2406.03743v1)|null|
+|**2024-06-06**|**CLT for Linear Spectral Statistics in High-Dimensional Random Effects Models**|Ran Xie et.al.|[2406.03719v1](http://arxiv.org/abs/2406.03719v1)|null|
+|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
+|**2024-06-06**|**POAM: Probabilistic Online Attentive Mapping for Efficient Robotic Information Gathering**|Weizhe Chen et.al.|[2406.03669v1](http://arxiv.org/abs/2406.03669v1)|null|
+|**2024-06-05**|**Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters**|Zeno Pavanello et.al.|[2406.03654v1](http://arxiv.org/abs/2406.03654v1)|null|
+|**2024-06-05**|**BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems**|Wei-Ting Tang et.al.|[2406.03616v1](http://arxiv.org/abs/2406.03616v1)|null|
+|**2024-06-05**|**BVE + EKF: A viewpoint estimator for the estimation of the object's position in the 3D task space using Extended Kalman Filters**|Sandro Costa Magalhães et.al.|[2406.03591v1](http://arxiv.org/abs/2406.03591v1)|null|
+|**2024-06-05**|**Dynamical phase transitions in two-dimensional Brownian Matter**|Nathan O Silvano et.al.|[2406.03551v1](http://arxiv.org/abs/2406.03551v1)|null|
+|**2024-06-05**|**Validation of the Bond et al. (2010) SDSS-derived kinematic models for the Milky Way's disk and halo stars with Gaia Data Release 3 proper motion and radial velocity data**|Bruno Domínguez et.al.|[2406.03541v1](http://arxiv.org/abs/2406.03541v1)|null|
+|**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
+|**2024-06-05**|**The strong data processing inequality under the heat flow**|Bo'az Klartag et.al.|[2406.03427v1](http://arxiv.org/abs/2406.03427v1)|null|
+|**2024-06-05**|**Computational lower bounds for multi-frequency group synchronization**|Anastasia Kireeva et.al.|[2406.03424v1](http://arxiv.org/abs/2406.03424v1)|null|
 
 ## CV
 
@@ -221,40 +257,6 @@
 |**2024-06-06**|**ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization**|Luca Eyring et.al.|[2406.04312v1](http://arxiv.org/abs/2406.04312v1)|null|
 |**2024-06-06**|**From Super-Earths to Sub-Neptunes: observational constraints and connections to theoretical models**|Léna Parc et.al.|[2406.04311v1](http://arxiv.org/abs/2406.04311v1)|null|
 
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276v1](http://arxiv.org/abs/2406.04276v1)|null|
-|**2024-06-06**|**A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation**|Ruihe Wang et.al.|[2406.04253v1](http://arxiv.org/abs/2406.04253v1)|null|
-|**2024-06-06**|**An adaptive parameter estimator for poor-quality spectral data of white dwarfs**|Duo Xie et.al.|[2406.04248v1](http://arxiv.org/abs/2406.04248v1)|null|
-|**2024-06-06**|**Benchmark Data Contamination of Large Language Models: A Survey**|Cheng Xu et.al.|[2406.04244v1](http://arxiv.org/abs/2406.04244v1)|null|
-|**2024-06-06**|**Policy Optimization in Control: Geometry and Algorithmic Implications**|Shahriar Talebi et.al.|[2406.04243v1](http://arxiv.org/abs/2406.04243v1)|null|
-|**2024-06-06**|**Exploring magnetic fields in merging galaxy: combining polarization and velocity gradient in the Centaurus Galaxy**|Quynh Lan Nguyen et.al.|[2406.04242v1](http://arxiv.org/abs/2406.04242v1)|null|
-|**2024-06-06**|**Systematic analysis of jellyfish galaxy candidates in Fornax, Antlia, and Hydra from the S-PLUS survey: A self-supervised visual identification aid**|Yash Gondhalekar et.al.|[2406.04213v1](http://arxiv.org/abs/2406.04213v1)|null|
-|**2024-06-06**|**Fundamental effective temperature measurements for eclipsing binary stars -- V. The circumbinary planet system EBLM J0608-59**|P. F. L. Maxted et.al.|[2406.04204v1](http://arxiv.org/abs/2406.04204v1)|null|
-|**2024-06-06**|**Comparing estimators of discriminative performance of time-to-event models**|Ying Jin et.al.|[2406.04167v1](http://arxiv.org/abs/2406.04167v1)|null|
-|**2024-06-06**|**Chromatic Topological Data Analysis**|Sebastiano Cultrera di Montesano et.al.|[2406.04102v1](http://arxiv.org/abs/2406.04102v1)|null|
-|**2024-06-06**|**A Survey of Language-Based Communication in Robotics**|William Hunt et.al.|[2406.04086v1](http://arxiv.org/abs/2406.04086v1)|null|
-|**2024-06-06**|**The SKA Galactic Centre Survey -- A White Paper**|Rainer Schoedel et.al.|[2406.04022v1](http://arxiv.org/abs/2406.04022v1)|null|
-|**2024-06-06**|**Observational constraints on phenomenological emergent dark energy and barotropic dark matter characterized by a constant equation of state parameter**|Jianqi Liu et.al.|[2406.03936v1](http://arxiv.org/abs/2406.03936v1)|null|
-|**2024-06-06**|**Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art**|Chen Cecilia Liu et.al.|[2406.03930v1](http://arxiv.org/abs/2406.03930v1)|null|
-|**2024-06-06**|**UOCS. XIV. Uncovering extremely low mass white dwarfs and blue lurkers in NGC 752**|Vikrant V. Jadhav et.al.|[2406.03887v1](http://arxiv.org/abs/2406.03887v1)|null|
-|**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880v1](http://arxiv.org/abs/2406.03880v1)|null|
-|**2024-06-06**|**Views about ChatGPT: Are human decision making and human learning necessary?**|Eiji Yamamura et.al.|[2406.03823v1](http://arxiv.org/abs/2406.03823v1)|null|
-|**2024-06-06**|**A Survey on Intelligent Internet of Things: Applications, Security, Privacy, and Future Directions**|Ons Aouedi et.al.|[2406.03820v1](http://arxiv.org/abs/2406.03820v1)|null|
-|**2024-06-06**|**Increasing the detectability of long-period and nulling pulsars in next-generation pulsar surveys**|G. Grover et.al.|[2406.03806v1](http://arxiv.org/abs/2406.03806v1)|null|
-|**2024-06-06**|**Morpho-Photometric Classification of KiDS DR5 Sources Based on Neural Networks: A Comprehensive Star-Quasar-Galaxy Catalog**|Hai-Cheng Feng et.al.|[2406.03797v1](http://arxiv.org/abs/2406.03797v1)|null|
-|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
-|**2024-06-06**|**Shockingly Bright Warm Carbon Monoxide Molecular Features in the Supernova Remnant Cassiopeia A Revealed by JWST**|J. Rho et.al.|[2406.03685v1](http://arxiv.org/abs/2406.03685v1)|null|
-|**2024-06-05**|**Equivalence Set Restricted Latent Class Models (ESRLCM)**|Jesse Bowers et.al.|[2406.03653v1](http://arxiv.org/abs/2406.03653v1)|null|
-|**2024-06-05**|**The Massive and Distant Clusters of WISE Survey 2: A Stacking Analysis Investigating the Evolution of Star Formation Rates and Stellar Masses in Groups and Clusters**|A. Trudeau et.al.|[2406.03633v1](http://arxiv.org/abs/2406.03633v1)|null|
-|**2024-06-05**|**Validation of the Bond et al. (2010) SDSS-derived kinematic models for the Milky Way's disk and halo stars with Gaia Data Release 3 proper motion and radial velocity data**|Bruno Domínguez et.al.|[2406.03541v1](http://arxiv.org/abs/2406.03541v1)|null|
-|**2024-06-05**|**Astrometric Detection of Ultralight Dark Matter**|Jeff A. Dror et.al.|[2406.03526v1](http://arxiv.org/abs/2406.03526v1)|null|
-|**2024-06-05**|**The SMILES Mid-Infrared Survey**|George Rieke et.al.|[2406.03518v1](http://arxiv.org/abs/2406.03518v1)|null|
-|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
-|**2024-06-05**|**Socio-demographic Determinants of Child Malnutrition Age 0-5 years in Bangladesh: NB and ZINB Approaches**|Md Mehedi Hasan Bhuiyan et.al.|[2406.03515v1](http://arxiv.org/abs/2406.03515v1)|null|
-|**2024-06-05**|**A field-level emulator for modified gravity**|Daniela Saadeh et.al.|[2406.03374v1](http://arxiv.org/abs/2406.03374v1)|null|
-
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -289,6 +291,40 @@
 |**2024-06-05**|**The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games**|Mikhail Mozikov et.al.|[2406.03299v1](http://arxiv.org/abs/2406.03299v1)|null|
 |**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250v1](http://arxiv.org/abs/2406.03250v1)|null|
 
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276v1](http://arxiv.org/abs/2406.04276v1)|null|
+|**2024-06-06**|**A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation**|Ruihe Wang et.al.|[2406.04253v1](http://arxiv.org/abs/2406.04253v1)|null|
+|**2024-06-06**|**An adaptive parameter estimator for poor-quality spectral data of white dwarfs**|Duo Xie et.al.|[2406.04248v1](http://arxiv.org/abs/2406.04248v1)|null|
+|**2024-06-06**|**Benchmark Data Contamination of Large Language Models: A Survey**|Cheng Xu et.al.|[2406.04244v1](http://arxiv.org/abs/2406.04244v1)|null|
+|**2024-06-06**|**Policy Optimization in Control: Geometry and Algorithmic Implications**|Shahriar Talebi et.al.|[2406.04243v1](http://arxiv.org/abs/2406.04243v1)|null|
+|**2024-06-06**|**Exploring magnetic fields in merging galaxy: combining polarization and velocity gradient in the Centaurus Galaxy**|Quynh Lan Nguyen et.al.|[2406.04242v1](http://arxiv.org/abs/2406.04242v1)|null|
+|**2024-06-06**|**Systematic analysis of jellyfish galaxy candidates in Fornax, Antlia, and Hydra from the S-PLUS survey: A self-supervised visual identification aid**|Yash Gondhalekar et.al.|[2406.04213v1](http://arxiv.org/abs/2406.04213v1)|null|
+|**2024-06-06**|**Fundamental effective temperature measurements for eclipsing binary stars -- V. The circumbinary planet system EBLM J0608-59**|P. F. L. Maxted et.al.|[2406.04204v1](http://arxiv.org/abs/2406.04204v1)|null|
+|**2024-06-06**|**Comparing estimators of discriminative performance of time-to-event models**|Ying Jin et.al.|[2406.04167v1](http://arxiv.org/abs/2406.04167v1)|null|
+|**2024-06-06**|**Chromatic Topological Data Analysis**|Sebastiano Cultrera di Montesano et.al.|[2406.04102v1](http://arxiv.org/abs/2406.04102v1)|null|
+|**2024-06-06**|**A Survey of Language-Based Communication in Robotics**|William Hunt et.al.|[2406.04086v1](http://arxiv.org/abs/2406.04086v1)|null|
+|**2024-06-06**|**The SKA Galactic Centre Survey -- A White Paper**|Rainer Schoedel et.al.|[2406.04022v1](http://arxiv.org/abs/2406.04022v1)|null|
+|**2024-06-06**|**Observational constraints on phenomenological emergent dark energy and barotropic dark matter characterized by a constant equation of state parameter**|Jianqi Liu et.al.|[2406.03936v1](http://arxiv.org/abs/2406.03936v1)|null|
+|**2024-06-06**|**Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art**|Chen Cecilia Liu et.al.|[2406.03930v1](http://arxiv.org/abs/2406.03930v1)|null|
+|**2024-06-06**|**UOCS. XIV. Uncovering extremely low mass white dwarfs and blue lurkers in NGC 752**|Vikrant V. Jadhav et.al.|[2406.03887v1](http://arxiv.org/abs/2406.03887v1)|null|
+|**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880v1](http://arxiv.org/abs/2406.03880v1)|null|
+|**2024-06-06**|**Views about ChatGPT: Are human decision making and human learning necessary?**|Eiji Yamamura et.al.|[2406.03823v1](http://arxiv.org/abs/2406.03823v1)|null|
+|**2024-06-06**|**A Survey on Intelligent Internet of Things: Applications, Security, Privacy, and Future Directions**|Ons Aouedi et.al.|[2406.03820v1](http://arxiv.org/abs/2406.03820v1)|null|
+|**2024-06-06**|**Increasing the detectability of long-period and nulling pulsars in next-generation pulsar surveys**|G. Grover et.al.|[2406.03806v1](http://arxiv.org/abs/2406.03806v1)|null|
+|**2024-06-06**|**Morpho-Photometric Classification of KiDS DR5 Sources Based on Neural Networks: A Comprehensive Star-Quasar-Galaxy Catalog**|Hai-Cheng Feng et.al.|[2406.03797v1](http://arxiv.org/abs/2406.03797v1)|null|
+|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
+|**2024-06-06**|**Shockingly Bright Warm Carbon Monoxide Molecular Features in the Supernova Remnant Cassiopeia A Revealed by JWST**|J. Rho et.al.|[2406.03685v1](http://arxiv.org/abs/2406.03685v1)|null|
+|**2024-06-05**|**Equivalence Set Restricted Latent Class Models (ESRLCM)**|Jesse Bowers et.al.|[2406.03653v1](http://arxiv.org/abs/2406.03653v1)|null|
+|**2024-06-05**|**The Massive and Distant Clusters of WISE Survey 2: A Stacking Analysis Investigating the Evolution of Star Formation Rates and Stellar Masses in Groups and Clusters**|A. Trudeau et.al.|[2406.03633v1](http://arxiv.org/abs/2406.03633v1)|null|
+|**2024-06-05**|**Validation of the Bond et al. (2010) SDSS-derived kinematic models for the Milky Way's disk and halo stars with Gaia Data Release 3 proper motion and radial velocity data**|Bruno Domínguez et.al.|[2406.03541v1](http://arxiv.org/abs/2406.03541v1)|null|
+|**2024-06-05**|**Astrometric Detection of Ultralight Dark Matter**|Jeff A. Dror et.al.|[2406.03526v1](http://arxiv.org/abs/2406.03526v1)|null|
+|**2024-06-05**|**The SMILES Mid-Infrared Survey**|George Rieke et.al.|[2406.03518v1](http://arxiv.org/abs/2406.03518v1)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
+|**2024-06-05**|**Socio-demographic Determinants of Child Malnutrition Age 0-5 years in Bangladesh: NB and ZINB Approaches**|Md Mehedi Hasan Bhuiyan et.al.|[2406.03515v1](http://arxiv.org/abs/2406.03515v1)|null|
+|**2024-06-05**|**A field-level emulator for modified gravity**|Daniela Saadeh et.al.|[2406.03374v1](http://arxiv.org/abs/2406.03374v1)|null|
+
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -322,39 +358,3 @@
 |**2024-06-06**|**The 3D-PC: a benchmark for visual perspective taking in humans and machines**|Drew Linsley et.al.|[2406.04138v1](http://arxiv.org/abs/2406.04138v1)|null|
 |**2024-06-06**|**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**|Shubham Kumar Nigam et.al.|[2406.04136v1](http://arxiv.org/abs/2406.04136v1)|null|
 |**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v1](http://arxiv.org/abs/2406.04127v1)|null|
-
-## CG
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343v1](http://arxiv.org/abs/2406.04343v1)|null|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
-|**2024-06-06**|**The Square Kilometer Array as a Cosmic Microwave Background Experiment**|David Zegeye et.al.|[2406.04326v1](http://arxiv.org/abs/2406.04326v1)|null|
-|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
-|**2024-06-06**|**Approximation-Aware Bayesian Optimization**|Natalie Maus et.al.|[2406.04308v1](http://arxiv.org/abs/2406.04308v1)|null|
-|**2024-06-06**|**Optimization of state parameters in displacement assisted photon subtracted measurement-device-independent quantum key distribution**|Chandan Kumar et.al.|[2406.04270v1](http://arxiv.org/abs/2406.04270v1)|null|
-|**2024-06-06**|**No real advantage of photon subtraction and displacement in continuous variable measurement device independent quantum key distribution**|Chandan Kumar et.al.|[2406.04263v1](http://arxiv.org/abs/2406.04263v1)|null|
-|**2024-06-06**|**A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation**|Ruihe Wang et.al.|[2406.04253v1](http://arxiv.org/abs/2406.04253v1)|null|
-|**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251v1](http://arxiv.org/abs/2406.04251v1)|null|
-|**2024-06-06**|**Policy Optimization in Control: Geometry and Algorithmic Implications**|Shahriar Talebi et.al.|[2406.04243v1](http://arxiv.org/abs/2406.04243v1)|null|
-|**2024-06-06**|**Strong Approximations for Empirical Processes Indexed by Lipschitz Functions**|Matias D. Cattaneo et.al.|[2406.04191v1](http://arxiv.org/abs/2406.04191v1)|null|
-|**2024-06-06**|**Copula-based models for correlated circular data**|Francesco Lagona et.al.|[2406.04085v1](http://arxiv.org/abs/2406.04085v1)|null|
-|**2024-06-06**|**Variational inference, Mixture of Gaussians, Bayesian Machine Learning**|Tom Huix et.al.|[2406.04012v1](http://arxiv.org/abs/2406.04012v1)|null|
-|**2024-06-06**|**Benign Nonconvex Landscapes in Optimal and Robust Control, Part II: Extended Convex Lifting**|Yang Zheng et.al.|[2406.04001v1](http://arxiv.org/abs/2406.04001v1)|null|
-|**2024-06-06**|**PyExoCross: a Python program for generating spectra and cross-sections from molecular line lists**|Jingxin Zhang et.al.|[2406.03977v1](http://arxiv.org/abs/2406.03977v1)|null|
-|**2024-06-06**|**Time delay of fast radio burst population with respect to the star formation history**|Hai-Nan Lin et.al.|[2406.03809v1](http://arxiv.org/abs/2406.03809v1)|null|
-|**2024-06-06**|**Enhancing Graph U-Nets for Mesh-Agnostic Spatio-Temporal Flow Prediction**|Sunwoong Yang et.al.|[2406.03789v1](http://arxiv.org/abs/2406.03789v1)|null|
-|**2024-06-06**|**Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks**|Rajarshi Saha et.al.|[2406.03766v1](http://arxiv.org/abs/2406.03766v1)|[link](https://github.com/rajarshisaha95/private-collaborative-relaying)|
-|**2024-06-06**|**Monte-Carlo Integration Based Multiple-Scattering Channel Modeling for Ultraviolet Communications in Turbulent Atmosphere**|Renzhi Yuan et.al.|[2406.03743v1](http://arxiv.org/abs/2406.03743v1)|null|
-|**2024-06-06**|**CLT for Linear Spectral Statistics in High-Dimensional Random Effects Models**|Ran Xie et.al.|[2406.03719v1](http://arxiv.org/abs/2406.03719v1)|null|
-|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
-|**2024-06-06**|**POAM: Probabilistic Online Attentive Mapping for Efficient Robotic Information Gathering**|Weizhe Chen et.al.|[2406.03669v1](http://arxiv.org/abs/2406.03669v1)|null|
-|**2024-06-05**|**Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters**|Zeno Pavanello et.al.|[2406.03654v1](http://arxiv.org/abs/2406.03654v1)|null|
-|**2024-06-05**|**BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems**|Wei-Ting Tang et.al.|[2406.03616v1](http://arxiv.org/abs/2406.03616v1)|null|
-|**2024-06-05**|**BVE + EKF: A viewpoint estimator for the estimation of the object's position in the 3D task space using Extended Kalman Filters**|Sandro Costa Magalhães et.al.|[2406.03591v1](http://arxiv.org/abs/2406.03591v1)|null|
-|**2024-06-05**|**Dynamical phase transitions in two-dimensional Brownian Matter**|Nathan O Silvano et.al.|[2406.03551v1](http://arxiv.org/abs/2406.03551v1)|null|
-|**2024-06-05**|**Validation of the Bond et al. (2010) SDSS-derived kinematic models for the Milky Way's disk and halo stars with Gaia Data Release 3 proper motion and radial velocity data**|Bruno Domínguez et.al.|[2406.03541v1](http://arxiv.org/abs/2406.03541v1)|null|
-|**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
-|**2024-06-05**|**The strong data processing inequality under the heat flow**|Bo'az Klartag et.al.|[2406.03427v1](http://arxiv.org/abs/2406.03427v1)|null|
-|**2024-06-05**|**Computational lower bounds for multi-frequency group synchronization**|Anastasia Kireeva et.al.|[2406.03424v1](http://arxiv.org/abs/2406.03424v1)|null|
