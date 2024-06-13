@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-13 20:53:24 Asia/Shanghai
+ Automated deployment @ 2024-06-13 21:12:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,6 +48,40 @@
 |**2024-06-12**|**Fully Few-shot Class-incremental Audio Classification Using Expandable Dual-embedding Extractor**|Yongjie Si et.al.|[2406.08122v1](http://arxiv.org/abs/2406.08122v1)|null|
 
 ## CV
+
+### Video Understanding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482v1](http://arxiv.org/abs/2406.08482v1)|null|
+|**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|null|
+|**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473v1](http://arxiv.org/abs/2406.08473v1)|null|
+|**2024-06-12**|**Bridging the Gap: Unravelling Local Government Data Sharing Barriers in Estonia and Beyond**|Katrin Rajamäe Soosaar et.al.|[2406.08461v1](http://arxiv.org/abs/2406.08461v1)|null|
+|**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|[link](https://github.com/kamwoh/concepthash)|
+|**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455v1](http://arxiv.org/abs/2406.08455v1)|null|
+|**2024-06-12**|**$\texttt{DiffLense}$: A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
+|**2024-06-12**|**A Sticker is Worth a Thousand Words: Characterizing the Use of Stickers in WhatsApp Political Groups in Brazil**|Philipe Melo et.al.|[2406.08429v1](http://arxiv.org/abs/2406.08429v1)|null|
+|**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426v1](http://arxiv.org/abs/2406.08426v1)|null|
+|**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418v1](http://arxiv.org/abs/2406.08418v1)|[link](https://github.com/opengvlab/omnicorpus)|
+|**2024-06-12**|**Discovery of a new N-emitter in the epoch of reionization**|D. Schaerer et.al.|[2406.08408v1](http://arxiv.org/abs/2406.08408v1)|null|
+|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v1](http://arxiv.org/abs/2406.08407v1)|[link](https://github.com/eric-ai-lab/mmworld)|
+|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402v1](http://arxiv.org/abs/2406.08402v1)|null|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|null|
+|**2024-06-12**|**Coordinated Trading Strategies for Battery Storage in Reserve and Spot Markets**|Paul E. Seifert et.al.|[2406.08390v1](http://arxiv.org/abs/2406.08390v1)|null|
+|**2024-06-12**|**Banal Deception Human-AI Ecosystems: A Study of People's Perceptions of LLM-generated Deceptive Behaviour**|Xiao Zhan et.al.|[2406.08386v1](http://arxiv.org/abs/2406.08386v1)|null|
+|**2024-06-12**|**Moving Manifolds and General Relativity**|David V. Svintradze et.al.|[2406.08382v1](http://arxiv.org/abs/2406.08382v1)|null|
+|**2024-06-12**|**Eyes Wide Unshut: Unsupervised Mistake Detection in Egocentric Video by Detecting Unpredictable Gaze**|Michele Mazzamuto et.al.|[2406.08379v1](http://arxiv.org/abs/2406.08379v1)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
+|**2024-06-12**|**Kink-Helium Interactions in Tungsten: Opposing Effects of Assisted Nucleation and Hindered Migration**|Matthew Nutter et.al.|[2406.08368v1](http://arxiv.org/abs/2406.08368v1)|null|
+|**2024-06-12**|**From a Social Cognitive Perspective: Context-aware Visual Social Relationship Recognition**|Shiwei Wu et.al.|[2406.08358v1](http://arxiv.org/abs/2406.08358v1)|null|
+|**2024-06-12**|**DocSynthv2: A Practical Autoregressive Modeling for Document Generation**|Sanket Biswas et.al.|[2406.08354v1](http://arxiv.org/abs/2406.08354v1)|null|
+|**2024-06-12**|**Practical, Automated Scenario-based Mobile App Testing**|Shengcheng Yu et.al.|[2406.08340v1](http://arxiv.org/abs/2406.08340v1)|null|
+|**2024-06-12**|**Exact Correlation Functions for Dual-Unitary Quantum circuits with exceptional points**|Xi-Dan Hu et.al.|[2406.08338v1](http://arxiv.org/abs/2406.08338v1)|null|
+|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337v1](http://arxiv.org/abs/2406.08337v1)|null|
+|**2024-06-12**|**LaMOT: Language-Guided Multi-Object Tracking**|Yunhao Li et.al.|[2406.08324v1](http://arxiv.org/abs/2406.08324v1)|[link](https://github.com/nathan-li123/lamot)|
+|**2024-06-12**|**MMIL: A novel algorithm for disease associated cell type discovery**|Erin Craig et.al.|[2406.08322v1](http://arxiv.org/abs/2406.08322v1)|null|
+|**2024-06-12**|**Is Programming by Example solved by LLMs?**|Wen-Ding Li et.al.|[2406.08316v1](http://arxiv.org/abs/2406.08316v1)|null|
+|**2024-06-12**|**Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**|Ruibo Tu et.al.|[2406.08311v1](http://arxiv.org/abs/2406.08311v1)|[link](https://github.com/turuibo/cautabbench)|
 
 ### Diffusion Model
 |Publish Date|Title|Authors|PDF|Code|
@@ -117,40 +151,6 @@
 |**2024-06-12**|**Critical Lambda-adic modular forms and bi-ordinary complexes**|Francesc Castella et.al.|[2406.08460v1](http://arxiv.org/abs/2406.08460v1)|null|
 |**2024-06-12**|**Consistent Theories for the DESI dark energy fit**|Alessio Notari et.al.|[2406.08459v1](http://arxiv.org/abs/2406.08459v1)|null|
 
-### Video Understanding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)|
-|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482v1](http://arxiv.org/abs/2406.08482v1)|null|
-|**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|null|
-|**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473v1](http://arxiv.org/abs/2406.08473v1)|null|
-|**2024-06-12**|**Bridging the Gap: Unravelling Local Government Data Sharing Barriers in Estonia and Beyond**|Katrin Rajamäe Soosaar et.al.|[2406.08461v1](http://arxiv.org/abs/2406.08461v1)|null|
-|**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|[link](https://github.com/kamwoh/concepthash)|
-|**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455v1](http://arxiv.org/abs/2406.08455v1)|null|
-|**2024-06-12**|**$\texttt{DiffLense}$: A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
-|**2024-06-12**|**A Sticker is Worth a Thousand Words: Characterizing the Use of Stickers in WhatsApp Political Groups in Brazil**|Philipe Melo et.al.|[2406.08429v1](http://arxiv.org/abs/2406.08429v1)|null|
-|**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426v1](http://arxiv.org/abs/2406.08426v1)|null|
-|**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418v1](http://arxiv.org/abs/2406.08418v1)|[link](https://github.com/opengvlab/omnicorpus)|
-|**2024-06-12**|**Discovery of a new N-emitter in the epoch of reionization**|D. Schaerer et.al.|[2406.08408v1](http://arxiv.org/abs/2406.08408v1)|null|
-|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v1](http://arxiv.org/abs/2406.08407v1)|[link](https://github.com/eric-ai-lab/mmworld)|
-|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402v1](http://arxiv.org/abs/2406.08402v1)|null|
-|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|null|
-|**2024-06-12**|**Coordinated Trading Strategies for Battery Storage in Reserve and Spot Markets**|Paul E. Seifert et.al.|[2406.08390v1](http://arxiv.org/abs/2406.08390v1)|null|
-|**2024-06-12**|**Banal Deception Human-AI Ecosystems: A Study of People's Perceptions of LLM-generated Deceptive Behaviour**|Xiao Zhan et.al.|[2406.08386v1](http://arxiv.org/abs/2406.08386v1)|null|
-|**2024-06-12**|**Moving Manifolds and General Relativity**|David V. Svintradze et.al.|[2406.08382v1](http://arxiv.org/abs/2406.08382v1)|null|
-|**2024-06-12**|**Eyes Wide Unshut: Unsupervised Mistake Detection in Egocentric Video by Detecting Unpredictable Gaze**|Michele Mazzamuto et.al.|[2406.08379v1](http://arxiv.org/abs/2406.08379v1)|null|
-|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
-|**2024-06-12**|**Kink-Helium Interactions in Tungsten: Opposing Effects of Assisted Nucleation and Hindered Migration**|Matthew Nutter et.al.|[2406.08368v1](http://arxiv.org/abs/2406.08368v1)|null|
-|**2024-06-12**|**From a Social Cognitive Perspective: Context-aware Visual Social Relationship Recognition**|Shiwei Wu et.al.|[2406.08358v1](http://arxiv.org/abs/2406.08358v1)|null|
-|**2024-06-12**|**DocSynthv2: A Practical Autoregressive Modeling for Document Generation**|Sanket Biswas et.al.|[2406.08354v1](http://arxiv.org/abs/2406.08354v1)|null|
-|**2024-06-12**|**Practical, Automated Scenario-based Mobile App Testing**|Shengcheng Yu et.al.|[2406.08340v1](http://arxiv.org/abs/2406.08340v1)|null|
-|**2024-06-12**|**Exact Correlation Functions for Dual-Unitary Quantum circuits with exceptional points**|Xi-Dan Hu et.al.|[2406.08338v1](http://arxiv.org/abs/2406.08338v1)|null|
-|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337v1](http://arxiv.org/abs/2406.08337v1)|null|
-|**2024-06-12**|**LaMOT: Language-Guided Multi-Object Tracking**|Yunhao Li et.al.|[2406.08324v1](http://arxiv.org/abs/2406.08324v1)|[link](https://github.com/nathan-li123/lamot)|
-|**2024-06-12**|**MMIL: A novel algorithm for disease associated cell type discovery**|Erin Craig et.al.|[2406.08322v1](http://arxiv.org/abs/2406.08322v1)|null|
-|**2024-06-12**|**Is Programming by Example solved by LLMs?**|Wen-Ding Li et.al.|[2406.08316v1](http://arxiv.org/abs/2406.08316v1)|null|
-|**2024-06-12**|**Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**|Ruibo Tu et.al.|[2406.08311v1](http://arxiv.org/abs/2406.08311v1)|[link](https://github.com/turuibo/cautabbench)|
-
 ## AI
 
 ### Autonomous Driving
@@ -186,6 +186,40 @@
 |**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833v1](http://arxiv.org/abs/2406.07833v1)|null|
 |**2024-06-12**|**Automatic detection of large-scale flux ropes and their geoeffectiveness with a machine learning approach**|Sanchita Pal et.al.|[2406.07798v1](http://arxiv.org/abs/2406.07798v1)|null|
 |**2024-06-12**|**Wideband tunable cavity development for axion dark matter searches using a piezoelectric motor in combination with gears**|A. K. Yi et.al.|[2406.07782v1](http://arxiv.org/abs/2406.07782v1)|null|
+
+### Large Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
+|**2024-06-12**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487v1](http://arxiv.org/abs/2406.08487v1)|null|
+|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)|
+|**2024-06-12**|**Celestial Topology, Symmetry Theories, and Evidence for a Non-SUSY D3-Brane CFT**|Jonathan J. Heckman et.al.|[2406.08485v1](http://arxiv.org/abs/2406.08485v1)|null|
+|**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484v1](http://arxiv.org/abs/2406.08484v1)|null|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482v1](http://arxiv.org/abs/2406.08482v1)|null|
+|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481v1](http://arxiv.org/abs/2406.08481v1)|null|
+|**2024-06-12**|**Real3D: Scaling Up Large Reconstruction Models with Real-World Images**|Hanwen Jiang et.al.|[2406.08479v1](http://arxiv.org/abs/2406.08479v1)|null|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
+|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477v1](http://arxiv.org/abs/2406.08477v1)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475v1](http://arxiv.org/abs/2406.08475v1)|null|
+|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v1](http://arxiv.org/abs/2406.08474v1)|null|
+|**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473v1](http://arxiv.org/abs/2406.08473v1)|null|
+|**2024-06-12**|**Surprise! Using Physiological Stress for Allostatic Regulation Under the Active Inference Framework [Pre-Print]**|Imran Khan et.al.|[2406.08471v1](http://arxiv.org/abs/2406.08471v1)|null|
+|**2024-06-12**|**Charged pion condensation and color superconductivity phenomena in chirally asymmetric dense quark matter**|T. G. Khunjua et.al.|[2406.08470v1](http://arxiv.org/abs/2406.08470v1)|null|
+|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469v1](http://arxiv.org/abs/2406.08469v1)|null|
+|**2024-06-12**|**Observing formation and evolution of dislocation cells during plastic deformation**|Albert Zelenika et.al.|[2406.08468v1](http://arxiv.org/abs/2406.08468v1)|null|
+|**2024-06-12**|**DafnyBench: A Benchmark for Formal Software Verification**|Chloe Loughridge et.al.|[2406.08467v1](http://arxiv.org/abs/2406.08467v1)|[link](https://github.com/sun-wendy/dafnybench)|
+|**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466v1](http://arxiv.org/abs/2406.08466v1)|null|
+|**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465v1](http://arxiv.org/abs/2406.08465v1)|null|
+|**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464v1](http://arxiv.org/abs/2406.08464v1)|null|
+|**2024-06-12**|**Bridging the Gap: Unravelling Local Government Data Sharing Barriers in Estonia and Beyond**|Katrin Rajamäe Soosaar et.al.|[2406.08461v1](http://arxiv.org/abs/2406.08461v1)|null|
+|**2024-06-12**|**Consistent Theories for the DESI dark energy fit**|Alessio Notari et.al.|[2406.08459v1](http://arxiv.org/abs/2406.08459v1)|null|
+|**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|[link](https://github.com/kamwoh/concepthash)|
+|**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455v1](http://arxiv.org/abs/2406.08455v1)|null|
+|**2024-06-12**|**Towards Musically Informed Evaluation of Piano Transcription Models**|Patricia Hu et.al.|[2406.08454v1](http://arxiv.org/abs/2406.08454v1)|null|
+|**2024-06-12**|**ORES-Inspect: A technology probe for machine learning audits on enwiki**|Zachary Levonian et.al.|[2406.08453v1](http://arxiv.org/abs/2406.08453v1)|null|
+|**2024-06-12**|**GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices**|Quanfeng Lu et.al.|[2406.08451v1](http://arxiv.org/abs/2406.08451v1)|[link](https://github.com/opengvlab/gui-odyssey)|
+|**2024-06-12**|**Heterogeneous Beliefs Model of Stock Market Predictability**|Jiho Park et.al.|[2406.08448v1](http://arxiv.org/abs/2406.08448v1)|null|
+|**2024-06-12**|**The Impact of Initialization on LoRA Finetuning Dynamics**|Soufiane Hayou et.al.|[2406.08447v1](http://arxiv.org/abs/2406.08447v1)|null|
 
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
@@ -288,40 +322,6 @@
 |**2024-06-12**|**MaIL: Improving Imitation Learning with Mamba**|Xiaogang Jia et.al.|[2406.08234v1](http://arxiv.org/abs/2406.08234v1)|null|
 |**2024-06-12**|**A Sociotechnical Lens for Evaluating Computer Vision Models: A Case Study on Detecting and Reasoning about Gender and Emotion**|Sha Luo et.al.|[2406.08222v1](http://arxiv.org/abs/2406.08222v1)|null|
 |**2024-06-12**|**A Software Engineering Perspective on Testing Large Language Models: Research, Practice, Tools and Benchmarks**|Sinclair Hudson et.al.|[2406.08216v1](http://arxiv.org/abs/2406.08216v1)|null|
-
-### Large Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
-|**2024-06-12**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487v1](http://arxiv.org/abs/2406.08487v1)|null|
-|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)|
-|**2024-06-12**|**Celestial Topology, Symmetry Theories, and Evidence for a Non-SUSY D3-Brane CFT**|Jonathan J. Heckman et.al.|[2406.08485v1](http://arxiv.org/abs/2406.08485v1)|null|
-|**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484v1](http://arxiv.org/abs/2406.08484v1)|null|
-|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482v1](http://arxiv.org/abs/2406.08482v1)|null|
-|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481v1](http://arxiv.org/abs/2406.08481v1)|null|
-|**2024-06-12**|**Real3D: Scaling Up Large Reconstruction Models with Real-World Images**|Hanwen Jiang et.al.|[2406.08479v1](http://arxiv.org/abs/2406.08479v1)|null|
-|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
-|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477v1](http://arxiv.org/abs/2406.08477v1)|null|
-|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475v1](http://arxiv.org/abs/2406.08475v1)|null|
-|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v1](http://arxiv.org/abs/2406.08474v1)|null|
-|**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473v1](http://arxiv.org/abs/2406.08473v1)|null|
-|**2024-06-12**|**Surprise! Using Physiological Stress for Allostatic Regulation Under the Active Inference Framework [Pre-Print]**|Imran Khan et.al.|[2406.08471v1](http://arxiv.org/abs/2406.08471v1)|null|
-|**2024-06-12**|**Charged pion condensation and color superconductivity phenomena in chirally asymmetric dense quark matter**|T. G. Khunjua et.al.|[2406.08470v1](http://arxiv.org/abs/2406.08470v1)|null|
-|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469v1](http://arxiv.org/abs/2406.08469v1)|null|
-|**2024-06-12**|**Observing formation and evolution of dislocation cells during plastic deformation**|Albert Zelenika et.al.|[2406.08468v1](http://arxiv.org/abs/2406.08468v1)|null|
-|**2024-06-12**|**DafnyBench: A Benchmark for Formal Software Verification**|Chloe Loughridge et.al.|[2406.08467v1](http://arxiv.org/abs/2406.08467v1)|[link](https://github.com/sun-wendy/dafnybench)|
-|**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466v1](http://arxiv.org/abs/2406.08466v1)|null|
-|**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465v1](http://arxiv.org/abs/2406.08465v1)|null|
-|**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464v1](http://arxiv.org/abs/2406.08464v1)|null|
-|**2024-06-12**|**Bridging the Gap: Unravelling Local Government Data Sharing Barriers in Estonia and Beyond**|Katrin Rajamäe Soosaar et.al.|[2406.08461v1](http://arxiv.org/abs/2406.08461v1)|null|
-|**2024-06-12**|**Consistent Theories for the DESI dark energy fit**|Alessio Notari et.al.|[2406.08459v1](http://arxiv.org/abs/2406.08459v1)|null|
-|**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|[link](https://github.com/kamwoh/concepthash)|
-|**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455v1](http://arxiv.org/abs/2406.08455v1)|null|
-|**2024-06-12**|**Towards Musically Informed Evaluation of Piano Transcription Models**|Patricia Hu et.al.|[2406.08454v1](http://arxiv.org/abs/2406.08454v1)|null|
-|**2024-06-12**|**ORES-Inspect: A technology probe for machine learning audits on enwiki**|Zachary Levonian et.al.|[2406.08453v1](http://arxiv.org/abs/2406.08453v1)|null|
-|**2024-06-12**|**GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices**|Quanfeng Lu et.al.|[2406.08451v1](http://arxiv.org/abs/2406.08451v1)|[link](https://github.com/opengvlab/gui-odyssey)|
-|**2024-06-12**|**Heterogeneous Beliefs Model of Stock Market Predictability**|Jiho Park et.al.|[2406.08448v1](http://arxiv.org/abs/2406.08448v1)|null|
-|**2024-06-12**|**The Impact of Initialization on LoRA Finetuning Dynamics**|Soufiane Hayou et.al.|[2406.08447v1](http://arxiv.org/abs/2406.08447v1)|null|
 
 ## CG
 
