@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-01 20:55:53 Asia/Shanghai
+ Automated deployment @ 2024-08-01 21:18:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,6 +48,40 @@
 |**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v1](http://arxiv.org/abs/2407.21491v1)|null|
 
 ## AI
+
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778v1](http://arxiv.org/abs/2407.21778v1)|null|
+|**2024-07-31**|**Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)**|Yang An et.al.|[2407.21734v1](http://arxiv.org/abs/2407.21734v1)|null|
+|**2024-07-31**|**Artificial Intelligence Approaches for Energy Efficiency: A Review**|Alberto Pasqualetto et.al.|[2407.21726v1](http://arxiv.org/abs/2407.21726v1)|null|
+|**2024-07-31**|**Social Learning through Interactions with Other Agents: A Survey**|Dylan hillier et.al.|[2407.21713v1](http://arxiv.org/abs/2407.21713v1)|null|
+|**2024-07-31**|**Human interaction classifier for LLM based chatbot**|Diego Martín et.al.|[2407.21647v1](http://arxiv.org/abs/2407.21647v1)|null|
+|**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
+|**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|null|
+|**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565v1](http://arxiv.org/abs/2407.21565v1)|null|
+|**2024-07-31**|**Black box meta-learning intrinsic rewards for sparse-reward environments**|Octavio Pappalardo et.al.|[2407.21546v1](http://arxiv.org/abs/2407.21546v1)|null|
+|**2024-07-31**|**Modelling competition for space: Emergent inefficiency and inequality due to spatial self-organization among a group of crowd-avoiding agents**|Ann Mary Mathew et.al.|[2407.21537v1](http://arxiv.org/abs/2407.21537v1)|null|
+|**2024-07-31**|**The Impacts of AI Avatar Appearance and Disclosure on User Motivation**|Boele Visser et.al.|[2407.21521v1](http://arxiv.org/abs/2407.21521v1)|null|
+|**2024-07-31**|**PEAR: Phrase-Based Hand-Object Interaction Anticipation**|Zichen Zhang et.al.|[2407.21510v1](http://arxiv.org/abs/2407.21510v1)|null|
+|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v1](http://arxiv.org/abs/2407.21491v1)|null|
+|**2024-07-31**|**Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network**|Jeffrey Redondo et.al.|[2407.21460v1](http://arxiv.org/abs/2407.21460v1)|null|
+|**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
+|**2024-07-31**|**ProSpec RL: Plan Ahead, then Execute**|Liangliang Liu et.al.|[2407.21359v1](http://arxiv.org/abs/2407.21359v1)|null|
+|**2024-07-31**|**Interactive embodied evolution for socially adept Artificial General Creatures**|Kevin Godin-Dubois et.al.|[2407.21357v1](http://arxiv.org/abs/2407.21357v1)|null|
+|**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333v1](http://arxiv.org/abs/2407.21333v1)|null|
+|**2024-07-31**|**MetaOpenFOAM: an LLM-based multi-agent framework for CFD**|Yuxuan Chena et.al.|[2407.21320v1](http://arxiv.org/abs/2407.21320v1)|null|
+|**2024-07-31**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310v1](http://arxiv.org/abs/2407.21310v1)|null|
+|**2024-07-31**|**Modeling Urban Transport Choices: Incorporating Sociocultural Aspects**|Kathleen Salazar-Serna et.al.|[2407.21307v1](http://arxiv.org/abs/2407.21307v1)|null|
+|**2024-07-30**|**Hopf and Bautin bifurcations in a 3D model for pest leafhopper with stage structure and generalist predatory mite**|Martha Alvarez Ramírez et.al.|[2407.21205v1](http://arxiv.org/abs/2407.21205v1)|null|
+|**2024-07-30**|**Lattice operations for the stable set in substitutable matching markets via re-equilibration dynamics**|Agustin G. Bonifacio et.al.|[2407.21198v1](http://arxiv.org/abs/2407.21198v1)|null|
+|**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185v1](http://arxiv.org/abs/2407.21185v1)|null|
+|**2024-07-30**|**Deduction Game Framework and Information Set Entropy Search**|Fandi Meng et.al.|[2407.21178v1](http://arxiv.org/abs/2407.21178v1)|null|
+|**2024-07-30**|**Event-Arguments Extraction Corpus and Modeling using BERT for Arabic**|Alaa Aljabari et.al.|[2407.21153v1](http://arxiv.org/abs/2407.21153v1)|null|
+|**2024-07-30**|**On the optimal design of a new class of proportional portfolio insurance strategies in a jump-diffusion framework**|Katia Colaneri et.al.|[2407.21148v1](http://arxiv.org/abs/2407.21148v1)|null|
+|**2024-07-30**|**Integrating Agent-Based and Compartmental Models for Infectious Disease Modeling: A Novel Hybrid Approach**|Inan Bostanci et.al.|[2407.20993v1](http://arxiv.org/abs/2407.20993v1)|null|
+|**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983v1](http://arxiv.org/abs/2407.20983v1)|null|
+|**2024-07-30**|**Parallel ergotropy: Maximum work extraction via parallel local unitary operations**|Riccardo Castellano et.al.|[2407.20916v1](http://arxiv.org/abs/2407.20916v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
@@ -184,40 +218,6 @@
 |**2024-07-31**|**The frequency of transiting planetary systems around polluted white dwarfs**|Akshay Robert et.al.|[2407.21743v1](http://arxiv.org/abs/2407.21743v1)|null|
 |**2024-07-31**|**HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection**|Junwei He et.al.|[2407.21742v1](http://arxiv.org/abs/2407.21742v1)|null|
 |**2024-07-31**|**Rabinowitz Floer homology as a Tate vector space**|Kai Cieliebak et.al.|[2407.21741v1](http://arxiv.org/abs/2407.21741v1)|null|
-
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778v1](http://arxiv.org/abs/2407.21778v1)|null|
-|**2024-07-31**|**Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)**|Yang An et.al.|[2407.21734v1](http://arxiv.org/abs/2407.21734v1)|null|
-|**2024-07-31**|**Artificial Intelligence Approaches for Energy Efficiency: A Review**|Alberto Pasqualetto et.al.|[2407.21726v1](http://arxiv.org/abs/2407.21726v1)|null|
-|**2024-07-31**|**Social Learning through Interactions with Other Agents: A Survey**|Dylan hillier et.al.|[2407.21713v1](http://arxiv.org/abs/2407.21713v1)|null|
-|**2024-07-31**|**Human interaction classifier for LLM based chatbot**|Diego Martín et.al.|[2407.21647v1](http://arxiv.org/abs/2407.21647v1)|null|
-|**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
-|**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|null|
-|**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565v1](http://arxiv.org/abs/2407.21565v1)|null|
-|**2024-07-31**|**Black box meta-learning intrinsic rewards for sparse-reward environments**|Octavio Pappalardo et.al.|[2407.21546v1](http://arxiv.org/abs/2407.21546v1)|null|
-|**2024-07-31**|**Modelling competition for space: Emergent inefficiency and inequality due to spatial self-organization among a group of crowd-avoiding agents**|Ann Mary Mathew et.al.|[2407.21537v1](http://arxiv.org/abs/2407.21537v1)|null|
-|**2024-07-31**|**The Impacts of AI Avatar Appearance and Disclosure on User Motivation**|Boele Visser et.al.|[2407.21521v1](http://arxiv.org/abs/2407.21521v1)|null|
-|**2024-07-31**|**PEAR: Phrase-Based Hand-Object Interaction Anticipation**|Zichen Zhang et.al.|[2407.21510v1](http://arxiv.org/abs/2407.21510v1)|null|
-|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v1](http://arxiv.org/abs/2407.21491v1)|null|
-|**2024-07-31**|**Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network**|Jeffrey Redondo et.al.|[2407.21460v1](http://arxiv.org/abs/2407.21460v1)|null|
-|**2024-07-31**|**Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments**|Haodong Hong et.al.|[2407.21452v1](http://arxiv.org/abs/2407.21452v1)|null|
-|**2024-07-31**|**ProSpec RL: Plan Ahead, then Execute**|Liangliang Liu et.al.|[2407.21359v1](http://arxiv.org/abs/2407.21359v1)|null|
-|**2024-07-31**|**Interactive embodied evolution for socially adept Artificial General Creatures**|Kevin Godin-Dubois et.al.|[2407.21357v1](http://arxiv.org/abs/2407.21357v1)|null|
-|**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333v1](http://arxiv.org/abs/2407.21333v1)|null|
-|**2024-07-31**|**MetaOpenFOAM: an LLM-based multi-agent framework for CFD**|Yuxuan Chena et.al.|[2407.21320v1](http://arxiv.org/abs/2407.21320v1)|null|
-|**2024-07-31**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310v1](http://arxiv.org/abs/2407.21310v1)|null|
-|**2024-07-31**|**Modeling Urban Transport Choices: Incorporating Sociocultural Aspects**|Kathleen Salazar-Serna et.al.|[2407.21307v1](http://arxiv.org/abs/2407.21307v1)|null|
-|**2024-07-30**|**Hopf and Bautin bifurcations in a 3D model for pest leafhopper with stage structure and generalist predatory mite**|Martha Alvarez Ramírez et.al.|[2407.21205v1](http://arxiv.org/abs/2407.21205v1)|null|
-|**2024-07-30**|**Lattice operations for the stable set in substitutable matching markets via re-equilibration dynamics**|Agustin G. Bonifacio et.al.|[2407.21198v1](http://arxiv.org/abs/2407.21198v1)|null|
-|**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185v1](http://arxiv.org/abs/2407.21185v1)|null|
-|**2024-07-30**|**Deduction Game Framework and Information Set Entropy Search**|Fandi Meng et.al.|[2407.21178v1](http://arxiv.org/abs/2407.21178v1)|null|
-|**2024-07-30**|**Event-Arguments Extraction Corpus and Modeling using BERT for Arabic**|Alaa Aljabari et.al.|[2407.21153v1](http://arxiv.org/abs/2407.21153v1)|null|
-|**2024-07-30**|**On the optimal design of a new class of proportional portfolio insurance strategies in a jump-diffusion framework**|Katia Colaneri et.al.|[2407.21148v1](http://arxiv.org/abs/2407.21148v1)|null|
-|**2024-07-30**|**Integrating Agent-Based and Compartmental Models for Infectious Disease Modeling: A Novel Hybrid Approach**|Inan Bostanci et.al.|[2407.20993v1](http://arxiv.org/abs/2407.20993v1)|null|
-|**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983v1](http://arxiv.org/abs/2407.20983v1)|null|
-|**2024-07-30**|**Parallel ergotropy: Maximum work extraction via parallel local unitary operations**|Riccardo Castellano et.al.|[2407.20916v1](http://arxiv.org/abs/2407.20916v1)|null|
 
 ## CV
 
