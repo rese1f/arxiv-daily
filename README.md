@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-20 20:29:47 Asia/Shanghai
+ Automated deployment @ 2024-08-20 20:56:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -83,40 +83,6 @@
 |**2024-08-19**|**Stacking Polymorphism of PtSe$_{2}$: Its Implication to Layer-dependent Metal-insulator Transitions**|Jeonghwan Ahn et.al.|[2408.10156v1](http://arxiv.org/abs/2408.10156v1)|null|
 |**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v1](http://arxiv.org/abs/2408.10154v1)|null|
 
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206v1](http://arxiv.org/abs/2408.10206v1)|null|
-|**2024-08-19**|**Galaxy Zoo: Morphologies based on UKIDSS NIR Imaging for 71,052 Galaxies**|Karen L. Masters et.al.|[2408.10160v1](http://arxiv.org/abs/2408.10160v1)|null|
-|**2024-08-19**|**Eight New Substellar Hyades Candidates from the UKIRT Hemisphere Survey**|Adam C. Schneider et.al.|[2408.10112v1](http://arxiv.org/abs/2408.10112v1)|null|
-|**2024-08-19**|**Privacy Technologies for Financial Intelligence**|Yang Li et.al.|[2408.09935v1](http://arxiv.org/abs/2408.09935v1)|null|
-|**2024-08-19**|**Unsourced Multiple Access: A Coding Paradigm for Massive Random Access**|Gianluigi Liva et.al.|[2408.09874v1](http://arxiv.org/abs/2408.09874v1)|null|
-|**2024-08-19**|**Machine Learning with Physics Knowledge for Prediction: A Survey**|Joe Watson et.al.|[2408.09840v1](http://arxiv.org/abs/2408.09840v1)|null|
-|**2024-08-19**|**A Spatial Uniformity Check of Gaia DR3 Photometry and BP/RP Spectra**|Bowen Huang et.al.|[2408.09779v1](http://arxiv.org/abs/2408.09779v1)|null|
-|**2024-08-19**|**Shift-Dispersion Decompositions of Wasserstein and Cramér Distances**|Johannes Resin et.al.|[2408.09770v1](http://arxiv.org/abs/2408.09770v1)|null|
-|**2024-08-19**|**State surveillance in the digital age: Factors associated with citizens' attitudes towards trust registers**|Katja Turha et.al.|[2408.09725v1](http://arxiv.org/abs/2408.09725v1)|null|
-|**2024-08-19**|**Curvature Mapping Method: Mapping Lorentz Force in Orion A**|Mengke Zhao et.al.|[2408.09690v1](http://arxiv.org/abs/2408.09690v1)|null|
-|**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[2408.09675v1](http://arxiv.org/abs/2408.09675v1)|[link](https://github.com/huawei-noah/SMARTS)|
-|**2024-08-19**|**[O II] as an Effective Indicator of the Dependence Between the Standardised Luminosities of Type Ia Supernovae and the Properties of their Host Galaxies**|B. Martin et.al.|[2408.09645v1](http://arxiv.org/abs/2408.09645v1)|null|
-|**2024-08-18**|**Infinite Scrolling, Finite Satisfaction: Exploring User Behavior and Satisfaction on Social Media in Bangladesh**|Sanzana Karim Lora et.al.|[2408.09601v1](http://arxiv.org/abs/2408.09601v1)|null|
-|**2024-08-18**|**Exploring The Dynamical Nature and Radio Halo Emission of Abell 384: A Combined Radio, X-ray and Optical Study**|Swarna Chatterjee et.al.|[2408.09571v1](http://arxiv.org/abs/2408.09571v1)|null|
-|**2024-08-18**|**Swift Trust in Mobile Ad Hoc Human-Robot Teams**|Sanja Milivojevic et.al.|[2408.09531v1](http://arxiv.org/abs/2408.09531v1)|null|
-|**2024-08-18**|**Measurement-based Resource Allocation and Control in Data Centers: A Survey**|Diana Andreea Popescu et.al.|[2408.09497v1](http://arxiv.org/abs/2408.09497v1)|null|
-|**2024-08-18**|**First Discovery and Confirmation of PN Candidates Found from AI and Deep Learning Techniques Applied to VPHAS+ Survey Data**|Yushan Li et.al.|[2408.09482v1](http://arxiv.org/abs/2408.09482v1)|null|
-|**2024-08-18**|**Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions**|Jun Wang et.al.|[2408.09476v1](http://arxiv.org/abs/2408.09476v1)|null|
-|**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461v1](http://arxiv.org/abs/2408.09461v1)|null|
-|**2024-08-18**|**Internalizing sensing externality via matching and pricing for drive-by sensing taxi fleets**|Binzhou Yang et.al.|[2408.09376v1](http://arxiv.org/abs/2408.09376v1)|null|
-|**2024-08-18**|**YOLOv1 to YOLOv10: The fastest and most accurate real-time object detection systems**|Chien-Yao Wang et.al.|[2408.09332v1](http://arxiv.org/abs/2408.09332v1)|null|
-|**2024-08-18**|**On the Formation of Planets in the Milky Way's Thick Disk**|Tim Hallatt et.al.|[2408.09319v1](http://arxiv.org/abs/2408.09319v1)|null|
-|**2024-08-17**|**Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices**|Patrícia Schmidtová et.al.|[2408.09169v1](http://arxiv.org/abs/2408.09169v1)|null|
-|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|null|
-|**2024-08-16**|**A Developer-Centric Study Exploring Mobile Application Security Practices and Challenges**|Anthony Peruma et.al.|[2408.09032v1](http://arxiv.org/abs/2408.09032v1)|null|
-|**2024-08-16**|**Quantum Game Jam -- Making Games with Quantum Physicists**|Annakaisa Kultima et.al.|[2408.09014v1](http://arxiv.org/abs/2408.09014v1)|null|
-|**2024-08-16**|**Testing the sources of the peculiar abundances in globular clusters**|Ricardo J. Vaca et.al.|[2408.09001v1](http://arxiv.org/abs/2408.09001v1)|null|
-|**2024-08-16**|**Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges**|Baixiang Huang et.al.|[2408.08946v1](http://arxiv.org/abs/2408.08946v1)|null|
-|**2024-08-16**|**Quantum Circuit Optimization: Current trends and future direction**|Geetha Karuppasamy et.al.|[2408.08941v1](http://arxiv.org/abs/2408.08941v1)|null|
-|**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774v1](http://arxiv.org/abs/2408.08774v1)|null|
-
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -150,6 +116,40 @@
 |**2024-08-18**|**Nonlinear planar magnetotransport as a probe of the quantum geometry of topological surface states**|Maria Teresa Mercaldo et.al.|[2408.09543v1](http://arxiv.org/abs/2408.09543v1)|null|
 |**2024-08-18**|**Swift Trust in Mobile Ad Hoc Human-Robot Teams**|Sanja Milivojevic et.al.|[2408.09531v1](http://arxiv.org/abs/2408.09531v1)|null|
 |**2024-08-18**|**Infinite Bifurcations in Thomas system**|Idan Sorin et.al.|[2408.09525v1](http://arxiv.org/abs/2408.09525v1)|null|
+
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206v1](http://arxiv.org/abs/2408.10206v1)|null|
+|**2024-08-19**|**Galaxy Zoo: Morphologies based on UKIDSS NIR Imaging for 71,052 Galaxies**|Karen L. Masters et.al.|[2408.10160v1](http://arxiv.org/abs/2408.10160v1)|null|
+|**2024-08-19**|**Eight New Substellar Hyades Candidates from the UKIRT Hemisphere Survey**|Adam C. Schneider et.al.|[2408.10112v1](http://arxiv.org/abs/2408.10112v1)|null|
+|**2024-08-19**|**Privacy Technologies for Financial Intelligence**|Yang Li et.al.|[2408.09935v1](http://arxiv.org/abs/2408.09935v1)|null|
+|**2024-08-19**|**Unsourced Multiple Access: A Coding Paradigm for Massive Random Access**|Gianluigi Liva et.al.|[2408.09874v1](http://arxiv.org/abs/2408.09874v1)|null|
+|**2024-08-19**|**Machine Learning with Physics Knowledge for Prediction: A Survey**|Joe Watson et.al.|[2408.09840v1](http://arxiv.org/abs/2408.09840v1)|null|
+|**2024-08-19**|**A Spatial Uniformity Check of Gaia DR3 Photometry and BP/RP Spectra**|Bowen Huang et.al.|[2408.09779v1](http://arxiv.org/abs/2408.09779v1)|null|
+|**2024-08-19**|**Shift-Dispersion Decompositions of Wasserstein and Cramér Distances**|Johannes Resin et.al.|[2408.09770v1](http://arxiv.org/abs/2408.09770v1)|null|
+|**2024-08-19**|**State surveillance in the digital age: Factors associated with citizens' attitudes towards trust registers**|Katja Turha et.al.|[2408.09725v1](http://arxiv.org/abs/2408.09725v1)|null|
+|**2024-08-19**|**Curvature Mapping Method: Mapping Lorentz Force in Orion A**|Mengke Zhao et.al.|[2408.09690v1](http://arxiv.org/abs/2408.09690v1)|null|
+|**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[2408.09675v1](http://arxiv.org/abs/2408.09675v1)|[link](https://github.com/huawei-noah/SMARTS)|
+|**2024-08-19**|**[O II] as an Effective Indicator of the Dependence Between the Standardised Luminosities of Type Ia Supernovae and the Properties of their Host Galaxies**|B. Martin et.al.|[2408.09645v1](http://arxiv.org/abs/2408.09645v1)|null|
+|**2024-08-18**|**Infinite Scrolling, Finite Satisfaction: Exploring User Behavior and Satisfaction on Social Media in Bangladesh**|Sanzana Karim Lora et.al.|[2408.09601v1](http://arxiv.org/abs/2408.09601v1)|null|
+|**2024-08-18**|**Exploring The Dynamical Nature and Radio Halo Emission of Abell 384: A Combined Radio, X-ray and Optical Study**|Swarna Chatterjee et.al.|[2408.09571v1](http://arxiv.org/abs/2408.09571v1)|null|
+|**2024-08-18**|**Swift Trust in Mobile Ad Hoc Human-Robot Teams**|Sanja Milivojevic et.al.|[2408.09531v1](http://arxiv.org/abs/2408.09531v1)|null|
+|**2024-08-18**|**Measurement-based Resource Allocation and Control in Data Centers: A Survey**|Diana Andreea Popescu et.al.|[2408.09497v1](http://arxiv.org/abs/2408.09497v1)|null|
+|**2024-08-18**|**First Discovery and Confirmation of PN Candidates Found from AI and Deep Learning Techniques Applied to VPHAS+ Survey Data**|Yushan Li et.al.|[2408.09482v1](http://arxiv.org/abs/2408.09482v1)|null|
+|**2024-08-18**|**Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions**|Jun Wang et.al.|[2408.09476v1](http://arxiv.org/abs/2408.09476v1)|null|
+|**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461v1](http://arxiv.org/abs/2408.09461v1)|null|
+|**2024-08-18**|**Internalizing sensing externality via matching and pricing for drive-by sensing taxi fleets**|Binzhou Yang et.al.|[2408.09376v1](http://arxiv.org/abs/2408.09376v1)|null|
+|**2024-08-18**|**YOLOv1 to YOLOv10: The fastest and most accurate real-time object detection systems**|Chien-Yao Wang et.al.|[2408.09332v1](http://arxiv.org/abs/2408.09332v1)|null|
+|**2024-08-18**|**On the Formation of Planets in the Milky Way's Thick Disk**|Tim Hallatt et.al.|[2408.09319v1](http://arxiv.org/abs/2408.09319v1)|null|
+|**2024-08-17**|**Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices**|Patrícia Schmidtová et.al.|[2408.09169v1](http://arxiv.org/abs/2408.09169v1)|null|
+|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|null|
+|**2024-08-16**|**A Developer-Centric Study Exploring Mobile Application Security Practices and Challenges**|Anthony Peruma et.al.|[2408.09032v1](http://arxiv.org/abs/2408.09032v1)|null|
+|**2024-08-16**|**Quantum Game Jam -- Making Games with Quantum Physicists**|Annakaisa Kultima et.al.|[2408.09014v1](http://arxiv.org/abs/2408.09014v1)|null|
+|**2024-08-16**|**Testing the sources of the peculiar abundances in globular clusters**|Ricardo J. Vaca et.al.|[2408.09001v1](http://arxiv.org/abs/2408.09001v1)|null|
+|**2024-08-16**|**Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges**|Baixiang Huang et.al.|[2408.08946v1](http://arxiv.org/abs/2408.08946v1)|null|
+|**2024-08-16**|**Quantum Circuit Optimization: Current trends and future direction**|Geetha Karuppasamy et.al.|[2408.08941v1](http://arxiv.org/abs/2408.08941v1)|null|
+|**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774v1](http://arxiv.org/abs/2408.08774v1)|null|
 
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
