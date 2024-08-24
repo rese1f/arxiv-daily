@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-24 20:27:29 Asia/Shanghai
+ Automated deployment @ 2024-08-24 20:54:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -49,40 +49,6 @@
 
 ## AI
 
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599v1](http://arxiv.org/abs/2408.12599v1)|[link](https://github.com/iaar-shanghai/ctgsurvey)|
-|**2024-08-22**|**Disclosure risk assessment with Bayesian non-parametric hierarchical modelling**|Marco Battiston et.al.|[2408.12521v1](http://arxiv.org/abs/2408.12521v1)|null|
-|**2024-08-22**|**Expected Impact of Rubin Observatory LSST on NEO Follow-up**|Tom Wagg et.al.|[2408.12517v1](http://arxiv.org/abs/2408.12517v1)|null|
-|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
-|**2024-08-22**|**Quantifying $S_8$ tension and evidence for interacting dark energy from redshift-space distortion measurements**|Miguel A. Sabogal et.al.|[2408.12403v1](http://arxiv.org/abs/2408.12403v1)|null|
-|**2024-08-22**|**Detailed Study of Stars and Gas in a z = 8.3 Massive Merger with Extreme Dust Conditions**|Anishya Harshan et.al.|[2408.12310v1](http://arxiv.org/abs/2408.12310v1)|null|
-|**2024-08-22**|**Fixed Points and Cycles of the Kaprekar Transformation: 2. Even bases**|Anthony Kay et.al.|[2408.12257v1](http://arxiv.org/abs/2408.12257v1)|null|
-|**2024-08-22**|**The MAGPI Survey: the evolution and drivers of gas turbulence in intermediate-redshift galaxies**|Yifan Mai et.al.|[2408.12224v1](http://arxiv.org/abs/2408.12224v1)|null|
-|**2024-08-22**|**The SAMI Galaxy Survey: On the importance of applying multiple selection criteria for finding Milky Way Analogues**|Sujeeporn Tuntipong et.al.|[2408.12223v1](http://arxiv.org/abs/2408.12223v1)|null|
-|**2024-08-22**|**An image-based blind search for Fast Radio Bursts in 88 hours of data from the EoR0 Field, with the Murchison Widefield Array**|Ian Kemp et.al.|[2408.12200v1](http://arxiv.org/abs/2408.12200v1)|null|
-|**2024-08-22**|**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**|Haixin Wang et.al.|[2408.12171v1](http://arxiv.org/abs/2408.12171v1)|null|
-|**2024-08-22**|**Self-supervised Learning for Geospatial AI: A Survey**|Yile Chen et.al.|[2408.12133v1](http://arxiv.org/abs/2408.12133v1)|null|
-|**2024-08-22**|**Diffusion-Based Visual Art Creation: A Survey and New Perspectives**|Bingyuan Wang et.al.|[2408.12128v1](http://arxiv.org/abs/2408.12128v1)|null|
-|**2024-08-22**|**Minute-Cadence Observations of the LAMOST Fields with the TMTS: IV -- Catalog of Cataclysmic Variables from the First 3-yr Survey**|Qichun Liu et.al.|[2408.12104v1](http://arxiv.org/abs/2408.12104v1)|null|
-|**2024-08-22**|**A Practical Introduction to Benchmarking and Characterization of Quantum Computers**|Akel Hashim et.al.|[2408.12064v1](http://arxiv.org/abs/2408.12064v1)|null|
-|**2024-08-21**|**Average energy of the X-ray spectrum as a model-independent proxy for the mass of galaxy clusters**|A. Kruglov et.al.|[2408.12026v1](http://arxiv.org/abs/2408.12026v1)|null|
-|**2024-08-21**|**Protostellar Outflows at the EarliesT Stages (POETS) V. The launching mechanism of protostellar winds via water masers**|Luca Moscadelli et.al.|[2408.11968v1](http://arxiv.org/abs/2408.11968v1)|null|
-|**2024-08-21**|**Application of Convolutional Neural Networks to time domain astrophysics. 2D image analysis of OGLE light curves**|N. Monsalves et.al.|[2408.11960v1](http://arxiv.org/abs/2408.11960v1)|null|
-|**2024-08-21**|**Advances in Preference-based Reinforcement Learning: A Review**|Youssef Abdelkareem et.al.|[2408.11943v1](http://arxiv.org/abs/2408.11943v1)|null|
-|**2024-08-21**|**Sizes and Stellar Masses of the Little Red Dots Imply Immense Stellar Densities**|Carl Audric Guia et.al.|[2408.11890v1](http://arxiv.org/abs/2408.11890v1)|null|
-|**2024-08-21**|**Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud**|Samantha Scibelli et.al.|[2408.11613v1](http://arxiv.org/abs/2408.11613v1)|null|
-|**2024-08-21**|**Confidential Computing on Heterogeneous Systems: Survey and Implications**|Qifan Wang et.al.|[2408.11601v1](http://arxiv.org/abs/2408.11601v1)|null|
-|**2024-08-21**|**CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.|[2408.11571v1](http://arxiv.org/abs/2408.11571v1)|[link](https://github.com/celltrackingchallenge/py-ctcmetrics)|
-|**2024-08-21**|**CHIMPS2: $^{13}$CO $J = 3 \to 2$ emission in the Central Molecular Zone**|S. M. King et.al.|[2408.11548v1](http://arxiv.org/abs/2408.11548v1)|null|
-|**2024-08-21**|**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**|Ying Zheng et.al.|[2408.11537v1](http://arxiv.org/abs/2408.11537v1)|[link](https://github.com/rayyoh/ocrm_survey)|
-|**2024-08-21**|**Intrinsic Alignments and Spin Correlations of [OII] Emitters at $z=1.2$ and $z=1.5$ from HSC Narrow-band Survey**|Motonari Tonegawa et.al.|[2408.11462v1](http://arxiv.org/abs/2408.11462v1)|null|
-|**2024-08-21**|**Towards "Differential AI Psychology" and in-context Value-driven Statement Alignment with Moral Foundations Theory**|Simon Münker et.al.|[2408.11415v1](http://arxiv.org/abs/2408.11415v1)|null|
-|**2024-08-21**|**Gender Bias Evaluation in Text-to-image Generation: A Survey**|Yankun Wu et.al.|[2408.11358v1](http://arxiv.org/abs/2408.11358v1)|null|
-|**2024-08-21**|**A Study of Stochastic Low-Frequency Variability for Galactic O-type Stars**|Dong-Xiang Shen et.al.|[2408.11082v1](http://arxiv.org/abs/2408.11082v1)|null|
-|**2024-08-20**|**Microlensing brown-dwarf companions in binaries detected during the 2022 and 2023 seasons**|Cheongho Han et.al.|[2408.11248v1](http://arxiv.org/abs/2408.11248v1)|null|
-
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -117,40 +83,6 @@
 |**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317v1](http://arxiv.org/abs/2408.12317v1)|null|
 |**2024-08-22**|**Towards Deconfounded Image-Text Matching with Causal Inference**|Wenhui Li et.al.|[2408.12292v1](http://arxiv.org/abs/2408.12292v1)|null|
 
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-22**|**Diagnosing the pattern effect in the atmosphere-ocean coupled system through linear response theory**|Fabrizio Falasca et.al.|[2408.12585v1](http://arxiv.org/abs/2408.12585v1)|null|
-|**2024-08-22**|**Climate Bistability at the Inner Edge of the Habitable Zone due to Runaway Greenhouse and Cloud Feedbacks**|Bowen Fan et.al.|[2408.12563v1](http://arxiv.org/abs/2408.12563v1)|null|
-|**2024-08-22**|**Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities**|Yousef Emami et.al.|[2408.12548v1](http://arxiv.org/abs/2408.12548v1)|null|
-|**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534v1](http://arxiv.org/abs/2408.12534v1)|null|
-|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|[link](https://github.com/imrl/umad)|
-|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
-|**2024-08-22**|**Integrated Hardware and Software Architecture for Industrial AGV with Manual Override Capability**|Pietro Iob et.al.|[2408.12499v1](http://arxiv.org/abs/2408.12499v1)|null|
-|**2024-08-22**|**Smart Fleet Solutions: Simulating Electric AGV Performance in Industrial Settings**|Tommaso Martone et.al.|[2408.12498v1](http://arxiv.org/abs/2408.12498v1)|null|
-|**2024-08-22**|**Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis**|Zhixiang Guo et.al.|[2408.12396v1](http://arxiv.org/abs/2408.12396v1)|[link](https://github.com/programmerzxg/cross-domain-foundation-model-adaptation)|
-|**2024-08-22**|**Doping-free Janus homojunction solar cell with efficiency exceeding 23%**|Lei Li et.al.|[2408.12374v1](http://arxiv.org/abs/2408.12374v1)|null|
-|**2024-08-22**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364v1](http://arxiv.org/abs/2408.12364v1)|null|
-|**2024-08-22**|**Unraveling the Atomic-Scale Pathways Driving Pressure-Induced Phase Transitions in Silicon**|Fabrizio Rovaris et.al.|[2408.12358v1](http://arxiv.org/abs/2408.12358v1)|null|
-|**2024-08-22**|**Physics of the low momentum diffusivity regime in tokamaks and its experimental applicability**|Haomin Sun et.al.|[2408.12331v1](http://arxiv.org/abs/2408.12331v1)|null|
-|**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322v1](http://arxiv.org/abs/2408.12322v1)|null|
-|**2024-08-22**|**Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning**|Anran Zhang et.al.|[2408.12285v1](http://arxiv.org/abs/2408.12285v1)|null|
-|**2024-08-22**|**On the transition between autonomous and nonautonomous systems: the case of FitzHugh-Nagumo's model**|Iacopo P. Longo et.al.|[2408.12256v1](http://arxiv.org/abs/2408.12256v1)|null|
-|**2024-08-22**|**Can Artificial Intelligence Embody Moral Values?**|Torben Swoboda et.al.|[2408.12250v1](http://arxiv.org/abs/2408.12250v1)|null|
-|**2024-08-22**|**The MAGPI Survey: the evolution and drivers of gas turbulence in intermediate-redshift galaxies**|Yifan Mai et.al.|[2408.12224v1](http://arxiv.org/abs/2408.12224v1)|null|
-|**2024-08-22**|**Formation mechanism of the (2 x 1) reconstruction of calcite (104)**|Haojun Zhou et.al.|[2408.12222v1](http://arxiv.org/abs/2408.12222v1)|null|
-|**2024-08-22**|**Time Optimal Distance-$k$-Dispersion on Dynamic Ring**|Brati Mondal et.al.|[2408.12220v1](http://arxiv.org/abs/2408.12220v1)|null|
-|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190v1](http://arxiv.org/abs/2408.12190v1)|null|
-|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187v1](http://arxiv.org/abs/2408.12187v1)|null|
-|**2024-08-22**|**On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World**|Bao Gia Doan et.al.|[2408.12122v1](http://arxiv.org/abs/2408.12122v1)|null|
-|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[2408.12110v1](http://arxiv.org/abs/2408.12110v1)|null|
-|**2024-08-22**|**Control-Theoretic Analysis of Shared Control Systems**|Reuben M. Aronson et.al.|[2408.12103v1](http://arxiv.org/abs/2408.12103v1)|null|
-|**2024-08-22**|**Vision-Based Detection of Uncooperative Targets and Components on Small Satellites**|Hannah Grauer et.al.|[2408.12084v1](http://arxiv.org/abs/2408.12084v1)|null|
-|**2024-08-22**|**Enhancing Sampling Protocol for Robust Point Cloud Classification**|Chongshou Li et.al.|[2408.12062v1](http://arxiv.org/abs/2408.12062v1)|null|
-|**2024-08-22**|**Enhancing LLM-Based Automated Program Repair with Design Rationales**|Jiuang Zhao et.al.|[2408.12056v1](http://arxiv.org/abs/2408.12056v1)|null|
-|**2024-08-22**|**Non-local, diamagnetic electromagnetic effects in long MITLs**|E. G. Evstatiev et.al.|[2408.12053v1](http://arxiv.org/abs/2408.12053v1)|null|
-|**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048v1](http://arxiv.org/abs/2408.12048v1)|[link](https://github.com/iset/isethdrsensor)|
-
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -184,6 +116,74 @@
 |**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801v1](http://arxiv.org/abs/2408.11801v1)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793v1](http://arxiv.org/abs/2408.11793v1)|null|
 |**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788v1](http://arxiv.org/abs/2408.11788v1)|null|
+
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599v1](http://arxiv.org/abs/2408.12599v1)|[link](https://github.com/iaar-shanghai/ctgsurvey)|
+|**2024-08-22**|**Disclosure risk assessment with Bayesian non-parametric hierarchical modelling**|Marco Battiston et.al.|[2408.12521v1](http://arxiv.org/abs/2408.12521v1)|null|
+|**2024-08-22**|**Expected Impact of Rubin Observatory LSST on NEO Follow-up**|Tom Wagg et.al.|[2408.12517v1](http://arxiv.org/abs/2408.12517v1)|null|
+|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
+|**2024-08-22**|**Quantifying $S_8$ tension and evidence for interacting dark energy from redshift-space distortion measurements**|Miguel A. Sabogal et.al.|[2408.12403v1](http://arxiv.org/abs/2408.12403v1)|null|
+|**2024-08-22**|**Detailed Study of Stars and Gas in a z = 8.3 Massive Merger with Extreme Dust Conditions**|Anishya Harshan et.al.|[2408.12310v1](http://arxiv.org/abs/2408.12310v1)|null|
+|**2024-08-22**|**Fixed Points and Cycles of the Kaprekar Transformation: 2. Even bases**|Anthony Kay et.al.|[2408.12257v1](http://arxiv.org/abs/2408.12257v1)|null|
+|**2024-08-22**|**The MAGPI Survey: the evolution and drivers of gas turbulence in intermediate-redshift galaxies**|Yifan Mai et.al.|[2408.12224v1](http://arxiv.org/abs/2408.12224v1)|null|
+|**2024-08-22**|**The SAMI Galaxy Survey: On the importance of applying multiple selection criteria for finding Milky Way Analogues**|Sujeeporn Tuntipong et.al.|[2408.12223v1](http://arxiv.org/abs/2408.12223v1)|null|
+|**2024-08-22**|**An image-based blind search for Fast Radio Bursts in 88 hours of data from the EoR0 Field, with the Murchison Widefield Array**|Ian Kemp et.al.|[2408.12200v1](http://arxiv.org/abs/2408.12200v1)|null|
+|**2024-08-22**|**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**|Haixin Wang et.al.|[2408.12171v1](http://arxiv.org/abs/2408.12171v1)|null|
+|**2024-08-22**|**Self-supervised Learning for Geospatial AI: A Survey**|Yile Chen et.al.|[2408.12133v1](http://arxiv.org/abs/2408.12133v1)|null|
+|**2024-08-22**|**Diffusion-Based Visual Art Creation: A Survey and New Perspectives**|Bingyuan Wang et.al.|[2408.12128v1](http://arxiv.org/abs/2408.12128v1)|null|
+|**2024-08-22**|**Minute-Cadence Observations of the LAMOST Fields with the TMTS: IV -- Catalog of Cataclysmic Variables from the First 3-yr Survey**|Qichun Liu et.al.|[2408.12104v1](http://arxiv.org/abs/2408.12104v1)|null|
+|**2024-08-22**|**A Practical Introduction to Benchmarking and Characterization of Quantum Computers**|Akel Hashim et.al.|[2408.12064v1](http://arxiv.org/abs/2408.12064v1)|null|
+|**2024-08-21**|**Average energy of the X-ray spectrum as a model-independent proxy for the mass of galaxy clusters**|A. Kruglov et.al.|[2408.12026v1](http://arxiv.org/abs/2408.12026v1)|null|
+|**2024-08-21**|**Protostellar Outflows at the EarliesT Stages (POETS) V. The launching mechanism of protostellar winds via water masers**|Luca Moscadelli et.al.|[2408.11968v1](http://arxiv.org/abs/2408.11968v1)|null|
+|**2024-08-21**|**Application of Convolutional Neural Networks to time domain astrophysics. 2D image analysis of OGLE light curves**|N. Monsalves et.al.|[2408.11960v1](http://arxiv.org/abs/2408.11960v1)|null|
+|**2024-08-21**|**Advances in Preference-based Reinforcement Learning: A Review**|Youssef Abdelkareem et.al.|[2408.11943v1](http://arxiv.org/abs/2408.11943v1)|null|
+|**2024-08-21**|**Sizes and Stellar Masses of the Little Red Dots Imply Immense Stellar Densities**|Carl Audric Guia et.al.|[2408.11890v1](http://arxiv.org/abs/2408.11890v1)|null|
+|**2024-08-21**|**Survey of Complex Organic Molecules in Starless and Prestellar Cores in the Perseus Molecular Cloud**|Samantha Scibelli et.al.|[2408.11613v1](http://arxiv.org/abs/2408.11613v1)|null|
+|**2024-08-21**|**Confidential Computing on Heterogeneous Systems: Survey and Implications**|Qifan Wang et.al.|[2408.11601v1](http://arxiv.org/abs/2408.11601v1)|null|
+|**2024-08-21**|**CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.|[2408.11571v1](http://arxiv.org/abs/2408.11571v1)|[link](https://github.com/celltrackingchallenge/py-ctcmetrics)|
+|**2024-08-21**|**CHIMPS2: $^{13}$CO $J = 3 \to 2$ emission in the Central Molecular Zone**|S. M. King et.al.|[2408.11548v1](http://arxiv.org/abs/2408.11548v1)|null|
+|**2024-08-21**|**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**|Ying Zheng et.al.|[2408.11537v1](http://arxiv.org/abs/2408.11537v1)|[link](https://github.com/rayyoh/ocrm_survey)|
+|**2024-08-21**|**Intrinsic Alignments and Spin Correlations of [OII] Emitters at $z=1.2$ and $z=1.5$ from HSC Narrow-band Survey**|Motonari Tonegawa et.al.|[2408.11462v1](http://arxiv.org/abs/2408.11462v1)|null|
+|**2024-08-21**|**Towards "Differential AI Psychology" and in-context Value-driven Statement Alignment with Moral Foundations Theory**|Simon Münker et.al.|[2408.11415v1](http://arxiv.org/abs/2408.11415v1)|null|
+|**2024-08-21**|**Gender Bias Evaluation in Text-to-image Generation: A Survey**|Yankun Wu et.al.|[2408.11358v1](http://arxiv.org/abs/2408.11358v1)|null|
+|**2024-08-21**|**A Study of Stochastic Low-Frequency Variability for Galactic O-type Stars**|Dong-Xiang Shen et.al.|[2408.11082v1](http://arxiv.org/abs/2408.11082v1)|null|
+|**2024-08-20**|**Microlensing brown-dwarf companions in binaries detected during the 2022 and 2023 seasons**|Cheongho Han et.al.|[2408.11248v1](http://arxiv.org/abs/2408.11248v1)|null|
+
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**Diagnosing the pattern effect in the atmosphere-ocean coupled system through linear response theory**|Fabrizio Falasca et.al.|[2408.12585v1](http://arxiv.org/abs/2408.12585v1)|null|
+|**2024-08-22**|**Climate Bistability at the Inner Edge of the Habitable Zone due to Runaway Greenhouse and Cloud Feedbacks**|Bowen Fan et.al.|[2408.12563v1](http://arxiv.org/abs/2408.12563v1)|null|
+|**2024-08-22**|**Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities**|Yousef Emami et.al.|[2408.12548v1](http://arxiv.org/abs/2408.12548v1)|null|
+|**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534v1](http://arxiv.org/abs/2408.12534v1)|null|
+|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|[link](https://github.com/imrl/umad)|
+|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
+|**2024-08-22**|**Integrated Hardware and Software Architecture for Industrial AGV with Manual Override Capability**|Pietro Iob et.al.|[2408.12499v1](http://arxiv.org/abs/2408.12499v1)|null|
+|**2024-08-22**|**Smart Fleet Solutions: Simulating Electric AGV Performance in Industrial Settings**|Tommaso Martone et.al.|[2408.12498v1](http://arxiv.org/abs/2408.12498v1)|null|
+|**2024-08-22**|**Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis**|Zhixiang Guo et.al.|[2408.12396v1](http://arxiv.org/abs/2408.12396v1)|[link](https://github.com/programmerzxg/cross-domain-foundation-model-adaptation)|
+|**2024-08-22**|**Doping-free Janus homojunction solar cell with efficiency exceeding 23%**|Lei Li et.al.|[2408.12374v1](http://arxiv.org/abs/2408.12374v1)|null|
+|**2024-08-22**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364v1](http://arxiv.org/abs/2408.12364v1)|null|
+|**2024-08-22**|**Unraveling the Atomic-Scale Pathways Driving Pressure-Induced Phase Transitions in Silicon**|Fabrizio Rovaris et.al.|[2408.12358v1](http://arxiv.org/abs/2408.12358v1)|null|
+|**2024-08-22**|**Physics of the low momentum diffusivity regime in tokamaks and its experimental applicability**|Haomin Sun et.al.|[2408.12331v1](http://arxiv.org/abs/2408.12331v1)|null|
+|**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322v1](http://arxiv.org/abs/2408.12322v1)|null|
+|**2024-08-22**|**Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning**|Anran Zhang et.al.|[2408.12285v1](http://arxiv.org/abs/2408.12285v1)|null|
+|**2024-08-22**|**On the transition between autonomous and nonautonomous systems: the case of FitzHugh-Nagumo's model**|Iacopo P. Longo et.al.|[2408.12256v1](http://arxiv.org/abs/2408.12256v1)|null|
+|**2024-08-22**|**Can Artificial Intelligence Embody Moral Values?**|Torben Swoboda et.al.|[2408.12250v1](http://arxiv.org/abs/2408.12250v1)|null|
+|**2024-08-22**|**The MAGPI Survey: the evolution and drivers of gas turbulence in intermediate-redshift galaxies**|Yifan Mai et.al.|[2408.12224v1](http://arxiv.org/abs/2408.12224v1)|null|
+|**2024-08-22**|**Formation mechanism of the (2 x 1) reconstruction of calcite (104)**|Haojun Zhou et.al.|[2408.12222v1](http://arxiv.org/abs/2408.12222v1)|null|
+|**2024-08-22**|**Time Optimal Distance-$k$-Dispersion on Dynamic Ring**|Brati Mondal et.al.|[2408.12220v1](http://arxiv.org/abs/2408.12220v1)|null|
+|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190v1](http://arxiv.org/abs/2408.12190v1)|null|
+|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187v1](http://arxiv.org/abs/2408.12187v1)|null|
+|**2024-08-22**|**On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World**|Bao Gia Doan et.al.|[2408.12122v1](http://arxiv.org/abs/2408.12122v1)|null|
+|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[2408.12110v1](http://arxiv.org/abs/2408.12110v1)|null|
+|**2024-08-22**|**Control-Theoretic Analysis of Shared Control Systems**|Reuben M. Aronson et.al.|[2408.12103v1](http://arxiv.org/abs/2408.12103v1)|null|
+|**2024-08-22**|**Vision-Based Detection of Uncooperative Targets and Components on Small Satellites**|Hannah Grauer et.al.|[2408.12084v1](http://arxiv.org/abs/2408.12084v1)|null|
+|**2024-08-22**|**Enhancing Sampling Protocol for Robust Point Cloud Classification**|Chongshou Li et.al.|[2408.12062v1](http://arxiv.org/abs/2408.12062v1)|null|
+|**2024-08-22**|**Enhancing LLM-Based Automated Program Repair with Design Rationales**|Jiuang Zhao et.al.|[2408.12056v1](http://arxiv.org/abs/2408.12056v1)|null|
+|**2024-08-22**|**Non-local, diamagnetic electromagnetic effects in long MITLs**|E. G. Evstatiev et.al.|[2408.12053v1](http://arxiv.org/abs/2408.12053v1)|null|
+|**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048v1](http://arxiv.org/abs/2408.12048v1)|[link](https://github.com/iset/isethdrsensor)|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
