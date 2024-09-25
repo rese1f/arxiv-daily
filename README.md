@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-25 20:32:59 Asia/Shanghai
+ Automated deployment @ 2024-09-25 21:03:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -49,40 +49,6 @@
 
 ## AI
 
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**Exoplanet accretion monitoring spectroscopic survey (ENTROPY) I. Evidence for magnetospheric accretion in the young isolated planetary-mass object 2MASS J11151597+1937266**|Gayathri Viswanath et.al.|[2409.12187v1](http://arxiv.org/abs/2409.12187v1)|null|
-|**2024-09-18**|**Disruption of a massive molecular cloud by a supernova in the Galactic Centre: Initial results from the ACES project**|M. Nonhebel et.al.|[2409.12185v1](http://arxiv.org/abs/2409.12185v1)|null|
-|**2024-09-18**|**The Low-Redshift Lyman Continuum Survey: The Roles of Stellar Feedback and ISM Geometry in LyC Escape**|Sophia R. Flury et.al.|[2409.12118v1](http://arxiv.org/abs/2409.12118v1)|null|
-|**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111v1](http://arxiv.org/abs/2409.12111v1)|null|
-|**2024-09-18**|**Probing the Possible Causes of the Transit Timing Variation for TrES-2b in TESS Era**|Shraddha Biswas et.al.|[2409.12069v1](http://arxiv.org/abs/2409.12069v1)|null|
-|**2024-09-18**|**A Survey-Based Quantitative Analysis of Stress Factors and Their Impacts Among Cybersecurity Professionals**|Sunil Arora et.al.|[2409.12047v1](http://arxiv.org/abs/2409.12047v1)|null|
-|**2024-09-18**|**Optimizing Redshift Distribution Inference through Joint Self-Calibration and Clustering-Redshift Synergy**|Weilun Zheng et.al.|[2409.12009v1](http://arxiv.org/abs/2409.12009v1)|null|
-|**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001v1](http://arxiv.org/abs/2409.12001v1)|null|
-|**2024-09-18**|**Research Citations Building Trust in Wikipedia**|Michael Taylor et.al.|[2409.11948v1](http://arxiv.org/abs/2409.11948v1)|null|
-|**2024-09-18**|**Cyclic Segal Spaces**|Julia E. Bergner et.al.|[2409.11945v1](http://arxiv.org/abs/2409.11945v1)|null|
-|**2024-09-18**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884v2](http://arxiv.org/abs/2409.11884v2)|null|
-|**2024-09-18**|**From Group Psychology to Software Engineering Research to Automotive R&D: Measuring Team Development at Volvo Cars**|Lucas Gren et.al.|[2409.11778v1](http://arxiv.org/abs/2409.11778v1)|null|
-|**2024-09-18**|**Benchmarking the spectroscopic masses of 249 evolved stars using asteroseismology with TESS**|Sai Prathyusha Malla et.al.|[2409.11736v1](http://arxiv.org/abs/2409.11736v1)|null|
-|**2024-09-18**|**WALLABY Pilot Survey: HI source-finding with a machine learning framework**|Li Wang et.al.|[2409.11668v2](http://arxiv.org/abs/2409.11668v2)|null|
-|**2024-09-18**|**Reionization relics in the cross-correlation between the Ly$α$ forest and 21 cm intensity mapping in the post-reionization era**|Paulo Montero-Camacho et.al.|[2409.11613v1](http://arxiv.org/abs/2409.11613v1)|null|
-|**2024-09-17**|**Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey**|Genta Indra Winata et.al.|[2409.11564v1](http://arxiv.org/abs/2409.11564v1)|null|
-|**2024-09-17**|**What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts**|Shuaiyu Chen et.al.|[2409.11540v1](http://arxiv.org/abs/2409.11540v1)|null|
-|**2024-09-17**|**A search for persistent radio sources toward repeating fast radio bursts discovered by CHIME/FRB**|Adaeze L. Ibik et.al.|[2409.11533v2](http://arxiv.org/abs/2409.11533v2)|null|
-|**2024-09-17**|**Survey of Orion Disks with ALMA (SODA) III: Disks in wide binary systems in L1641 and L1647**|Giulia Ricciardi et.al.|[2409.11485v1](http://arxiv.org/abs/2409.11485v1)|null|
-|**2024-09-17**|**The MDW Hα Sky Survey: Data Release 0**|Noor Aftab et.al.|[2409.11481v1](http://arxiv.org/abs/2409.11481v1)|null|
-|**2024-09-17**|**A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers**|Shion Andrew et.al.|[2409.11476v1](http://arxiv.org/abs/2409.11476v1)|null|
-|**2024-09-17**|**Testing the thermal Sunyaev-Zel'dovich power spectrum of a halo model using hydrodynamical simulations**|Emma Ayçoberry et.al.|[2409.11472v1](http://arxiv.org/abs/2409.11472v1)|null|
-|**2024-09-17**|**CuRIOS-ED: The Technology Demonstrator for the CubeSats for Rapid Infrared and Optical Surveys Mission**|Hannah Gulick et.al.|[2409.11471v1](http://arxiv.org/abs/2409.11471v1)|null|
-|**2024-09-17**|**The LOFAR Two Metre Sky Survey Data Release 2: Probabilistic Spectral Source Classifications and Faint Radio Source Demographics**|A. B. Drake et.al.|[2409.11465v1](http://arxiv.org/abs/2409.11465v1)|null|
-|**2024-09-17**|**The VIRUS-dE Survey II: Cuspy and round halos in dwarf ellipticals -- A result of early assembly?**|Mathias Lipka et.al.|[2409.11458v1](http://arxiv.org/abs/2409.11458v1)|null|
-|**2024-09-17**|**Hertzsprung gap stars in nearby galaxies and the Quest for Luminous Red Novae Progenitors**|Hugo Tranin et.al.|[2409.11347v1](http://arxiv.org/abs/2409.11347v1)|null|
-|**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313v1](http://arxiv.org/abs/2409.11313v1)|null|
-|**2024-09-17**|**Features and prospects for Kilonova remnant detection with current and future surveys**|Sandeep Kumar Acharya et.al.|[2409.11291v1](http://arxiv.org/abs/2409.11291v1)|null|
-|**2024-09-17**|**Colour-Based Disentangling of Mira Variables and Ultra-Cool Dwarfs**|Aleksandra Avdeeva et.al.|[2409.11266v1](http://arxiv.org/abs/2409.11266v1)|null|
-|**2024-09-17**|**A Human-Centered Risk Evaluation of Biometric Systems Using Conjoint Analysis**|Tetsushi Ohki et.al.|[2409.11224v1](http://arxiv.org/abs/2409.11224v1)|null|
-
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -116,6 +82,40 @@
 |**2024-09-18**|**Community Shaping in the Digital Age: A Temporal Fusion Framework for Analyzing Discourse Fragmentation in Online Social Networks**|Amirhossein Dezhboro et.al.|[2409.11665v1](http://arxiv.org/abs/2409.11665v1)|null|
 |**2024-09-18**|**Modeling and Simulation of a Fully Autonomous Electric Vehicle (AEV)**|Qasim Ajao et.al.|[2409.11641v1](http://arxiv.org/abs/2409.11641v1)|null|
 |**2024-09-18**|**Learning-accelerated A* Search for Risk-aware Path Planning**|Jun Xiang et.al.|[2409.11634v1](http://arxiv.org/abs/2409.11634v1)|null|
+
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**Exoplanet accretion monitoring spectroscopic survey (ENTROPY) I. Evidence for magnetospheric accretion in the young isolated planetary-mass object 2MASS J11151597+1937266**|Gayathri Viswanath et.al.|[2409.12187v1](http://arxiv.org/abs/2409.12187v1)|null|
+|**2024-09-18**|**Disruption of a massive molecular cloud by a supernova in the Galactic Centre: Initial results from the ACES project**|M. Nonhebel et.al.|[2409.12185v1](http://arxiv.org/abs/2409.12185v1)|null|
+|**2024-09-18**|**The Low-Redshift Lyman Continuum Survey: The Roles of Stellar Feedback and ISM Geometry in LyC Escape**|Sophia R. Flury et.al.|[2409.12118v1](http://arxiv.org/abs/2409.12118v1)|null|
+|**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111v1](http://arxiv.org/abs/2409.12111v1)|null|
+|**2024-09-18**|**Probing the Possible Causes of the Transit Timing Variation for TrES-2b in TESS Era**|Shraddha Biswas et.al.|[2409.12069v1](http://arxiv.org/abs/2409.12069v1)|null|
+|**2024-09-18**|**A Survey-Based Quantitative Analysis of Stress Factors and Their Impacts Among Cybersecurity Professionals**|Sunil Arora et.al.|[2409.12047v1](http://arxiv.org/abs/2409.12047v1)|null|
+|**2024-09-18**|**Optimizing Redshift Distribution Inference through Joint Self-Calibration and Clustering-Redshift Synergy**|Weilun Zheng et.al.|[2409.12009v1](http://arxiv.org/abs/2409.12009v1)|null|
+|**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001v1](http://arxiv.org/abs/2409.12001v1)|null|
+|**2024-09-18**|**Research Citations Building Trust in Wikipedia**|Michael Taylor et.al.|[2409.11948v1](http://arxiv.org/abs/2409.11948v1)|null|
+|**2024-09-18**|**Cyclic Segal Spaces**|Julia E. Bergner et.al.|[2409.11945v1](http://arxiv.org/abs/2409.11945v1)|null|
+|**2024-09-18**|**Recent Advances in OOD Detection: Problems and Approaches**|Shuo Lu et.al.|[2409.11884v2](http://arxiv.org/abs/2409.11884v2)|null|
+|**2024-09-18**|**From Group Psychology to Software Engineering Research to Automotive R&D: Measuring Team Development at Volvo Cars**|Lucas Gren et.al.|[2409.11778v1](http://arxiv.org/abs/2409.11778v1)|null|
+|**2024-09-18**|**Benchmarking the spectroscopic masses of 249 evolved stars using asteroseismology with TESS**|Sai Prathyusha Malla et.al.|[2409.11736v1](http://arxiv.org/abs/2409.11736v1)|null|
+|**2024-09-18**|**WALLABY Pilot Survey: HI source-finding with a machine learning framework**|Li Wang et.al.|[2409.11668v2](http://arxiv.org/abs/2409.11668v2)|null|
+|**2024-09-18**|**Reionization relics in the cross-correlation between the Ly$α$ forest and 21 cm intensity mapping in the post-reionization era**|Paulo Montero-Camacho et.al.|[2409.11613v1](http://arxiv.org/abs/2409.11613v1)|null|
+|**2024-09-17**|**Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey**|Genta Indra Winata et.al.|[2409.11564v1](http://arxiv.org/abs/2409.11564v1)|null|
+|**2024-09-17**|**What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts**|Shuaiyu Chen et.al.|[2409.11540v1](http://arxiv.org/abs/2409.11540v1)|null|
+|**2024-09-17**|**A search for persistent radio sources toward repeating fast radio bursts discovered by CHIME/FRB**|Adaeze L. Ibik et.al.|[2409.11533v2](http://arxiv.org/abs/2409.11533v2)|null|
+|**2024-09-17**|**Survey of Orion Disks with ALMA (SODA) III: Disks in wide binary systems in L1641 and L1647**|Giulia Ricciardi et.al.|[2409.11485v1](http://arxiv.org/abs/2409.11485v1)|null|
+|**2024-09-17**|**The MDW Hα Sky Survey: Data Release 0**|Noor Aftab et.al.|[2409.11481v1](http://arxiv.org/abs/2409.11481v1)|null|
+|**2024-09-17**|**A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers**|Shion Andrew et.al.|[2409.11476v1](http://arxiv.org/abs/2409.11476v1)|null|
+|**2024-09-17**|**Testing the thermal Sunyaev-Zel'dovich power spectrum of a halo model using hydrodynamical simulations**|Emma Ayçoberry et.al.|[2409.11472v1](http://arxiv.org/abs/2409.11472v1)|null|
+|**2024-09-17**|**CuRIOS-ED: The Technology Demonstrator for the CubeSats for Rapid Infrared and Optical Surveys Mission**|Hannah Gulick et.al.|[2409.11471v1](http://arxiv.org/abs/2409.11471v1)|null|
+|**2024-09-17**|**The LOFAR Two Metre Sky Survey Data Release 2: Probabilistic Spectral Source Classifications and Faint Radio Source Demographics**|A. B. Drake et.al.|[2409.11465v1](http://arxiv.org/abs/2409.11465v1)|null|
+|**2024-09-17**|**The VIRUS-dE Survey II: Cuspy and round halos in dwarf ellipticals -- A result of early assembly?**|Mathias Lipka et.al.|[2409.11458v1](http://arxiv.org/abs/2409.11458v1)|null|
+|**2024-09-17**|**Hertzsprung gap stars in nearby galaxies and the Quest for Luminous Red Novae Progenitors**|Hugo Tranin et.al.|[2409.11347v1](http://arxiv.org/abs/2409.11347v1)|null|
+|**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313v1](http://arxiv.org/abs/2409.11313v1)|null|
+|**2024-09-17**|**Features and prospects for Kilonova remnant detection with current and future surveys**|Sandeep Kumar Acharya et.al.|[2409.11291v1](http://arxiv.org/abs/2409.11291v1)|null|
+|**2024-09-17**|**Colour-Based Disentangling of Mira Variables and Ultra-Cool Dwarfs**|Aleksandra Avdeeva et.al.|[2409.11266v1](http://arxiv.org/abs/2409.11266v1)|null|
+|**2024-09-17**|**A Human-Centered Risk Evaluation of Biometric Systems Using Conjoint Analysis**|Tetsushi Ohki et.al.|[2409.11224v1](http://arxiv.org/abs/2409.11224v1)|null|
 
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
