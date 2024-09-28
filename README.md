@@ -1,45 +1,55 @@
 # arxiv-daily
- Automated deployment @ 2024-09-28 09:14:49 Asia/Shanghai
+ Automated deployment @ 2024-09-28 20:29:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
-## AI
+## ML
 
-### Embodied Agent
+### Data-centric
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098v1](http://arxiv.org/abs/2409.18098v1)|null|
-|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073v1](http://arxiv.org/abs/2409.18073v1)|null|
-|**2024-09-26**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052v1](http://arxiv.org/abs/2409.18052v1)|null|
-|**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051v1](http://arxiv.org/abs/2409.18051v1)|null|
-|**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049v1](http://arxiv.org/abs/2409.18049v1)|[link](https://github.com/anyloc/revisit-anything)|
-|**2024-09-26**|**HARMONIC: Cognitive and Control Collaboration in Human-Robotic Teams**|Sanjay Oruganti et.al.|[2409.18047v1](http://arxiv.org/abs/2409.18047v1)|null|
-|**2024-09-26**|**Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**|Haochen Liu et.al.|[2409.18031v1](http://arxiv.org/abs/2409.18031v1)|null|
-|**2024-09-26**|**Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective**|Yotam Wolf et.al.|[2409.18028v1](http://arxiv.org/abs/2409.18028v1)|null|
-|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009v1](http://arxiv.org/abs/2409.18009v1)|[link](https://github.com/yuchenxia/llm4ias)|
-|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997v1](http://arxiv.org/abs/2409.17997v1)|null|
-|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968v1](http://arxiv.org/abs/2409.17968v1)|null|
-|**2024-09-26**|**Filtering-Linearization: A First-Order Method for Nonconvex Trajectory Optimization with Filter-Based Warm-Starting**|Minsen Yuan et.al.|[2409.17944v1](http://arxiv.org/abs/2409.17944v1)|null|
-|**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[2409.17937v1](http://arxiv.org/abs/2409.17937v1)|null|
-|**2024-09-26**|**Navigation in a simplified Urban Flow through Deep Reinforcement Learning**|Federica Tonti et.al.|[2409.17922v1](http://arxiv.org/abs/2409.17922v1)|null|
-|**2024-09-26**|**Model-Free versus Model-Based Reinforcement Learning for Fixed-Wing UAV Attitude Control Under Varying Wind Conditions**|David Olivares et.al.|[2409.17896v1](http://arxiv.org/abs/2409.17896v1)|null|
-|**2024-09-26**|**SECURE: Semantics-aware Embodied Conversation under Unawareness for Lifelong Robot Learning**|Rimvydas Rubavicius et.al.|[2409.17755v1](http://arxiv.org/abs/2409.17755v1)|null|
-|**2024-09-26**|**Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience**|Leonard Bärmann et.al.|[2409.17702v1](http://arxiv.org/abs/2409.17702v1)|null|
-|**2024-09-26**|**AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment**|Nan Sun et.al.|[2409.17655v1](http://arxiv.org/abs/2409.17655v1)|null|
-|**2024-09-26**|**FactorSim: Generative Simulation via Factorized Representation**|Fan-Yun Sun et.al.|[2409.17652v1](http://arxiv.org/abs/2409.17652v1)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618v1](http://arxiv.org/abs/2409.17618v1)|null|
-|**2024-09-26**|**Improving Fast Adversarial Training via Self-Knowledge Guidance**|Chengze Jiang et.al.|[2409.17589v1](http://arxiv.org/abs/2409.17589v1)|null|
-|**2024-09-26**|**From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection**|Xinlei Wang et.al.|[2409.17515v1](http://arxiv.org/abs/2409.17515v1)|null|
-|**2024-09-26**|**Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD**|Jie Hu et.al.|[2409.17499v1](http://arxiv.org/abs/2409.17499v1)|null|
-|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453v1](http://arxiv.org/abs/2409.17453v1)|null|
-|**2024-09-26**|**Cat-and-Mouse Satellite Dynamics: Divergent Adversarial Reinforcement Learning for Contested Multi-Agent Space Operations**|Cameron Mehlman et.al.|[2409.17443v1](http://arxiv.org/abs/2409.17443v1)|null|
-|**2024-09-25**|**Data-efficient Trajectory Prediction via Coreset Selection**|Ruining Yang et.al.|[2409.17385v1](http://arxiv.org/abs/2409.17385v1)|null|
-|**2024-09-25**|**Learning Utilities from Demonstrations in Markov Decision Processes**|Filippo Lazzati et.al.|[2409.17355v1](http://arxiv.org/abs/2409.17355v1)|null|
-|**2024-09-25**|**Language Grounded Multi-agent Communication for Ad-hoc Teamwork**|Huao Li et.al.|[2409.17348v1](http://arxiv.org/abs/2409.17348v1)|null|
-|**2024-09-25**|**Exploring the expansion of the universe using the Grüneisen parameter**|Lucas Squillante et.al.|[2409.17288v1](http://arxiv.org/abs/2409.17288v1)|null|
-|**2024-09-25**|**AAPM: Large Language Model Agent-based Asset Pricing Models**|Junyan Cheng et.al.|[2409.17266v1](http://arxiv.org/abs/2409.17266v1)|null|
+|**2023-07-15**|**Data-centric Operational Design Domain Characterization for Machine Learning-based Aeronautical Products**|Fateh Kaakai et.al.|[2307.07681v1](http://arxiv.org/abs/2307.07681v1)|null|
+|**2023-04-07**|**On Efficient Training of Large-Scale Deep Learning Models: A Literature Review**|Li Shen et.al.|[2304.03589v1](http://arxiv.org/abs/2304.03589v1)|null|
+|**2023-02-14**|**Data-Centric Governance**|Sean McGregor et.al.|[2302.07872v1](http://arxiv.org/abs/2302.07872v1)|null|
+|**2022-06-10**|**The 1st Data Science for Pavements Challenge**|Ashkan Behzadian et.al.|[2206.04874v1](http://arxiv.org/abs/2206.04874v1)|null|
 
-### Large Language Model
+### Transformer
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
+|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|null|
+|**2024-09-26**|**The Carrollian limit of ModMax electrodynamics**|Francisco Correa et.al.|[2409.18095v1](http://arxiv.org/abs/2409.18095v1)|null|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083v1](http://arxiv.org/abs/2409.18083v1)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073v1](http://arxiv.org/abs/2409.18073v1)|null|
+|**2024-09-26**|**HARMONIC: A Framework for Explanatory Cognitive Robots**|Sanjay Oruganti et.al.|[2409.18037v1](http://arxiv.org/abs/2409.18037v1)|null|
+|**2024-09-26**|**Connected Components on Lie Groups and Applications to Multi-Orientation Image Analysis**|Nicky J. van den Berg et.al.|[2409.18002v1](http://arxiv.org/abs/2409.18002v1)|null|
+|**2024-09-26**|**LoopSR: Looping Sim-and-Real for Lifelong Policy Adaptation of Legged Robots**|Peilin Wu et.al.|[2409.17992v1](http://arxiv.org/abs/2409.17992v1)|null|
+|**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987v1](http://arxiv.org/abs/2409.17987v1)|null|
+|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986v1](http://arxiv.org/abs/2409.17986v1)|null|
+|**2024-09-26**|**HydraViT: Stacking Heads for a Scalable ViT**|Janek Haberer et.al.|[2409.17978v1](http://arxiv.org/abs/2409.17978v1)|null|
+|**2024-09-26**|**Discrete Coagulation-Fragmentation equations with multiplicative coagulation kernel and constant fragmentation kernel**|Jiwoong Jang et.al.|[2409.17974v1](http://arxiv.org/abs/2409.17974v1)|null|
+|**2024-09-26**|**Manufacturing, processing, applications, and advancements of Fe-based shape memory alloys**|Anwar Algamal et.al.|[2409.17973v1](http://arxiv.org/abs/2409.17973v1)|null|
+|**2024-09-26**|**$L^p$-$L^q$ Fourier multipliers and Hausdorff-Young-Paley inequalities on Riemannian symmetric spaces of noncompact type**|Tapendu Rana et.al.|[2409.17969v1](http://arxiv.org/abs/2409.17969v1)|null|
+|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932v1](http://arxiv.org/abs/2409.17932v1)|null|
+|**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917v1](http://arxiv.org/abs/2409.17917v1)|null|
+|**2024-09-26**|**The Huang-Yang formula for the low-density Fermi gas: upper bound**|Emanuela L. Giacomelli et.al.|[2409.17914v1](http://arxiv.org/abs/2409.17914v1)|null|
+|**2024-09-26**|**Rotation distance using flows**|Claire Mathieu et.al.|[2409.17905v1](http://arxiv.org/abs/2409.17905v1)|null|
+|**2024-09-26**|**MC-SEMamba: A Simple Multi-channel Extension of SEMamba**|Wen-Yuan Ting et.al.|[2409.17898v1](http://arxiv.org/abs/2409.17898v1)|null|
+|**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17895v1](http://arxiv.org/abs/2409.17895v1)|null|
+|**2024-09-26**|**Enhancing non-destructive mass identification via Fourier-transform fluorescence analysis**|Francisco Domínguez et.al.|[2409.17883v1](http://arxiv.org/abs/2409.17883v1)|null|
+|**2024-09-26**|**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**|Fengchen Yang et.al.|[2409.17873v1](http://arxiv.org/abs/2409.17873v1)|null|
+|**2024-09-26**|**Nonlinear stability of periodic wave trains in the FitzHugh-Nagumo system against fully nonlocalized perturbations**|Joannis Alexopoulos et.al.|[2409.17859v1](http://arxiv.org/abs/2409.17859v1)|null|
+|**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834v1](http://arxiv.org/abs/2409.17834v1)|null|
+|**2024-09-26**|**Phase glides and self-organization of atomically abrupt interfaces out of stochastic disorder in $α$-Ga$_{2}$O$_{3}$**|Alexander Azarov et.al.|[2409.17829v1](http://arxiv.org/abs/2409.17829v1)|null|
+|**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu et.al.|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
+|**2024-09-26**|**Reblurring-Guided Single Image Defocus Deblurring: A Learning Framework with Misaligned Training Pairs**|Xinya Shu et.al.|[2409.17792v1](http://arxiv.org/abs/2409.17792v1)|null|
+|**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[2409.17790v1](http://arxiv.org/abs/2409.17790v1)|null|
+|**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788v1](http://arxiv.org/abs/2409.17788v1)|null|
+|**2024-09-26**|**Transforming Stacks into Queues: Mixed and Separated Layouts of Graphs**|Julia Katheder et.al.|[2409.17776v1](http://arxiv.org/abs/2409.17776v1)|null|
+
+## CV
+
+### Diffusion Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
@@ -49,17 +59,14 @@
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
 |**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
-|**2024-09-26**|**Property $R_\infty$ for new classes of Artin groups**|Ignat Soroko et.al.|[2409.18123v1](http://arxiv.org/abs/2409.18123v1)|null|
 |**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121v1](http://arxiv.org/abs/2409.18121v1)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|null|
-|**2024-09-26**|**Slowly Scaling Per-Record Differential Privacy**|Brian Finley et.al.|[2409.18118v1](http://arxiv.org/abs/2409.18118v1)|null|
 |**2024-09-26**|**Formulating the Proxy Pattern-Mixture Model as a Selection Model to Assist with Sensitivity Analysis**|Seth Adarkwah Yiadom et.al.|[2409.18117v1](http://arxiv.org/abs/2409.18117v1)|null|
 |**2024-09-26**|**Intruding the sealed land: Unique forbidden beta decays at zero momentum transfer**|Chien-Yeah Seng et.al.|[2409.18115v1](http://arxiv.org/abs/2409.18115v1)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114v1](http://arxiv.org/abs/2409.18114v1)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113v1](http://arxiv.org/abs/2409.18113v1)|null|
 |**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111v1](http://arxiv.org/abs/2409.18111v1)|[link](https://github.com/PolyU-ChenLab/ETBench)|
 |**2024-09-26**|**Open-World Evaluation for Retrieving Diverse Perspectives**|Hung-Ting Chen et.al.|[2409.18110v1](http://arxiv.org/abs/2409.18110v1)|null|
-|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108v1](http://arxiv.org/abs/2409.18108v1)|null|
 |**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104v1](http://arxiv.org/abs/2409.18104v1)|[link](https://github.com/lgordon99/rhino-midden-detector)|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102v1](http://arxiv.org/abs/2409.18102v1)|null|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
@@ -72,6 +79,79 @@
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092v1](http://arxiv.org/abs/2409.18092v1)|null|
 |**2024-09-26**|**Incorporating sparse labels into biologging studies using hidden Markov models with weighted likelihoods**|Evan Sidrow et.al.|[2409.18091v1](http://arxiv.org/abs/2409.18091v1)|null|
 |**2024-09-26**|**Some contributions to sheaf model theory**|Andreas Brunner et.al.|[2409.18089v1](http://arxiv.org/abs/2409.18089v1)|null|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|null|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083v1](http://arxiv.org/abs/2409.18083v1)|null|
+|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082v1](http://arxiv.org/abs/2409.18082v1)|null|
+
+### Video Understanding
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
+|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
+|**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
+|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122v1](http://arxiv.org/abs/2409.18122v1)|null|
+|**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121v1](http://arxiv.org/abs/2409.18121v1)|null|
+|**2024-09-26**|**Formulating the Proxy Pattern-Mixture Model as a Selection Model to Assist with Sensitivity Analysis**|Seth Adarkwah Yiadom et.al.|[2409.18117v1](http://arxiv.org/abs/2409.18117v1)|null|
+|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111v1](http://arxiv.org/abs/2409.18111v1)|[link](https://github.com/PolyU-ChenLab/ETBench)|
+|**2024-09-26**|**Identifying Bridges from Asymmetric Load-Bearing Structures in Tapped Granular Packings**|Chijin Zhou et.al.|[2409.18093v1](http://arxiv.org/abs/2409.18093v1)|null|
+|**2024-09-26**|**Incorporating sparse labels into biologging studies using hidden Markov models with weighted likelihoods**|Evan Sidrow et.al.|[2409.18091v1](http://arxiv.org/abs/2409.18091v1)|null|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|null|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083v1](http://arxiv.org/abs/2409.18083v1)|null|
+|**2024-09-26**|**Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons:A Message Passing Neural Network Approach**|Maliheh Shaban Tameh et.al.|[2409.18070v1](http://arxiv.org/abs/2409.18070v1)|null|
+|**2024-09-26**|**Efficacy of a hybrid take home and in class summative assessment for the postsecondary physics classroom**|Paul Stonaha et.al.|[2409.18058v1](http://arxiv.org/abs/2409.18058v1)|null|
+|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057v1](http://arxiv.org/abs/2409.18057v1)|[link](https://github.com/mingsun-tse/lightavatar-tensorflow)|
+|**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053v1](http://arxiv.org/abs/2409.18053v1)|null|
+|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046v1](http://arxiv.org/abs/2409.18046v1)|null|
+|**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042v1](http://arxiv.org/abs/2409.18042v1)|null|
+|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|null|
+|**2024-09-26**|**Measurement of strange baryon production in charged-particle jets in pp and p-Pb collisions with ALICE**|Gijs van Weelden et.al.|[2409.18027v1](http://arxiv.org/abs/2409.18027v1)|null|
+|**2024-09-26**|**Exploring the Dynamics of CME-Driven Shocks by Comparing Numerical Modeling and Observations**|Meng Jin et.al.|[2409.18020v1](http://arxiv.org/abs/2409.18020v1)|null|
+|**2024-09-26**|**Molecular dynamics simulations of interaction between a super edge dislocation and interstitial dislocation loops in irradiated L12-Ni3Al**|Cheng Chen et.al.|[2409.18018v1](http://arxiv.org/abs/2409.18018v1)|null|
+|**2024-09-26**|**Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles**|Lewei He et.al.|[2409.18014v1](http://arxiv.org/abs/2409.18014v1)|null|
+|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009v1](http://arxiv.org/abs/2409.18009v1)|[link](https://github.com/yuchenxia/llm4ias)|
+|**2024-09-26**|**PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging**|Xin Cai et.al.|[2409.17996v1](http://arxiv.org/abs/2409.17996v1)|null|
+|**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987v1](http://arxiv.org/abs/2409.17987v1)|null|
+|**2024-09-26**|**Cross-Modality Attack Boosted by Gradient-Evolutionary Multiform Optimization**|Yunpeng Gong et.al.|[2409.17977v1](http://arxiv.org/abs/2409.17977v1)|null|
+|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968v1](http://arxiv.org/abs/2409.17968v1)|null|
+|**2024-09-26**|**Properties of the QCD Matter: A Review of Selected Results from the ALICE Experiment**|Qi-Ye Shou et.al.|[2409.17964v1](http://arxiv.org/abs/2409.17964v1)|null|
+|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|Amita Kamath et.al.|[2409.17958v1](http://arxiv.org/abs/2409.17958v1)|null|
+|**2024-09-26**|**Participatory design: A systematic review and insights for future practice**|Peter Wacnik et.al.|[2409.17952v1](http://arxiv.org/abs/2409.17952v1)|null|
+
+### Evaluation for Generative Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
+|**2024-09-26**|**TOI-5005 b: A super-Neptune in the savanna near the ridge**|A. Castro-González et.al.|[2409.18129v1](http://arxiv.org/abs/2409.18129v1)|null|
+|**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130v1](http://arxiv.org/abs/2409.18130v1)|null|
+|**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128v1](http://arxiv.org/abs/2409.18128v1)|[link](https://github.com/shiml20/flowturbo)|
+|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
+|**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
+|**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
+|**2024-09-26**|**Property $R_\infty$ for new classes of Artin groups**|Ignat Soroko et.al.|[2409.18123v1](http://arxiv.org/abs/2409.18123v1)|null|
+|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122v1](http://arxiv.org/abs/2409.18122v1)|null|
+|**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121v1](http://arxiv.org/abs/2409.18121v1)|null|
+|**2024-09-26**|**EvMAPPER: High Altitude Orthomapping with Event Cameras**|Fernando Cladera et.al.|[2409.18120v1](http://arxiv.org/abs/2409.18120v1)|null|
+|**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|null|
+|**2024-09-26**|**Slowly Scaling Per-Record Differential Privacy**|Brian Finley et.al.|[2409.18118v1](http://arxiv.org/abs/2409.18118v1)|null|
+|**2024-09-26**|**Formulating the Proxy Pattern-Mixture Model as a Selection Model to Assist with Sensitivity Analysis**|Seth Adarkwah Yiadom et.al.|[2409.18117v1](http://arxiv.org/abs/2409.18117v1)|null|
+|**2024-09-26**|**Averages of arithmetic functions over polynomials in many variables**|Kevin Destagnol et.al.|[2409.18116v1](http://arxiv.org/abs/2409.18116v1)|null|
+|**2024-09-26**|**Intruding the sealed land: Unique forbidden beta decays at zero momentum transfer**|Chien-Yeah Seng et.al.|[2409.18115v1](http://arxiv.org/abs/2409.18115v1)|null|
+|**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114v1](http://arxiv.org/abs/2409.18114v1)|null|
+|**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113v1](http://arxiv.org/abs/2409.18113v1)|null|
+|**2024-09-26**|**Nonnegative cross-curvature in infinite dimensions: synthetic definition and spaces of measures**|Flavien Léger et.al.|[2409.18112v1](http://arxiv.org/abs/2409.18112v1)|null|
+|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111v1](http://arxiv.org/abs/2409.18111v1)|[link](https://github.com/PolyU-ChenLab/ETBench)|
+|**2024-09-26**|**Open-World Evaluation for Retrieving Diverse Perspectives**|Hung-Ting Chen et.al.|[2409.18110v1](http://arxiv.org/abs/2409.18110v1)|null|
+|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108v1](http://arxiv.org/abs/2409.18108v1)|null|
+|**2024-09-26**|**All-optical magnetometric characterization of the antiferromagnetic exchange-spring system Mn$_2$Au|Py by terahertz spin-torques**|Yannic Behovits et.al.|[2409.18107v1](http://arxiv.org/abs/2409.18107v1)|null|
+|**2024-09-26**|**General solidity phenomena and anticoarse spaces for type $\mathrm{III}_1$ factors**|Ben Hayes et.al.|[2409.18106v1](http://arxiv.org/abs/2409.18106v1)|null|
+|**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104v1](http://arxiv.org/abs/2409.18104v1)|[link](https://github.com/lgordon99/rhino-midden-detector)|
+|**2024-09-26**|**The Self-Organized Criticality of Dark Matter**|Mingjie Jin et.al.|[2409.18103v1](http://arxiv.org/abs/2409.18103v1)|null|
+|**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102v1](http://arxiv.org/abs/2409.18102v1)|null|
+|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
+|**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100v1](http://arxiv.org/abs/2409.18100v1)|[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)|
+|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|null|
+
+## AI
 
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,6 +186,40 @@
 |**2024-09-26**|**PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting**|Yuxin Jia et.al.|[2409.17703v1](http://arxiv.org/abs/2409.17703v1)|[link](https://github.com/water2sea/tpgn)|
 |**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680v1](http://arxiv.org/abs/2409.17680v1)|null|
 |**2024-09-26**|**FactorSim: Generative Simulation via Factorized Representation**|Fan-Yun Sun et.al.|[2409.17652v1](http://arxiv.org/abs/2409.17652v1)|null|
+
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098v1](http://arxiv.org/abs/2409.18098v1)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073v1](http://arxiv.org/abs/2409.18073v1)|null|
+|**2024-09-26**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052v1](http://arxiv.org/abs/2409.18052v1)|null|
+|**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051v1](http://arxiv.org/abs/2409.18051v1)|null|
+|**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049v1](http://arxiv.org/abs/2409.18049v1)|[link](https://github.com/anyloc/revisit-anything)|
+|**2024-09-26**|**HARMONIC: Cognitive and Control Collaboration in Human-Robotic Teams**|Sanjay Oruganti et.al.|[2409.18047v1](http://arxiv.org/abs/2409.18047v1)|null|
+|**2024-09-26**|**Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**|Haochen Liu et.al.|[2409.18031v1](http://arxiv.org/abs/2409.18031v1)|null|
+|**2024-09-26**|**Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective**|Yotam Wolf et.al.|[2409.18028v1](http://arxiv.org/abs/2409.18028v1)|null|
+|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009v1](http://arxiv.org/abs/2409.18009v1)|[link](https://github.com/yuchenxia/llm4ias)|
+|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997v1](http://arxiv.org/abs/2409.17997v1)|null|
+|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968v1](http://arxiv.org/abs/2409.17968v1)|null|
+|**2024-09-26**|**Filtering-Linearization: A First-Order Method for Nonconvex Trajectory Optimization with Filter-Based Warm-Starting**|Minsen Yuan et.al.|[2409.17944v1](http://arxiv.org/abs/2409.17944v1)|null|
+|**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[2409.17937v1](http://arxiv.org/abs/2409.17937v1)|null|
+|**2024-09-26**|**Navigation in a simplified Urban Flow through Deep Reinforcement Learning**|Federica Tonti et.al.|[2409.17922v1](http://arxiv.org/abs/2409.17922v1)|null|
+|**2024-09-26**|**Model-Free versus Model-Based Reinforcement Learning for Fixed-Wing UAV Attitude Control Under Varying Wind Conditions**|David Olivares et.al.|[2409.17896v1](http://arxiv.org/abs/2409.17896v1)|null|
+|**2024-09-26**|**SECURE: Semantics-aware Embodied Conversation under Unawareness for Lifelong Robot Learning**|Rimvydas Rubavicius et.al.|[2409.17755v1](http://arxiv.org/abs/2409.17755v1)|null|
+|**2024-09-26**|**Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience**|Leonard Bärmann et.al.|[2409.17702v1](http://arxiv.org/abs/2409.17702v1)|null|
+|**2024-09-26**|**AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment**|Nan Sun et.al.|[2409.17655v1](http://arxiv.org/abs/2409.17655v1)|null|
+|**2024-09-26**|**FactorSim: Generative Simulation via Factorized Representation**|Fan-Yun Sun et.al.|[2409.17652v1](http://arxiv.org/abs/2409.17652v1)|null|
+|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618v1](http://arxiv.org/abs/2409.17618v1)|null|
+|**2024-09-26**|**Improving Fast Adversarial Training via Self-Knowledge Guidance**|Chengze Jiang et.al.|[2409.17589v1](http://arxiv.org/abs/2409.17589v1)|null|
+|**2024-09-26**|**From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection**|Xinlei Wang et.al.|[2409.17515v1](http://arxiv.org/abs/2409.17515v1)|null|
+|**2024-09-26**|**Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD**|Jie Hu et.al.|[2409.17499v1](http://arxiv.org/abs/2409.17499v1)|null|
+|**2024-09-26**|**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**|Hanbo Bi et.al.|[2409.17453v1](http://arxiv.org/abs/2409.17453v1)|null|
+|**2024-09-26**|**Cat-and-Mouse Satellite Dynamics: Divergent Adversarial Reinforcement Learning for Contested Multi-Agent Space Operations**|Cameron Mehlman et.al.|[2409.17443v1](http://arxiv.org/abs/2409.17443v1)|null|
+|**2024-09-25**|**Data-efficient Trajectory Prediction via Coreset Selection**|Ruining Yang et.al.|[2409.17385v1](http://arxiv.org/abs/2409.17385v1)|null|
+|**2024-09-25**|**Learning Utilities from Demonstrations in Markov Decision Processes**|Filippo Lazzati et.al.|[2409.17355v1](http://arxiv.org/abs/2409.17355v1)|null|
+|**2024-09-25**|**Language Grounded Multi-agent Communication for Ad-hoc Teamwork**|Huao Li et.al.|[2409.17348v1](http://arxiv.org/abs/2409.17348v1)|null|
+|**2024-09-25**|**Exploring the expansion of the universe using the Grüneisen parameter**|Lucas Squillante et.al.|[2409.17288v1](http://arxiv.org/abs/2409.17288v1)|null|
+|**2024-09-25**|**AAPM: Large Language Model Agent-based Asset Pricing Models**|Junyan Cheng et.al.|[2409.17266v1](http://arxiv.org/abs/2409.17266v1)|null|
 
 ### Autonomous Driving
 |Publish Date|Title|Authors|PDF|Code|
@@ -175,43 +289,7 @@
 |**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081v1](http://arxiv.org/abs/2409.17081v1)|null|
 |**2024-09-25**|**Dynamical Dark Energy Beyond Planck? Constraints from multiple CMB probes, DESI BAO and Type-Ia Supernovae**|William Giarè et.al.|[2409.17074v1](http://arxiv.org/abs/2409.17074v1)|null|
 
-## CV
-
-### Video Understanding
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
-|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
-|**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
-|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122v1](http://arxiv.org/abs/2409.18122v1)|null|
-|**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121v1](http://arxiv.org/abs/2409.18121v1)|null|
-|**2024-09-26**|**Formulating the Proxy Pattern-Mixture Model as a Selection Model to Assist with Sensitivity Analysis**|Seth Adarkwah Yiadom et.al.|[2409.18117v1](http://arxiv.org/abs/2409.18117v1)|null|
-|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111v1](http://arxiv.org/abs/2409.18111v1)|[link](https://github.com/PolyU-ChenLab/ETBench)|
-|**2024-09-26**|**Identifying Bridges from Asymmetric Load-Bearing Structures in Tapped Granular Packings**|Chijin Zhou et.al.|[2409.18093v1](http://arxiv.org/abs/2409.18093v1)|null|
-|**2024-09-26**|**Incorporating sparse labels into biologging studies using hidden Markov models with weighted likelihoods**|Evan Sidrow et.al.|[2409.18091v1](http://arxiv.org/abs/2409.18091v1)|null|
-|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|null|
-|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083v1](http://arxiv.org/abs/2409.18083v1)|null|
-|**2024-09-26**|**Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons:A Message Passing Neural Network Approach**|Maliheh Shaban Tameh et.al.|[2409.18070v1](http://arxiv.org/abs/2409.18070v1)|null|
-|**2024-09-26**|**Efficacy of a hybrid take home and in class summative assessment for the postsecondary physics classroom**|Paul Stonaha et.al.|[2409.18058v1](http://arxiv.org/abs/2409.18058v1)|null|
-|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057v1](http://arxiv.org/abs/2409.18057v1)|[link](https://github.com/mingsun-tse/lightavatar-tensorflow)|
-|**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053v1](http://arxiv.org/abs/2409.18053v1)|null|
-|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046v1](http://arxiv.org/abs/2409.18046v1)|null|
-|**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042v1](http://arxiv.org/abs/2409.18042v1)|null|
-|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|null|
-|**2024-09-26**|**Measurement of strange baryon production in charged-particle jets in pp and p-Pb collisions with ALICE**|Gijs van Weelden et.al.|[2409.18027v1](http://arxiv.org/abs/2409.18027v1)|null|
-|**2024-09-26**|**Exploring the Dynamics of CME-Driven Shocks by Comparing Numerical Modeling and Observations**|Meng Jin et.al.|[2409.18020v1](http://arxiv.org/abs/2409.18020v1)|null|
-|**2024-09-26**|**Molecular dynamics simulations of interaction between a super edge dislocation and interstitial dislocation loops in irradiated L12-Ni3Al**|Cheng Chen et.al.|[2409.18018v1](http://arxiv.org/abs/2409.18018v1)|null|
-|**2024-09-26**|**Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles**|Lewei He et.al.|[2409.18014v1](http://arxiv.org/abs/2409.18014v1)|null|
-|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009v1](http://arxiv.org/abs/2409.18009v1)|[link](https://github.com/yuchenxia/llm4ias)|
-|**2024-09-26**|**PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging**|Xin Cai et.al.|[2409.17996v1](http://arxiv.org/abs/2409.17996v1)|null|
-|**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987v1](http://arxiv.org/abs/2409.17987v1)|null|
-|**2024-09-26**|**Cross-Modality Attack Boosted by Gradient-Evolutionary Multiform Optimization**|Yunpeng Gong et.al.|[2409.17977v1](http://arxiv.org/abs/2409.17977v1)|null|
-|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968v1](http://arxiv.org/abs/2409.17968v1)|null|
-|**2024-09-26**|**Properties of the QCD Matter: A Review of Selected Results from the ALICE Experiment**|Qi-Ye Shou et.al.|[2409.17964v1](http://arxiv.org/abs/2409.17964v1)|null|
-|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|Amita Kamath et.al.|[2409.17958v1](http://arxiv.org/abs/2409.17958v1)|null|
-|**2024-09-26**|**Participatory design: A systematic review and insights for future practice**|Peter Wacnik et.al.|[2409.17952v1](http://arxiv.org/abs/2409.17952v1)|null|
-
-### Diffusion Model
+### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
@@ -221,14 +299,17 @@
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
 |**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
+|**2024-09-26**|**Property $R_\infty$ for new classes of Artin groups**|Ignat Soroko et.al.|[2409.18123v1](http://arxiv.org/abs/2409.18123v1)|null|
 |**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121v1](http://arxiv.org/abs/2409.18121v1)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|null|
+|**2024-09-26**|**Slowly Scaling Per-Record Differential Privacy**|Brian Finley et.al.|[2409.18118v1](http://arxiv.org/abs/2409.18118v1)|null|
 |**2024-09-26**|**Formulating the Proxy Pattern-Mixture Model as a Selection Model to Assist with Sensitivity Analysis**|Seth Adarkwah Yiadom et.al.|[2409.18117v1](http://arxiv.org/abs/2409.18117v1)|null|
 |**2024-09-26**|**Intruding the sealed land: Unique forbidden beta decays at zero momentum transfer**|Chien-Yeah Seng et.al.|[2409.18115v1](http://arxiv.org/abs/2409.18115v1)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114v1](http://arxiv.org/abs/2409.18114v1)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113v1](http://arxiv.org/abs/2409.18113v1)|null|
 |**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111v1](http://arxiv.org/abs/2409.18111v1)|[link](https://github.com/PolyU-ChenLab/ETBench)|
 |**2024-09-26**|**Open-World Evaluation for Retrieving Diverse Perspectives**|Hung-Ting Chen et.al.|[2409.18110v1](http://arxiv.org/abs/2409.18110v1)|null|
+|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108v1](http://arxiv.org/abs/2409.18108v1)|null|
 |**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104v1](http://arxiv.org/abs/2409.18104v1)|[link](https://github.com/lgordon99/rhino-midden-detector)|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102v1](http://arxiv.org/abs/2409.18102v1)|null|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
@@ -241,43 +322,6 @@
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092v1](http://arxiv.org/abs/2409.18092v1)|null|
 |**2024-09-26**|**Incorporating sparse labels into biologging studies using hidden Markov models with weighted likelihoods**|Evan Sidrow et.al.|[2409.18091v1](http://arxiv.org/abs/2409.18091v1)|null|
 |**2024-09-26**|**Some contributions to sheaf model theory**|Andreas Brunner et.al.|[2409.18089v1](http://arxiv.org/abs/2409.18089v1)|null|
-|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|null|
-|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083v1](http://arxiv.org/abs/2409.18083v1)|null|
-|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082v1](http://arxiv.org/abs/2409.18082v1)|null|
-
-### Evaluation for Generative Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-26**|**Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models**|Tizian Blatz et.al.|[2409.18131v1](http://arxiv.org/abs/2409.18131v1)|null|
-|**2024-09-26**|**TOI-5005 b: A super-Neptune in the savanna near the ridge**|A. Castro-González et.al.|[2409.18129v1](http://arxiv.org/abs/2409.18129v1)|null|
-|**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130v1](http://arxiv.org/abs/2409.18130v1)|null|
-|**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128v1](http://arxiv.org/abs/2409.18128v1)|[link](https://github.com/shiml20/flowturbo)|
-|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
-|**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
-|**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
-|**2024-09-26**|**Property $R_\infty$ for new classes of Artin groups**|Ignat Soroko et.al.|[2409.18123v1](http://arxiv.org/abs/2409.18123v1)|null|
-|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122v1](http://arxiv.org/abs/2409.18122v1)|null|
-|**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121v1](http://arxiv.org/abs/2409.18121v1)|null|
-|**2024-09-26**|**EvMAPPER: High Altitude Orthomapping with Event Cameras**|Fernando Cladera et.al.|[2409.18120v1](http://arxiv.org/abs/2409.18120v1)|null|
-|**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119v1](http://arxiv.org/abs/2409.18119v1)|null|
-|**2024-09-26**|**Slowly Scaling Per-Record Differential Privacy**|Brian Finley et.al.|[2409.18118v1](http://arxiv.org/abs/2409.18118v1)|null|
-|**2024-09-26**|**Formulating the Proxy Pattern-Mixture Model as a Selection Model to Assist with Sensitivity Analysis**|Seth Adarkwah Yiadom et.al.|[2409.18117v1](http://arxiv.org/abs/2409.18117v1)|null|
-|**2024-09-26**|**Averages of arithmetic functions over polynomials in many variables**|Kevin Destagnol et.al.|[2409.18116v1](http://arxiv.org/abs/2409.18116v1)|null|
-|**2024-09-26**|**Intruding the sealed land: Unique forbidden beta decays at zero momentum transfer**|Chien-Yeah Seng et.al.|[2409.18115v1](http://arxiv.org/abs/2409.18115v1)|null|
-|**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114v1](http://arxiv.org/abs/2409.18114v1)|null|
-|**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113v1](http://arxiv.org/abs/2409.18113v1)|null|
-|**2024-09-26**|**Nonnegative cross-curvature in infinite dimensions: synthetic definition and spaces of measures**|Flavien Léger et.al.|[2409.18112v1](http://arxiv.org/abs/2409.18112v1)|null|
-|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111v1](http://arxiv.org/abs/2409.18111v1)|[link](https://github.com/PolyU-ChenLab/ETBench)|
-|**2024-09-26**|**Open-World Evaluation for Retrieving Diverse Perspectives**|Hung-Ting Chen et.al.|[2409.18110v1](http://arxiv.org/abs/2409.18110v1)|null|
-|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108v1](http://arxiv.org/abs/2409.18108v1)|null|
-|**2024-09-26**|**All-optical magnetometric characterization of the antiferromagnetic exchange-spring system Mn$_2$Au|Py by terahertz spin-torques**|Yannic Behovits et.al.|[2409.18107v1](http://arxiv.org/abs/2409.18107v1)|null|
-|**2024-09-26**|**General solidity phenomena and anticoarse spaces for type $\mathrm{III}_1$ factors**|Ben Hayes et.al.|[2409.18106v1](http://arxiv.org/abs/2409.18106v1)|null|
-|**2024-09-26**|**Find Rhinos without Finding Rhinos: Active Learning with Multimodal Imagery of South African Rhino Habitats**|Lucia Gordon et.al.|[2409.18104v1](http://arxiv.org/abs/2409.18104v1)|[link](https://github.com/lgordon99/rhino-midden-detector)|
-|**2024-09-26**|**The Self-Organized Criticality of Dark Matter**|Mingjie Jin et.al.|[2409.18103v1](http://arxiv.org/abs/2409.18103v1)|null|
-|**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102v1](http://arxiv.org/abs/2409.18102v1)|null|
-|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
-|**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100v1](http://arxiv.org/abs/2409.18100v1)|[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)|
-|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|null|
 
 ## CG
 
@@ -314,47 +358,3 @@
 |**2024-09-25**|**Constraints on the Equation of State of Nuclear Matter from Systematically Comparing SMASH Calculations to HADES Data**|Justin Mohs et.al.|[2409.16927v1](http://arxiv.org/abs/2409.16927v1)|null|
 |**2024-09-25**|**Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat**|Jonathan Michaux et.al.|[2409.16915v1](http://arxiv.org/abs/2409.16915v1)|null|
 |**2024-09-25**|**Towards Unified 3D Hair Reconstruction from Single-View Portraits**|Yujian Zheng et.al.|[2409.16863v1](http://arxiv.org/abs/2409.16863v1)|null|
-
-## ML
-
-### Data-centric
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-15**|**Data-centric Operational Design Domain Characterization for Machine Learning-based Aeronautical Products**|Fateh Kaakai et.al.|[2307.07681v1](http://arxiv.org/abs/2307.07681v1)|null|
-|**2023-04-07**|**On Efficient Training of Large-Scale Deep Learning Models: A Literature Review**|Li Shen et.al.|[2304.03589v1](http://arxiv.org/abs/2304.03589v1)|null|
-|**2023-02-14**|**Data-Centric Governance**|Sean McGregor et.al.|[2302.07872v1](http://arxiv.org/abs/2302.07872v1)|null|
-|**2022-06-10**|**The 1st Data Science for Pavements Challenge**|Ashkan Behzadian et.al.|[2206.04874v1](http://arxiv.org/abs/2206.04874v1)|null|
-
-### Transformer
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
-|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099v1](http://arxiv.org/abs/2409.18099v1)|null|
-|**2024-09-26**|**The Carrollian limit of ModMax electrodynamics**|Francisco Correa et.al.|[2409.18095v1](http://arxiv.org/abs/2409.18095v1)|null|
-|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083v1](http://arxiv.org/abs/2409.18083v1)|null|
-|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073v1](http://arxiv.org/abs/2409.18073v1)|null|
-|**2024-09-26**|**HARMONIC: A Framework for Explanatory Cognitive Robots**|Sanjay Oruganti et.al.|[2409.18037v1](http://arxiv.org/abs/2409.18037v1)|null|
-|**2024-09-26**|**Connected Components on Lie Groups and Applications to Multi-Orientation Image Analysis**|Nicky J. van den Berg et.al.|[2409.18002v1](http://arxiv.org/abs/2409.18002v1)|null|
-|**2024-09-26**|**LoopSR: Looping Sim-and-Real for Lifelong Policy Adaptation of Legged Robots**|Peilin Wu et.al.|[2409.17992v1](http://arxiv.org/abs/2409.17992v1)|null|
-|**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987v1](http://arxiv.org/abs/2409.17987v1)|null|
-|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986v1](http://arxiv.org/abs/2409.17986v1)|null|
-|**2024-09-26**|**HydraViT: Stacking Heads for a Scalable ViT**|Janek Haberer et.al.|[2409.17978v1](http://arxiv.org/abs/2409.17978v1)|null|
-|**2024-09-26**|**Discrete Coagulation-Fragmentation equations with multiplicative coagulation kernel and constant fragmentation kernel**|Jiwoong Jang et.al.|[2409.17974v1](http://arxiv.org/abs/2409.17974v1)|null|
-|**2024-09-26**|**Manufacturing, processing, applications, and advancements of Fe-based shape memory alloys**|Anwar Algamal et.al.|[2409.17973v1](http://arxiv.org/abs/2409.17973v1)|null|
-|**2024-09-26**|**$L^p$-$L^q$ Fourier multipliers and Hausdorff-Young-Paley inequalities on Riemannian symmetric spaces of noncompact type**|Tapendu Rana et.al.|[2409.17969v1](http://arxiv.org/abs/2409.17969v1)|null|
-|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932v1](http://arxiv.org/abs/2409.17932v1)|null|
-|**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917v1](http://arxiv.org/abs/2409.17917v1)|null|
-|**2024-09-26**|**The Huang-Yang formula for the low-density Fermi gas: upper bound**|Emanuela L. Giacomelli et.al.|[2409.17914v1](http://arxiv.org/abs/2409.17914v1)|null|
-|**2024-09-26**|**Rotation distance using flows**|Claire Mathieu et.al.|[2409.17905v1](http://arxiv.org/abs/2409.17905v1)|null|
-|**2024-09-26**|**MC-SEMamba: A Simple Multi-channel Extension of SEMamba**|Wen-Yuan Ting et.al.|[2409.17898v1](http://arxiv.org/abs/2409.17898v1)|null|
-|**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17895v1](http://arxiv.org/abs/2409.17895v1)|null|
-|**2024-09-26**|**Enhancing non-destructive mass identification via Fourier-transform fluorescence analysis**|Francisco Domínguez et.al.|[2409.17883v1](http://arxiv.org/abs/2409.17883v1)|null|
-|**2024-09-26**|**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**|Fengchen Yang et.al.|[2409.17873v1](http://arxiv.org/abs/2409.17873v1)|null|
-|**2024-09-26**|**Nonlinear stability of periodic wave trains in the FitzHugh-Nagumo system against fully nonlocalized perturbations**|Joannis Alexopoulos et.al.|[2409.17859v1](http://arxiv.org/abs/2409.17859v1)|null|
-|**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834v1](http://arxiv.org/abs/2409.17834v1)|null|
-|**2024-09-26**|**Phase glides and self-organization of atomically abrupt interfaces out of stochastic disorder in $α$-Ga$_{2}$O$_{3}$**|Alexander Azarov et.al.|[2409.17829v1](http://arxiv.org/abs/2409.17829v1)|null|
-|**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu et.al.|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
-|**2024-09-26**|**Reblurring-Guided Single Image Defocus Deblurring: A Learning Framework with Misaligned Training Pairs**|Xinya Shu et.al.|[2409.17792v1](http://arxiv.org/abs/2409.17792v1)|null|
-|**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[2409.17790v1](http://arxiv.org/abs/2409.17790v1)|null|
-|**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788v1](http://arxiv.org/abs/2409.17788v1)|null|
-|**2024-09-26**|**Transforming Stacks into Queues: Mixed and Separated Layouts of Graphs**|Julia Katheder et.al.|[2409.17776v1](http://arxiv.org/abs/2409.17776v1)|null|
