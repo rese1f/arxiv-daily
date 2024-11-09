@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-08 21:00:17 Asia/Shanghai
+ Automated deployment @ 2024-11-09 09:12:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -72,7 +72,7 @@
 |**2024-11-07**|**An Effective Pipeline for Whole-Slide Image Glomerulus Segmentation**|Quan Huu Cap et.al.|[2411.04782v1](http://arxiv.org/abs/2411.04782v1)|null|
 |**2024-11-07**|**Learn to Solve Vehicle Routing Problems ASAP: A Neural Optimization Approach for Time-Constrained Vehicle Routing Problems with Finite Vehicle Fleet**|Elija Deineko et.al.|[2411.04777v1](http://arxiv.org/abs/2411.04777v1)|null|
 |**2024-11-07**|**Learning dynamical systems from data: Gradient-based dictionary optimization**|Mohammad Tabish et.al.|[2411.04775v1](http://arxiv.org/abs/2411.04775v1)|null|
-|**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772v1](http://arxiv.org/abs/2411.04772v1)|null|
+|**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772v1](http://arxiv.org/abs/2411.04772v1)|[link](https://github.com/FrankShi9/Attention-Mask-Attack)|
 |**2024-11-07**|**JC5A: Service Delay Minimization for Aerial MEC-assisted Industrial Cyber-Physical Systems**|Geng Sun et.al.|[2411.04762v1](http://arxiv.org/abs/2411.04762v1)|null|
 |**2024-11-07**|**Efficient Channel Estimation With Shorter Pilots in RIS-Aided Communications: Using Array Geometries and Interference Statistics**|Özlem Tuğfe Demir et.al.|[2411.04753v1](http://arxiv.org/abs/2411.04753v1)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747v1](http://arxiv.org/abs/2411.04747v1)|[link](https://github.com/wetothemoon/egat_drugsynergy)|
@@ -116,6 +116,40 @@
 |**2024-11-06**|**Ultralow loss torsion micropendula for chipscale gravimetry**|C. A. Condos et.al.|[2411.04113v1](http://arxiv.org/abs/2411.04113v1)|null|
 |**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112v1](http://arxiv.org/abs/2411.04112v1)|null|
 |**2024-11-06**|**Select2Plan: Training-Free ICL-Based Planning through VQA and Memory Retrieval**|Davide Buoso et.al.|[2411.04006v1](http://arxiv.org/abs/2411.04006v1)|null|
+
+### Large Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007v1](http://arxiv.org/abs/2411.05007v1)|[link](https://github.com/mit-han-lab/deepcompressor)|
+|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
+|**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005v1](http://arxiv.org/abs/2411.05005v1)|null|
+|**2024-11-07**|**Long-range entanglement from spontaneous non-onsite symmetry breaking**|Zhehao Zhang et.al.|[2411.05004v1](http://arxiv.org/abs/2411.05004v1)|null|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003v1](http://arxiv.org/abs/2411.05003v1)|null|
+|**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002v1](http://arxiv.org/abs/2411.05002v1)|null|
+|**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001v1](http://arxiv.org/abs/2411.05001v1)|null|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999v1](http://arxiv.org/abs/2411.04999v1)|null|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000v1](http://arxiv.org/abs/2411.05000v1)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997v1](http://arxiv.org/abs/2411.04997v1)|[link](https://github.com/microsoft/LLM2CLIP)|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998v1](http://arxiv.org/abs/2411.04998v1)|null|
+|**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996v1](http://arxiv.org/abs/2411.04996v1)|null|
+|**2024-11-07**|**Topological stabilizer models on continuous variables**|Julio C. Magdalena de la Fuente et.al.|[2411.04993v1](http://arxiv.org/abs/2411.04993v1)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991v1](http://arxiv.org/abs/2411.04991v1)|[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)|
+|**2024-11-07**|**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**|Koichi Namekata et.al.|[2411.04989v1](http://arxiv.org/abs/2411.04989v1)|null|
+|**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987v1](http://arxiv.org/abs/2411.04987v1)|null|
+|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986v1](http://arxiv.org/abs/2411.04986v1)|[link](https://github.com/ZhaofengWu/semantic-hub)|
+|**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
+|**2024-11-07**|**DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning**|Gaoyue Zhou et.al.|[2411.04983v1](http://arxiv.org/abs/2411.04983v1)|null|
+|**2024-11-07**|**Fermionic transport through a driven quantum point contact: breakdown of Floquet thermalization beyond a critical driving frequency**|Ivan V. Dudinets et.al.|[2411.04982v1](http://arxiv.org/abs/2411.04982v1)|null|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981v1](http://arxiv.org/abs/2411.04981v1)|null|
+|**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976v1](http://arxiv.org/abs/2411.04976v1)|[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975v1](http://arxiv.org/abs/2411.04975v1)|null|
+|**2024-11-07**|**How fast does the WallGo? A package for computing wall velocities in first-order phase transitions**|Andreas Ekstedt et.al.|[2411.04970v1](http://arxiv.org/abs/2411.04970v1)|null|
+|**2024-11-07**|**No rungs attached: A distance-ladder free determination of the Hubble constant through type II supernova spectral modelling**|Christian Vogl et.al.|[2411.04968v1](http://arxiv.org/abs/2411.04968v1)|null|
+|**2024-11-07**|**AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation**|Anil Kag et.al.|[2411.04967v1](http://arxiv.org/abs/2411.04967v1)|null|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965v1](http://arxiv.org/abs/2411.04965v1)|null|
+|**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963v1](http://arxiv.org/abs/2411.04963v1)|null|
+|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962v1](http://arxiv.org/abs/2411.04962v1)|null|
+|**2024-11-07**|**Bounding the dimension of exceptional sets for orthogonal projections**|Peter Cholak et.al.|[2411.04959v1](http://arxiv.org/abs/2411.04959v1)|null|
 
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
@@ -184,40 +218,6 @@
 |**2024-11-07**|**Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity**|Robby Costales et.al.|[2411.04466v1](http://arxiv.org/abs/2411.04466v1)|null|
 |**2024-11-07**|**Can CDT rationalise the ex ante optimal policy via modified anthropics?**|Emery Cooper et.al.|[2411.04462v1](http://arxiv.org/abs/2411.04462v1)|null|
 |**2024-11-07**|**Benchmarking Single-Qubit Gates on a Noise-Biased Qubit Beyond the Fault-Tolerant Threshold**|Bingcheng Qing et.al.|[2411.04442v1](http://arxiv.org/abs/2411.04442v1)|null|
-
-### Large Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007v1](http://arxiv.org/abs/2411.05007v1)|[link](https://github.com/mit-han-lab/deepcompressor)|
-|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
-|**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005v1](http://arxiv.org/abs/2411.05005v1)|null|
-|**2024-11-07**|**Long-range entanglement from spontaneous non-onsite symmetry breaking**|Zhehao Zhang et.al.|[2411.05004v1](http://arxiv.org/abs/2411.05004v1)|null|
-|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003v1](http://arxiv.org/abs/2411.05003v1)|null|
-|**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002v1](http://arxiv.org/abs/2411.05002v1)|null|
-|**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001v1](http://arxiv.org/abs/2411.05001v1)|null|
-|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999v1](http://arxiv.org/abs/2411.04999v1)|null|
-|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000v1](http://arxiv.org/abs/2411.05000v1)|null|
-|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997v1](http://arxiv.org/abs/2411.04997v1)|[link](https://github.com/microsoft/LLM2CLIP)|
-|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998v1](http://arxiv.org/abs/2411.04998v1)|null|
-|**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996v1](http://arxiv.org/abs/2411.04996v1)|null|
-|**2024-11-07**|**Topological stabilizer models on continuous variables**|Julio C. Magdalena de la Fuente et.al.|[2411.04993v1](http://arxiv.org/abs/2411.04993v1)|null|
-|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991v1](http://arxiv.org/abs/2411.04991v1)|[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)|
-|**2024-11-07**|**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**|Koichi Namekata et.al.|[2411.04989v1](http://arxiv.org/abs/2411.04989v1)|null|
-|**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987v1](http://arxiv.org/abs/2411.04987v1)|null|
-|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986v1](http://arxiv.org/abs/2411.04986v1)|[link](https://github.com/ZhaofengWu/semantic-hub)|
-|**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
-|**2024-11-07**|**DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning**|Gaoyue Zhou et.al.|[2411.04983v1](http://arxiv.org/abs/2411.04983v1)|null|
-|**2024-11-07**|**Fermionic transport through a driven quantum point contact: breakdown of Floquet thermalization beyond a critical driving frequency**|Ivan V. Dudinets et.al.|[2411.04982v1](http://arxiv.org/abs/2411.04982v1)|null|
-|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981v1](http://arxiv.org/abs/2411.04981v1)|null|
-|**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976v1](http://arxiv.org/abs/2411.04976v1)|[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)|
-|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975v1](http://arxiv.org/abs/2411.04975v1)|null|
-|**2024-11-07**|**How fast does the WallGo? A package for computing wall velocities in first-order phase transitions**|Andreas Ekstedt et.al.|[2411.04970v1](http://arxiv.org/abs/2411.04970v1)|null|
-|**2024-11-07**|**No rungs attached: A distance-ladder free determination of the Hubble constant through type II supernova spectral modelling**|Christian Vogl et.al.|[2411.04968v1](http://arxiv.org/abs/2411.04968v1)|null|
-|**2024-11-07**|**AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation**|Anil Kag et.al.|[2411.04967v1](http://arxiv.org/abs/2411.04967v1)|null|
-|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965v1](http://arxiv.org/abs/2411.04965v1)|null|
-|**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963v1](http://arxiv.org/abs/2411.04963v1)|null|
-|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962v1](http://arxiv.org/abs/2411.04962v1)|null|
-|**2024-11-07**|**Bounding the dimension of exceptional sets for orthogonal projections**|Peter Cholak et.al.|[2411.04959v1](http://arxiv.org/abs/2411.04959v1)|null|
 
 ## CV
 
