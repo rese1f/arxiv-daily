@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-27 21:06:39 Asia/Shanghai
+ Automated deployment @ 2024-11-28 09:20:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -159,7 +159,7 @@
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
 |**2024-11-26**|**Ensemble reliability and the signal-to-noise paradox in large-ensemble subseasonal forecasts**|Christopher David Roberts et.al.|[2411.17694v1](http://arxiv.org/abs/2411.17694v1)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693v1](http://arxiv.org/abs/2411.17693v1)|null|
-|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v1](http://arxiv.org/abs/2411.17691v1)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v2](http://arxiv.org/abs/2411.17691v2)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690v1](http://arxiv.org/abs/2411.17690v1)|null|
 |**2024-11-26**|**Cornering in the Water: An Investigation of Dolphin Swimming Performance**|Mingkai Xia et.al.|[2411.17688v1](http://arxiv.org/abs/2411.17688v1)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|
@@ -221,6 +221,40 @@
 
 ## CV
 
+### Diffusion Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-26**|**Video-Guided Foley Sound Generation with Multimodal Controls**|Ziyang Chen et.al.|[2411.17698v1](http://arxiv.org/abs/2411.17698v1)|null|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|[link](https://github.com/Francis-Rings/StableAnimator)|
+|**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
+|**2024-11-26**|**Ensemble reliability and the signal-to-noise paradox in large-ensemble subseasonal forecasts**|Christopher David Roberts et.al.|[2411.17694v1](http://arxiv.org/abs/2411.17694v1)|null|
+|**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693v1](http://arxiv.org/abs/2411.17693v1)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v2](http://arxiv.org/abs/2411.17691v2)|null|
+|**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690v1](http://arxiv.org/abs/2411.17690v1)|null|
+|**2024-11-26**|**Cornering in the Water: An Investigation of Dolphin Swimming Performance**|Mingkai Xia et.al.|[2411.17688v1](http://arxiv.org/abs/2411.17688v1)|null|
+|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|
+|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686v1](http://arxiv.org/abs/2411.17686v1)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685v1](http://arxiv.org/abs/2411.17685v1)|null|
+|**2024-11-26**|**Coping with the Dunkelflaute: Power system implications of variable renewable energy droughts in Europe**|Martin Kittel et.al.|[2411.17683v1](http://arxiv.org/abs/2411.17683v1)|null|
+|**2024-11-26**|**An analytical model for the dispersion measure of Fast Radio Burst host galaxies**|Robert Reischke et.al.|[2411.17682v1](http://arxiv.org/abs/2411.17682v1)|null|
+|**2024-11-26**|**Tungsten isotope evolution during Earth's formation and new constraints on the viability of accretion simulations**|D. C. Rubie et.al.|[2411.17681v1](http://arxiv.org/abs/2411.17681v1)|null|
+|**2024-11-26**|**Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**|Zhu Xu et.al.|[2411.17679v1](http://arxiv.org/abs/2411.17679v1)|null|
+|**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674v1](http://arxiv.org/abs/2411.17674v1)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673v1](http://arxiv.org/abs/2411.17673v1)|null|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672v1](http://arxiv.org/abs/2411.17672v1)|null|
+|**2024-11-26**|**Linguistic Laws Meet Protein Sequences: A Comparative Analysis of Subword Tokenization Methods**|Burak Suyunu et.al.|[2411.17669v1](http://arxiv.org/abs/2411.17669v1)|[link](https://github.com/boun-tabi-lifelu/linguistics-meet-proteins)|
+|**2024-11-26**|**How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations**|Hyunji Lee et.al.|[2411.17666v1](http://arxiv.org/abs/2411.17666v1)|null|
+|**2024-11-26**|**Accelerated nested sampling with $β$-flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663v1](http://arxiv.org/abs/2411.17663v1)|null|
+|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662v1](http://arxiv.org/abs/2411.17662v1)|null|
+|**2024-11-26**|**BERT or FastText? A Comparative Analysis of Contextual as well as Non-Contextual Embeddings**|Abhay Shanbhag et.al.|[2411.17661v1](http://arxiv.org/abs/2411.17661v1)|null|
+|**2024-11-26**|**The JCMT BISTRO Survey: The magnetised evolution of star-forming cores in the Ophiuchus Molecular Cloud interpreted using Histograms of Relative Orientation**|James P. Perry et.al.|[2411.17659v1](http://arxiv.org/abs/2411.17659v1)|null|
+|**2024-11-26**|**Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation**|Juan C. Domínguez et.al.|[2411.17657v1](http://arxiv.org/abs/2411.17657v1)|null|
+|**2024-11-26**|**Exclusion processes with non-reversible boundary: hydrodynamics and large deviations**|Claudio Landim et.al.|[2411.17653v1](http://arxiv.org/abs/2411.17653v1)|null|
+|**2024-11-26**|**Association between Recurrent Novae and Nova Super-Remnants**|Michael William Healy-Kalesh et.al.|[2411.17652v1](http://arxiv.org/abs/2411.17652v1)|null|
+|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651v1](http://arxiv.org/abs/2411.17651v1)|null|
+|**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646v1](http://arxiv.org/abs/2411.17646v1)|[link](https://github.com/claudiacuttano/samwise)|
+|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v1](http://arxiv.org/abs/2411.17645v1)|null|
+
 ### Video Understanding
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -228,7 +262,7 @@
 |**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|[link](https://github.com/Francis-Rings/StableAnimator)|
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
 |**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692v1](http://arxiv.org/abs/2411.17692v1)|null|
-|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v1](http://arxiv.org/abs/2411.17691v1)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v2](http://arxiv.org/abs/2411.17691v2)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690v1](http://arxiv.org/abs/2411.17690v1)|null|
 |**2024-11-26**|**Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**|Zhu Xu et.al.|[2411.17679v1](http://arxiv.org/abs/2411.17679v1)|null|
 |**2024-11-26**|**On Twisted $A_{2n}$ Class-S Theories**|Jacques Distler et.al.|[2411.17675v1](http://arxiv.org/abs/2411.17675v1)|null|
@@ -255,40 +289,6 @@
 |**2024-11-26**|**TAFM-Net: A Novel Approach to Skin Lesion Segmentation Using Transformer Attention and Focal Modulation**|Tariq M Khan et.al.|[2411.17556v1](http://arxiv.org/abs/2411.17556v1)|null|
 |**2024-11-26**|**Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2411.17543v1](http://arxiv.org/abs/2411.17543v1)|null|
 
-### Diffusion Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-26**|**Video-Guided Foley Sound Generation with Multimodal Controls**|Ziyang Chen et.al.|[2411.17698v1](http://arxiv.org/abs/2411.17698v1)|null|
-|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|[link](https://github.com/Francis-Rings/StableAnimator)|
-|**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
-|**2024-11-26**|**Ensemble reliability and the signal-to-noise paradox in large-ensemble subseasonal forecasts**|Christopher David Roberts et.al.|[2411.17694v1](http://arxiv.org/abs/2411.17694v1)|null|
-|**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693v1](http://arxiv.org/abs/2411.17693v1)|null|
-|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v1](http://arxiv.org/abs/2411.17691v1)|null|
-|**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690v1](http://arxiv.org/abs/2411.17690v1)|null|
-|**2024-11-26**|**Cornering in the Water: An Investigation of Dolphin Swimming Performance**|Mingkai Xia et.al.|[2411.17688v1](http://arxiv.org/abs/2411.17688v1)|null|
-|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|
-|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686v1](http://arxiv.org/abs/2411.17686v1)|null|
-|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685v1](http://arxiv.org/abs/2411.17685v1)|null|
-|**2024-11-26**|**Coping with the Dunkelflaute: Power system implications of variable renewable energy droughts in Europe**|Martin Kittel et.al.|[2411.17683v1](http://arxiv.org/abs/2411.17683v1)|null|
-|**2024-11-26**|**An analytical model for the dispersion measure of Fast Radio Burst host galaxies**|Robert Reischke et.al.|[2411.17682v1](http://arxiv.org/abs/2411.17682v1)|null|
-|**2024-11-26**|**Tungsten isotope evolution during Earth's formation and new constraints on the viability of accretion simulations**|D. C. Rubie et.al.|[2411.17681v1](http://arxiv.org/abs/2411.17681v1)|null|
-|**2024-11-26**|**Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**|Zhu Xu et.al.|[2411.17679v1](http://arxiv.org/abs/2411.17679v1)|null|
-|**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674v1](http://arxiv.org/abs/2411.17674v1)|null|
-|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673v1](http://arxiv.org/abs/2411.17673v1)|null|
-|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672v1](http://arxiv.org/abs/2411.17672v1)|null|
-|**2024-11-26**|**Linguistic Laws Meet Protein Sequences: A Comparative Analysis of Subword Tokenization Methods**|Burak Suyunu et.al.|[2411.17669v1](http://arxiv.org/abs/2411.17669v1)|[link](https://github.com/boun-tabi-lifelu/linguistics-meet-proteins)|
-|**2024-11-26**|**How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations**|Hyunji Lee et.al.|[2411.17666v1](http://arxiv.org/abs/2411.17666v1)|null|
-|**2024-11-26**|**Accelerated nested sampling with $β$-flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663v1](http://arxiv.org/abs/2411.17663v1)|null|
-|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662v1](http://arxiv.org/abs/2411.17662v1)|null|
-|**2024-11-26**|**BERT or FastText? A Comparative Analysis of Contextual as well as Non-Contextual Embeddings**|Abhay Shanbhag et.al.|[2411.17661v1](http://arxiv.org/abs/2411.17661v1)|null|
-|**2024-11-26**|**The JCMT BISTRO Survey: The magnetised evolution of star-forming cores in the Ophiuchus Molecular Cloud interpreted using Histograms of Relative Orientation**|James P. Perry et.al.|[2411.17659v1](http://arxiv.org/abs/2411.17659v1)|null|
-|**2024-11-26**|**Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation**|Juan C. Domínguez et.al.|[2411.17657v1](http://arxiv.org/abs/2411.17657v1)|null|
-|**2024-11-26**|**Exclusion processes with non-reversible boundary: hydrodynamics and large deviations**|Claudio Landim et.al.|[2411.17653v1](http://arxiv.org/abs/2411.17653v1)|null|
-|**2024-11-26**|**Association between Recurrent Novae and Nova Super-Remnants**|Michael William Healy-Kalesh et.al.|[2411.17652v1](http://arxiv.org/abs/2411.17652v1)|null|
-|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651v1](http://arxiv.org/abs/2411.17651v1)|null|
-|**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646v1](http://arxiv.org/abs/2411.17646v1)|[link](https://github.com/claudiacuttano/samwise)|
-|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645v1](http://arxiv.org/abs/2411.17645v1)|null|
-
 ### Evaluation for Generative Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -299,7 +299,7 @@
 |**2024-11-26**|**Ensemble reliability and the signal-to-noise paradox in large-ensemble subseasonal forecasts**|Christopher David Roberts et.al.|[2411.17694v1](http://arxiv.org/abs/2411.17694v1)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693v1](http://arxiv.org/abs/2411.17693v1)|null|
 |**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692v1](http://arxiv.org/abs/2411.17692v1)|null|
-|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v1](http://arxiv.org/abs/2411.17691v1)|null|
+|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691v2](http://arxiv.org/abs/2411.17691v2)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690v1](http://arxiv.org/abs/2411.17690v1)|null|
 |**2024-11-26**|**Searching for star-planet interactions in GJ 486 at radio wavelengths with the uGMRT**|L. Peña-Moñino et.al.|[2411.17689v1](http://arxiv.org/abs/2411.17689v1)|null|
 |**2024-11-26**|**Cornering in the Water: An Investigation of Dolphin Swimming Performance**|Mingkai Xia et.al.|[2411.17688v1](http://arxiv.org/abs/2411.17688v1)|null|
