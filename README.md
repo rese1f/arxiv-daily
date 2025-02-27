@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-26 21:03:19 Asia/Shanghai
+ Automated deployment @ 2025-02-27 09:17:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -39,7 +39,7 @@
 |**2025-02-25**|**Personalized Federated Learning for Egocentric Video Gaze Estimation with Comprehensive Parameter Frezzing**|Yuhu Feng et.al.|[2502.18123v1](http://arxiv.org/abs/2502.18123v1)|null|
 |**2025-02-25**|**Quantum Eigensolver with Exponentially Improved Dependence on Parameters**|Honghong Lin et.al.|[2502.18119v1](http://arxiv.org/abs/2502.18119v1)|null|
 |**2025-02-25**|**FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations**|Shengtian Mian et.al.|[2502.18094v1](http://arxiv.org/abs/2502.18094v1)|null|
-|**2025-02-25**|**A Fusion Model for Art Style and Author Recognition Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083v1](http://arxiv.org/abs/2502.18083v1)|null|
+|**2025-02-25**|**A Fusion Model for Art Author Identification Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083v2](http://arxiv.org/abs/2502.18083v2)|null|
 |**2025-02-25**|**Examining the Threat Landscape: Foundation Models and Model Stealing**|Ankita Raj et.al.|[2502.18077v1](http://arxiv.org/abs/2502.18077v1)|null|
 |**2025-02-25**|**Microscopic investigation of $E2$ matrix elements in atomic nuclei**|S. P. Rouoof et.al.|[2502.18076v1](http://arxiv.org/abs/2502.18076v1)|null|
 |**2025-02-25**|**Electronic Structures across the Superconductor-Insulator Transition at La$_{2.85}$Pr$_{0.15}$Ni$_2$O$_7$/SrLaAlO$_4$ Interfaces**|Heng Wang et.al.|[2502.18068v1](http://arxiv.org/abs/2502.18068v1)|null|
@@ -79,7 +79,7 @@
 |**2025-02-25**|**DeepCircuitX: A Comprehensive Repository-Level Dataset for RTL Code Understanding, Generation, and PPA Analysis**|Zeju Li et.al.|[2502.18297v1](http://arxiv.org/abs/2502.18297v1)|null|
 |**2025-02-25**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290v1](http://arxiv.org/abs/2502.18290v1)|null|
 |**2025-02-25**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274v1](http://arxiv.org/abs/2502.18274v1)|null|
-|**2025-02-25**|**MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains**|Zhiyuan Peng et.al.|[2502.18258v1](http://arxiv.org/abs/2502.18258v1)|null|
+|**2025-02-25**|**MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains**|Zhiyuan Peng et.al.|[2502.18258v1](http://arxiv.org/abs/2502.18258v1)|[link](https://github.com/pzy2000/MulChain)|
 |**2025-02-25**|**Non-thermal filaments and AGN recurrent activity in the galaxy group Nest200047: a LOFAR, uGMRT, MeerKAT, VLA radio spectral analysis**|M. Brienza et.al.|[2502.18244v1](http://arxiv.org/abs/2502.18244v1)|null|
 |**2025-02-25**|**Unveiling and Causalizing CoT: A Causal Pespective**|Jiarun Fu et.al.|[2502.18239v1](http://arxiv.org/abs/2502.18239v1)|null|
 
@@ -153,40 +153,6 @@
 
 ## AI
 
-### Benchmark
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439v1](http://arxiv.org/abs/2502.18439v1)|null|
-|**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435v1](http://arxiv.org/abs/2502.18435v1)|null|
-|**2025-02-25**|**TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning**|Frederikus Hudi et.al.|[2502.18431v1](http://arxiv.org/abs/2502.18431v1)|null|
-|**2025-02-25**|**Compressing Language Models for Specialized Domains**|Miles Williams et.al.|[2502.18424v1](http://arxiv.org/abs/2502.18424v1)|null|
-|**2025-02-25**|**When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback**|Jane Pan et.al.|[2502.18413v1](http://arxiv.org/abs/2502.18413v1)|null|
-|**2025-02-25**|**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**|Xiangyu Zhao et.al.|[2502.18411v1](http://arxiv.org/abs/2502.18411v1)|null|
-|**2025-02-25**|**The FFT Strikes Back: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394v1](http://arxiv.org/abs/2502.18394v1)|null|
-|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356v1](http://arxiv.org/abs/2502.18356v1)|null|
-|**2025-02-25**|**From Vision to Sound: Advancing Audio Anomaly Detection with Vision-Based Algorithms**|Manuel Barusco et.al.|[2502.18328v1](http://arxiv.org/abs/2502.18328v1)|null|
-|**2025-02-25**|**WiCkeD: A Simple Method to Make Multiple Choice Benchmarks More Challenging**|Ahmed Elhady et.al.|[2502.18316v1](http://arxiv.org/abs/2502.18316v1)|null|
-|**2025-02-25**|**Learning atomic forces from uncertainty-calibrated adversarial attacks**|Henrique Musseli Cezar et.al.|[2502.18314v1](http://arxiv.org/abs/2502.18314v1)|null|
-|**2025-02-25**|**RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction**|Jianhao Yan et.al.|[2502.18308v1](http://arxiv.org/abs/2502.18308v1)|null|
-|**2025-02-25**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290v1](http://arxiv.org/abs/2502.18290v1)|null|
-|**2025-02-25**|**Neural Network Graph Similarity Computation Based on Graph Fusion**|Zenghui Chang et.al.|[2502.18291v1](http://arxiv.org/abs/2502.18291v1)|null|
-|**2025-02-25**|**Strategies for Feature-Assisted Development of Topology Agnostic Planar Antennas Using Variable-Fidelity Models**|Adrian Bekasiewicz et.al.|[2502.18275v1](http://arxiv.org/abs/2502.18275v1)|null|
-|**2025-02-25**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274v1](http://arxiv.org/abs/2502.18274v1)|null|
-|**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang et.al.|[2502.18220v1](http://arxiv.org/abs/2502.18220v1)|null|
-|**2025-02-25**|**A Normal Variance Mixture Model for Robust Kalman Filtering**|Michael J. Walsh et.al.|[2502.18206v1](http://arxiv.org/abs/2502.18206v1)|null|
-|**2025-02-25**|**DenoMAE2.0: Improving Denoising Masked Autoencoders by Classifying Local Patches**|Atik Faysal et.al.|[2502.18202v1](http://arxiv.org/abs/2502.18202v1)|null|
-|**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195v1](http://arxiv.org/abs/2502.18195v1)|null|
-|**2025-02-25**|**Exact Algorithms for Minimum Dilation Triangulation**|Sándor P. Fekete et.al.|[2502.18189v1](http://arxiv.org/abs/2502.18189v1)|null|
-|**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179v1](http://arxiv.org/abs/2502.18179v1)|null|
-|**2025-02-25**|**A Real-time Spatio-Temporal Trajectory Planner for Autonomous Vehicles with Semantic Graph Optimization**|Shan He et.al.|[2502.18151v1](http://arxiv.org/abs/2502.18151v1)|null|
-|**2025-02-25**|**NusaAksara: A Multimodal and Multilingual Benchmark for Preserving Indonesian Indigenous Scripts**|Muhammad Farid Adilazuarda et.al.|[2502.18148v1](http://arxiv.org/abs/2502.18148v1)|null|
-|**2025-02-25**|**LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking**|Yunfeng Li et.al.|[2502.18143v1](http://arxiv.org/abs/2502.18143v1)|null|
-|**2025-02-25**|**Large Language Model Driven Agents for Simulating Echo Chamber Formation**|Chenhao Gu et.al.|[2502.18138v1](http://arxiv.org/abs/2502.18138v1)|null|
-|**2025-02-25**|**Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**|Wenkai Yang et.al.|[2502.18080v1](http://arxiv.org/abs/2502.18080v1)|null|
-|**2025-02-25**|**HEROS-GAN: Honed-Energy Regularized and Optimal Supervised GAN for Enhancing Accuracy and Range of Low-Cost Accelerometers**|Yifeng Wang et.al.|[2502.18064v1](http://arxiv.org/abs/2502.18064v1)|null|
-|**2025-02-25**|**Progressive Local Alignment for Medical Multimodal Pre-training**|Huimin Yan et.al.|[2502.18047v1](http://arxiv.org/abs/2502.18047v1)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
-
 ### Survey
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -220,40 +186,6 @@
 |**2025-02-24**|**Robust cosmic shear with small-scale nulling**|Giulia Piccirilli et.al.|[2502.17339v1](http://arxiv.org/abs/2502.17339v1)|null|
 |**2025-02-24**|**A Pristine-UNIONS view on the Galaxy: Kinematics of the distant spur feature of the Sagittarius stream traced by Blue Horizontal Branch stars**|M. Bayer et.al.|[2502.17319v1](http://arxiv.org/abs/2502.17319v1)|null|
 |**2025-02-24**|**Survey on Strategic Mining in Blockchain: A Reinforcement Learning Approach**|Jichen Li et.al.|[2502.17307v2](http://arxiv.org/abs/2502.17307v2)|null|
-
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452v1](http://arxiv.org/abs/2502.18452v1)|null|
-|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439v1](http://arxiv.org/abs/2502.18439v1)|null|
-|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438v1](http://arxiv.org/abs/2502.18438v1)|null|
-|**2025-02-25**|**CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**|Yafei Ou et.al.|[2502.18437v1](http://arxiv.org/abs/2502.18437v1)|null|
-|**2025-02-25**|**AgentRM: Enhancing Agent Generalization with Reward Modeling**|Yu Xia et.al.|[2502.18407v1](http://arxiv.org/abs/2502.18407v1)|null|
-|**2025-02-25**|**Quantum extreme learning machines for photonic entanglement witnessing**|Danilo Zia et.al.|[2502.18361v1](http://arxiv.org/abs/2502.18361v1)|null|
-|**2025-02-25**|**Responsible AI Agents**|Deven R. Desai et.al.|[2502.18359v1](http://arxiv.org/abs/2502.18359v1)|null|
-|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356v1](http://arxiv.org/abs/2502.18356v1)|null|
-|**2025-02-25**|**RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction**|Jianhao Yan et.al.|[2502.18308v1](http://arxiv.org/abs/2502.18308v1)|null|
-|**2025-02-25**|**Smart and Efficient IoT-Based Irrigation System Design: Utilizing a Hybrid Agent-Based and System Dynamics Approach**|Taha Ahmadi Pargo et.al.|[2502.18298v1](http://arxiv.org/abs/2502.18298v1)|null|
-|**2025-02-25**|**A Competitive Posted-Price Mechanism for Online Budget-Feasible Auctions**|Andreas Charalampopoulos et.al.|[2502.18265v1](http://arxiv.org/abs/2502.18265v1)|null|
-|**2025-02-25**|**Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent**|Xiaofeng Wang et.al.|[2502.18228v1](http://arxiv.org/abs/2502.18228v1)|null|
-|**2025-02-25**|**LAG: LLM agents for Leaderboard Auto Generation on Demanding**|Jian Wu et.al.|[2502.18209v1](http://arxiv.org/abs/2502.18209v1)|null|
-|**2025-02-25**|**Intersubjective Model of AI-mediated Communication: Augmenting Human-Human Text Chat through LLM-based Adaptive Agent Pair**|Shutaro Aoyama et.al.|[2502.18201v1](http://arxiv.org/abs/2502.18201v1)|null|
-|**2025-02-25**|**ChatMotion: A Multimodal Multi-Agent for Human Motion Analysis**|Li Lei et.al.|[2502.18180v1](http://arxiv.org/abs/2502.18180v1)|null|
-|**2025-02-25**|**Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation**|Ziyue Lin et.al.|[2502.18145v1](http://arxiv.org/abs/2502.18145v1)|null|
-|**2025-02-25**|**Large Language Model Driven Agents for Simulating Echo Chamber Formation**|Chenhao Gu et.al.|[2502.18138v1](http://arxiv.org/abs/2502.18138v1)|null|
-|**2025-02-25**|**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**|Ryo Takizawa et.al.|[2502.18121v1](http://arxiv.org/abs/2502.18121v1)|null|
-|**2025-02-25**|**Controlling dynamics of stochastic systems with deep reinforcement learning**|Ruslan Mukhamadiarov et.al.|[2502.18111v1](http://arxiv.org/abs/2502.18111v1)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
-|**2025-02-25**|**ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents**|Qiuchen Wang et.al.|[2502.18017v1](http://arxiv.org/abs/2502.18017v1)|null|
-|**2025-02-25**|**LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena**|Tianmi Ma et.al.|[2502.17967v1](http://arxiv.org/abs/2502.17967v1)|null|
-|**2025-02-25**|**The Dynamics of Collective Creativity in Human-AI Social Networks**|Shota Shiiku et.al.|[2502.17962v1](http://arxiv.org/abs/2502.17962v1)|null|
-|**2025-02-25**|**Advising Agent for Supporting Human-Multi-Drone Team Collaboration**|Hodaya Barr et.al.|[2502.17960v1](http://arxiv.org/abs/2502.17960v1)|null|
-|**2025-02-25**|**Assessing Large Language Models in Agentic Multilingual National Bias**|Qianying Liu et.al.|[2502.17945v1](http://arxiv.org/abs/2502.17945v1)|null|
-|**2025-02-25**|**FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models**|Hongzhan Lin et.al.|[2502.17924v1](http://arxiv.org/abs/2502.17924v1)|null|
-|**2025-02-25**|**Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption**|Lars Krupp et.al.|[2502.17903v1](http://arxiv.org/abs/2502.17903v1)|null|
-|**2025-02-25**|**Towards Enhanced Immersion and Agency for LLM-based Interactive Drama**|Hongqiu Wu et.al.|[2502.17878v1](http://arxiv.org/abs/2502.17878v1)|null|
-|**2025-02-25**|**Maximum Welfare Allocations under Quantile Valuations**|Haris Aziz et.al.|[2502.17869v1](http://arxiv.org/abs/2502.17869v1)|null|
-|**2025-02-25**|**SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing**|Run Chen et.al.|[2502.17857v1](http://arxiv.org/abs/2502.17857v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
@@ -322,6 +254,74 @@
 |**2025-02-25**|**Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**|Istiaq Ahmed Fahad et.al.|[2502.17843v1](http://arxiv.org/abs/2502.17843v1)|null|
 |**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822v1](http://arxiv.org/abs/2502.17822v1)|null|
 |**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[2502.17821v1](http://arxiv.org/abs/2502.17821v1)|null|
+
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452v1](http://arxiv.org/abs/2502.18452v1)|null|
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439v1](http://arxiv.org/abs/2502.18439v1)|null|
+|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438v1](http://arxiv.org/abs/2502.18438v1)|null|
+|**2025-02-25**|**CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**|Yafei Ou et.al.|[2502.18437v1](http://arxiv.org/abs/2502.18437v1)|null|
+|**2025-02-25**|**AgentRM: Enhancing Agent Generalization with Reward Modeling**|Yu Xia et.al.|[2502.18407v1](http://arxiv.org/abs/2502.18407v1)|null|
+|**2025-02-25**|**Quantum extreme learning machines for photonic entanglement witnessing**|Danilo Zia et.al.|[2502.18361v1](http://arxiv.org/abs/2502.18361v1)|null|
+|**2025-02-25**|**Responsible AI Agents**|Deven R. Desai et.al.|[2502.18359v1](http://arxiv.org/abs/2502.18359v1)|null|
+|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356v1](http://arxiv.org/abs/2502.18356v1)|null|
+|**2025-02-25**|**RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction**|Jianhao Yan et.al.|[2502.18308v1](http://arxiv.org/abs/2502.18308v1)|null|
+|**2025-02-25**|**Smart and Efficient IoT-Based Irrigation System Design: Utilizing a Hybrid Agent-Based and System Dynamics Approach**|Taha Ahmadi Pargo et.al.|[2502.18298v1](http://arxiv.org/abs/2502.18298v1)|null|
+|**2025-02-25**|**A Competitive Posted-Price Mechanism for Online Budget-Feasible Auctions**|Andreas Charalampopoulos et.al.|[2502.18265v1](http://arxiv.org/abs/2502.18265v1)|null|
+|**2025-02-25**|**Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent**|Xiaofeng Wang et.al.|[2502.18228v1](http://arxiv.org/abs/2502.18228v1)|null|
+|**2025-02-25**|**LAG: LLM agents for Leaderboard Auto Generation on Demanding**|Jian Wu et.al.|[2502.18209v1](http://arxiv.org/abs/2502.18209v1)|null|
+|**2025-02-25**|**Intersubjective Model of AI-mediated Communication: Augmenting Human-Human Text Chat through LLM-based Adaptive Agent Pair**|Shutaro Aoyama et.al.|[2502.18201v1](http://arxiv.org/abs/2502.18201v1)|null|
+|**2025-02-25**|**ChatMotion: A Multimodal Multi-Agent for Human Motion Analysis**|Li Lei et.al.|[2502.18180v1](http://arxiv.org/abs/2502.18180v1)|null|
+|**2025-02-25**|**Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation**|Ziyue Lin et.al.|[2502.18145v1](http://arxiv.org/abs/2502.18145v1)|null|
+|**2025-02-25**|**Large Language Model Driven Agents for Simulating Echo Chamber Formation**|Chenhao Gu et.al.|[2502.18138v1](http://arxiv.org/abs/2502.18138v1)|null|
+|**2025-02-25**|**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**|Ryo Takizawa et.al.|[2502.18121v1](http://arxiv.org/abs/2502.18121v1)|null|
+|**2025-02-25**|**Controlling dynamics of stochastic systems with deep reinforcement learning**|Ruslan Mukhamadiarov et.al.|[2502.18111v1](http://arxiv.org/abs/2502.18111v1)|null|
+|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
+|**2025-02-25**|**ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents**|Qiuchen Wang et.al.|[2502.18017v1](http://arxiv.org/abs/2502.18017v1)|null|
+|**2025-02-25**|**LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena**|Tianmi Ma et.al.|[2502.17967v1](http://arxiv.org/abs/2502.17967v1)|null|
+|**2025-02-25**|**The Dynamics of Collective Creativity in Human-AI Social Networks**|Shota Shiiku et.al.|[2502.17962v1](http://arxiv.org/abs/2502.17962v1)|null|
+|**2025-02-25**|**Advising Agent for Supporting Human-Multi-Drone Team Collaboration**|Hodaya Barr et.al.|[2502.17960v1](http://arxiv.org/abs/2502.17960v1)|null|
+|**2025-02-25**|**Assessing Large Language Models in Agentic Multilingual National Bias**|Qianying Liu et.al.|[2502.17945v1](http://arxiv.org/abs/2502.17945v1)|null|
+|**2025-02-25**|**FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models**|Hongzhan Lin et.al.|[2502.17924v1](http://arxiv.org/abs/2502.17924v1)|null|
+|**2025-02-25**|**Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption**|Lars Krupp et.al.|[2502.17903v1](http://arxiv.org/abs/2502.17903v1)|null|
+|**2025-02-25**|**Towards Enhanced Immersion and Agency for LLM-based Interactive Drama**|Hongqiu Wu et.al.|[2502.17878v1](http://arxiv.org/abs/2502.17878v1)|null|
+|**2025-02-25**|**Maximum Welfare Allocations under Quantile Valuations**|Haris Aziz et.al.|[2502.17869v1](http://arxiv.org/abs/2502.17869v1)|null|
+|**2025-02-25**|**SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing**|Run Chen et.al.|[2502.17857v1](http://arxiv.org/abs/2502.17857v1)|null|
+
+### Benchmark
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439v1](http://arxiv.org/abs/2502.18439v1)|null|
+|**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435v1](http://arxiv.org/abs/2502.18435v1)|null|
+|**2025-02-25**|**TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning**|Frederikus Hudi et.al.|[2502.18431v1](http://arxiv.org/abs/2502.18431v1)|null|
+|**2025-02-25**|**Compressing Language Models for Specialized Domains**|Miles Williams et.al.|[2502.18424v1](http://arxiv.org/abs/2502.18424v1)|null|
+|**2025-02-25**|**When Benchmarks Talk: Re-Evaluating Code LLMs with Interactive Feedback**|Jane Pan et.al.|[2502.18413v1](http://arxiv.org/abs/2502.18413v1)|null|
+|**2025-02-25**|**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**|Xiangyu Zhao et.al.|[2502.18411v1](http://arxiv.org/abs/2502.18411v1)|null|
+|**2025-02-25**|**The FFT Strikes Back: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394v1](http://arxiv.org/abs/2502.18394v1)|null|
+|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356v1](http://arxiv.org/abs/2502.18356v1)|null|
+|**2025-02-25**|**From Vision to Sound: Advancing Audio Anomaly Detection with Vision-Based Algorithms**|Manuel Barusco et.al.|[2502.18328v1](http://arxiv.org/abs/2502.18328v1)|null|
+|**2025-02-25**|**WiCkeD: A Simple Method to Make Multiple Choice Benchmarks More Challenging**|Ahmed Elhady et.al.|[2502.18316v1](http://arxiv.org/abs/2502.18316v1)|null|
+|**2025-02-25**|**Learning atomic forces from uncertainty-calibrated adversarial attacks**|Henrique Musseli Cezar et.al.|[2502.18314v1](http://arxiv.org/abs/2502.18314v1)|null|
+|**2025-02-25**|**RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction**|Jianhao Yan et.al.|[2502.18308v1](http://arxiv.org/abs/2502.18308v1)|null|
+|**2025-02-25**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290v1](http://arxiv.org/abs/2502.18290v1)|null|
+|**2025-02-25**|**Neural Network Graph Similarity Computation Based on Graph Fusion**|Zenghui Chang et.al.|[2502.18291v1](http://arxiv.org/abs/2502.18291v1)|null|
+|**2025-02-25**|**Strategies for Feature-Assisted Development of Topology Agnostic Planar Antennas Using Variable-Fidelity Models**|Adrian Bekasiewicz et.al.|[2502.18275v1](http://arxiv.org/abs/2502.18275v1)|null|
+|**2025-02-25**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274v1](http://arxiv.org/abs/2502.18274v1)|null|
+|**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang et.al.|[2502.18220v1](http://arxiv.org/abs/2502.18220v1)|null|
+|**2025-02-25**|**A Normal Variance Mixture Model for Robust Kalman Filtering**|Michael J. Walsh et.al.|[2502.18206v1](http://arxiv.org/abs/2502.18206v1)|null|
+|**2025-02-25**|**DenoMAE2.0: Improving Denoising Masked Autoencoders by Classifying Local Patches**|Atik Faysal et.al.|[2502.18202v1](http://arxiv.org/abs/2502.18202v1)|null|
+|**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195v1](http://arxiv.org/abs/2502.18195v1)|null|
+|**2025-02-25**|**Exact Algorithms for Minimum Dilation Triangulation**|Sándor P. Fekete et.al.|[2502.18189v1](http://arxiv.org/abs/2502.18189v1)|null|
+|**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179v1](http://arxiv.org/abs/2502.18179v1)|null|
+|**2025-02-25**|**A Real-time Spatio-Temporal Trajectory Planner for Autonomous Vehicles with Semantic Graph Optimization**|Shan He et.al.|[2502.18151v1](http://arxiv.org/abs/2502.18151v1)|null|
+|**2025-02-25**|**NusaAksara: A Multimodal and Multilingual Benchmark for Preserving Indonesian Indigenous Scripts**|Muhammad Farid Adilazuarda et.al.|[2502.18148v1](http://arxiv.org/abs/2502.18148v1)|null|
+|**2025-02-25**|**LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking**|Yunfeng Li et.al.|[2502.18143v1](http://arxiv.org/abs/2502.18143v1)|null|
+|**2025-02-25**|**Large Language Model Driven Agents for Simulating Echo Chamber Formation**|Chenhao Gu et.al.|[2502.18138v1](http://arxiv.org/abs/2502.18138v1)|null|
+|**2025-02-25**|**Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**|Wenkai Yang et.al.|[2502.18080v1](http://arxiv.org/abs/2502.18080v1)|null|
+|**2025-02-25**|**HEROS-GAN: Honed-Energy Regularized and Optimal Supervised GAN for Enhancing Accuracy and Range of Low-Cost Accelerometers**|Yifeng Wang et.al.|[2502.18064v1](http://arxiv.org/abs/2502.18064v1)|null|
+|**2025-02-25**|**Progressive Local Alignment for Medical Multimodal Pre-training**|Huimin Yan et.al.|[2502.18047v1](http://arxiv.org/abs/2502.18047v1)|null|
+|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
 
 ## CG
 
