@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-27 21:03:07 Asia/Shanghai
+ Automated deployment @ 2025-02-28 09:18:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -49,74 +49,6 @@
 
 ## AI
 
-### Survey
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411v1](http://arxiv.org/abs/2502.19411v1)|null|
-|**2025-02-26**|**An emulation-based model for the projected correlation function**|Vetle A. Vikenes et.al.|[2502.19353v1](http://arxiv.org/abs/2502.19353v1)|null|
-|**2025-02-26**|**Limits and challenges of the detection of cluster-scale diffuse radio emission at high redshift: The Massive and Distant Clusters of WISE Survey (MaDCoWS) in LoTSS-DR2**|G. Di Gennaro et.al.|[2502.19273v1](http://arxiv.org/abs/2502.19273v1)|null|
-|**2025-02-26**|**Age Group Sensitivity Analysis of Epidemic Models: Investigating the Impact of Contact Matrix Structure**|Zsolt Vizi et.al.|[2502.19206v1](http://arxiv.org/abs/2502.19206v1)|null|
-|**2025-02-26**|**The JWST/PASSAGE Survey: Testing Reionization Histories with JWST's First Unbiased Survey for Lyman alpha Emitters at Redshifts 7.5-9.5**|Axel Runnholm et.al.|[2502.19174v1](http://arxiv.org/abs/2502.19174v1)|null|
-|**2025-02-26**|**A Survey on Foundation-Model-Based Industrial Defect Detection**|Tianle Yang et.al.|[2502.19106v1](http://arxiv.org/abs/2502.19106v1)|null|
-|**2025-02-26**|**X-ray and CO-Derived Column Densities in AGN: A Study of Obscuration Properties in CTAGN and Non-CTAGN**|M. L. H. Musa et.al.|[2502.19059v1](http://arxiv.org/abs/2502.19059v1)|null|
-|**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023v1](http://arxiv.org/abs/2502.19023v1)|null|
-|**2025-02-26**|**Binary Neural Networks for Large Language Model: A Survey**|Liangdong Liu et.al.|[2502.19008v1](http://arxiv.org/abs/2502.19008v1)|null|
-|**2025-02-26**|**(Mis)Fitting: A Survey of Scaling Laws**|Margaret Li et.al.|[2502.18969v1](http://arxiv.org/abs/2502.18969v1)|null|
-|**2025-02-26**|**Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs**|Jungsoo Park et.al.|[2502.18791v1](http://arxiv.org/abs/2502.18791v1)|null|
-|**2025-02-26**|**Delensing for Precision Cosmology: Optimizing Future CMB B-mode Surveys to Constrain r**|Wen-Zheng Chen et.al.|[2502.18790v1](http://arxiv.org/abs/2502.18790v1)|null|
-|**2025-02-26**|**Central Velocity Dispersion being the Primary Driver of Abundance Patterns in Quenched Galaxies**|Haixin Li et.al.|[2502.18785v1](http://arxiv.org/abs/2502.18785v1)|null|
-|**2025-02-26**|**The distribution of galaxy rotation in JWST Advanced Deep Extragalactic Survey**|Lior Shamir et.al.|[2502.18781v1](http://arxiv.org/abs/2502.18781v1)|null|
-|**2025-02-26**|**Measuring risks inherent to our digital economies using Amazon purchase histories from US consumers**|Alex Berke et.al.|[2502.18774v1](http://arxiv.org/abs/2502.18774v1)|null|
-|**2025-02-26**|**Automatic Prompt Optimization via Heuristic Search: A Survey**|Wendi Cui et.al.|[2502.18746v1](http://arxiv.org/abs/2502.18746v1)|null|
-|**2025-02-26**|**A Challenge of Developing a Classifier for Multi-Band Classification of Variable Stars**|Xiao-Hui Xu et.al.|[2502.18731v1](http://arxiv.org/abs/2502.18731v1)|null|
-|**2025-02-26**|**Random Forest-of-Thoughts: Uncertainty-aware Reasoning for Computational Social Science**|Xiaohua Wu et.al.|[2502.18729v1](http://arxiv.org/abs/2502.18729v1)|null|
-|**2025-02-26**|**The Detection Rate of Associated \mgii\ Absorption Lines in Quasars Depends on Their Radio Emission**|Chen ZF et.al.|[2502.18720v1](http://arxiv.org/abs/2502.18720v1)|null|
-|**2025-02-25**|**Radiative Transfer Simulations of Ly$α$ Intensity Mapping During Cosmic Reionization Including Sources from Galaxies and the Intergalactic Medium**|Abigail E. Ambrose et.al.|[2502.18654v1](http://arxiv.org/abs/2502.18654v1)|null|
-|**2025-02-25**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651v1](http://arxiv.org/abs/2502.18651v1)|null|
-|**2025-02-25**|**CAPOS: The bulge Cluster APOGEE Survey VII: First detailed chemical analysis of NGC 6316**|Heinz Frelijj et.al.|[2502.18607v1](http://arxiv.org/abs/2502.18607v1)|null|
-|**2025-02-25**|**"Frog-eyes" in Astronomy: Monitoring Binary Radial Velocity Variations Through A Pair of Narrow-Band Filters**|Chuanjie Zheng et.al.|[2502.18567v1](http://arxiv.org/abs/2502.18567v1)|null|
-|**2025-02-25**|**Transfer Learning for Transient Classification: From Simulations to Real Data and ZTF to LSST**|Rithwik Gupta et.al.|[2502.18558v1](http://arxiv.org/abs/2502.18558v1)|null|
-|**2025-02-25**|**Unveiling the Aromatic and Aliphatic Universe at Redshifts $z\sim$0.2--0.5 with JWST/NIRCam**|Jianwei Lyu et.al.|[2502.18464v1](http://arxiv.org/abs/2502.18464v1)|null|
-|**2025-02-25**|**Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation**|Jessica He et.al.|[2502.18357v1](http://arxiv.org/abs/2502.18357v1)|null|
-|**2025-02-25**|**High-velocity outflows in [OIII] emitters at z=2.5-9 from JWST NIRSpec medium-resolution spectroscopy**|Ryan A. Cooper et.al.|[2502.18310v2](http://arxiv.org/abs/2502.18310v2)|null|
-|**2025-02-25**|**Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases**|Shanshan Xu et.al.|[2502.18282v1](http://arxiv.org/abs/2502.18282v1)|null|
-|**2025-02-25**|**Social Dynamics: Parameter Estimate**|Michael Zhdanov et.al.|[2502.18172v1](http://arxiv.org/abs/2502.18172v1)|null|
-|**2025-02-25**|**Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation**|Ziyue Lin et.al.|[2502.18145v1](http://arxiv.org/abs/2502.18145v1)|null|
-
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411v1](http://arxiv.org/abs/2502.19411v1)|null|
-|**2025-02-26**|**ARENA: Adaptive Risk-aware and Energy-efficient NAvigation for Multi-Objective 3D Infrastructure Inspection with a UAV**|David-Alexandre Poissant et.al.|[2502.19401v1](http://arxiv.org/abs/2502.19401v1)|null|
-|**2025-02-26**|**Limited hysteresis in the atmospheric dynamics of hot Jupiters**|Thaddeus D. Komacek et.al.|[2502.19394v1](http://arxiv.org/abs/2502.19394v1)|null|
-|**2025-02-26**|**Surface-Based Manipulation**|Ziqiao Wang et.al.|[2502.19389v1](http://arxiv.org/abs/2502.19389v1)|null|
-|**2025-02-26**|**Non-paraxial effects on laser-qubit interactions**|L. P. H. Gallagher et.al.|[2502.19345v1](http://arxiv.org/abs/2502.19345v1)|null|
-|**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313v1](http://arxiv.org/abs/2502.19313v1)|null|
-|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260v1](http://arxiv.org/abs/2502.19260v1)|null|
-|**2025-02-26**|**Chiral symmetry breaking and restoration by helical magnetic fields in AdS/CFT**|Martí Berenguer et.al.|[2502.19197v1](http://arxiv.org/abs/2502.19197v1)|null|
-|**2025-02-26**|**Embodying mechano-fluidic memory in soft machines to program behaviors upon interactions**|Alberto Comoretto et.al.|[2502.19192v1](http://arxiv.org/abs/2502.19192v1)|null|
-|**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177v1](http://arxiv.org/abs/2502.19177v1)|null|
-|**2025-02-26**|**DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials**|Jinzhe Zeng et.al.|[2502.19161v1](http://arxiv.org/abs/2502.19161v1)|null|
-|**2025-02-26**|**Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems**|Pierre Peigne-Lefebvre et.al.|[2502.19145v1](http://arxiv.org/abs/2502.19145v1)|null|
-|**2025-02-26**|**Chemical knowledge-informed framework for privacy-aware retrosynthesis learning**|Guikun Chen et.al.|[2502.19119v1](http://arxiv.org/abs/2502.19119v1)|null|
-|**2025-02-26**|**Naked Eye Three-dimensional Display System Based on Time-multiplexed Technology**|Ziyang Liu et.al.|[2502.19099v1](http://arxiv.org/abs/2502.19099v1)|null|
-|**2025-02-26**|**A few-layer graphene nanomechanical resonator driven by digitally modulated video signals**|Ce Zhang et.al.|[2502.19040v1](http://arxiv.org/abs/2502.19040v1)|null|
-|**2025-02-26**|**Resolving Rydberg-Electron Recapture Dynamics via Laser-driven Frustrated Tunneling Ionization**|Sainan Peng et.al.|[2502.19007v1](http://arxiv.org/abs/2502.19007v1)|null|
-|**2025-02-26**|**Novel approach for non-invasive phase-sensitive 2D imaging of biological objects with photovoltaic trapping**|Lusine Tsarukyan et.al.|[2502.19001v1](http://arxiv.org/abs/2502.19001v1)|null|
-|**2025-02-26**|**Application of quasi-Monte Carlo in Mine Countermeasure Simulations with a Stochastic Optimal Control Framework**|Philippe Blondeel et.al.|[2502.18997v1](http://arxiv.org/abs/2502.18997v1)|null|
-|**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|null|
-|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
-|**2025-02-26**|**Unveiling Crystalline Order from Glassy Behavior of Charged Rods at Very Low Salt Concentrations**|Hanna Anop et.al.|[2502.18920v1](http://arxiv.org/abs/2502.18920v1)|null|
-|**2025-02-26**|**Measuring trade costs and analyzing the determinants of trade growth between Cambodia and major trading partners: 1993 to 2019**|Borin Keo et.al.|[2502.18916v1](http://arxiv.org/abs/2502.18916v1)|null|
-|**2025-02-26**|**Automated Code Generation and Validation for Software Components of Microcontrollers**|Sebastian Haug et.al.|[2502.18905v1](http://arxiv.org/abs/2502.18905v1)|null|
-|**2025-02-26**|**Intelligence Test**|Jingtao Zhan et.al.|[2502.18858v1](http://arxiv.org/abs/2502.18858v1)|null|
-|**2025-02-26**|**RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**|Zhitao Wang et.al.|[2502.18846v1](http://arxiv.org/abs/2502.18846v1)|null|
-|**2025-02-26**|**REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems**|Longling Geng et.al.|[2502.18836v1](http://arxiv.org/abs/2502.18836v1)|null|
-|**2025-02-26**|**Symmetry breaking of large-amplitude parametric oscillations in a few-layer graphene nanomechanical resonator**|Chen Yang et.al.|[2502.18827v1](http://arxiv.org/abs/2502.18827v1)|null|
-|**2025-02-26**|**Learning Autonomy: Off-Road Navigation Enhanced by Human Input**|Akhil Nagariya et.al.|[2502.18760v1](http://arxiv.org/abs/2502.18760v1)|null|
-|**2025-02-26**|**Automatic Prompt Optimization via Heuristic Search: A Survey**|Wendi Cui et.al.|[2502.18746v1](http://arxiv.org/abs/2502.18746v1)|null|
-|**2025-02-26**|**Adversarial Universal Stickers: Universal Perturbation Attacks on Traffic Sign using Stickers**|Anthony Etim et.al.|[2502.18724v1](http://arxiv.org/abs/2502.18724v1)|null|
-
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -151,6 +83,40 @@
 |**2025-02-26**|**FedCDC: A Collaborative Framework for Data Consumers in Federated Learning Market**|Zhuan Shi et.al.|[2502.19109v1](http://arxiv.org/abs/2502.19109v1)|null|
 |**2025-02-26**|**LongEval: A Comprehensive Analysis of Long-Text Generation Through a Plan-based Paradigm**|Siwei Wu et.al.|[2502.19103v1](http://arxiv.org/abs/2502.19103v1)|null|
 
+### Survey
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411v1](http://arxiv.org/abs/2502.19411v1)|null|
+|**2025-02-26**|**An emulation-based model for the projected correlation function**|Vetle A. Vikenes et.al.|[2502.19353v1](http://arxiv.org/abs/2502.19353v1)|null|
+|**2025-02-26**|**Limits and challenges of the detection of cluster-scale diffuse radio emission at high redshift: The Massive and Distant Clusters of WISE Survey (MaDCoWS) in LoTSS-DR2**|G. Di Gennaro et.al.|[2502.19273v1](http://arxiv.org/abs/2502.19273v1)|null|
+|**2025-02-26**|**Age Group Sensitivity Analysis of Epidemic Models: Investigating the Impact of Contact Matrix Structure**|Zsolt Vizi et.al.|[2502.19206v1](http://arxiv.org/abs/2502.19206v1)|null|
+|**2025-02-26**|**The JWST/PASSAGE Survey: Testing Reionization Histories with JWST's First Unbiased Survey for Lyman alpha Emitters at Redshifts 7.5-9.5**|Axel Runnholm et.al.|[2502.19174v1](http://arxiv.org/abs/2502.19174v1)|null|
+|**2025-02-26**|**A Survey on Foundation-Model-Based Industrial Defect Detection**|Tianle Yang et.al.|[2502.19106v1](http://arxiv.org/abs/2502.19106v1)|null|
+|**2025-02-26**|**X-ray and CO-Derived Column Densities in AGN: A Study of Obscuration Properties in CTAGN and Non-CTAGN**|M. L. H. Musa et.al.|[2502.19059v1](http://arxiv.org/abs/2502.19059v1)|null|
+|**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023v1](http://arxiv.org/abs/2502.19023v1)|null|
+|**2025-02-26**|**Binary Neural Networks for Large Language Model: A Survey**|Liangdong Liu et.al.|[2502.19008v1](http://arxiv.org/abs/2502.19008v1)|null|
+|**2025-02-26**|**(Mis)Fitting: A Survey of Scaling Laws**|Margaret Li et.al.|[2502.18969v1](http://arxiv.org/abs/2502.18969v1)|null|
+|**2025-02-26**|**Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs**|Jungsoo Park et.al.|[2502.18791v1](http://arxiv.org/abs/2502.18791v1)|null|
+|**2025-02-26**|**Delensing for Precision Cosmology: Optimizing Future CMB B-mode Surveys to Constrain r**|Wen-Zheng Chen et.al.|[2502.18790v1](http://arxiv.org/abs/2502.18790v1)|null|
+|**2025-02-26**|**Central Velocity Dispersion being the Primary Driver of Abundance Patterns in Quenched Galaxies**|Haixin Li et.al.|[2502.18785v1](http://arxiv.org/abs/2502.18785v1)|null|
+|**2025-02-26**|**The distribution of galaxy rotation in JWST Advanced Deep Extragalactic Survey**|Lior Shamir et.al.|[2502.18781v1](http://arxiv.org/abs/2502.18781v1)|null|
+|**2025-02-26**|**Measuring risks inherent to our digital economies using Amazon purchase histories from US consumers**|Alex Berke et.al.|[2502.18774v1](http://arxiv.org/abs/2502.18774v1)|null|
+|**2025-02-26**|**Automatic Prompt Optimization via Heuristic Search: A Survey**|Wendi Cui et.al.|[2502.18746v1](http://arxiv.org/abs/2502.18746v1)|null|
+|**2025-02-26**|**A Challenge of Developing a Classifier for Multi-Band Classification of Variable Stars**|Xiao-Hui Xu et.al.|[2502.18731v1](http://arxiv.org/abs/2502.18731v1)|null|
+|**2025-02-26**|**Random Forest-of-Thoughts: Uncertainty-aware Reasoning for Computational Social Science**|Xiaohua Wu et.al.|[2502.18729v1](http://arxiv.org/abs/2502.18729v1)|null|
+|**2025-02-26**|**The Detection Rate of Associated \mgii\ Absorption Lines in Quasars Depends on Their Radio Emission**|Chen ZF et.al.|[2502.18720v1](http://arxiv.org/abs/2502.18720v1)|null|
+|**2025-02-25**|**Radiative Transfer Simulations of Ly$α$ Intensity Mapping During Cosmic Reionization Including Sources from Galaxies and the Intergalactic Medium**|Abigail E. Ambrose et.al.|[2502.18654v1](http://arxiv.org/abs/2502.18654v1)|null|
+|**2025-02-25**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651v1](http://arxiv.org/abs/2502.18651v1)|null|
+|**2025-02-25**|**CAPOS: The bulge Cluster APOGEE Survey VII: First detailed chemical analysis of NGC 6316**|Heinz Frelijj et.al.|[2502.18607v1](http://arxiv.org/abs/2502.18607v1)|null|
+|**2025-02-25**|**"Frog-eyes" in Astronomy: Monitoring Binary Radial Velocity Variations Through A Pair of Narrow-Band Filters**|Chuanjie Zheng et.al.|[2502.18567v1](http://arxiv.org/abs/2502.18567v1)|null|
+|**2025-02-25**|**Transfer Learning for Transient Classification: From Simulations to Real Data and ZTF to LSST**|Rithwik Gupta et.al.|[2502.18558v1](http://arxiv.org/abs/2502.18558v1)|null|
+|**2025-02-25**|**Unveiling the Aromatic and Aliphatic Universe at Redshifts $z\sim$0.2--0.5 with JWST/NIRCam**|Jianwei Lyu et.al.|[2502.18464v1](http://arxiv.org/abs/2502.18464v1)|null|
+|**2025-02-25**|**Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation**|Jessica He et.al.|[2502.18357v1](http://arxiv.org/abs/2502.18357v1)|null|
+|**2025-02-25**|**High-velocity outflows in [OIII] emitters at z=2.5-9 from JWST NIRSpec medium-resolution spectroscopy**|Ryan A. Cooper et.al.|[2502.18310v2](http://arxiv.org/abs/2502.18310v2)|null|
+|**2025-02-25**|**Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases**|Shanshan Xu et.al.|[2502.18282v1](http://arxiv.org/abs/2502.18282v1)|null|
+|**2025-02-25**|**Social Dynamics: Parameter Estimate**|Michael Zhdanov et.al.|[2502.18172v1](http://arxiv.org/abs/2502.18172v1)|null|
+|**2025-02-25**|**Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation**|Ziyue Lin et.al.|[2502.18145v1](http://arxiv.org/abs/2502.18145v1)|null|
+
 ### Embodied Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -184,6 +150,40 @@
 |**2025-02-26**|**Fewer May Be Better: Enhancing Offline Reinforcement Learning with Reduced Dataset**|Yiqin Yang et.al.|[2502.18955v1](http://arxiv.org/abs/2502.18955v1)|null|
 |**2025-02-26**|**VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model**|Jiani Zheng et.al.|[2502.18906v1](http://arxiv.org/abs/2502.18906v1)|null|
 |**2025-02-26**|**Distributed Online Task Assignment via Inexact ADMM for unplanned online tasks and its Applications to Security**|Ziqi Yang et.al.|[2502.18893v1](http://arxiv.org/abs/2502.18893v1)|null|
+
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411v1](http://arxiv.org/abs/2502.19411v1)|null|
+|**2025-02-26**|**ARENA: Adaptive Risk-aware and Energy-efficient NAvigation for Multi-Objective 3D Infrastructure Inspection with a UAV**|David-Alexandre Poissant et.al.|[2502.19401v1](http://arxiv.org/abs/2502.19401v1)|null|
+|**2025-02-26**|**Limited hysteresis in the atmospheric dynamics of hot Jupiters**|Thaddeus D. Komacek et.al.|[2502.19394v1](http://arxiv.org/abs/2502.19394v1)|null|
+|**2025-02-26**|**Surface-Based Manipulation**|Ziqiao Wang et.al.|[2502.19389v1](http://arxiv.org/abs/2502.19389v1)|null|
+|**2025-02-26**|**Non-paraxial effects on laser-qubit interactions**|L. P. H. Gallagher et.al.|[2502.19345v1](http://arxiv.org/abs/2502.19345v1)|null|
+|**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313v1](http://arxiv.org/abs/2502.19313v1)|null|
+|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260v1](http://arxiv.org/abs/2502.19260v1)|null|
+|**2025-02-26**|**Chiral symmetry breaking and restoration by helical magnetic fields in AdS/CFT**|Martí Berenguer et.al.|[2502.19197v1](http://arxiv.org/abs/2502.19197v1)|null|
+|**2025-02-26**|**Embodying mechano-fluidic memory in soft machines to program behaviors upon interactions**|Alberto Comoretto et.al.|[2502.19192v1](http://arxiv.org/abs/2502.19192v1)|null|
+|**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177v1](http://arxiv.org/abs/2502.19177v1)|null|
+|**2025-02-26**|**DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials**|Jinzhe Zeng et.al.|[2502.19161v1](http://arxiv.org/abs/2502.19161v1)|null|
+|**2025-02-26**|**Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems**|Pierre Peigne-Lefebvre et.al.|[2502.19145v1](http://arxiv.org/abs/2502.19145v1)|null|
+|**2025-02-26**|**Chemical knowledge-informed framework for privacy-aware retrosynthesis learning**|Guikun Chen et.al.|[2502.19119v1](http://arxiv.org/abs/2502.19119v1)|null|
+|**2025-02-26**|**Naked Eye Three-dimensional Display System Based on Time-multiplexed Technology**|Ziyang Liu et.al.|[2502.19099v1](http://arxiv.org/abs/2502.19099v1)|null|
+|**2025-02-26**|**A few-layer graphene nanomechanical resonator driven by digitally modulated video signals**|Ce Zhang et.al.|[2502.19040v1](http://arxiv.org/abs/2502.19040v1)|null|
+|**2025-02-26**|**Resolving Rydberg-Electron Recapture Dynamics via Laser-driven Frustrated Tunneling Ionization**|Sainan Peng et.al.|[2502.19007v1](http://arxiv.org/abs/2502.19007v1)|null|
+|**2025-02-26**|**Novel approach for non-invasive phase-sensitive 2D imaging of biological objects with photovoltaic trapping**|Lusine Tsarukyan et.al.|[2502.19001v1](http://arxiv.org/abs/2502.19001v1)|null|
+|**2025-02-26**|**Application of quasi-Monte Carlo in Mine Countermeasure Simulations with a Stochastic Optimal Control Framework**|Philippe Blondeel et.al.|[2502.18997v1](http://arxiv.org/abs/2502.18997v1)|null|
+|**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|null|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
+|**2025-02-26**|**Unveiling Crystalline Order from Glassy Behavior of Charged Rods at Very Low Salt Concentrations**|Hanna Anop et.al.|[2502.18920v1](http://arxiv.org/abs/2502.18920v1)|null|
+|**2025-02-26**|**Measuring trade costs and analyzing the determinants of trade growth between Cambodia and major trading partners: 1993 to 2019**|Borin Keo et.al.|[2502.18916v1](http://arxiv.org/abs/2502.18916v1)|null|
+|**2025-02-26**|**Automated Code Generation and Validation for Software Components of Microcontrollers**|Sebastian Haug et.al.|[2502.18905v1](http://arxiv.org/abs/2502.18905v1)|null|
+|**2025-02-26**|**Intelligence Test**|Jingtao Zhan et.al.|[2502.18858v1](http://arxiv.org/abs/2502.18858v1)|null|
+|**2025-02-26**|**RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**|Zhitao Wang et.al.|[2502.18846v1](http://arxiv.org/abs/2502.18846v1)|null|
+|**2025-02-26**|**REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems**|Longling Geng et.al.|[2502.18836v1](http://arxiv.org/abs/2502.18836v1)|null|
+|**2025-02-26**|**Symmetry breaking of large-amplitude parametric oscillations in a few-layer graphene nanomechanical resonator**|Chen Yang et.al.|[2502.18827v1](http://arxiv.org/abs/2502.18827v1)|null|
+|**2025-02-26**|**Learning Autonomy: Off-Road Navigation Enhanced by Human Input**|Akhil Nagariya et.al.|[2502.18760v1](http://arxiv.org/abs/2502.18760v1)|null|
+|**2025-02-26**|**Automatic Prompt Optimization via Heuristic Search: A Survey**|Wendi Cui et.al.|[2502.18746v1](http://arxiv.org/abs/2502.18746v1)|null|
+|**2025-02-26**|**Adversarial Universal Stickers: Universal Perturbation Attacks on Traffic Sign using Stickers**|Anthony Etim et.al.|[2502.18724v1](http://arxiv.org/abs/2502.18724v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
@@ -350,9 +350,9 @@
 |**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463v1](http://arxiv.org/abs/2502.18463v1)|null|
 |**2025-02-25**|**Trotter error and gate complexity of the SYK and sparse SYK models**|Yiyuan Chen et.al.|[2502.18420v1](http://arxiv.org/abs/2502.18420v1)|null|
 |**2025-02-25**|**Sparse Bayesian Generative Modeling for Joint Parameter and Channel Estimation**|Benedikt Böck et.al.|[2502.18369v1](http://arxiv.org/abs/2502.18369v1)|null|
-|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347v1](http://arxiv.org/abs/2502.18347v1)|null|
+|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347v1](http://arxiv.org/abs/2502.18347v1)|[link](https://github.com/neurostatslab/clds)|
 |**2025-02-25**|**A Unified Bayesian Perspective for Conventional and Robust Adaptive Filters**|Leszek Szczecinski et.al.|[2502.18325v1](http://arxiv.org/abs/2502.18325v1)|null|
-|**2025-02-25**|**Near-Optimal Approximations for Bayesian Inference in Function Space**|Veit Wild et.al.|[2502.18279v1](http://arxiv.org/abs/2502.18279v1)|null|
+|**2025-02-25**|**Near-Optimal Approximations for Bayesian Inference in Function Space**|Veit Wild et.al.|[2502.18279v1](http://arxiv.org/abs/2502.18279v1)|[link](https://github.com/jswu18/projected-langevin-sampling)|
 |**2025-02-25**|**A Normal Variance Mixture Model for Robust Kalman Filtering**|Michael J. Walsh et.al.|[2502.18206v1](http://arxiv.org/abs/2502.18206v1)|null|
 |**2025-02-25**|**A Novel Approach to Identifying Open Star Cluster Members in {\it Gaia} DR3: Integrating MST and GMM Techniques**|Rafe Sharif et.al.|[2502.18082v1](http://arxiv.org/abs/2502.18082v1)|[link](https://github.com/Astrolab-AUT/MST-GMM-membersip)|
 |**2025-02-25**|**Unified $χ^2$ discriminators for gravitational wave searches from compact coalescing binaries**|Sanjeev Dhurandhar et.al.|[2502.18051v1](http://arxiv.org/abs/2502.18051v1)|null|
