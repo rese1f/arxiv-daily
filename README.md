@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-18 20:35:25 Asia/Shanghai
+ Automated deployment @ 2025-03-18 21:06:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -48,74 +48,6 @@
 |**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[2503.13047v1](http://arxiv.org/abs/2503.13047v1)|null|
 
 ## AI
-
-### Autonomous Driving
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430v1](http://arxiv.org/abs/2503.13430v1)|null|
-|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|null|
-|**2025-03-17**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364v1](http://arxiv.org/abs/2503.13364v1)|null|
-|**2025-03-17**|**The Impact of Stellar Flares on the Atmospheric Escape of Exoplanets orbiting M stars I: Insights from the AU Mic System**|Laura N. R. do Amaral et.al.|[2503.13353v1](http://arxiv.org/abs/2503.13353v1)|null|
-|**2025-03-17**|**RainScaleGAN: a Conditional Generative Adversarial Network for Rainfall Downscaling**|Marcello Iotti et.al.|[2503.13316v1](http://arxiv.org/abs/2503.13316v1)|null|
-|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
-|**2025-03-17**|**TablePilot; Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262v1](http://arxiv.org/abs/2503.13262v1)|null|
-|**2025-03-17**|**Starburst-Driven Galactic Outflows -- Unveiling the Suppressive Role of Cosmic Ray Halos**|Leonard E. C. Romano et.al.|[2503.13261v1](http://arxiv.org/abs/2503.13261v1)|null|
-|**2025-03-17**|**Coherent microwave comb generation via the Josephson effect**|Angelo Greco et.al.|[2503.13259v1](http://arxiv.org/abs/2503.13259v1)|null|
-|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
-|**2025-03-17**|**Robust Decision-Making Via Free Energy Minimization**|Allahkaram Shafiei et.al.|[2503.13223v1](http://arxiv.org/abs/2503.13223v1)|null|
-|**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203v1](http://arxiv.org/abs/2503.13203v1)|null|
-|**2025-03-17**|**Causes of evolutionary divergence in prostate cancer**|Emre Esenturk et.al.|[2503.13189v1](http://arxiv.org/abs/2503.13189v1)|null|
-|**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169v1](http://arxiv.org/abs/2503.13169v1)|null|
-|**2025-03-17**|**Laplace-Net: Learning Dynamical Systems with External Forcing**|Bernd Zimmering et.al.|[2503.13158v1](http://arxiv.org/abs/2503.13158v1)|null|
-|**2025-03-17**|**Crisis in time-dependent dynamical systems**|Simona Olmi et.al.|[2503.13152v1](http://arxiv.org/abs/2503.13152v1)|null|
-|**2025-03-17**|**OSLO-IC: On-the-Sphere Learned Omnidirectional Image Compression with Attention Modules and Spatial Context**|Paul Wawerek-López et.al.|[2503.13119v1](http://arxiv.org/abs/2503.13119v1)|null|
-|**2025-03-17**|**Managing Hybrid Solid-State Drives Using Large Language Models**|Qian Wei et.al.|[2503.13105v1](http://arxiv.org/abs/2503.13105v1)|null|
-|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|null|
-|**2025-03-17**|**Engineering tunable fractional Shapiro steps in colloidal transport**|Andris P. Stikuts et.al.|[2503.13049v1](http://arxiv.org/abs/2503.13049v1)|null|
-|**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[2503.13047v1](http://arxiv.org/abs/2503.13047v1)|null|
-|**2025-03-17**|**From time crystals to time quasicrystals: Exploring novel phases in transverse field Ising chains**|Davood Marripour et.al.|[2503.13033v1](http://arxiv.org/abs/2503.13033v1)|null|
-|**2025-03-17**|**Real-Time Multi-Object Tracking using YOLOv8 and SORT on a SoC FPGA**|Michal Danilowicz et.al.|[2503.13023v1](http://arxiv.org/abs/2503.13023v1)|null|
-|**2025-03-17**|**Dynamic Relation Inference via Verb Embeddings**|Omri Suissa et.al.|[2503.13021v1](http://arxiv.org/abs/2503.13021v1)|null|
-|**2025-03-17**|**Tuning the CMS Coffea-casa facility for 200 Gbps Challenge**|Sam Albin et.al.|[2503.12991v1](http://arxiv.org/abs/2503.12991v1)|null|
-|**2025-03-17**|**Microscopic mechanisms of flexoelectricity in oxide membranes**|Harikrishnan KP et.al.|[2503.12984v1](http://arxiv.org/abs/2503.12984v1)|null|
-|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982v1](http://arxiv.org/abs/2503.12982v1)|null|
-|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968v1](http://arxiv.org/abs/2503.12968v1)|null|
-|**2025-03-17**|**Unified mechanism of charge-density-wave and high-$T_c$ superconductivity protected from oxygen vacancies in bilayer nickelates**|Daisuke Inoue et.al.|[2503.12925v1](http://arxiv.org/abs/2503.12925v1)|null|
-|**2025-03-17**|**A Hierarchical Region-Based Approach for Efficient Multi-Robot Exploration**|Di Meng et.al.|[2503.12876v1](http://arxiv.org/abs/2503.12876v1)|null|
-
-### Embodied Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|null|
-|**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|null|
-|**2025-03-17**|**Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation**|Xinyu Lian et.al.|[2503.13424v1](http://arxiv.org/abs/2503.13424v1)|null|
-|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|null|
-|**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414v1](http://arxiv.org/abs/2503.13414v1)|null|
-|**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402v1](http://arxiv.org/abs/2503.13402v1)|null|
-|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|null|
-|**2025-03-17**|**Mixtures of ensembles: System separation and identification via optimal transport**|Filip Elvander et.al.|[2503.13362v1](http://arxiv.org/abs/2503.13362v1)|null|
-|**2025-03-17**|**Optimal intrinsic formation using exogenous systems**|Yueyue Xu et.al.|[2503.13359v1](http://arxiv.org/abs/2503.13359v1)|null|
-|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|null|
-|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294v1](http://arxiv.org/abs/2503.13294v1)|null|
-|**2025-03-17**|**Goal2Story: A Multi-Agent Fleet based on Privately Enabled sLLMs for Impacting Mapping on Requirements Elicitation**|Xinkai Zou et.al.|[2503.13279v1](http://arxiv.org/abs/2503.13279v1)|null|
-|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
-|**2025-03-17**|**DAgent: A Relational Database-Driven Data Analysis Report Generation Agent**|Wenyi Xu et.al.|[2503.13269v1](http://arxiv.org/abs/2503.13269v1)|null|
-|**2025-03-17**|**Robust Decision-Making Via Free Energy Minimization**|Allahkaram Shafiei et.al.|[2503.13223v1](http://arxiv.org/abs/2503.13223v1)|null|
-|**2025-03-17**|**MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**|Zhen Chen et.al.|[2503.13205v1](http://arxiv.org/abs/2503.13205v1)|null|
-|**2025-03-17**|**A representational framework for learning and encoding structurally enriched trajectories in complex agent environments**|Corina Catarau-Cotutiu et.al.|[2503.13194v1](http://arxiv.org/abs/2503.13194v1)|null|
-|**2025-03-17**|**Rapfi: Distilling Efficient Neural Network for the Game of Gomoku**|Zhanggen Jin et.al.|[2503.13178v1](http://arxiv.org/abs/2503.13178v1)|null|
-|**2025-03-17**|**Prioritized Planning for Continuous-time Lifelong Multi-agent Pathfinding**|Alvin Combrink et.al.|[2503.13175v1](http://arxiv.org/abs/2503.13175v1)|null|
-|**2025-03-17**|**HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning**|Wensheng Wang et.al.|[2503.13171v1](http://arxiv.org/abs/2503.13171v1)|null|
-|**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169v1](http://arxiv.org/abs/2503.13169v1)|null|
-|**2025-03-17**|**Actively learning equilibria in Nash games with misleading information**|Barbara Franci et.al.|[2503.13167v1](http://arxiv.org/abs/2503.13167v1)|null|
-|**2025-03-17**|**Impact of Knowledge on the Cost of Treasure Hunt in Trees**|Sébastien Bouchard et.al.|[2503.13100v1](http://arxiv.org/abs/2503.13100v1)|null|
-|**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098v1](http://arxiv.org/abs/2503.13098v1)|null|
-|**2025-03-17**|**Towards Better Sample Efficiency in Multi-Agent Reinforcement Learning via Exploration**|Amir Baghi et.al.|[2503.13077v1](http://arxiv.org/abs/2503.13077v1)|null|
-|**2025-03-17**|**Deep Hedging of Green PPAs in Electricity Markets**|Richard Biegler-König et.al.|[2503.13056v1](http://arxiv.org/abs/2503.13056v1)|null|
-|**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[2503.13047v1](http://arxiv.org/abs/2503.13047v1)|null|
-|**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993v1](http://arxiv.org/abs/2503.12993v1)|null|
-|**2025-03-17**|**Practical Abstractions for Model Checking Continuous-Time Multi-Agent Systems**|Yan Kim et.al.|[2503.12976v1](http://arxiv.org/abs/2503.12976v1)|null|
-|**2025-03-17**|**Exploring 3D Activity Reasoning and Planning: From Implicit Human Intentions to Route-Aware Planning**|Xueying Jiang et.al.|[2503.12974v1](http://arxiv.org/abs/2503.12974v1)|null|
 
 ### Benchmark
 |Publish Date|Title|Authors|PDF|Code|
@@ -184,6 +116,74 @@
 |**2025-03-16**|**Calibration of Complementary Metal-oxide-semiconductor Sensor-based Photometry to a Few-millimagnitude Precision: The Case of the Mini-SiTian Array**|Kai Xiao et.al.|[2503.12449v1](http://arxiv.org/abs/2503.12449v1)|null|
 |**2025-03-16**|**A Survey on the Optimization of Large Language Model-based Agents**|Shangheng Du et.al.|[2503.12434v1](http://arxiv.org/abs/2503.12434v1)|null|
 |**2025-03-15**|**The "recognition," "belief," and "action" regarding conspiracy theories: An empirical study using large-scale samples from Japan and the United States**|Taichi Murayama et.al.|[2503.12166v1](http://arxiv.org/abs/2503.12166v1)|null|
+
+### Embodied Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|null|
+|**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|null|
+|**2025-03-17**|**Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation**|Xinyu Lian et.al.|[2503.13424v1](http://arxiv.org/abs/2503.13424v1)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|null|
+|**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414v1](http://arxiv.org/abs/2503.13414v1)|null|
+|**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402v1](http://arxiv.org/abs/2503.13402v1)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|null|
+|**2025-03-17**|**Mixtures of ensembles: System separation and identification via optimal transport**|Filip Elvander et.al.|[2503.13362v1](http://arxiv.org/abs/2503.13362v1)|null|
+|**2025-03-17**|**Optimal intrinsic formation using exogenous systems**|Yueyue Xu et.al.|[2503.13359v1](http://arxiv.org/abs/2503.13359v1)|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|null|
+|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294v1](http://arxiv.org/abs/2503.13294v1)|null|
+|**2025-03-17**|**Goal2Story: A Multi-Agent Fleet based on Privately Enabled sLLMs for Impacting Mapping on Requirements Elicitation**|Xinkai Zou et.al.|[2503.13279v1](http://arxiv.org/abs/2503.13279v1)|null|
+|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
+|**2025-03-17**|**DAgent: A Relational Database-Driven Data Analysis Report Generation Agent**|Wenyi Xu et.al.|[2503.13269v1](http://arxiv.org/abs/2503.13269v1)|null|
+|**2025-03-17**|**Robust Decision-Making Via Free Energy Minimization**|Allahkaram Shafiei et.al.|[2503.13223v1](http://arxiv.org/abs/2503.13223v1)|null|
+|**2025-03-17**|**MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**|Zhen Chen et.al.|[2503.13205v1](http://arxiv.org/abs/2503.13205v1)|null|
+|**2025-03-17**|**A representational framework for learning and encoding structurally enriched trajectories in complex agent environments**|Corina Catarau-Cotutiu et.al.|[2503.13194v1](http://arxiv.org/abs/2503.13194v1)|null|
+|**2025-03-17**|**Rapfi: Distilling Efficient Neural Network for the Game of Gomoku**|Zhanggen Jin et.al.|[2503.13178v1](http://arxiv.org/abs/2503.13178v1)|null|
+|**2025-03-17**|**Prioritized Planning for Continuous-time Lifelong Multi-agent Pathfinding**|Alvin Combrink et.al.|[2503.13175v1](http://arxiv.org/abs/2503.13175v1)|null|
+|**2025-03-17**|**HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning**|Wensheng Wang et.al.|[2503.13171v1](http://arxiv.org/abs/2503.13171v1)|null|
+|**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169v1](http://arxiv.org/abs/2503.13169v1)|null|
+|**2025-03-17**|**Actively learning equilibria in Nash games with misleading information**|Barbara Franci et.al.|[2503.13167v1](http://arxiv.org/abs/2503.13167v1)|null|
+|**2025-03-17**|**Impact of Knowledge on the Cost of Treasure Hunt in Trees**|Sébastien Bouchard et.al.|[2503.13100v1](http://arxiv.org/abs/2503.13100v1)|null|
+|**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098v1](http://arxiv.org/abs/2503.13098v1)|null|
+|**2025-03-17**|**Towards Better Sample Efficiency in Multi-Agent Reinforcement Learning via Exploration**|Amir Baghi et.al.|[2503.13077v1](http://arxiv.org/abs/2503.13077v1)|null|
+|**2025-03-17**|**Deep Hedging of Green PPAs in Electricity Markets**|Richard Biegler-König et.al.|[2503.13056v1](http://arxiv.org/abs/2503.13056v1)|null|
+|**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[2503.13047v1](http://arxiv.org/abs/2503.13047v1)|null|
+|**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993v1](http://arxiv.org/abs/2503.12993v1)|null|
+|**2025-03-17**|**Practical Abstractions for Model Checking Continuous-Time Multi-Agent Systems**|Yan Kim et.al.|[2503.12976v1](http://arxiv.org/abs/2503.12976v1)|null|
+|**2025-03-17**|**Exploring 3D Activity Reasoning and Planning: From Implicit Human Intentions to Route-Aware Planning**|Xueying Jiang et.al.|[2503.12974v1](http://arxiv.org/abs/2503.12974v1)|null|
+
+### Autonomous Driving
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430v1](http://arxiv.org/abs/2503.13430v1)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|null|
+|**2025-03-17**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364v1](http://arxiv.org/abs/2503.13364v1)|null|
+|**2025-03-17**|**The Impact of Stellar Flares on the Atmospheric Escape of Exoplanets orbiting M stars I: Insights from the AU Mic System**|Laura N. R. do Amaral et.al.|[2503.13353v1](http://arxiv.org/abs/2503.13353v1)|null|
+|**2025-03-17**|**RainScaleGAN: a Conditional Generative Adversarial Network for Rainfall Downscaling**|Marcello Iotti et.al.|[2503.13316v1](http://arxiv.org/abs/2503.13316v1)|null|
+|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275v1](http://arxiv.org/abs/2503.13275v1)|null|
+|**2025-03-17**|**TablePilot; Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262v1](http://arxiv.org/abs/2503.13262v1)|null|
+|**2025-03-17**|**Starburst-Driven Galactic Outflows -- Unveiling the Suppressive Role of Cosmic Ray Halos**|Leonard E. C. Romano et.al.|[2503.13261v1](http://arxiv.org/abs/2503.13261v1)|null|
+|**2025-03-17**|**Coherent microwave comb generation via the Josephson effect**|Angelo Greco et.al.|[2503.13259v1](http://arxiv.org/abs/2503.13259v1)|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
+|**2025-03-17**|**Robust Decision-Making Via Free Energy Minimization**|Allahkaram Shafiei et.al.|[2503.13223v1](http://arxiv.org/abs/2503.13223v1)|null|
+|**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203v1](http://arxiv.org/abs/2503.13203v1)|null|
+|**2025-03-17**|**Causes of evolutionary divergence in prostate cancer**|Emre Esenturk et.al.|[2503.13189v1](http://arxiv.org/abs/2503.13189v1)|null|
+|**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169v1](http://arxiv.org/abs/2503.13169v1)|null|
+|**2025-03-17**|**Laplace-Net: Learning Dynamical Systems with External Forcing**|Bernd Zimmering et.al.|[2503.13158v1](http://arxiv.org/abs/2503.13158v1)|null|
+|**2025-03-17**|**Crisis in time-dependent dynamical systems**|Simona Olmi et.al.|[2503.13152v1](http://arxiv.org/abs/2503.13152v1)|null|
+|**2025-03-17**|**OSLO-IC: On-the-Sphere Learned Omnidirectional Image Compression with Attention Modules and Spatial Context**|Paul Wawerek-López et.al.|[2503.13119v1](http://arxiv.org/abs/2503.13119v1)|null|
+|**2025-03-17**|**Managing Hybrid Solid-State Drives Using Large Language Models**|Qian Wei et.al.|[2503.13105v1](http://arxiv.org/abs/2503.13105v1)|null|
+|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|null|
+|**2025-03-17**|**Engineering tunable fractional Shapiro steps in colloidal transport**|Andris P. Stikuts et.al.|[2503.13049v1](http://arxiv.org/abs/2503.13049v1)|null|
+|**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[2503.13047v1](http://arxiv.org/abs/2503.13047v1)|null|
+|**2025-03-17**|**From time crystals to time quasicrystals: Exploring novel phases in transverse field Ising chains**|Davood Marripour et.al.|[2503.13033v1](http://arxiv.org/abs/2503.13033v1)|null|
+|**2025-03-17**|**Real-Time Multi-Object Tracking using YOLOv8 and SORT on a SoC FPGA**|Michal Danilowicz et.al.|[2503.13023v1](http://arxiv.org/abs/2503.13023v1)|null|
+|**2025-03-17**|**Dynamic Relation Inference via Verb Embeddings**|Omri Suissa et.al.|[2503.13021v1](http://arxiv.org/abs/2503.13021v1)|null|
+|**2025-03-17**|**Tuning the CMS Coffea-casa facility for 200 Gbps Challenge**|Sam Albin et.al.|[2503.12991v1](http://arxiv.org/abs/2503.12991v1)|null|
+|**2025-03-17**|**Microscopic mechanisms of flexoelectricity in oxide membranes**|Harikrishnan KP et.al.|[2503.12984v1](http://arxiv.org/abs/2503.12984v1)|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982v1](http://arxiv.org/abs/2503.12982v1)|null|
+|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968v1](http://arxiv.org/abs/2503.12968v1)|null|
+|**2025-03-17**|**Unified mechanism of charge-density-wave and high-$T_c$ superconductivity protected from oxygen vacancies in bilayer nickelates**|Daisuke Inoue et.al.|[2503.12925v1](http://arxiv.org/abs/2503.12925v1)|null|
+|**2025-03-17**|**A Hierarchical Region-Based Approach for Efficient Multi-Robot Exploration**|Di Meng et.al.|[2503.12876v1](http://arxiv.org/abs/2503.12876v1)|null|
 
 ### Large Language Model
 |Publish Date|Title|Authors|PDF|Code|
